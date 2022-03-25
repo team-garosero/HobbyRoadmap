@@ -9,7 +9,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.models.CategoryItem
 
-class CategoryAdapter(private val context: Context) : RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {
+class CategoryAdapter(private val context: Context)
+    : RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {
     var dataset = mutableListOf<CategoryItem>()
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CategoryAdapter.ViewHolder {
         val view = LayoutInflater.from(context)
@@ -24,9 +25,20 @@ class CategoryAdapter(private val context: Context) : RecyclerView.Adapter<Categ
 
     inner class ViewHolder(view: View) : RecyclerView.ViewHolder(view){
         private val tv_title:TextView = view.findViewById(R.id.tv_title)
+        private val recycler:RecyclerView = view.findViewById(R.id.recycler)
+        private var myRoadmapAdapter:MyRoadmapAdapter = MyRoadmapAdapter(view.context)
 
         fun bind(item: CategoryItem){
             tv_title.text = item.title
+            initRecycler(item)
+        }
+
+        private fun initRecycler(item: CategoryItem){
+            recycler.adapter = myRoadmapAdapter
+            item.roadmap.apply {
+                myRoadmapAdapter.dataset = item.roadmap
+                myRoadmapAdapter.notifyDataSetChanged()
+            }
         }
     }
 }
