@@ -7,7 +7,7 @@
     <item
         android:id="@+id/item_adventure"
         android:title="adventure"
-        />
+        android:icon="@drawable/ic_baseline_navigation_24"/>
     <item
         android:id="@+id/item_mylist"
         android:title="myList"
