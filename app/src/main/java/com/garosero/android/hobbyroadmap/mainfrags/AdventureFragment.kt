@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.databinding.FragmentAdventureBinding
 
 class AdventureFragment : Fragment() {
 
@@ -13,7 +14,7 @@ class AdventureFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_adventure, container, false)
+        val binding = FragmentAdventureBinding.inflate(inflater, container, false)
+        return binding.root
     }
 }

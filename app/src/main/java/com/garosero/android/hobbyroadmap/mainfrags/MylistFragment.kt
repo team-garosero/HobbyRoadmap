@@ -18,7 +18,6 @@ class MylistFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         val binding = FragmentMylistBinding.inflate(inflater, container, false)
-        context ?: return binding.root
 
         // todo : input data
         var items1 = mutableListOf<RoadmapItem>()
