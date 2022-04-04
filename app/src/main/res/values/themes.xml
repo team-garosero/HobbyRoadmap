@@ -14,5 +14,7 @@
         <!-- no action bar -->
         <item name = "windowActionBar">false</item>
         <item name = "windowNoTitle">true</item>
+        <!-- other style -->
+        <item name="android:overScrollMode">never</item>
     </style>
 </resources>
