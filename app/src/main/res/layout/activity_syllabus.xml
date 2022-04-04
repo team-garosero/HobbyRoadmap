@@ -58,11 +58,18 @@
         </LinearLayout>
     </LinearLayout>
 
-    <!-- syllabus parent -->
-    <androidx.recyclerview.widget.RecyclerView
+    <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/rv_syllabus"
-        app:layout_constraintTop_toBottomOf="@id/ll_roadmap_desc"/>
+        android:layout_height="1dp"
+        android:id="@+id/iv_line"
+        app:layout_constraintTop_toBottomOf="@id/ll_roadmap_desc"
+        android:background="@color/black" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/frameLayout"
+        app:layout_constraintTop_toBottomOf="@id/iv_line"
+        app:layout_constraintBottom_toBottomOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -13,7 +13,10 @@
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/activity_syllabus.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_adventure.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/fragment_community.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/fragment_roadmap.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_syllabus.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/recyclerview_cardview_commutity.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recyclerview_syllabus_parent.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recylerview_course_child.xml" value="0.23052536231884058" />
       </map>
