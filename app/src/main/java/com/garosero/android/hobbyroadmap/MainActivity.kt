@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import com.garosero.android.hobbyroadmap.mainfrags.AdventureFragment
 import com.garosero.android.hobbyroadmap.mainfrags.HomeFragment
 import com.garosero.android.hobbyroadmap.mainfrags.MylistFragment
+import com.garosero.android.hobbyroadmap.mainfrags.TilFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
@@ -24,6 +25,7 @@ class MainActivity : AppCompatActivity() {
                 when (it.itemId){
                     R.id.item_home -> HomeFragment()
                     R.id.item_adventure -> AdventureFragment()
+                    R.id.item_til -> TilFragment()
                     else -> MylistFragment()
                 }
             )

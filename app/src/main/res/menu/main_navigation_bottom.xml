@@ -12,4 +12,8 @@
         android:id="@+id/item_mylist"
         android:title="myList"
         android:icon="@drawable/ic_baseline_list_24"/>
+    <item
+        android:id="@+id/item_til"
+        android:title="TIL"
+        android:icon="@drawable/ic_baseline_edit_24"/>
 </menu>
