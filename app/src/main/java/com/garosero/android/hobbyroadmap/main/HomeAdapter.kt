@@ -3,6 +3,7 @@ package com.garosero.android.hobbyroadmap.main
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.garosero.android.hobbyroadmap.MainActivity
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerHomeBinding
 
@@ -34,6 +35,7 @@ class HomeAdapter(
             binding.apply {
                 tvTitle.text = item.title
                 tvDesc.text = item.desc
+                cardview.setOnClickListener { MainActivity.gotoSyllabusActivity() }
             }
         }
     }
