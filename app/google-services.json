@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384536585917",
+    "project_id": "hobbyroadmap",
+    "storage_bucket": "hobbyroadmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384536585917:android:8d47bb4d7db63b87d439d4",
+        "android_client_info": {
+          "package_name": "com.garosero.android.hobbyroadmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384536585917-bnaf5kql3luauk2ifcp38s214da8u87p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garosero.android.hobbyroadmap",
+            "certificate_hash": "e46296c7caddf0f6e1859d68956ad3dd9a098cf4"
+          }
+        },
+        {
+          "client_id": "384536585917-u0i5k9j9hafip4k0rpbnc1sf6tpi43k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6RGVz1LZi6sseNRRo-S5zH_KlurF8chM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384536585917-u0i5k9j9hafip4k0rpbnc1sf6tpi43k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
