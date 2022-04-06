@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.adapters
+package com.garosero.android.hobbyroadmap.main
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -7,11 +7,11 @@ import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerMyroadmapBinding
 
 /**
- * Adapter for the [RecyclerView] in [CategoryAdapter].
+ * Adapter for the [RecyclerView] in [MylistParentAdapter].
  */
 
-class MyRoadmapAdapter(var dataset : MutableList<RoadmapItem>)
-    : RecyclerView.Adapter<MyRoadmapAdapter.ViewHolder>() {
+class MylistChildpAdapter(var dataset : MutableList<RoadmapItem>)
+    : RecyclerView.Adapter<MylistChildpAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = RecyclerMyroadmapBinding.inflate(
             LayoutInflater.from(parent.context),
@@ -31,7 +31,7 @@ class MyRoadmapAdapter(var dataset : MutableList<RoadmapItem>)
         fun bind(item : RoadmapItem){
             binding.apply {
                 tvTitle.text = item.title
-                tvDate.text = item.date
+                tvDate.text = item.timelimit
                 tvPercentage.text = "${item.percentage}%"
             }
         }

@@ -3,10 +3,10 @@ package com.garosero.android.hobbyroadmap
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.garosero.android.hobbyroadmap.mainfrags.AdventureFragment
-import com.garosero.android.hobbyroadmap.mainfrags.HomeFragment
-import com.garosero.android.hobbyroadmap.mainfrags.MylistFragment
-import com.garosero.android.hobbyroadmap.mainfrags.TilFragment
+import com.garosero.android.hobbyroadmap.main.AdventureFragment
+import com.garosero.android.hobbyroadmap.main.HomeFragment
+import com.garosero.android.hobbyroadmap.main.MylistFragment
+import com.garosero.android.hobbyroadmap.main.TilFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.mainfrags;
+package com.garosero.android.hobbyroadmap.main;
 
 import android.os.Bundle;
 

@@ -1,13 +1,10 @@
-package com.garosero.android.hobbyroadmap.mainfrags
+package com.garosero.android.hobbyroadmap.main
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.garosero.android.hobbyroadmap.R
-import com.garosero.android.hobbyroadmap.adapters.PreviewAdapter
-import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentHomeBinding
 import com.google.android.material.tabs.TabLayout
 

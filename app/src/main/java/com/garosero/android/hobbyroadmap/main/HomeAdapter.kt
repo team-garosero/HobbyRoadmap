@@ -1,20 +1,20 @@
-package com.garosero.android.hobbyroadmap.adapters
+package com.garosero.android.hobbyroadmap.main
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.CategoryItem
-import com.garosero.android.hobbyroadmap.databinding.RecyclerCategoryBinding
+import com.garosero.android.hobbyroadmap.databinding.RecyclerPreviewBinding
 
 /**
- * Adapter for the [RecyclerView] in [MylistFragment].
+ * Adapter for the [RecyclerView] in [HomeFragment].
  */
 
-class CategoryAdapter(var dataset : MutableList<CategoryItem>)
-    : RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {
+class homeAdapter(var dataset : MutableList<CategoryItem>) :
+    RecyclerView.Adapter<homeAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = RecyclerCategoryBinding.inflate(
+        val view = RecyclerPreviewBinding.inflate(
             LayoutInflater.from(parent.context),
             parent,
             false)
@@ -26,13 +26,12 @@ class CategoryAdapter(var dataset : MutableList<CategoryItem>)
         holder.bind(dataset[position])
     }
 
-    class ViewHolder(private val binding : RecyclerCategoryBinding)
+    class ViewHolder(private val binding : RecyclerPreviewBinding)
         : RecyclerView.ViewHolder(binding.root){
 
         fun bind(item: CategoryItem){
             binding.apply {
-                tvTitle.text = item.title
-                recycler.adapter = MyRoadmapAdapter(item.roadmapList)
+                // todo : add image
             }
         }
     }
