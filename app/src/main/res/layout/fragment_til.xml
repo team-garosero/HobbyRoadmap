@@ -1,13 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".mainfrags.TilFragment">
 
-    <TextView
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="TIL_fragment" />
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ll_title"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_til_label"
+                android:text="Today I Learn"
+                android:textSize="30sp"/>
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:spinnerMode="dropdown"/>
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rv_date"
+            app:layout_constraintTop_toBottomOf="@id/ll_title"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_roadmap_title"
+            android:text="로드맵1"
+            app:layout_constraintTop_toBottomOf="@id/rv_date"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_date"
+            android:text="3/18"
+            app:layout_constraintTop_toBottomOf="@id/rv_date"
+            app:layout_constraintStart_toEndOf="@id/tv_roadmap_title" />
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/et_content"
+            android:text="dsfvdfvxdbfbd"
+            app:layout_constraintTop_toBottomOf="@id/tv_roadmap_title"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_cancel"
+            android:text="취소"
+            app:layout_constraintEnd_toStartOf="@id/btn_submit"
+            app:layout_constraintTop_toBottomOf="@id/et_content"/>
+
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_submit"
+        android:text="등록"
+        app:layout_constraintEnd_toEndOf="@id/et_content"
+        app:layout_constraintTop_toBottomOf="@id/et_content"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
 
 </FrameLayout>
