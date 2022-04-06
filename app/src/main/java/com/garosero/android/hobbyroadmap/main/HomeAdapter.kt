@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.adapters
+package com.garosero.android.hobbyroadmap.main
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -10,8 +10,8 @@ import com.garosero.android.hobbyroadmap.databinding.RecyclerPreviewBinding
  * Adapter for the [RecyclerView] in [HomeFragment].
  */
 
-class PreviewAdapter(var dataset : MutableList<CategoryItem>) :
-    RecyclerView.Adapter<PreviewAdapter.ViewHolder>() {
+class HomeAdapter(var dataset : MutableList<CategoryItem>) :
+    RecyclerView.Adapter<HomeAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = RecyclerPreviewBinding.inflate(

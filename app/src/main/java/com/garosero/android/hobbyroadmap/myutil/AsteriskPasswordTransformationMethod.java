@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.data;
+package com.garosero.android.hobbyroadmap.myutil;
 
 import android.text.method.PasswordTransformationMethod;
 import android.view.View;

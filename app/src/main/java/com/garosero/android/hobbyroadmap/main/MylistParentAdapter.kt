@@ -1,19 +1,20 @@
-package com.garosero.android.hobbyroadmap.adapters
+package com.garosero.android.hobbyroadmap.main
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.data.RoadmapItem
-import com.garosero.android.hobbyroadmap.databinding.RecyclerMyroadmapBinding
+import com.garosero.android.hobbyroadmap.data.CategoryItem
+import com.garosero.android.hobbyroadmap.databinding.RecyclerCategoryBinding
 
 /**
- * Adapter for the [RecyclerView] in [CategoryAdapter].
+ * Adapter for the [RecyclerView] in [MylistFragment].
  */
 
-class MyRoadmapAdapter(var dataset : MutableList<RoadmapItem>)
-    : RecyclerView.Adapter<MyRoadmapAdapter.ViewHolder>() {
+class MylistParentAdapter(var dataset : MutableList<CategoryItem>)
+    : RecyclerView.Adapter<MylistParentAdapter.ViewHolder>() {
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = RecyclerMyroadmapBinding.inflate(
+        val view = RecyclerCategoryBinding.inflate(
             LayoutInflater.from(parent.context),
             parent,
             false)
@@ -25,14 +26,13 @@ class MyRoadmapAdapter(var dataset : MutableList<RoadmapItem>)
         holder.bind(dataset[position])
     }
 
-    inner class ViewHolder(private val binding : RecyclerMyroadmapBinding)
+    class ViewHolder(private val binding : RecyclerCategoryBinding)
         : RecyclerView.ViewHolder(binding.root){
 
-        fun bind(item : RoadmapItem){
+        fun bind(item: CategoryItem){
             binding.apply {
                 tvTitle.text = item.title
-                tvDate.text = item.date
-                tvPercentage.text = "${item.percentage}%"
+                recycler.adapter = MylistChildpAdapter(item.roadmapList)
             }
         }
     }
