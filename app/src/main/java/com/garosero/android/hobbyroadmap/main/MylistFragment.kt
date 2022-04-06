@@ -1,6 +1,8 @@
 package com.garosero.android.hobbyroadmap.main
 
+import android.content.Context
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -21,18 +23,22 @@ class MylistFragment : Fragment() {
         // todo : input data
         var items1 = mutableListOf<RoadmapItem>()
         items1.apply {
-            add(RoadmapItem(title = "roadmapTitle1", timelimit="time limit1"))
-            add(RoadmapItem(title = "roadmapTitle1", timelimit="time limit1"))
+            if (dataset.size == 0) {
+                add(RoadmapItem(title = "roadmapTitle1", timelimit = "time limit1"))
+                add(RoadmapItem(title = "roadmapTitle1", timelimit = "time limit1"))
+                dataset.add(CategoryItem("title1", items1))
+            }
         }
-        dataset.add(CategoryItem("title1", items1))
 
         var items2 = mutableListOf<RoadmapItem>()
         items2.apply {
-            add(RoadmapItem(title = "roadmapTitle2", timelimit="time limit2"))
-            add(RoadmapItem(title = "roadmapTitle2", timelimit="time limit2"))
-            add(RoadmapItem(title = "roadmapTitle2", timelimit="time limit2"))
+            if (dataset.size == 1) {
+                add(RoadmapItem(title = "roadmapTitle2", timelimit = "time limit2"))
+                add(RoadmapItem(title = "roadmapTitle2", timelimit = "time limit2"))
+                add(RoadmapItem(title = "roadmapTitle2", timelimit = "time limit2"))
+                dataset.add(CategoryItem("title2", items2))
+            }
         }
-        dataset.add(CategoryItem("title2", items2))
 
         binding.recycler.adapter = MylistParentAdapter(dataset)
         return binding.root

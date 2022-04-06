@@ -3,18 +3,19 @@ package com.garosero.android.hobbyroadmap.main
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.data.CategoryItem
-import com.garosero.android.hobbyroadmap.databinding.RecyclerPreviewBinding
+import com.garosero.android.hobbyroadmap.data.RoadmapItem
+import com.garosero.android.hobbyroadmap.databinding.RecyclerHomeBinding
 
 /**
  * Adapter for the [RecyclerView] in [HomeFragment].
  */
 
-class HomeAdapter(var dataset : MutableList<CategoryItem>) :
+class HomeAdapter(
+    var dataset : MutableList<RoadmapItem> = mutableListOf()) :
     RecyclerView.Adapter<HomeAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = RecyclerPreviewBinding.inflate(
+        val view = RecyclerHomeBinding.inflate(
             LayoutInflater.from(parent.context),
             parent,
             false)
@@ -26,12 +27,13 @@ class HomeAdapter(var dataset : MutableList<CategoryItem>) :
         holder.bind(dataset[position])
     }
 
-    class ViewHolder(private val binding : RecyclerPreviewBinding)
+    class ViewHolder(private val binding : RecyclerHomeBinding)
         : RecyclerView.ViewHolder(binding.root){
 
-        fun bind(item: CategoryItem){
+        fun bind(item: RoadmapItem){
             binding.apply {
-                // todo : add image
+                tvTitle.text = item.title
+                tvDesc.text = item.desc
             }
         }
     }

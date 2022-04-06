@@ -4,16 +4,16 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
-import com.garosero.android.hobbyroadmap.databinding.RecyclerMyroadmapBinding
+import com.garosero.android.hobbyroadmap.databinding.RecyclerMylistChildBinding
 
 /**
  * Adapter for the [RecyclerView] in [MylistParentAdapter].
  */
 
-class MylistChildpAdapter(var dataset : MutableList<RoadmapItem>)
-    : RecyclerView.Adapter<MylistChildpAdapter.ViewHolder>() {
+class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
+    : RecyclerView.Adapter<MylistChildAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = RecyclerMyroadmapBinding.inflate(
+        val view = RecyclerMylistChildBinding.inflate(
             LayoutInflater.from(parent.context),
             parent,
             false)
@@ -25,7 +25,7 @@ class MylistChildpAdapter(var dataset : MutableList<RoadmapItem>)
         holder.bind(dataset[position])
     }
 
-    inner class ViewHolder(private val binding : RecyclerMyroadmapBinding)
+    inner class ViewHolder(private val binding : RecyclerMylistChildBinding)
         : RecyclerView.ViewHolder(binding.root){
 
         fun bind(item : RoadmapItem){

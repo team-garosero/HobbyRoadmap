@@ -5,4 +5,5 @@ data class RoadmapItem(
     val desc : String="", // 로드맵 전체 설명
     var timelimit : String,
     var percentage : Int = 0 // 0~100
+    // todo : add contentList
 )
