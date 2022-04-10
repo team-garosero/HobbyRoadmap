@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.GridLayoutManager
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentHomeBinding
-import com.google.android.material.tabs.TabLayout
 
 class HomeFragment : Fragment() {
     val dataset = mutableListOf<RoadmapItem>()

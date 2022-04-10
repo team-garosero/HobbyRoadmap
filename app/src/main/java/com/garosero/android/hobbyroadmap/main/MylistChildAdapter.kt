@@ -1,11 +1,12 @@
 package com.garosero.android.hobbyroadmap.main
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.MainActivity
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerMylistChildBinding
+import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity
 
 /**
  * Adapter for the [RecyclerView] in [MylistParentAdapter].
@@ -34,7 +35,11 @@ class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
                 tvTitle.text = item.title
                 tvDate.text = item.timelimit
                 tvPercentage.text = "${item.percentage}%"
-                layout.setOnClickListener { MainActivity.gotoSyllabusActivity() }
+                layout.setOnClickListener {
+                    // goto SyllabusActivity
+                    val intent = Intent(itemView.context, SyllabusActivity::class.java)
+                    itemView.context.startActivity(intent)
+                }
             }
         }
     }

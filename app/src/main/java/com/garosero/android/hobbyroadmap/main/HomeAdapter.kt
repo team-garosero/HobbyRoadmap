@@ -1,11 +1,12 @@
 package com.garosero.android.hobbyroadmap.main
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.MainActivity
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerHomeBinding
+import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity
 
 /**
  * Adapter for the [RecyclerView] in [HomeFragment].
@@ -35,7 +36,11 @@ class HomeAdapter(
             binding.apply {
                 tvTitle.text = item.title
                 tvDesc.text = item.desc
-                cardview.setOnClickListener { MainActivity.gotoSyllabusActivity() }
+                cardview.setOnClickListener {
+                    // goto SyllabusActivity
+                    val intent = Intent(itemView.context, SyllabusActivity::class.java)
+                    itemView.context.startActivity(intent)
+                }
             }
         }
     }
