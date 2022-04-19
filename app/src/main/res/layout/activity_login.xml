@@ -7,32 +7,41 @@
     android:layout_height="match_parent"
     tools:context=".LoginActivity">
 
-    <TextView
-        android:id="@+id/tv_desc"
+    <ImageView
+        android:id="@+id/iv_logo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:textAlignment="center"
-        android:textSize="20dp"
-        android:text="가로수정보\n이제 간편하게 한 곳에서\n확인해보세요" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:id="@+id/tv_title"
         android:layout_marginTop="20dp"
-        android:text="SEOUL GAROSU"
+        android:text="DRAW SQUARE"
         android:textAlignment="center"
         android:textSize="25dp"
         android:textColor="#55C595"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/iv_logo"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@id/tv_desc"
-        app:layout_constraintVertical_bias="0.186" />
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.gms.common.SignInButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_login_google"
+        app:layout_constraintTop_toBottomOf="@id/tv_title"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_login_email_desc"
+        android:text="이메일로 로그인하기"
+        app:layout_constraintTop_toBottomOf="@id/btn_login_google" />
 
     <EditText
         android:id="@+id/et_email"
@@ -47,7 +56,6 @@
         android:inputType="textEmailAddress"
         android:selectAllOnFocus="true"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -111,14 +119,7 @@
         android:layout_marginBottom="64dp"
         android:text="ㅊㅇㅋㄴㅍ"
         tools:ignore="ButtonStyle"
-        android:background="#00ffffff"
         style="?android:borderlessButtonStyle"/>
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
