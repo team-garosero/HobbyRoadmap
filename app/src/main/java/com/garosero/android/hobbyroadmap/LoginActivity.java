@@ -47,9 +47,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private FirebaseAuth firebaseAuth;
     private DatabaseReference ref;
 
+    // google login
     private SignInButton signInButton; // google login button
-    private BeginSignInRequest signInRequest;
-    private SignInClient oneTabClient;
     private GoogleSignInClient googleSignInClient;
 
     private long lastTimeBackPressed; //뒤로가기 버튼이 클릭된 시간
