@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap
+package com.garosero.android.hobbyroadmap.main
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
+import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.ActivityMainBinding
 import com.garosero.android.hobbyroadmap.settings.SettingsActivity
 
