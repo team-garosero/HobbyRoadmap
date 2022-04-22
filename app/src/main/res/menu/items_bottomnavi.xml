@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/item_mylist"
-        android:enabled="true"
         android:title="내 로드맵"
-        android:icon="@drawable/ic_baseline_list_24"/>
+        android:icon="@drawable/icon_home"
+        android:enabled="true" />
     <item
         android:id="@+id/item_home"
         android:title="탐색"
-        android:enabled="true"
-        android:icon="@drawable/ic_baseline_home_24"/>
+        android:icon="@drawable/icon_explore"
+        android:enabled="true" />
     <item
         android:id="@+id/item_til"
         android:title="기록"
-        android:enabled="true"
-        android:icon="@drawable/ic_baseline_edit_24"/>
+        android:icon="@drawable/icon_record"
+        android:enabled="true" />
     <item
         android:id="@+id/item_adventure"
         android:title="게임"
-        android:enabled="true"
-        android:icon="@drawable/ic_baseline_navigation_24"/>
+        android:icon="@drawable/icon_game"
+        android:enabled="true" />
 </menu>
