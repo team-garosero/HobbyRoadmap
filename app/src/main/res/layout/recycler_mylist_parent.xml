@@ -10,7 +10,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Category_title"
-        android:layout_marginBottom="8dp"/>
+        android:layout_marginBottom="@dimen/margin_16"
+        android:textStyle="bold"
+        android:textSize="@dimen/textSize_16"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler"
@@ -18,6 +20,5 @@
         android:layout_height="wrap_content"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         android:orientation="vertical"
-        tools:listitem="@layout/recycler_mylist_child"
-        android:layout_marginBottom="32dp"/>
+        tools:listitem="@layout/recycler_mylist_child" />
 </LinearLayout>

@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">HobbyRoadmap</string>
-    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- page title -->
+    <string name="title_activity_settings">환경설정</string>
+    <string name="title_fragment_adventure">로드맵 어드벤처</string>
+    <string name="title_fragment_home">로드맵 검색하기</string>
+    <string name="title_fragment_myList">나의 로드맵</string>
 
     <!--toolbar-->
     <string name="menuItem_toolbar">menuItem</string>

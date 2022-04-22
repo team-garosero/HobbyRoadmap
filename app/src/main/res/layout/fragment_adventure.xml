@@ -12,81 +12,99 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="adventureFragmentTitle"
-            android:layout_marginLeft="16dp"
-            android:layout_marginTop="16dp"/>
+            android:text="@string/title_fragment_adventure"
+            android:layout_marginLeft="@dimen/margin_32"
+            android:layout_marginTop="@dimen/margin_32"
+            android:layout_marginBottom="@dimen/margin_32"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSize_28"/>
 
-        <LinearLayout
+        <com.google.android.material.divider.MaterialDivider
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:weightSum="15"
-            android:layout_margin="16dp">
+            android:layout_margin="@dimen/margin_32">
 
             <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="12"
-                android:layout_gravity="center_vertical"
-                android:text="characterName(LEVEL)" />
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="characterName"
+                android:textSize="@dimen/textSize_20"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
 
             <ImageView
                 android:id="@+id/iv_life1"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:adjustViewBounds="false"
-                android:background="@drawable/ic_baseline_favorite_border_24" />
+                android:layout_marginEnd="@dimen/margin_16"
+                android:background="@drawable/ic_baseline_favorite_border_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/iv_life2"
+                app:layout_constraintTop_toTopOf="parent" />
 
             <ImageView
                 android:id="@+id/iv_life2"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:adjustViewBounds="false"
-                android:background="@drawable/ic_baseline_favorite_border_24" />
+                android:background="@drawable/ic_baseline_favorite_border_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/iv_life3"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginEnd="@dimen/margin_16"/>
 
             <ImageView
                 android:id="@+id/iv_life3"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:adjustViewBounds="false"
-                android:background="@drawable/ic_baseline_favorite_border_24" />
-        </LinearLayout>
+                android:background="@drawable/ic_baseline_favorite_border_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
         
         <androidx.cardview.widget.CardView
+            android:layout_marginTop="@dimen/margin_32"
             android:layout_width="match_parent"
-            android:layout_height="300dp">
+            android:layout_height="320dp">
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"/>
+                android:layout_height="match_parent"
+                android:background="@color/browser_actions_bg_grey"/>
         </androidx.cardview.widget.CardView>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="XP"
-            android:layout_marginLeft="16dp"
-            android:layout_marginTop="16dp"/>
+            android:text="Lv. N"
+            android:layout_marginTop="@dimen/margin_32"
+            android:layout_marginLeft="@dimen/margin_32"
+            android:layout_marginBottom="@dimen/margin_16"
+            android:textSize="@dimen/textSize_20"
+            android:textStyle="bold"/>
         <ProgressBar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@android:style/Widget.ProgressBar.Horizontal"
-            android:layout_marginLeft="16dp"
-            android:layout_marginTop="16dp"
-            android:layout_marginRight="16dp"/>
+            android:layout_marginLeft="@dimen/margin_32"
+            android:layout_marginRight="@dimen/margin_32"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="다음레벨까지 NXP"
+            android:textSize="@dimen/textSize_16"
             android:layout_gravity="right"
-            android:layout_marginRight="16dp"
-            android:layout_marginTop="16dp"
-            android:layout_marginBottom="16dp"/>
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/margin_16"
+            android:layout_marginRight="@dimen/margin_32"
+            android:layout_marginBottom="@dimen/margin_32"/>
 
     </LinearLayout>
 </FrameLayout>
