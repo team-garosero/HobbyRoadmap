@@ -1,0 +1,32 @@
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        app:key="@string/userEmail_preferenceKey"
+        app:title="이메일"
+        app:useSimpleSummaryProvider="true"
+        app:iconSpaceReserved="false" />
+
+    <Preference
+        app:summary="Report technical issues or suggest new features"
+        app:title="개발자 문의사항"
+        app:iconSpaceReserved="false"/>
+
+    <SwitchPreferenceCompat
+        app:key="@string/notifications_preferenceKey"
+        app:title="푸시 알림 설정"
+        app:summaryOff="Disable message notifications"
+        app:summaryOn="Enable message notifications"
+        app:iconSpaceReserved="false"/>
+
+    <Preference
+        app:key="@string/version_preferenceKey"
+        app:title="버전"
+        app:summary="1.0.0"
+        app:iconSpaceReserved="false"/>
+
+    <Preference
+        app:title="로그아웃"
+        app:iconSpaceReserved="false" />
+</PreferenceScreen>

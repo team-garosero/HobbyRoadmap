@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
     // toolbar click event
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         val intent = Intent(this, SettingsActivity::class.java)
-        intent.putExtra("menuItem", item.itemId)
+        intent.putExtra(getString(R.string.menuItem_toolbar), item.itemId)
         startActivity(intent)
         return true
     }

@@ -5,12 +5,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.garosero.android.hobbyroadmap.databinding.FragmentNotificationsBinding
+import com.garosero.android.hobbyroadmap.databinding.FragmentNoticeBinding
 
-class NotificationsFragment : Fragment() {
+class NoticeFragment : Fragment() {
+
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
-        val binding = FragmentNotificationsBinding.inflate(layoutInflater)
+        val binding = FragmentNoticeBinding.inflate(layoutInflater)
         return binding.root
     }
 }

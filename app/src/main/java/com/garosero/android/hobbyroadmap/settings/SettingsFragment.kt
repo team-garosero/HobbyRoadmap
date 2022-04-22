@@ -1,16 +1,11 @@
 package com.garosero.android.hobbyroadmap.settings
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import com.garosero.android.hobbyroadmap.databinding.FragmentSettingsBinding
+import androidx.preference.PreferenceFragmentCompat
+import com.garosero.android.hobbyroadmap.R
 
-class SettingsFragment : Fragment() {
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
-                              savedInstanceState: Bundle?): View? {
-        val binding = FragmentSettingsBinding.inflate(layoutInflater)
-        return binding.root
+class SettingsFragment : PreferenceFragmentCompat() {
+    override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
+        setPreferencesFromResource(R.xml.root_preferences, rootKey)
     }
 }

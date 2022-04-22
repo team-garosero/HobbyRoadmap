@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HobbyRoadmap</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!--toolbar-->
+    <string name="menuItem_toolbar">menuItem</string>
+
+    <!-- preference key -->
+    <string name="userEmail_preferenceKey">user_email</string>
+    <string name="notifications_preferenceKey">notifications</string>
+    <string name="version_preferenceKey">version</string>
 </resources>

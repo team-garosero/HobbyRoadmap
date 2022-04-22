@@ -13,16 +13,17 @@
         android:theme="@style/Theme.HobbyRoadmap">
         <activity
             android:name=".settings.SettingsActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="@string/title_activity_settings" />
         <activity
             android:name=".syllabus.SyllabusActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".main.MainActivity"
             android:exported="true">

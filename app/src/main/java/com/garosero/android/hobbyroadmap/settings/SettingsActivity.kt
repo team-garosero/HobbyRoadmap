@@ -2,31 +2,35 @@ package com.garosero.android.hobbyroadmap.settings
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.navigation.fragment.findNavController
+import androidx.fragment.app.Fragment
 import com.garosero.android.hobbyroadmap.R
-import com.garosero.android.hobbyroadmap.databinding.ActivitySettingsBinding
 
 class SettingsActivity : AppCompatActivity() {
+    lateinit var toolbar:androidx.appcompat.widget.Toolbar
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val binding = ActivitySettingsBinding.inflate(layoutInflater)
-        setContentView(binding.root)
+        setContentView(R.layout.settings_activity)
 
-        // navigation
-        val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_settings)
-        val navController = navHostFragment!!.findNavController()
+        // tool bar
+        toolbar = findViewById(R.id.toolbar)
+        setSupportActionBar(toolbar)
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
-        // get intent
-        val itemId = intent.getIntExtra("menuItem", 0)
-        if (itemId==R.id.item_notice){
-            navController.popBackStack()
-            navController.navigate(R.id.notificationsFragment)
+        // set fragment
+        if (savedInstanceState == null) {
+            when (intent.getIntExtra(getString(R.string.menuItem_toolbar), 0)){
+                R.id.item_setting -> setFragment("환경설정", SettingsFragment())
+                R.id.item_notice -> setFragment("내 알림", NoticeFragment())
+            }
         }
+    }
 
-        // event
-        binding.ibnBackspace.setOnClickListener{
-            finish()
-        }
+    private fun setFragment(title:String, fragment:Fragment){
+        supportActionBar?.title = title
+        supportFragmentManager
+            .beginTransaction()
+            .replace(R.id.settings, fragment)
+            .commit()
     }
 }
