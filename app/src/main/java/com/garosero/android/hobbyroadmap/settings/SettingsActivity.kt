@@ -5,30 +5,33 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.databinding.ActivitySettingsBinding
 
 class SettingsActivity : AppCompatActivity() {
-    lateinit var toolbar:androidx.appcompat.widget.Toolbar
+    lateinit var binding: ActivitySettingsBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_settings)
+        binding = ActivitySettingsBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
         // tool bar
-        toolbar = findViewById(R.id.toolbar)
+        val toolbar = findViewById<androidx.appcompat.widget.Toolbar>(R.id.toolbar)
         setSupportActionBar(toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        supportActionBar?.title=""
 
         // set fragment
         if (savedInstanceState == null) {
             when (intent.getIntExtra(getString(R.string.menuItem_toolbar), 0)){
-                R.id.item_setting -> setFragment("환경설정", SettingsFragment())
-                R.id.item_notice -> setFragment("내 알림", NoticeFragment())
+                R.id.item_setting -> setFragment(getString(R.string.title_fragment_settings), SettingsFragment())
+                R.id.item_notice -> setFragment(getString(R.string.title_fragment_notice), NoticeFragment())
             }
         }
     }
 
     private fun setFragment(title:String, fragment:Fragment){
-        supportActionBar?.title = title
+        binding.tvPageTitle.text = title
         supportFragmentManager
             .beginTransaction()
             .replace(R.id.settings, fragment)

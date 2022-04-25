@@ -12,4 +12,8 @@
     <dimen name="textSize_18">18sp</dimen>
     <dimen name="textSize_20">20sp</dimen>
     <dimen name="textSize_28">28sp</dimen>
+
+    <!-- toolbar -->
+    <dimen name="toolbar_size">60dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
 </resources>

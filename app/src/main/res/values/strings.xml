@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HobbyRoadmap</string>
+    <string name="app_name">IZEL</string>
 
     <!-- page title -->
     <string name="title_activity_settings">환경설정</string>
@@ -15,4 +15,7 @@
     <string name="notifications_preferenceKey">notifications</string>
     <string name="version_preferenceKey">version</string>
     <string name="name_preferenceKey">user_name</string>
+    <string name="title_fragment_notice">내 알림</string>
+    <string name="title_fragment_settings">환경설정</string>
+    <string name="title_fragment_til">Today I Learn</string>
 </resources>
