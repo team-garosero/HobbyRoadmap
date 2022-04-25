@@ -52,7 +52,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-storage:20.0.1'
 
     // kakao login
-//    implementation "com.kakao.sdk:v2-user:2.9.0"
+    implementation "com.kakao.sdk:v2-user:2.9.0"
     // recyclerview
     implementation "androidx.recyclerview:recyclerview:1.0.0"
 }

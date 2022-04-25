@@ -31,7 +31,20 @@
         <activity
             android:name=".MainActivity"
             android:exported="true" >
+        </activity>
 
+<!--        kakao login-->
+        <activity
+            android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:host="oauth"
+                    android:scheme="kakao8f02641c235286b1946a98f165197271" />
+            </intent-filter>
         </activity>
     </application>
 

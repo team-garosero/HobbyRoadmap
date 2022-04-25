@@ -10,6 +10,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -36,8 +37,10 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.messaging.FirebaseMessaging;
+import com.kakao.sdk.common.KakaoSdk;
 
 import java.util.Objects;
+import com.kakao.sdk.common.util.Utility;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
     private String uid;
@@ -48,12 +51,12 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private DatabaseReference ref;
 
     // google login
-    private SignInButton signInButton; // google login button
+    private ImageButton signInButton; // google login button
     private GoogleSignInClient googleSignInClient;
+    private static final int RC_SIGNIN = 1;
 
     private long lastTimeBackPressed; //뒤로가기 버튼이 클릭된 시간
 
-    private static final int RC_SIGNIN = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -81,6 +84,11 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         googleSignInClient = GoogleSignIn.getClient(this, gso);
         signInButton = findViewById(R.id.btn_login_google);
         signInButton.setOnClickListener(this);
+
+        // Kakao Login
+//        KakaoSdk.init(this, "8f02641c235286b1946a98f165197271");
+//        KakaoLoginHelper.Companion.login(this);
+
         // 로그인 되어 있으면 main Activity로 이동
 //        if (firebaseAuth.getCurrentUser()!=null) {
 //            Toast.makeText(LoginActivity.this, "로그인되었습니다.", Toast.LENGTH_LONG);
