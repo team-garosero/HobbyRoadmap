@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Button xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="60dp"
-    android:layout_height="32dp">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
-</Button>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="60dp"
+        android:layout_height="32dp"
+        android:id="@+id/ib_level"
+        android:layout_margin="16dp"
+        android:background="@drawable/btn_level_fill"
+        android:text="레벨1"
+        android:textColor="@color/white"/>
+
+</LinearLayout>
+
