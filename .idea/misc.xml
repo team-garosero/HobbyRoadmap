@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/drawable/btn_border_top.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/btn_level_fill.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/btn_level_strokes.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/dash_line.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1905" />
@@ -22,6 +23,8 @@
         <entry key="app/src/main/res/drawable/ic_google_signin.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_outline_favorite_24.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/iv_course_color.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/iv_syllabus.xml" value="0.1905" />
         <entry key="app/src/main/res/layout/activity_account.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/activity_challenge.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.37599237789897805" />
@@ -31,17 +34,17 @@
         <entry key="app/src/main/res/layout/fragment_adventure.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_community.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_mylist.xml" value="0.23052536231884058" />
-        <entry key="app/src/main/res/layout/fragment_roadmap.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/fragment_roadmap.xml" value="0.22143707275390628" />
         <entry key="app/src/main/res/layout/fragment_syllabus.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_til.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_category.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_myroadmap.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recyclerview_cardview_commutity.xml" value="0.23052536231884058" />
-        <entry key="app/src/main/res/layout/recyclerview_community.xml" value="0.5113999961079031" />
+        <entry key="app/src/main/res/layout/recyclerview_community.xml" value="0.315582275390625" />
         <entry key="app/src/main/res/layout/recyclerview_level.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/recyclerview_syllabus_parent.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/recyclerview_syllabus_parent.xml" value="0.2526386079334077" />
         <entry key="app/src/main/res/layout/recyler_tildate.xml" value="0.837171052631579" />
-        <entry key="app/src/main/res/layout/recylerview_course_child.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/recylerview_course_child.xml" value="0.4983926745428555" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1905" />
       </map>
     </option>
