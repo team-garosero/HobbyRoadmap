@@ -12,4 +12,7 @@
     <color name="tilBox_default">#E9EDF1</color>
     <color name="tilBox_active">#2BD585</color>
     <color name="tilBox_today">#3249BC</color>
+
+    <!-- adventure bolder color -->
+    <color name="adventure_bolder">#C5C0A2</color>
 </resources>

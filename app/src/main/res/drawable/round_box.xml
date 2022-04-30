@@ -2,12 +2,12 @@
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
-
-    <solid
-        android:color="@color/tilBox_default"
-        />
-
-    <size
-        android:width="120dp"
-        android:height="120dp"/>
+    <corners
+        android:bottomLeftRadius="@dimen/margin_8"
+        android:bottomRightRadius="@dimen/margin_8"
+        android:topLeftRadius="@dimen/margin_8"
+        android:topRightRadius="@dimen/margin_8" />
+    <stroke
+        android:width="@dimen/margin_4"
+        android:color="@color/adventure_bolder"/>
 </shape>

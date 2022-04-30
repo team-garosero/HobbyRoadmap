@@ -9,66 +9,36 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_margin="@dimen/margin_32">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/title_fragment_adventure"
-            android:layout_marginLeft="@dimen/margin_32"
-            android:layout_marginTop="@dimen/margin_32"
             android:layout_marginBottom="@dimen/margin_32"
             android:textStyle="bold"
             android:textSize="@dimen/textSize_28"/>
 
-        <com.google.android.material.divider.MaterialDivider
-            android:layout_width="match_parent"
-            android:layout_height="1dp"/>
-
-        <androidx.constraintlayout.widget.ConstraintLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/margin_32">
+            android:orientation="horizontal"
+            android:weightSum="5">
 
-            <TextView
-                android:layout_width="wrap_content"
+            <include
+                layout="@layout/item_character_name"
+                android:layout_weight="3"
+                android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:gravity="center_vertical"
-                android:text="characterName"
-                android:textSize="@dimen/textSize_20"
-                android:textStyle="bold"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                android:layout_marginRight="@dimen/margin_16"/>
 
-            <ImageView
-                android:id="@+id/iv_life1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="@dimen/margin_16"
-                android:background="@drawable/ic_baseline_favorite_border_24"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/iv_life2"
-                app:layout_constraintTop_toTopOf="parent" />
-
-            <ImageView
-                android:id="@+id/iv_life2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@drawable/ic_baseline_favorite_border_24"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/iv_life3"
-                app:layout_constraintTop_toTopOf="parent"
-                android:layout_marginEnd="@dimen/margin_16"/>
-
-            <ImageView
-                android:id="@+id/iv_life3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@drawable/ic_baseline_favorite_border_24"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
-        </androidx.constraintlayout.widget.ConstraintLayout>
+            <include
+                layout="@layout/item_life_bar"
+                android:layout_weight="2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
         
         <androidx.cardview.widget.CardView
             android:layout_marginTop="@dimen/margin_32"
@@ -77,34 +47,42 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@color/browser_actions_bg_grey"/>
+                android:background="@drawable/round_box"/>
         </androidx.cardview.widget.CardView>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Lv. N"
-            android:layout_marginTop="@dimen/margin_32"
-            android:layout_marginLeft="@dimen/margin_32"
-            android:layout_marginBottom="@dimen/margin_16"
-            android:textSize="@dimen/textSize_20"
-            android:textStyle="bold"/>
         <ProgressBar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@android:style/Widget.ProgressBar.Horizontal"
-            android:layout_marginLeft="@dimen/margin_32"
-            android:layout_marginRight="@dimen/margin_32"/>
-        <TextView
-            android:layout_width="wrap_content"
+            android:layout_marginTop="@dimen/margin_24"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="다음레벨까지 NXP"
-            android:textSize="@dimen/textSize_16"
-            android:layout_gravity="right"
-            android:textStyle="bold"
             android:layout_marginTop="@dimen/margin_16"
-            android:layout_marginRight="@dimen/margin_32"
-            android:layout_marginBottom="@dimen/margin_32"/>
+            android:layout_marginBottom="@dimen/margin_16"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lv. N"
+                android:textSize="@dimen/textSize_20"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="800/1500"
+                android:textSize="@dimen/textSize_16"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
 
     </LinearLayout>
 </FrameLayout>
