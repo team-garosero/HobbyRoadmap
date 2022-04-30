@@ -41,6 +41,7 @@ public class SyllabusParentAdapter extends RecyclerView.Adapter<SyllabusParentAd
 
             syllabusTitle = itemView.findViewById(R.id.tv_syllabus_title);
             recyclerView = itemView.findViewById(R.id.rv_course);
+            // todo 첫 요소일경우 imageview invisioble
         }
     }
 }
