@@ -7,29 +7,26 @@ import android.view.ViewGroup
 import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerTilBinding
+import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
 import java.time.LocalDate
+import kotlin.math.max
 
 /**
  * Adapter for the [RecyclerView] in [TilFragment].
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TilAdapter(
-    var layoutSize: Int = 0,
-    var focusDay: LocalDate = LocalDate.now()
-    ) :
+class TilAdapter(val model:TilViewModel) :
     RecyclerView.Adapter<TilAdapter.ViewHolder>() {
+    var boxSize = 0
 
-    var dataSet:MutableList<TilItem> = mutableListOf()
-    var boxSize = layoutSize/7
-    init {
-        for (i in -3..3){
-            dataSet.add(TilItem(date = focusDay.plusDays(i.toLong())))
-        }
+    // submit data
+    fun setLayoutWidth(width: Int){
+        boxSize = width/ max(model.getTilItems().size, 1)
+        notifyItemRangeChanged(0, 7)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -40,9 +37,9 @@ class TilAdapter(
         return ViewHolder(view)
     }
 
-    override fun getItemCount(): Int = dataSet.size
+    override fun getItemCount(): Int = model.getTilItems().size
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.bind(dataSet[position])
+        holder.bind(model.getTilItems()[position])
     }
 
     inner class ViewHolder(private val binding : RecyclerTilBinding)
@@ -54,18 +51,17 @@ class TilAdapter(
                 // If there is a record, the background color changes.
                 var bgColor = ContextCompat.getColor(
                     itemView.context,
-                    getBgColor(item.contentList.size)
+                    if (item.contentList.size==0) R.color.tilBox_default
+                    else R.color.tilBox_active
                 )
-                ivFocus.setBackgroundColor(bgColor)
+                cvBox.setBackgroundColor(bgColor)
 
                 // Changes the icon of items representing focus-day's records.
-                try {
-                    var ic_src: Int
-                    if (isEqual(item.date, focusDay)) ic_src = R.drawable.ic_baseline_edit_24
-                    else ic_src = R.drawable.empty_box
-                    Glide.with(itemView)?.load(ic_src)?.into(ivFocus)
-                } catch (e:Exception){
-
+                if (model.getDateString(item.date).equals(
+                        model.getDateString(model.getFocusDay()))){
+                    ivFocus.visibility = View.VISIBLE
+                } else {
+                    ivFocus.visibility = View.INVISIBLE
                 }
 
                 // 7 boxes must be displayed on one screen,
@@ -93,30 +89,5 @@ class TilAdapter(
     private var listener : OnItemClickListener? = null
     fun setOnItemClickListener(listener : OnItemClickListener) {
         this.listener = listener
-    }
-
-    // get color
-    private fun getBgColor(dataCount:Int):Int{
-        if (dataCount==0) return R.color.tilBox_default
-        else return R.color.tilBox_active
-    }
-
-    private fun isEqual(d1:LocalDate, d2: LocalDate): Boolean{
-        return (d1.year==d2.year) && (d1.month==d2.month) && (d1.dayOfMonth==d2.dayOfMonth)
-    }
-
-    // change focus week
-    fun addPreDay(){
-        val tilItem = dataSet[0]
-        dataSet.add(0, TilItem(date = tilItem.date.plusDays(-1)))
-        dataSet.removeAt(6)
-        notifyDataSetChanged()
-    }
-
-    fun addNextDay(){
-        val tilItem = dataSet[6]
-        dataSet.add(TilItem(date = tilItem.date.plusDays(1)))
-        dataSet.removeAt(0)
-        notifyDataSetChanged()
     }
 }

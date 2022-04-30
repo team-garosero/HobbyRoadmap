@@ -16,4 +16,5 @@
     <!-- toolbar -->
     <dimen name="toolbar_size">60dp</dimen>
     <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
 </resources>
