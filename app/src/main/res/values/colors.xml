@@ -9,8 +9,11 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- til-box color -->
-    <color name="tilBox_default">#E9EDF1</color>
-    <color name="tilBox_active">#2BD585</color>
+    <color name="tilBox_g0">#E9EDF1</color>
+    <color name="tilBox_g1">#FFA7AA</color>
+    <color name="tilBox_g2">#FFE4A2</color>
+    <color name="tilBox_g3">#B8F9A3</color>
+    <color name="tilBox_g4">#2BD585</color>
     <color name="tilBox_today">#3249BC</color>
 
     <!-- adventure bolder color -->

@@ -4,6 +4,7 @@ import java.time.LocalDate
 
 data class TilItem(
     val uid : String = "",
+    val courseId : String = "",
     val date: LocalDate,
-    val contentList: MutableList<ContentItem> = mutableListOf()
+    val content: String = ""
 )

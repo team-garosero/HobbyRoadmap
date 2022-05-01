@@ -1,9 +1,13 @@
 package com.garosero.android.hobbyroadmap.viewmodels
 
+import android.content.Context
 import android.os.Build
 import androidx.annotation.RequiresApi
+import androidx.core.content.ContextCompat
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.data.TilBoxItem
 import com.garosero.android.hobbyroadmap.data.TilItem
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
@@ -11,10 +15,10 @@ import java.time.format.DateTimeFormatter
 @RequiresApi(Build.VERSION_CODES.O)
 class TilViewModel : ViewModel() {
     val focusDay = MutableLiveData<LocalDate>()
-    val tilItems = MutableLiveData<MutableList<TilItem>>()
+    private val tilBoxItems = MutableLiveData<MutableList<TilBoxItem>>()
     init {
         initFocusDay()
-        initTilItems()
+        initTilBoxItems()
     }
 
     // focus -day
@@ -36,44 +40,71 @@ class TilViewModel : ViewModel() {
 
     // til-items for recyclerview
     @RequiresApi(Build.VERSION_CODES.O)
-    fun getTilItems() : MutableList<TilItem> {
-        tilItems.value?:initTilItems()
-        return tilItems.value!!
+    fun getTilBoxItems() : MutableList<TilBoxItem> {
+        return tilBoxItems.value!!
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
-    fun initTilItems() {
-        val dataSet:MutableList<TilItem> = mutableListOf()
+    fun initTilBoxItems() {
+        val dataSet:MutableList<TilBoxItem> = mutableListOf()
         val fDay:LocalDate = focusDay.value!!
         for (i in -3..3){
-            dataSet.add(TilItem(date = fDay.plusDays(i.toLong())))
+            dataSet.add(getDataFromDB(date = fDay.plusDays(i.toLong())))
         }
-        tilItems.value = dataSet
+        tilBoxItems.value = dataSet
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
     fun addPreDay(){
-        val size = tilItems.value!!.size
-        val firstDay = getTilItems().get(0).date
-        // todo : get preData
-        val preData = TilItem(date = firstDay.plusDays(-1))
-        tilItems.value!!.add(0, preData)
-        tilItems.value!!.removeAt(size)
+        val size = getTilBoxItems().size
+        val dataSet = getTilBoxItems()
+        val firstDay = dataSet.get(0).date
+        val preData = getDataFromDB(firstDay.plusDays(-1))
+        tilBoxItems.value!!.add(0, preData)
+        tilBoxItems.value!!.removeAt(size)
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
     fun addNextDay(){
-        val size = tilItems.value!!.size
-        val lastDay = getTilItems().get(size-1).date
-        // todo : get nextData
-        val nextData = TilItem(date = lastDay.plusDays(1))
-        tilItems.value!!.add(nextData)
-        tilItems.value!!.removeAt(0)
+        val size = getTilBoxItems().size
+        val dataSet = getTilBoxItems()
+        val lastDay = dataSet.get(size-1).date
+        val nextData = getDataFromDB(lastDay.plusDays(1))
+        tilBoxItems.value!!.add(nextData)
+        tilBoxItems.value!!.removeAt(0)
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
     fun getDateString(date: LocalDate): String {
         val pattern = "yyyy/MM/dd"
         return date.format(DateTimeFormatter.ofPattern(pattern))
+    }
+
+    // todo : get nextData
+    private fun getDataFromDB(date: LocalDate): TilBoxItem {
+        val random = (0..5).random()
+        val list = mutableListOf<TilItem>()
+        for (i in 0 until random){
+            list.add(TilItem(date=date))
+        }
+        val data = TilBoxItem(date, list)
+        return data
+    }
+
+    fun getFocusTilBoxItem(): TilBoxItem{
+        return getDataFromDB(date = focusDay.value!!)
+    }
+
+    // freq - group
+    fun getBgColor(context: Context, item: TilBoxItem): Int {
+        var src:Int
+        when (item.tilList.size){
+            0 -> src = R.color.tilBox_g0
+            1 -> src = R.color.tilBox_g1
+            2 -> src = R.color.tilBox_g2
+            4 -> src = R.color.tilBox_g3
+            else -> src = R.color.tilBox_g4
+        }
+        return ContextCompat.getColor(context, src)
     }
 }

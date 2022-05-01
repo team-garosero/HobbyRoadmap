@@ -5,13 +5,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.annotation.RequiresApi
-import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.R
-import com.garosero.android.hobbyroadmap.data.TilItem
-import com.garosero.android.hobbyroadmap.databinding.RecyclerTilBinding
+import com.garosero.android.hobbyroadmap.data.TilBoxItem
+import com.garosero.android.hobbyroadmap.databinding.RecyclerTilBoxBinding
 import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
-import java.time.LocalDate
 import kotlin.math.max
 
 /**
@@ -19,42 +16,37 @@ import kotlin.math.max
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TilAdapter(val model:TilViewModel) :
-    RecyclerView.Adapter<TilAdapter.ViewHolder>() {
+class TilBoxAdapter(val model:TilViewModel) :
+    RecyclerView.Adapter<TilBoxAdapter.ViewHolder>() {
     var boxSize = 0
 
     // submit data
     fun setLayoutWidth(width: Int){
-        boxSize = width/ max(model.getTilItems().size, 1)
-        notifyItemRangeChanged(0, 7)
+        boxSize = width/ max(model.getTilBoxItems().size, 1)
+        notifyDataSetChanged()
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = RecyclerTilBinding.inflate(
+        val view = RecyclerTilBoxBinding.inflate(
             LayoutInflater.from(parent.context),
             parent,
             false)
         return ViewHolder(view)
     }
 
-    override fun getItemCount(): Int = model.getTilItems().size
+    override fun getItemCount(): Int = model.getTilBoxItems().size
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.bind(model.getTilItems()[position])
+        holder.bind(model.getTilBoxItems()[position])
     }
 
-    inner class ViewHolder(private val binding : RecyclerTilBinding)
+    inner class ViewHolder(private val binding : RecyclerTilBoxBinding)
         : RecyclerView.ViewHolder(binding.root){
 
-        fun bind(item: TilItem){
+        fun bind(item: TilBoxItem){
             binding.apply {
 
                 // If there is a record, the background color changes.
-                var bgColor = ContextCompat.getColor(
-                    itemView.context,
-                    if (item.contentList.size==0) R.color.tilBox_default
-                    else R.color.tilBox_active
-                )
-                cvBox.setBackgroundColor(bgColor)
+                cvBox.setBackgroundColor(model.getBgColor(itemView.context, item))
 
                 // Changes the icon of items representing focus-day's records.
                 if (model.getDateString(item.date).equals(
@@ -76,7 +68,6 @@ class TilAdapter(val model:TilViewModel) :
                 // onclick - listener
                 cvBox.setOnClickListener{
                     listener?.onItemClick(item, it)
-                    notifyDataSetChanged()
                 }
             }
         }
@@ -84,7 +75,7 @@ class TilAdapter(val model:TilViewModel) :
 
     // on click interface
     interface OnItemClickListener{
-        fun onItemClick(data: TilItem, view: View)
+        fun onItemClick(data: TilBoxItem, view: View)
     }
     private var listener : OnItemClickListener? = null
     fun setOnItemClickListener(listener : OnItemClickListener) {
