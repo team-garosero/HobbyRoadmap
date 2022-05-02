@@ -4,15 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:paddingLeft="@dimen/margin_32"
-    android:paddingRight="@dimen/margin_32"
     android:paddingBottom="@dimen/margin_32">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="bold"
-        android:id="@android:id/title"
+        android:text="내 프로필"
         android:textSize="@dimen/textSize_20"
         android:layout_marginBottom="@dimen/margin_16" />
 
@@ -23,7 +21,7 @@
         android:background="@drawable/profile_item_box">
 
         <ImageView
-            android:id="@+id/tv_profile"
+            android:id="@+id/iv_profile"
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_gravity="center_vertical"
@@ -36,17 +34,18 @@
             android:maxLines="1" />
 
         <TextView
-            android:id="@android:id/summary"
+            android:id="@+id/tv_user_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="@dimen/margin_16"
-            android:layout_toRightOf="@id/tv_profile"
+            android:layout_toRightOf="@id/iv_profile"
             android:textSize="@dimen/textSize_16"
             android:textStyle="bold"
             android:maxLines="1"
-            android:maxLength="10"/>
+            android:maxLength="10"
+            android:text="user_name"/>
 
         <ImageView
             android:layout_width="wrap_content"

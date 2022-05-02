@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingsItem">
+        <attr name="keyString" format="reference|string" />
+        <attr name="keyTextColor" format="reference|integer"/>
+        <attr name="valueString" format="reference|string" />
+        <attr name="valueTextColor" format="reference|integer"/>
+    </declare-styleable>
+</resources>

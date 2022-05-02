@@ -9,7 +9,8 @@ import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.ActivityMainBinding
-import com.garosero.android.hobbyroadmap.settings.SettingsActivity
+import com.garosero.android.hobbyroadmap.notice.NoticeActivity
+import com.garosero.android.hobbyroadmap.SettingsActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -34,9 +35,16 @@ class MainActivity : AppCompatActivity() {
 
     // toolbar click event
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        val intent = Intent(this, SettingsActivity::class.java)
-        intent.putExtra(getString(R.string.menuItem_toolbar), item.itemId)
-        startActivity(intent)
+        when (item.itemId){
+            R.id.item_notice -> {
+                val intent = Intent(this, NoticeActivity::class.java)
+                startActivity(intent)
+            }
+            R.id.item_setting -> {
+                val intent = Intent(this, SettingsActivity::class.java)
+                startActivity(intent)
+            }
+        }
         return true
     }
 }

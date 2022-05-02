@@ -102,7 +102,7 @@ class TilViewModel : ViewModel() {
             0 -> src = R.color.tilBox_g0
             1 -> src = R.color.tilBox_g1
             2 -> src = R.color.tilBox_g2
-            4 -> src = R.color.tilBox_g3
+            3 -> src = R.color.tilBox_g3
             else -> src = R.color.tilBox_g4
         }
         return ContextCompat.getColor(context, src)

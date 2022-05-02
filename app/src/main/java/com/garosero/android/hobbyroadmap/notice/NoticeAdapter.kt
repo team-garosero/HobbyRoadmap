@@ -1,11 +1,10 @@
-package com.garosero.android.hobbyroadmap.settings
+package com.garosero.android.hobbyroadmap.notice
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.NoticeItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerNoticeBinding
-import com.garosero.android.hobbyroadmap.main.HomeFragment
 
 /**
  * Adapter for the [RecyclerView] in [NoticeFragment].

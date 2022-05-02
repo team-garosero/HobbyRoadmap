@@ -2,6 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical">
 
     <androidx.core.widget.NestedScrollView
@@ -22,20 +23,75 @@
                 <include layout="@layout/toolbar"/>
             </androidx.appcompat.widget.Toolbar>
 
-            <TextView
-                android:id="@+id/tv_page_title"
+            <!-- content -->
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:textSize="@dimen/textSize_28"
-                android:layout_marginBottom="@dimen/margin_32"
-                android:layout_margin="@dimen/margin_32"/>
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/margin_32"
+                android:paddingRight="@dimen/margin_32">
 
-            <FrameLayout
-                android:scrollbars="none"
-                android:id="@+id/settings"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                <include layout="@layout/item_profile"/>
+
+                <!-- 이메일 -->
+                <com.garosero.android.hobbyroadmap.customview.SettingItem
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "이메일"
+                    app:keyTextColor = "@color/black"
+                    app:valueString = "example@ex.com"
+                    app:valueTextColor = "@color/black" />
+
+                <!-- 개발자 문의사항 -->
+                <com.garosero.android.hobbyroadmap.customview.SettingItem
+                    android:id="@+id/item_feedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "개발자 문의 사항"
+                    app:keyTextColor = "@color/black"
+                    app:valueString = "example@ex.com"
+                    app:valueTextColor = "@color/black" />
+
+                <!-- 푸시 알람 설정 -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:text="푸시 알림 설정"
+                    android:textSize="@dimen/textSize_20"
+                    android:layout_marginBottom="@dimen/margin_16" />
+                <Switch
+                    android:textOff="설정안됨"
+                    android:textOn="설정됨"
+                    android:id="@+id/switchWidget"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_32"/>
+
+                <!-- 버전 -->
+                <com.garosero.android.hobbyroadmap.customview.SettingItem
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "버전"
+                    app:keyTextColor = "@color/black"
+                    app:valueString = "1.0"
+                    app:valueTextColor = "@color/black" />
+
+                <!-- 로그아웃 -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:text="로그아웃"
+                    android:textSize="@dimen/textSize_20"/>
+                <ImageButton
+                    android:id="@+id/ibn_logout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_16"
+                    android:layout_marginBottom="@dimen/margin_16"
+                    android:background="@drawable/button_logout"/>
+            </LinearLayout>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
 </LinearLayout>

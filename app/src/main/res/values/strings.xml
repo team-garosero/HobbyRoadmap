@@ -6,16 +6,10 @@
     <string name="title_fragment_adventure">로드맵 어드벤처</string>
     <string name="title_fragment_home">로드맵 검색하기</string>
     <string name="title_fragment_myList">나의 로드맵</string>
+    <string name="title_activity_notice">내 알림</string>
+    <string name="title_fragment_til">Today I Learn</string>
 
     <!--toolbar-->
     <string name="menuItem_toolbar">menuItem</string>
-
-    <!-- preference key -->
-    <string name="userEmail_preferenceKey">user_email</string>
-    <string name="notifications_preferenceKey">notifications</string>
-    <string name="version_preferenceKey">version</string>
-    <string name="name_preferenceKey">user_name</string>
-    <string name="title_fragment_notice">내 알림</string>
-    <string name="title_fragment_settings">환경설정</string>
-    <string name="title_fragment_til">Today I Learn</string>
+    <string name="settingItem_textview">TextView</string>
 </resources>
