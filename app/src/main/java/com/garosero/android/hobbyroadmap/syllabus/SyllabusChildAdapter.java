@@ -31,7 +31,7 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
-        ImageView color, status;
+        ImageView color, status; // background = taken? color : iv_syllabus_not_taken change stroke color https://stackoverflow.com/questions/4772537/i-need-to-change-the-stroke-color-to-a-user-defined-color-nothing-to-do-with-th
         TextView courseTitle, courseDesc, xp;
 
         public ViewHolder(@NonNull View itemView) {

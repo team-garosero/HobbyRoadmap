@@ -7,6 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="cblue">#3249BB</color>
+    <color name="gray">#9CA2A6</color>
 
     <!-- til-box color -->
     <color name="tilBox_g0">#E9EDF1</color>
@@ -21,4 +23,10 @@
 
     <!-- text color -->
     <color name="text_color">#FF000000</color>
+
+    <!-- icon color -->
+    <color name="icon_color">#000000</color>
+
+    <!-- stroke color -->
+    <color name="stroke_color">#000000</color>
 </resources>

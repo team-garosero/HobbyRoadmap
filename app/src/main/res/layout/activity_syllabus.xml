@@ -6,70 +6,110 @@
     android:layout_height="match_parent"
     tools:context=".syllabus.SyllabusActivity">
 
-    <LinearLayout
-        android:layout_width="match_parent"
+    <ImageButton
+        android:id="@+id/bt_back_challenge"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/ll_toolbar_challenge"
-        app:layout_constraintTop_toTopOf="parent">
-        <ImageButton
-            android:id="@+id/bt_back_challenge"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@drawable/ic_baseline_keyboard_backspace_24"/>
-    </LinearLayout>
+        android:layout_margin="20dp"
+        android:background="@drawable/ic_baseline_keyboard_backspace_24"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:id="@+id/tv_roadmap_title"
+        android:text="프론트엔드"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/bt_back_challenge"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/iv_participants"
+        android:background="@drawable/ic_participants"
+        app:layout_constraintTop_toBottomOf="@id/tv_roadmap_title"
+        app:layout_constraintStart_toStartOf="@id/tv_roadmap_title"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/tv_participants"
+        android:text="12명이 참여하는 중입니다."
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        app:layout_constraintTop_toBottomOf="@id/tv_roadmap_title"
+        app:layout_constraintStart_toEndOf="@id/iv_participants"/>
 
     <!-- roadmap title, %, time left-->
-    <LinearLayout
-        android:layout_width="match_parent"
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/ic_check_box"
+        app:layout_constraintTop_toBottomOf="@id/tv_participants"
+        app:layout_constraintEnd_toStartOf="@id/tv_percentage"/>
+
+    <TextView
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:id="@+id/ll_roadmap_desc"
-        app:layout_constraintTop_toBottomOf="@id/ll_toolbar_challenge">
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:id="@+id/tv_percentage"
+        android:text="달성률"
+        app:layout_constraintTop_toBottomOf="@id/tv_participants"
+        app:layout_constraintEnd_toStartOf="@id/iv_time_left"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/tv_roadmap_title"
-            android:text="플랜테리어" />
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="5dp"
+        android:id="@+id/iv_time_left"
+        android:background="@drawable/ic_timelapse"
+        app:layout_constraintTop_toBottomOf="@id/tv_participants"
+        app:layout_constraintEnd_toStartOf="@id/tv_time_left"/>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="end">
-            <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:background="@drawable/ic_launcher_background"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/tv_percentage"
-                android:text="달성률" />
-            <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:background="@drawable/ic_launcher_background"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/tv_time_left"
-                android:text="남은 시간" />
-        </LinearLayout>
-    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:id="@+id/tv_time_left"
+        android:text="남은 시간"
+        app:layout_constraintTop_toBottomOf="@id/tv_participants"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="2dp"
+        android:layout_marginTop="15dp"
         android:id="@+id/iv_line"
-        app:layout_constraintTop_toBottomOf="@id/ll_roadmap_desc"
+        app:layout_constraintTop_toBottomOf="@id/tv_percentage"
         android:background="@color/black" />
 
+    <!-- recyclerview_level -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rv_level"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@id/iv_line" />
+
+    <!-- fragment_community / fragment_roadmap-->
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:id="@+id/frameLayout"
-        app:layout_constraintTop_toBottomOf="@id/iv_line"
+        app:layout_constraintTop_toBottomOf="@id/rv_level"
         app:layout_constraintBottom_toBottomOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
