@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:id="@+id/tv_key"
-        android:textSize="@dimen/textSize_20" />
+        android:textSize="@dimen/textSize_20"/>
 
     <TextView
         android:id="@+id/tv_value"
@@ -19,5 +19,5 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/margin_32"
         android:textSize="@dimen/textSize_16"
-        android:textStyle="normal" />
+        android:textStyle="normal"/>
 </LinearLayout>

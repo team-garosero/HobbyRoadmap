@@ -2,8 +2,7 @@
 <resources>
     <declare-styleable name="SettingsItem">
         <attr name="keyString" format="reference|string" />
-        <attr name="keyTextColor" format="reference|integer"/>
         <attr name="valueString" format="reference|string" />
-        <attr name="valueTextColor" format="reference|integer"/>
+        <attr name="type" format="reference|string"/>
     </declare-styleable>
 </resources>

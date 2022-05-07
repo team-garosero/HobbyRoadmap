@@ -10,7 +10,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.ActivityMainBinding
 import com.garosero.android.hobbyroadmap.notice.NoticeActivity
-import com.garosero.android.hobbyroadmap.SettingsActivity
+import com.garosero.android.hobbyroadmap.settings.SettingsActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

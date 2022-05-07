@@ -14,5 +14,7 @@
         <item name = "windowNoTitle">true</item>
         <!-- other style -->
         <item name="android:overScrollMode">never</item>
+        <!-- text style -->
+        <item name="android:textColor">@color/text_color</item>
     </style>
 </resources>

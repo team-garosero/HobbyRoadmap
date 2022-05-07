@@ -33,64 +33,39 @@
 
                 <include layout="@layout/item_profile"/>
 
-                <!-- 이메일 -->
-                <com.garosero.android.hobbyroadmap.customview.SettingItem
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:keyString = "이메일"
-                    app:keyTextColor = "@color/black"
                     app:valueString = "example@ex.com"
-                    app:valueTextColor = "@color/black" />
+                    app:type = "text"/>
 
-                <!-- 개발자 문의사항 -->
-                <com.garosero.android.hobbyroadmap.customview.SettingItem
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
                     android:id="@+id/item_feedback"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:keyString = "개발자 문의 사항"
-                    app:keyTextColor = "@color/black"
-                    app:valueString = "example@ex.com"
-                    app:valueTextColor = "@color/black" />
+                    app:valueString = "@string/feedback_email"
+                    app:type = "text"/>
 
-                <!-- 푸시 알람 설정 -->
-                <TextView
-                    android:layout_width="wrap_content"
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
-                    android:text="푸시 알림 설정"
-                    android:textSize="@dimen/textSize_20"
-                    android:layout_marginBottom="@dimen/margin_16" />
-                <Switch
-                    android:textOff="설정안됨"
-                    android:textOn="설정됨"
-                    android:id="@+id/switchWidget"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginBottom="@dimen/margin_32"/>
+                    app:keyString = "푸시 알람 설정"
+                    app:type = "switch"/>
 
-                <!-- 버전 -->
-                <com.garosero.android.hobbyroadmap.customview.SettingItem
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:keyString = "버전"
-                    app:keyTextColor = "@color/black"
                     app:valueString = "1.0"
-                    app:valueTextColor = "@color/black" />
+                    app:type = "text"/>
 
-                <!-- 로그아웃 -->
-                <TextView
-                    android:layout_width="wrap_content"
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
-                    android:text="로그아웃"
-                    android:textSize="@dimen/textSize_20"/>
-                <ImageButton
-                    android:id="@+id/ibn_logout"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="@dimen/margin_16"
-                    android:layout_marginBottom="@dimen/margin_16"
-                    android:background="@drawable/button_logout"/>
+                    app:keyString = "로그아웃"
+                    app:type = "imageButton"/>
             </LinearLayout>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
