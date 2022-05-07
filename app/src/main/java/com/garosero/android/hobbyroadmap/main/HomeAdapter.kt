@@ -36,7 +36,7 @@ class HomeAdapter(
             binding.apply {
                 tvTitle.text = item.title
                 tvDesc.text = item.desc
-                cardview.setOnClickListener {
+                layout.setOnClickListener {
                     // goto SyllabusActivity
                     val intent = Intent(itemView.context, SyllabusActivity::class.java)
                     itemView.context.startActivity(intent)

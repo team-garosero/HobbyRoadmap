@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".syllabus.SyllabusActivity">
 
+    <!-- toolbar -->
     <ImageButton
         android:id="@+id/bt_back_challenge"
         android:layout_width="wrap_content"
@@ -21,7 +22,6 @@
         android:layout_margin="20dp"
         android:id="@+id/tv_roadmap_title"
         android:text="프론트엔드"
-        android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/bt_back_challenge"
@@ -42,7 +42,6 @@
         android:layout_margin="5dp"
         android:id="@+id/tv_participants"
         android:text="12명이 참여하는 중입니다."
-        android:textColor="@color/black"
         android:textSize="10sp"
         app:layout_constraintTop_toBottomOf="@id/tv_roadmap_title"
         app:layout_constraintStart_toEndOf="@id/iv_participants"/>

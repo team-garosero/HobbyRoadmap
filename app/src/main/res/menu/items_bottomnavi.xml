@@ -4,21 +4,21 @@
     <item
         android:id="@+id/item_mylist"
         android:title="내 로드맵"
-        android:icon="@drawable/icon_home"
+        android:icon="@drawable/ic_home"
         android:enabled="true" />
     <item
         android:id="@+id/item_home"
         android:title="탐색"
-        android:icon="@drawable/icon_explore"
+        android:icon="@drawable/ic_explore"
         android:enabled="true" />
     <item
         android:id="@+id/item_til"
         android:title="기록"
-        android:icon="@drawable/icon_record"
+        android:icon="@drawable/ic_record"
         android:enabled="true" />
     <item
         android:id="@+id/item_adventure"
         android:title="게임"
-        android:icon="@drawable/icon_game"
+        android:icon="@drawable/ic_game"
         android:enabled="true" />
 </menu>

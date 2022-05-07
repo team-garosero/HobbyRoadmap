@@ -9,5 +9,5 @@
         android:topRightRadius="@dimen/margin_8" />
     <stroke
         android:width="@dimen/margin_4"
-        android:color="@color/adventure_bolder"/>
+        android:color="@color/stroke_color"/>
 </shape>
