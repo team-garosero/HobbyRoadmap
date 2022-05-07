@@ -10,7 +10,6 @@ import android.widget.LinearLayout
 import android.widget.Switch
 import android.widget.TextView
 import com.garosero.android.hobbyroadmap.R
-import com.garosero.android.hobbyroadmap.data.TilBoxItem
 
 class CustomSettingView: LinearLayout {
     lateinit var layout: LinearLayout
@@ -49,7 +48,7 @@ class CustomSettingView: LinearLayout {
 
     // type1
     private fun initTextView(context:Context?){
-        val view = LayoutInflater.from(context).inflate(R.layout.customview_settings_textview,this,false)
+        val view = LayoutInflater.from(context).inflate(R.layout.custom_tv,this,false)
         addView(view)
 
         layout = findViewById(R.id.layout)
@@ -76,7 +75,7 @@ class CustomSettingView: LinearLayout {
 
     // type2
     private fun initSwitch(context:Context?){
-        val view = LayoutInflater.from(context).inflate(R.layout.customview_settings_switch,this,false)
+        val view = LayoutInflater.from(context).inflate(R.layout.custom_switch,this,false)
         addView(view)
 
         layout = findViewById(R.id.layout)
@@ -110,7 +109,7 @@ class CustomSettingView: LinearLayout {
 
     // type3
     private fun initImageButton(context:Context?){
-        val view = LayoutInflater.from(context).inflate(R.layout.customview_settings_imagebutton,this,false)
+        val view = LayoutInflater.from(context).inflate(R.layout.custom_ibn,this,false)
         addView(view)
 
         layout = findViewById(R.id.layout)

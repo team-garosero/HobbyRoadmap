@@ -13,7 +13,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.garosero.android.hobbyroadmap.main.MainActivity;
-import com.garosero.android.hobbyroadmap.myutil.AsteriskPasswordTransformationMethod;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;

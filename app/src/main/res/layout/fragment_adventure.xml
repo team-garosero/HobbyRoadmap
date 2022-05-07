@@ -43,12 +43,9 @@
         <androidx.cardview.widget.CardView
             android:layout_marginTop="@dimen/margin_32"
             android:layout_width="match_parent"
-            android:layout_height="320dp">
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="@drawable/round_box"/>
-        </androidx.cardview.widget.CardView>
+            android:layout_height="320dp"
+            android:elevation="0dp"
+            app:cardCornerRadius="@dimen/margin_8"/>
 
         <ProgressBar
             android:layout_width="match_parent"

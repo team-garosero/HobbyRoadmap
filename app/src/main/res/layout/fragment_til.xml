@@ -20,38 +20,13 @@
             android:textSize="@dimen/textSize_28"
             android:layout_marginBottom="@dimen/margin_32"/>
 
-        <LinearLayout
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_box"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             android:orientation="horizontal"
-            android:weightSum="15">
-
-            <ImageButton
-                android:id="@+id/ibn_pre"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:background="@drawable/ic_navigate_before"
-                android:layout_weight="1"
-                android:layout_gravity="center"/>
-
-            <androidx.recyclerview.widget.RecyclerView
-                android:id="@+id/recycler_box"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-                android:orientation="horizontal"
-                tools:listitem="@layout/recycler_til_box"
-                android:layout_weight="13"
-                android:layout_gravity="center" />
-
-            <ImageButton
-                android:id="@+id/ibn_next"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:background="@drawable/ic_navigate_next"
-                android:layout_weight="1"
-                android:layout_gravity="center"/>
-        </LinearLayout>
+            tools:listitem="@layout/recycler_til_box"/>
 
         <TextView
             android:id="@+id/tv_day"

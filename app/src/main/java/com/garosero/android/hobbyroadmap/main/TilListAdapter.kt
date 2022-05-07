@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.data.TilBoxItem
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerTilListBinding
 
@@ -14,11 +13,11 @@ import com.garosero.android.hobbyroadmap.databinding.RecyclerTilListBinding
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TilListAdapter(var dataSet: TilBoxItem) :
+class TilListAdapter(var dataSet: MutableList<TilItem>) :
     RecyclerView.Adapter<TilListAdapter.ViewHolder>() {
 
     // submit data
-    fun submitData(dataSet: TilBoxItem){
+    fun submitData(dataSet: MutableList<TilItem>){
         this.dataSet = dataSet
         notifyDataSetChanged()
     }
@@ -31,9 +30,9 @@ class TilListAdapter(var dataSet: TilBoxItem) :
         return ViewHolder(view)
     }
 
-    override fun getItemCount(): Int = dataSet.tilList.size
+    override fun getItemCount(): Int = dataSet.size
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.bind(dataSet.tilList[position])
+        holder.bind(dataSet[position])
     }
 
     inner class ViewHolder(private val binding : RecyclerTilListBinding)
@@ -42,7 +41,7 @@ class TilListAdapter(var dataSet: TilBoxItem) :
         fun bind(item: TilItem){
             binding.apply {
                 // todo : item
-                tvTitle.text = "course-id"
+                tvTitle.text = item.content
             }
         }
     }
