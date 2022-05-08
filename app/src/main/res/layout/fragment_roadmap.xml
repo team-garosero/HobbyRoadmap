@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="25dp"
         android:id="@+id/btn_lookfor"
-        android:background="@drawable/btn_fill"
+        android:background="@drawable/syll_btn_fill"
         android:layout_gravity="bottom|center_horizontal"
         android:text="둘러보러 가기" />
 

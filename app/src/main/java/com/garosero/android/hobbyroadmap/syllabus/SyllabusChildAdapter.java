@@ -15,7 +15,7 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
     @NonNull
     @Override
     public SyllabusChildAdapter.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.recylerview_course_child, parent, false);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.recyler_course_child, parent, false);
         return new ViewHolder(view);
     }
 

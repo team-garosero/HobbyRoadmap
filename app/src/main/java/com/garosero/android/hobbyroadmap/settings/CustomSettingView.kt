@@ -5,10 +5,7 @@ import android.content.res.TypedArray
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
-import android.widget.ImageButton
-import android.widget.LinearLayout
-import android.widget.Switch
-import android.widget.TextView
+import android.widget.*
 import com.garosero.android.hobbyroadmap.R
 
 class CustomSettingView: LinearLayout {
@@ -16,7 +13,7 @@ class CustomSettingView: LinearLayout {
     lateinit var tvKey: TextView
     lateinit var tvValue: TextView
     lateinit var switch: Switch
-    lateinit var imageButton: ImageButton
+    lateinit var button: Button
 
     constructor(context: Context?) : super(context){
         connector(context, null)
@@ -109,12 +106,12 @@ class CustomSettingView: LinearLayout {
 
     // type3
     private fun initImageButton(context:Context?){
-        val view = LayoutInflater.from(context).inflate(R.layout.custom_ibn,this,false)
+        val view = LayoutInflater.from(context).inflate(R.layout.custom_btn,this,false)
         addView(view)
 
         layout = findViewById(R.id.layout)
         tvKey = findViewById(R.id.tv_key)
-        imageButton = findViewById(R.id.ibn_value)
+        button = findViewById(R.id.btn_value)
     }
 
     private fun setTypeArrayImageButton(typedArray : TypedArray){

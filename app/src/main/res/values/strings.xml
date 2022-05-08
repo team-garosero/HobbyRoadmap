@@ -8,6 +8,7 @@
     <string name="title_fragment_myList">나의 로드맵</string>
     <string name="title_activity_notice">내 알림</string>
     <string name="title_fragment_til">Today I Learn</string>
+    <string name="title_activity_til">Today I Learn</string>
 
     <!--toolbar-->
     <string name="menuItem_toolbar">menuItem</string>
@@ -16,7 +17,4 @@
     <!-- feedback -->
     <string name="feedback_email">example@ex.com</string>
     <string name="feedback_title">feedback_title</string>
-
-    <!-- setting view type -->
-    <string name="setting_view_type_text">text</string>
 </resources>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".main.TilFragment">
+    tools:context=".main.TilListFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,20 +20,35 @@
             android:textSize="@dimen/textSize_28"
             android:layout_marginBottom="@dimen/margin_32"/>
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_32">
+
+            <Button
+                android:id="@+id/btn_today"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="오늘로 돌아오기"
+                android:backgroundTint="#C4C4C4"/>
+
+            <Button
+                android:id="@+id/btn_day"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:backgroundTint="#C4C4C4"
+                android:layout_marginLeft="@dimen/margin_16"/>
+        </LinearLayout>
+
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_box"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             android:orientation="horizontal"
-            tools:listitem="@layout/recycler_til_box"/>
-
-        <TextView
-            android:id="@+id/tv_day"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textStyle="bold"
-            android:layout_marginTop="@dimen/margin_24"/>
+            tools:listitem="@layout/recycler_til_box"
+            android:layout_marginBottom="@dimen/margin_32"/>
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_list"

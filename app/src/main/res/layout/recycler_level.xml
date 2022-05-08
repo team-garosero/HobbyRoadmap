@@ -8,7 +8,7 @@
         android:layout_height="32dp"
         android:id="@+id/ib_level"
         android:layout_margin="16dp"
-        android:background="@drawable/btn_fill"
+        android:background="@drawable/syll_btn_fill"
         android:text="레벨1"
         android:textColor="@color/white"/>
 

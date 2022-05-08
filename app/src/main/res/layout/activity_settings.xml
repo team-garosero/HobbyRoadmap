@@ -19,9 +19,7 @@
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/toolbar_size"
-                app:layout_constraintTop_toTopOf="parent">
-                <include layout="@layout/toolbar"/>
-            </androidx.appcompat.widget.Toolbar>
+                app:layout_constraintTop_toTopOf="parent"/>
 
             <!-- content -->
             <LinearLayout
@@ -29,7 +27,8 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:paddingLeft="@dimen/margin_32"
-                android:paddingRight="@dimen/margin_32">
+                android:paddingRight="@dimen/margin_32"
+                android:layout_marginTop="@dimen/margin_32">
 
                 <include layout="@layout/item_profile"/>
 

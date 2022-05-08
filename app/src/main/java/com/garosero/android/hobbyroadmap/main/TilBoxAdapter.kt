@@ -9,12 +9,11 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.RecyclerTilBoxBinding
-import com.garosero.android.hobbyroadmap.myutil.DateHelper
 import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
 import java.time.LocalDate
 
 /**
- * Adapter for the [RecyclerView] in [TilFragment].
+ * Adapter for the [RecyclerView] in [TilListFragment].
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
@@ -44,7 +43,7 @@ class TilBoxAdapter(
 
                 // If there is a record, the background color changes.
                 val src = getBgColorSrc(date)
-                cvBox.setBackgroundColor(ContextCompat.getColor(itemView.context, src))
+                layout.background.setTint(ContextCompat.getColor(itemView.context, src))
 
                 // Changes the icon of items representing focus-day's records.
                 if (date.equals(focusDate)){
@@ -54,12 +53,9 @@ class TilBoxAdapter(
                 }
 
                 // onclick - listener
-                cvBox.setOnClickListener{
+                layout.setOnClickListener{
                     listener?.onItemClick(date)
                 }
-
-                // todo : testing text
-                tvTest.text = DateHelper().dateStringMD(date)
             }
         }
     }
@@ -74,8 +70,13 @@ class TilBoxAdapter(
     }
 
     // submit data
-    fun submitFocusDate(date : LocalDate){
-        focusDate = date
+    fun submitFocusDate(submitDate : LocalDate){
+        focusDate = submitDate
+        notifyDataSetChanged()
+    }
+
+    fun submitDateList(submitDataSet: MutableList<LocalDate>){
+        dataSet = submitDataSet
         notifyDataSetChanged()
     }
 

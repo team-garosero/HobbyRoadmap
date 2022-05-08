@@ -2,12 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:icon="@drawable/ic_settings"
+        android:icon="@drawable/main_ic_settings"
         android:id="@+id/item_setting"
         android:title="setting"
         app:showAsAction="always"/>
     <item
-        android:icon="@drawable/ic_notifications"
+        android:icon="@drawable/main_ic_notice"
         android:id="@+id/item_notice"
         android:title="notice"
         app:showAsAction="always"/>

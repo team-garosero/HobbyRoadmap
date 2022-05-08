@@ -20,7 +20,7 @@ class NoticeActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // tool bar
-        val toolbar = findViewById<androidx.appcompat.widget.Toolbar>(R.id.toolbar)
+        val toolbar = binding.toolbar
         setSupportActionBar(toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
