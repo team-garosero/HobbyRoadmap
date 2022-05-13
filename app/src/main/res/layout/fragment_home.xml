@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".mainfrags.HomeFragment">
+    tools:context=".main.HomeFragment">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -13,27 +13,16 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="HomeFragmentTitle"
-            android:layout_margin="16dp"/>
-
-        <com.google.android.material.tabs.TabLayout
-            android:id="@+id/tab_home"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-            <com.google.android.material.tabs.TabItem
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="category1"/>
-            <com.google.android.material.tabs.TabItem
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="category2"/>
-        </com.google.android.material.tabs.TabLayout>
+            android:text="@string/title_fragment_home"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSize_28"
+            android:layout_margin="@dimen/margin_32"/>
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:layoutManager="androidx.recyclerview.widget.GridLayoutManager" />
+            android:layout_margin="@dimen/margin_24"
+            tools:listitem="@layout/recycler_home"/>
     </LinearLayout>
 </FrameLayout>

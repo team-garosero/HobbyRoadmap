@@ -9,4 +9,24 @@
     <color name="white">#FFFFFFFF</color>
     <color name="cblue">#3249BB</color>
     <color name="gray">#9CA2A6</color>
+
+    <!-- til-box color -->
+    <color name="tilBox_g0">#E9EDF1</color>
+    <color name="tilBox_g1">#FFA7AA</color>
+    <color name="tilBox_g2">#FFE4A2</color>
+    <color name="tilBox_g3">#B8F9A3</color>
+    <color name="tilBox_g4">#2BD585</color>
+    <color name="tilBox_today">#3249BC</color>
+
+    <!-- adventure bolder color -->
+    <color name="adventure_bolder">#C5C0A2</color>
+
+    <!-- text color -->
+    <color name="text_color">#FF000000</color>
+
+    <!-- icon color -->
+    <color name="icon_color">#000000</color>
+
+    <!-- stroke color -->
+    <color name="stroke_color">#000000</color>
 </resources>

@@ -9,12 +9,12 @@
         <item name="colorSecondary">@color/teal_200</item>
         <item name="colorSecondaryVariant">@color/teal_200</item>
         <item name="colorOnSecondary">@color/black</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">@android:color/transparent</item>
         <!-- no action bar -->
         <item name = "windowActionBar">false</item>
         <item name = "windowNoTitle">true</item>
         <!-- other style -->
         <item name="android:overScrollMode">never</item>
+        <!-- text style -->
+        <item name="android:textColor">@color/text_color</item>
     </style>
 </resources>

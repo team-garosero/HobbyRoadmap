@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/toolbar_size"
+                app:layout_constraintTop_toTopOf="parent">
+                <include layout="@layout/toolbar"/>
+            </androidx.appcompat.widget.Toolbar>
+
+            <!-- content -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/margin_32"
+                android:paddingRight="@dimen/margin_32">
+
+                <include layout="@layout/item_profile"/>
+
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "이메일"
+                    app:valueString = "example@ex.com"
+                    app:type = "text"/>
+
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:id="@+id/item_feedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "개발자 문의 사항"
+                    app:valueString = "@string/feedback_email"
+                    app:type = "text"/>
+
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "푸시 알람 설정"
+                    app:type = "switch"/>
+
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "버전"
+                    app:valueString = "1.0"
+                    app:type = "text"/>
+
+                <com.garosero.android.hobbyroadmap.settings.CustomSettingView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:keyString = "로그아웃"
+                    app:type = "imageButton"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

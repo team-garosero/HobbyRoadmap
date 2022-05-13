@@ -4,80 +4,43 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".mainfrags.TilFragment">
+    tools:context=".main.TilFragment">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/margin_32">
 
-        <LinearLayout
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ll_title"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/tv_til_label"
-                android:text="Today I Learn"
-                android:textSize="30sp"/>
-            <Spinner
-                android:id="@+id/spinner"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:spinnerMode="dropdown"/>
-        </LinearLayout>
+            android:text="@string/title_fragment_til"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSize_28"
+            android:layout_marginBottom="@dimen/margin_32"/>
 
         <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_box"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/rv_date"
-            app:layout_constraintTop_toBottomOf="@id/ll_title"/>
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            android:orientation="horizontal"
+            tools:listitem="@layout/recycler_til_box"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:id="@+id/tv_day"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/tv_roadmap_title"
-            android:text="로드맵1"
-            app:layout_constraintTop_toBottomOf="@id/rv_date"
-            app:layout_constraintStart_toStartOf="parent" />
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/margin_24"/>
 
-        <TextView
-            android:layout_width="wrap_content"
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_list"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/tv_date"
-            android:text="3/18"
-            app:layout_constraintTop_toBottomOf="@id/rv_date"
-            app:layout_constraintStart_toEndOf="@id/tv_roadmap_title" />
-
-        <EditText
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:id="@+id/et_content"
-            android:text="dsfvdfvxdbfbd"
-            app:layout_constraintTop_toBottomOf="@id/tv_roadmap_title"
-            app:layout_constraintStart_toStartOf="parent" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/btn_cancel"
-            android:text="취소"
-            app:layout_constraintEnd_toStartOf="@id/btn_submit"
-            app:layout_constraintTop_toBottomOf="@id/et_content"/>
-
-        <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/btn_submit"
-        android:text="등록"
-        app:layout_constraintEnd_toEndOf="@id/et_content"
-        app:layout_constraintTop_toBottomOf="@id/et_content"/>
-
-    </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
-
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            android:orientation="vertical"
+            tools:listitem="@layout/recycler_til_list" />
+    </LinearLayout>
 </FrameLayout>
