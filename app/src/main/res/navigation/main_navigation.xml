@@ -17,9 +17,9 @@
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/item_til"
-        android:name="com.garosero.android.hobbyroadmap.main.TilListFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.TilParentFragment"
         android:label="fragment_til"
-        tools:layout="@layout/fragment_til_list" />
+        tools:layout="@layout/fragment_til_parent" />
     <fragment
         android:id="@+id/item_mylist"
         android:name="com.garosero.android.hobbyroadmap.main.MylistFragment"

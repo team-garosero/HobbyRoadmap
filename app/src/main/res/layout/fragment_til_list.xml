@@ -1,61 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".main.TilListFragment">
 
-    <LinearLayout
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         android:orientation="vertical"
-        android:layout_margin="@dimen/margin_32">
+        tools:listitem="@layout/recycler_til_list" />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/title_fragment_til"
-            android:textStyle="bold"
-            android:textSize="@dimen/textSize_28"
-            android:layout_marginBottom="@dimen/margin_32"/>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/margin_32">
-
-            <Button
-                android:id="@+id/btn_today"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="오늘로 돌아오기"
-                android:backgroundTint="#C4C4C4"/>
-
-            <Button
-                android:id="@+id/btn_day"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:backgroundTint="#C4C4C4"
-                android:layout_marginLeft="@dimen/margin_16"/>
-        </LinearLayout>
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recycler_box"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-            android:orientation="horizontal"
-            tools:listitem="@layout/recycler_til_box"
-            android:layout_marginBottom="@dimen/margin_32"/>
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recycler_list"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-            android:orientation="vertical"
-            tools:listitem="@layout/recycler_til_list" />
-    </LinearLayout>
 </FrameLayout>

@@ -14,10 +14,10 @@ class HomeFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = FragmentHomeBinding.inflate(inflater, container, false)
         binding.apply {
-            // todo : add datas
+            // todo : add dates
             dataset.apply {
                 if (isEmpty()){
                     for (a in 0..5){

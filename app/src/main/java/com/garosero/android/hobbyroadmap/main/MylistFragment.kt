@@ -15,12 +15,12 @@ class MylistFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = FragmentMylistBinding.inflate(inflater, container, false)
 
         // todo : input data
         dataset.clear()
-        var items1 = mutableListOf<RoadmapItem>()
+        val items1 = mutableListOf<RoadmapItem>()
         items1.apply {
             for (i in 0..3) {
                 add(RoadmapItem(title = "roadmapTitle1", timelimit = "time limit1"))
@@ -28,7 +28,7 @@ class MylistFragment : Fragment() {
             dataset.add(CategoryItem(title = "title1", items1))
         }
 
-        var items2 = mutableListOf<RoadmapItem>()
+        val items2 = mutableListOf<RoadmapItem>()
         items2.apply {
             for (i in 0..5) {
                 add(RoadmapItem(title = "roadmapTitle2", timelimit = "time limit2"))

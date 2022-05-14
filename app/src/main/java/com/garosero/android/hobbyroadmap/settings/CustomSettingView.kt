@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.settings
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.content.res.TypedArray
 import android.util.AttributeSet
@@ -9,19 +10,22 @@ import android.widget.*
 import com.garosero.android.hobbyroadmap.R
 
 class CustomSettingView: LinearLayout {
-    lateinit var layout: LinearLayout
-    lateinit var tvKey: TextView
-    lateinit var tvValue: TextView
-    lateinit var switch: Switch
-    lateinit var button: Button
+    private lateinit var layout: LinearLayout
+    private lateinit var tvKey: TextView
+    private lateinit var tvValue: TextView
+    @SuppressLint("UseSwitchCompatOrMaterialCode")
+    private lateinit var switch: Switch
+    private lateinit var button: Button
 
     constructor(context: Context?) : super(context){
         connector(context, null)
     }
+    @SuppressLint("CustomViewStyleable")
     constructor(context: Context?, attrs: AttributeSet?) : super(context, attrs){
         val typedArray = context?.obtainStyledAttributes(attrs,R.styleable.SettingsItem)
         connector(context, typedArray)
     }
+    @SuppressLint("CustomViewStyleable")
     constructor(context: Context?, attrs: AttributeSet?, defStyleAttr: Int) :
             super(context, attrs, defStyleAttr){
         val typedArray = context?.obtainStyledAttributes(attrs,R.styleable.SettingsItem,defStyleAttr,0)
@@ -31,15 +35,19 @@ class CustomSettingView: LinearLayout {
     private fun connector(context:Context?, typedArray : TypedArray?){
         val type = typedArray?.getText(R.styleable.SettingsItem_type)
         type?:return
-        if (type.equals("switch")){
-            initSwitch(context)
-            setTypeArraySwitch(typedArray)
-        } else if (type.equals("imageButton")){
-            initImageButton(context)
-            setTypeArrayImageButton(typedArray)
-        } else {
-            initTextView(context)
-            setTypeArrayTextView(typedArray)
+        when (type) {
+            "switch" -> {
+                initSwitch(context)
+                setTypeArraySwitch(typedArray)
+            }
+            "imageButton" -> {
+                initImageButton(context)
+                setTypeArrayImageButton(typedArray)
+            }
+            else -> {
+                initTextView(context)
+                setTypeArrayTextView(typedArray)
+            }
         }
     }
 

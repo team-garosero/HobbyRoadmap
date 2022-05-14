@@ -13,14 +13,12 @@ import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
 import java.time.LocalDate
 
 /**
- * Adapter for the [RecyclerView] in [TilListFragment].
+ * Adapter for the [RecyclerView] in [TilParentFragment].
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TilBoxAdapter(
-    var dataSet: MutableList<LocalDate>,
-    var focusDate: LocalDate) :
-    RecyclerView.Adapter<TilBoxAdapter.ViewHolder>() {
+class TiBoxAdapter(val model : TilViewModel) :
+    RecyclerView.Adapter<TiBoxAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = RecyclerTilBoxBinding.inflate(
@@ -40,13 +38,12 @@ class TilBoxAdapter(
 
         fun bind(date: LocalDate){
             binding.apply {
-
                 // If there is a record, the background color changes.
                 val src = getBgColorSrc(date)
                 layout.background.setTint(ContextCompat.getColor(itemView.context, src))
 
                 // Changes the icon of items representing focus-day's records.
-                if (date.equals(focusDate)){
+                if (date == focusDate()){
                     ivFocus.visibility = View.VISIBLE
                 } else {
                     ivFocus.visibility = View.INVISIBLE
@@ -62,34 +59,25 @@ class TilBoxAdapter(
 
     // on click interface
     interface OnItemClickListener{
-        fun onItemClick(data: LocalDate)
+        fun onItemClick(localDate: LocalDate)
     }
     private var listener : OnItemClickListener? = null
     fun setOnItemClickListener(listener : OnItemClickListener) {
         this.listener = listener
     }
 
-    // submit data
-    fun submitFocusDate(submitDate : LocalDate){
-        focusDate = submitDate
-        notifyDataSetChanged()
-    }
-
-    fun submitDateList(submitDataSet: MutableList<LocalDate>){
-        dataSet = submitDataSet
-        notifyDataSetChanged()
-    }
+    // control data
+    var dataSet = model.getLocaleDateList()
+    private fun focusDate() = model.focusDate.value!!
 
     // bgColor
-    private val model = TilViewModel()
     fun getBgColorSrc(date: LocalDate) : Int{
-        val count = model.getDailyData(date).size
-        when (count) {
-            0 -> return R.color.tilBox_g0
-            1 -> return R.color.tilBox_g1
-            2 -> return R.color.tilBox_g2
-            3 -> return R.color.tilBox_g3
-            else -> return R.color.tilBox_g4
+        return when (model.getDailyData(date).size) {
+            0 -> R.color.tilBox_g0
+            1 -> R.color.tilBox_g1
+            2 -> R.color.tilBox_g2
+            3 -> R.color.tilBox_g3
+            else -> R.color.tilBox_g4
         }
     }
 }

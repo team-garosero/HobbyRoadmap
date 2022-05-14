@@ -12,10 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HobbyRoadmap">
         <activity
-            android:name=".til.TilActivity"
-            android:exported="false"
-            android:label="@string/title_activity_til"/>
-        <activity
             android:name=".notice.NoticeActivity"
             android:exported="false"
             android:label="@string/title_activity_notice" />

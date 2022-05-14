@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/til_navigation"
+    app:startDestination="@id/tilListFragment">
+    <fragment
+        android:id="@+id/tilListFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.TilListFragment"
+        android:label="fragment_til_list"
+        tools:layout="@layout/fragment_til_list" >
+        <action
+            android:id="@+id/action_tilListFragment_to_tilItemFragment"
+            app:destination="@id/tilItemFragment"
+            app:popUpTo="@id/tilItemFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/tilItemFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.TilItemFragment"
+        android:label="fragment_til_item"
+        tools:layout="@layout/fragment_til_item" >
+        <action
+            android:id="@+id/action_tilItemFragment_to_tilListFragment"
+            app:destination="@id/tilListFragment"
+            app:popUpTo="@id/tilListFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+</navigation>

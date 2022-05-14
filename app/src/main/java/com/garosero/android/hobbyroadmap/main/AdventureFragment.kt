@@ -12,7 +12,7 @@ class AdventureFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = FragmentAdventureBinding.inflate(inflater, container, false)
 
         binding.btnInfo.setOnClickListener {

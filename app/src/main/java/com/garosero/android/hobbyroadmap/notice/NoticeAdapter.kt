@@ -7,14 +7,14 @@ import com.garosero.android.hobbyroadmap.data.NoticeItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerNoticeBinding
 
 /**
- * Adapter for the [RecyclerView] in [NoticeFragment].
+ * Adapter for the [RecyclerView] in [NoticeActivity].
  */
 
 class NoticeAdapter(
         var dataset : MutableList<NoticeItem> = mutableListOf())
     : RecyclerView.Adapter<NoticeAdapter.ViewHolder>(){
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NoticeAdapter.ViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = RecyclerNoticeBinding.inflate(
                 LayoutInflater.from(parent.context),
                 parent,
@@ -23,7 +23,7 @@ class NoticeAdapter(
     }
 
     override fun getItemCount(): Int = dataset.size
-    override fun onBindViewHolder(holder: NoticeAdapter.ViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.bind(dataset[position])
     }
 
@@ -36,5 +36,10 @@ class NoticeAdapter(
                 tvDate.text = item.date.toString()
             }
         }
+    }
+
+    fun removeData(pos : Int){
+        dataset.removeAt(pos)
+        notifyItemRemoved(pos)
     }
 }
