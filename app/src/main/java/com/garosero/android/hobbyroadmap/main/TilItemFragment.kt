@@ -19,7 +19,7 @@ class TilItemFragment : Fragment() {
 
         // onclick
         with(binding){
-            btnCancel.setOnClickListener {
+            btnDelete.setOnClickListener {
                 view.findNavController().navigate(R.id.action_tilItemFragment_to_tilListFragment)
             }
             btnSave.setOnClickListener {

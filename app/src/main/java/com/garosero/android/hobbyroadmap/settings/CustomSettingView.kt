@@ -7,14 +7,17 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.*
+import androidx.appcompat.widget.SwitchCompat
 import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.main.MainActivity
 
 class CustomSettingView: LinearLayout {
     private lateinit var layout: LinearLayout
     private lateinit var tvKey: TextView
     private lateinit var tvValue: TextView
+    private lateinit var tvSwitchText: TextView
     @SuppressLint("UseSwitchCompatOrMaterialCode")
-    private lateinit var switch: Switch
+    private lateinit var switch: SwitchCompat
     private lateinit var button: Button
 
     constructor(context: Context?) : super(context){
@@ -85,6 +88,7 @@ class CustomSettingView: LinearLayout {
 
         layout = findViewById(R.id.layout)
         tvKey = findViewById(R.id.tv_key)
+        tvSwitchText = findViewById(R.id.tv_switch_text)
         switch = findViewById(R.id.switch_value)
     }
 
@@ -93,11 +97,9 @@ class CustomSettingView: LinearLayout {
         val keyString = typedArray.getText(R.styleable.SettingsItem_keyString)
         tvKey.text = keyString
 
-        // switch
-        setSwitchText()
-        switch.setOnClickListener {
-            setSwitchText()
-        }
+        // switch text
+        tvSwitchText.text = switchText()
+        switch.setOnClickListener { tvSwitchText.text = switchText() }
 
         // layout onclick
         layout.setOnClickListener {
@@ -107,10 +109,7 @@ class CustomSettingView: LinearLayout {
         typedArray.recycle()
     }
 
-    private fun setSwitchText(){
-        if (switch.isChecked) switch.text = switch.textOn
-        else switch.text = switch.textOff
-    }
+    private fun switchText() : String  = if (switch.isChecked) "설정됨" else "설정안됨"
 
     // type3
     private fun initImageButton(context:Context?){
@@ -128,7 +127,7 @@ class CustomSettingView: LinearLayout {
         tvKey.text = keyString
 
         // layout onclick
-        layout.setOnClickListener {
+        button.setOnClickListener {
             listener?.onItemClick(it)
         }
 

@@ -42,7 +42,6 @@ class SettingsActivity : AppCompatActivity() {
                 }
             }
         })
-
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {

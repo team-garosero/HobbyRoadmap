@@ -33,12 +33,12 @@
             android:layout_gravity="right">
 
             <Button
-                android:id="@+id/btn_cancel"
+                android:id="@+id/btn_delete"
                 android:layout_width="80dp"
                 android:layout_height="40dp"
                 android:background="@drawable/til_act_button"
                 android:backgroundTint="#7F8FA4"
-                android:text="취소"
+                android:text="삭제"
                 android:textColor="@color/white"
                 android:textStyle="bold"
                 android:textSize="14sp"

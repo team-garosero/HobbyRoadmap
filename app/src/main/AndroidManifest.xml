@@ -14,11 +14,11 @@
         <activity
             android:name=".notice.NoticeActivity"
             android:exported="false"
-            android:label="@string/title_activity_notice" />
+            android:label="" />
         <activity
             android:name=".settings.SettingsActivity"
             android:exported="false"
-            android:label="@string/title_activity_settings" />
+            android:label="" />
         <activity
             android:name=".syllabus.SyllabusActivity"
             android:exported="true" />
