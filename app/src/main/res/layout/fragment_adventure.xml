@@ -143,9 +143,11 @@
 
         <!-- progress -->
         <ProgressBar
+            android:progress="10"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="32dp"
             android:layout_margin="@dimen/margin_32"
+            android:progressDrawable="@drawable/adv_progressbar"
             style="@android:style/Widget.ProgressBar.Horizontal"/>
 
         <RelativeLayout
