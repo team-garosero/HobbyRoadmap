@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="horizontal">
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    android:background="@drawable/til_bg_list"
+    android:layout_marginBottom="@dimen/margin_32">
 
     <TextView
+        android:layout_margin="@dimen/margin_8"
         android:id="@+id/tv_title"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="@dimen/textSize_20"/>
 
 </LinearLayout>

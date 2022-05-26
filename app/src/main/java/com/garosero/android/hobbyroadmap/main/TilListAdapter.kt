@@ -7,20 +7,18 @@ import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerTilListBinding
+import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
+import java.time.LocalDate
 
 /**
- * Adapter for the [RecyclerView] in [TilFragment].
+ * Adapter for the [RecyclerView] in [TilParentFragment].
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TilListAdapter(var dataSet: MutableList<TilItem>) :
+class TilListAdapter(model: TilViewModel) :
     RecyclerView.Adapter<TilListAdapter.ViewHolder>() {
 
-    // submit data
-    fun submitData(dataSet: MutableList<TilItem>){
-        this.dataSet = dataSet
-        notifyDataSetChanged()
-    }
+    var dataSet = model.getDailyData()
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = RecyclerTilListBinding.inflate(
@@ -42,7 +40,25 @@ class TilListAdapter(var dataSet: MutableList<TilItem>) :
             binding.apply {
                 // todo : item
                 tvTitle.text = item.content
+                layout.setOnClickListener {
+                    listener?.onItemClick(item)
+                }
             }
         }
+    }
+
+    // on click interface
+    interface OnItemClickListener{
+        fun onItemClick(item: TilItem)
+    }
+    private var listener : OnItemClickListener? = null
+    fun setOnItemClickListener(listener : OnItemClickListener) {
+        this.listener = listener
+    }
+
+    // submit data
+    fun submitData(date: LocalDate){
+        val model = TilViewModel()
+        dataSet = model.getDailyData(date)
     }
 }

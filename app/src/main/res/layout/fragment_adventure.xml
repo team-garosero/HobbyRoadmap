@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -9,64 +10,160 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_margin="@dimen/margin_32">
+        android:orientation="vertical">
+
+        <!-- head -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_32">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_fragment_adventure"
+                android:textSize="@dimen/textSize_28"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/btn_info"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/adv_ic_info" />
+        </RelativeLayout>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:id="@+id/tv_explain"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/title_fragment_adventure"
             android:layout_marginBottom="@dimen/margin_32"
-            android:textStyle="bold"
-            android:textSize="@dimen/textSize_28"/>
+            android:layout_marginRight="@dimen/margin_32"
+            android:layout_marginLeft="@dimen/margin_32"
+            android:padding="@dimen/margin_8"
+            android:background="#EFF0FD"
+            android:visibility="gone"/>
 
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="?android:attr/listDivider" />
+
+        <!-- character tag -->
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="@dimen/margin_32">
+
+            <LinearLayout
+                android:id="@+id/lifebar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/adv_bg_nametag"
+                android:gravity="center"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:paddingStart="@dimen/margin_8"
+                android:paddingEnd="@dimen/margin_8">
+
+                <ImageView
+                    android:id="@+id/iv_life1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/adv_life_empty"
+                    android:paddingEnd="@dimen/margin_2"/>
+
+                <ImageView
+                    android:id="@+id/iv_life2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxWidth="50dp"
+                    android:src="@drawable/adv_life_empty"
+                    android:paddingEnd="@dimen/margin_2"/>
+
+                <ImageView
+                    android:id="@+id/iv_life3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/adv_life_empty" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/name_box"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/adv_bg_nametag"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toStartOf="@+id/lifebar"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:background="@drawable/adv_bg_nametag">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_margin="2dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/adv_cat_box" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="@dimen/margin_8"
+                    android:text="캐릭터 이름"
+                    android:textSize="@dimen/textSize_20"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <!-- character box -->
         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:background="@drawable/adv_bg_character"
+            android:layout_marginRight="@dimen/margin_32"
+            android:layout_marginLeft="@dimen/margin_32">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/adv_cat"
+                android:padding="@dimen/margin_32"/>
+        </LinearLayout>
+
+        <!-- progress -->
+        <ProgressBar
+            android:progress="10"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:layout_margin="@dimen/margin_32"
+            android:progressDrawable="@drawable/adv_progressbar"
+            style="@android:style/Widget.ProgressBar.Horizontal"/>
+
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:weightSum="5">
-
-            <include
-                layout="@layout/item_character_name"
-                android:layout_weight="3"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_marginRight="@dimen/margin_16"/>
-
-            <include
-                layout="@layout/item_life_bar"
-                android:layout_weight="2"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"/>
-        </LinearLayout>
-        
-        <LinearLayout
-            android:layout_marginTop="@dimen/margin_32"
-            android:layout_width="match_parent"
-            android:layout_height="320dp"
-            android:background="@drawable/round_box"/>
-
-        <ProgressBar
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            style="@android:style/Widget.ProgressBar.Horizontal"
-            android:layout_marginTop="@dimen/margin_24"/>
-
-        <androidx.constraintlayout.widget.ConstraintLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/margin_16"
-            android:layout_marginBottom="@dimen/margin_16"
-            android:orientation="horizontal">
+            android:layout_marginLeft="@dimen/margin_32"
+            android:layout_marginRight="@dimen/margin_32"
+            android:layout_marginBottom="@dimen/margin_32">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Lv. N"
                 android:textSize="@dimen/textSize_20"
-                android:textStyle="bold"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/textView"
@@ -75,10 +172,8 @@
                 android:text="800/1500"
                 android:textSize="@dimen/textSize_16"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
-        </androidx.constraintlayout.widget.ConstraintLayout>
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
 
     </LinearLayout>
 </FrameLayout>

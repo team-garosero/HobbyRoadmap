@@ -7,7 +7,11 @@
         android:bottomRightRadius="@dimen/margin_8"
         android:topLeftRadius="@dimen/margin_8"
         android:topRightRadius="@dimen/margin_8" />
+
+    <solid
+        android:color="#E5E5E5"/>
+
     <stroke
-        android:width="@dimen/margin_4"
-        android:color="@color/stroke_color"/>
+        android:width="@dimen/margin_2"
+        android:color="#79747E"/>
 </shape>

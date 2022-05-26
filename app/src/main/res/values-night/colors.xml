@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- text color -->
-    <color name="text_color">#FFFFFFFF</color>
+    <!--<color name="text_color">#FFFFFFFF</color>-->
 
     <!-- icon color -->
-    <color name="icon_color">#FFFFFFFF</color>
+    <!--<color name="icon_color">#FFFFFFFF</color>-->
 
     <!-- stroke color -->
-    <color name="stroke_color">#FFFFFFFF</color>
+    <!--<color name="stroke_color">#FFFFFFFF</color>-->
 </resources>

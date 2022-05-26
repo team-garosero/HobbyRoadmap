@@ -1,11 +1,7 @@
 package com.garosero.android.hobbyroadmap.syllabus;
 
 import android.os.Bundle;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.ImageButton;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
@@ -19,9 +15,7 @@ public class SyllabusActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_syllabus);
 
-        findViewById(R.id.bt_back_challenge).setOnClickListener(view -> {
-            finish();
-        });
+        findViewById(R.id.bt_back_challenge).setOnClickListener(view -> {finish();});
 
         replaceFragment(new RoadmapFragment());
     }

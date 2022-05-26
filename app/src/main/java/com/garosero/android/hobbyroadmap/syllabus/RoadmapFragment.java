@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.syllabus;
 
+import android.app.Activity;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -26,6 +27,11 @@ public class RoadmapFragment extends Fragment {
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         SyllabusParentAdapter syllabusParentAdapter = new SyllabusParentAdapter();
         recyclerView.setAdapter(syllabusParentAdapter);
+
+        root.findViewById(R.id.btn_lookfor).setOnClickListener(view -> {
+            Activity activity = getActivity();
+            if (activity!=null) activity.finish();
+        });
 
         return root;
     }

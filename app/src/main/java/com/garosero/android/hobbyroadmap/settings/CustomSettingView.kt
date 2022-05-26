@@ -1,30 +1,34 @@
 package com.garosero.android.hobbyroadmap.settings
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.content.res.TypedArray
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
-import android.widget.ImageButton
-import android.widget.LinearLayout
-import android.widget.Switch
-import android.widget.TextView
+import android.widget.*
+import androidx.appcompat.widget.SwitchCompat
 import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.main.MainActivity
 
 class CustomSettingView: LinearLayout {
-    lateinit var layout: LinearLayout
-    lateinit var tvKey: TextView
-    lateinit var tvValue: TextView
-    lateinit var switch: Switch
-    lateinit var imageButton: ImageButton
+    private lateinit var layout: LinearLayout
+    private lateinit var tvKey: TextView
+    private lateinit var tvValue: TextView
+    private lateinit var tvSwitchText: TextView
+    @SuppressLint("UseSwitchCompatOrMaterialCode")
+    private lateinit var switch: SwitchCompat
+    private lateinit var button: Button
 
     constructor(context: Context?) : super(context){
         connector(context, null)
     }
+    @SuppressLint("CustomViewStyleable")
     constructor(context: Context?, attrs: AttributeSet?) : super(context, attrs){
         val typedArray = context?.obtainStyledAttributes(attrs,R.styleable.SettingsItem)
         connector(context, typedArray)
     }
+    @SuppressLint("CustomViewStyleable")
     constructor(context: Context?, attrs: AttributeSet?, defStyleAttr: Int) :
             super(context, attrs, defStyleAttr){
         val typedArray = context?.obtainStyledAttributes(attrs,R.styleable.SettingsItem,defStyleAttr,0)
@@ -34,15 +38,19 @@ class CustomSettingView: LinearLayout {
     private fun connector(context:Context?, typedArray : TypedArray?){
         val type = typedArray?.getText(R.styleable.SettingsItem_type)
         type?:return
-        if (type.equals("switch")){
-            initSwitch(context)
-            setTypeArraySwitch(typedArray)
-        } else if (type.equals("imageButton")){
-            initImageButton(context)
-            setTypeArrayImageButton(typedArray)
-        } else {
-            initTextView(context)
-            setTypeArrayTextView(typedArray)
+        when (type) {
+            "switch" -> {
+                initSwitch(context)
+                setTypeArraySwitch(typedArray)
+            }
+            "imageButton" -> {
+                initImageButton(context)
+                setTypeArrayImageButton(typedArray)
+            }
+            else -> {
+                initTextView(context)
+                setTypeArrayTextView(typedArray)
+            }
         }
     }
 
@@ -80,6 +88,7 @@ class CustomSettingView: LinearLayout {
 
         layout = findViewById(R.id.layout)
         tvKey = findViewById(R.id.tv_key)
+        tvSwitchText = findViewById(R.id.tv_switch_text)
         switch = findViewById(R.id.switch_value)
     }
 
@@ -88,11 +97,9 @@ class CustomSettingView: LinearLayout {
         val keyString = typedArray.getText(R.styleable.SettingsItem_keyString)
         tvKey.text = keyString
 
-        // switch
-        setSwitchText()
-        switch.setOnClickListener {
-            setSwitchText()
-        }
+        // switch text
+        tvSwitchText.text = switchText()
+        switch.setOnClickListener { tvSwitchText.text = switchText() }
 
         // layout onclick
         layout.setOnClickListener {
@@ -102,19 +109,16 @@ class CustomSettingView: LinearLayout {
         typedArray.recycle()
     }
 
-    private fun setSwitchText(){
-        if (switch.isChecked) switch.text = switch.textOn
-        else switch.text = switch.textOff
-    }
+    private fun switchText() : String  = if (switch.isChecked) "설정됨" else "설정안됨"
 
     // type3
     private fun initImageButton(context:Context?){
-        val view = LayoutInflater.from(context).inflate(R.layout.custom_ibn,this,false)
+        val view = LayoutInflater.from(context).inflate(R.layout.custom_btn,this,false)
         addView(view)
 
         layout = findViewById(R.id.layout)
         tvKey = findViewById(R.id.tv_key)
-        imageButton = findViewById(R.id.ibn_value)
+        button = findViewById(R.id.btn_value)
     }
 
     private fun setTypeArrayImageButton(typedArray : TypedArray){
@@ -123,7 +127,7 @@ class CustomSettingView: LinearLayout {
         tvKey.text = keyString
 
         // layout onclick
-        layout.setOnClickListener {
+        button.setOnClickListener {
             listener?.onItemClick(it)
         }
 

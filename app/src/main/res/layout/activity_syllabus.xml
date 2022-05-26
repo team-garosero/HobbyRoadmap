@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -12,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:background="@drawable/ic_baseline_keyboard_backspace_24"
+        android:background="@drawable/syll_ic_back"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
 
@@ -32,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:id="@+id/iv_participants"
-        android:background="@drawable/ic_participants"
+        android:background="@drawable/syll_ic_participants"
         app:layout_constraintTop_toBottomOf="@id/tv_roadmap_title"
         app:layout_constraintStart_toStartOf="@id/tv_roadmap_title"/>
 
@@ -53,7 +54,7 @@
         android:layout_height="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="5dp"
-        android:background="@drawable/ic_check_box"
+        android:background="@drawable/syll_check_box"
         app:layout_constraintTop_toBottomOf="@id/tv_participants"
         app:layout_constraintEnd_toStartOf="@id/tv_percentage"/>
 
@@ -73,7 +74,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="5dp"
         android:id="@+id/iv_time_left"
-        android:background="@drawable/ic_timelapse"
+        android:background="@drawable/syll_ic_timelapse"
         app:layout_constraintTop_toBottomOf="@id/tv_participants"
         app:layout_constraintEnd_toStartOf="@id/tv_time_left"/>
 
@@ -101,7 +102,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/rv_level"
         android:layout_marginTop="16dp"
-        app:layout_constraintTop_toBottomOf="@id/iv_line" />
+        app:layout_constraintTop_toBottomOf="@id/iv_line"
+        tools:listitem="@layout/recycler_syllabus_parent"/>
 
     <!-- fragment_community / fragment_roadmap-->
     <FrameLayout
