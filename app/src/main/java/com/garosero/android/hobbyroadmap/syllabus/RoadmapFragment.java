@@ -4,9 +4,11 @@ import android.app.Activity;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -28,11 +30,16 @@ public class RoadmapFragment extends Fragment {
         SyllabusParentAdapter syllabusParentAdapter = new SyllabusParentAdapter();
         recyclerView.setAdapter(syllabusParentAdapter);
 
+        // btn_lookfor -> community frag
         root.findViewById(R.id.btn_lookfor).setOnClickListener(view -> {
-            Activity activity = getActivity();
-            if (activity!=null) activity.finish();
+            replaceFragment(new CommunityFragment());
         });
 
         return root;
+    }
+
+    public void replaceFragment(Fragment fragment){
+        FragmentTransaction fragmentTransaction = getActivity().getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.frameLayout, fragment).commit();
     }
 }

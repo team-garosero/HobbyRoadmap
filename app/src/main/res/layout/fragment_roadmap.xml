@@ -3,21 +3,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/frameLayout"
     tools:context=".syllabus.RoadmapFragment">
 
     <!-- recyclerview syllabus parent -->
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/rv_syllabus" />
+        android:id="@+id/rv_syllabus"
+        tools:listitem="@layout/recycler_syllabus_parent"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
         android:layout_margin="25dp"
         android:id="@+id/btn_lookfor"
         android:background="@drawable/syll_btn_fill"
-        android:layout_gravity="bottom|center_horizontal"
-        android:text="둘러보러 가기" />
+        android:text="둘러보러 가기"
+        android:layout_gravity="center|bottom"/>
 
 </FrameLayout>
