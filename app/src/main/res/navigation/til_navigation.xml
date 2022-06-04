@@ -7,7 +7,7 @@
     app:startDestination="@id/tilListFragment">
     <fragment
         android:id="@+id/tilListFragment"
-        android:name="com.garosero.android.hobbyroadmap.main.TilListFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.til.TilListFragment"
         android:label="fragment_til_list"
         tools:layout="@layout/fragment_til_list" >
         <action
@@ -18,7 +18,7 @@
     </fragment>
     <fragment
         android:id="@+id/tilItemFragment"
-        android:name="com.garosero.android.hobbyroadmap.main.TilItemFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.til.TilItemFragment"
         android:label="fragment_til_item"
         tools:layout="@layout/fragment_til_item" >
         <action

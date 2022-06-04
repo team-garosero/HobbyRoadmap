@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.main
+package com.garosero.android.hobbyroadmap.main.adventure
 
 import android.os.Bundle
 import android.view.LayoutInflater
