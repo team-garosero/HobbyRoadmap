@@ -21,7 +21,7 @@ class TilViewModel : ViewModel() {
         val count = (date.dayOfYear).mod(5)
         val list = mutableListOf<TilItem>()
         for (i in 0 until count){
-            list.add(TilItem(date = date, content = "content $i"))
+            //list.add(TilItem(date = date, content = "content $i"))
         }
         return list
     }
