@@ -4,6 +4,7 @@ import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.data.TilItem
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
@@ -16,14 +17,19 @@ class TilViewModel : ViewModel() {
         focusDate.value = LocalDate.now()
     }
 
-    // todo : getData
+    /*
+    todo : til 구조를 변경
+    데이터를 여러번 fetch 하지 않도록 수정해야 함.
+     */
     fun getDailyData(date:LocalDate = focusDate.value!!):MutableList<TilItem>{
-        val count = (date.dayOfYear).mod(5)
-        val list = mutableListOf<TilItem>()
-        for (i in 0 until count){
-            //list.add(TilItem(date = date, content = "content $i"))
+        val data = mutableListOf<TilItem>()
+        AppApplication.tilArraylist.forEach {
+            if(it.date.equals(dateStringYMD(date))) {
+                data.add(it)
+            }
         }
-        return list
+
+        return data
     }
 
     fun getLocaleDateList(date: LocalDate = focusDate.value!!) : MutableList<LocalDate>{
@@ -35,6 +41,6 @@ class TilViewModel : ViewModel() {
     }
 
     fun dateStringYMD(date: LocalDate = focusDate.value!!): String{
-        return date.format(DateTimeFormatter.ofPattern("yyyy/MM/dd"))
+        return date.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
     }
 }

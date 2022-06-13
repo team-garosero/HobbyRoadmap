@@ -23,7 +23,7 @@ class MylistFragment : Fragment() {
         val items1 = mutableListOf<RoadmapItem>()
         items1.apply {
             for (i in 0..3) {
-                add(RoadmapItem(title = "roadmapTitle1", timelimit = "time limit1"))
+                add(RoadmapItem(title = "roadmapTitle1"))
             }
             dataset.add(CategoryItem(title = "title1", items1))
         }
@@ -31,7 +31,7 @@ class MylistFragment : Fragment() {
         val items2 = mutableListOf<RoadmapItem>()
         items2.apply {
             for (i in 0..5) {
-                add(RoadmapItem(title = "roadmapTitle2", timelimit = "time limit2"))
+                add(RoadmapItem(title = "roadmapTitle2"))
             }
             dataset.add(CategoryItem(title = "title2", items2))
         }

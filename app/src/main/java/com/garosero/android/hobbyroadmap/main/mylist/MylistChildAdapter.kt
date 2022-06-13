@@ -33,7 +33,7 @@ class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
         fun bind(item : RoadmapItem){
             binding.apply {
                 tvTitle.text = item.title
-                tvDate.text = item.timelimit
+                tvDate.text = item.timelimit.toString()
                 tvPercentage.text = "${item.percentage}%"
                 layout.setOnClickListener {
                     // goto SyllabusActivity

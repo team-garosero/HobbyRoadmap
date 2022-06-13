@@ -23,8 +23,7 @@ class HomeFragment : Fragment() {
                     for (a in 0..5){
                         add(RoadmapItem(
                             title = "title",
-                            desc = "설명이 들어갈 자리",
-                            timelimit = "2022-12-31"))
+                            desc = "설명이 들어갈 자리"))
                     }
                 }
             }
