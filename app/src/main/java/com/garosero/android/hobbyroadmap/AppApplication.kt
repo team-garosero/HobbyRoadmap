@@ -4,10 +4,8 @@ import android.app.Application
 import android.util.Log
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.data.TilItem
-import com.garosero.android.hobbyroadmap.request.BaseRequest
-import com.garosero.android.hobbyroadmap.request.RequestListener
-import com.garosero.android.hobbyroadmap.request.RoadmapRequest
-import com.garosero.android.hobbyroadmap.request.TilItemRequest
+import com.garosero.android.hobbyroadmap.data.UserData
+import com.garosero.android.hobbyroadmap.request.*
 import java.util.*
 import kotlin.collections.ArrayList
 
@@ -17,6 +15,7 @@ class AppApplication : Application() {
     companion object {
         open var tilArraylist = ArrayList<TilItem>()
         open var roadmapMutableMap = mutableMapOf<String, RoadmapItem>()
+        open var userData = UserData()
 
         /**
          * 실행되고 있는 리쿼스트 tag 를 저장
@@ -29,6 +28,7 @@ class AppApplication : Application() {
     override fun onCreate() {
         super.onCreate()
 
+        initUserRequest()
         initTilRequest()
         initRoadmapRequest()
     }
@@ -70,6 +70,22 @@ class AppApplication : Application() {
 
         // 한번만 호출하는 코드이므로, 추후에 외부에서 호출 가능하도록 처리해야 할 수 있다.
         registerRequest(roadmapRequest)
+    }
+
+    private fun initUserRequest(){
+        val userDataRequest = UserDataRequest()
+        if (requestPool.contains(userDataRequest.TAG)) return
+
+        userDataRequest.setListener(object : RequestListener() {
+            override fun onRequestSuccess(data: Object) {
+                userData = data as UserData
+
+                unRegisterRequest(userDataRequest)
+                Log.e(TAG, userData.toString())
+            }
+        })
+
+        registerRequest(userDataRequest)
     }
 
     //----------------------------------------------------------------------
