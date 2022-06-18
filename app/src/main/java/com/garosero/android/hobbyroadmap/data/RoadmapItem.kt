@@ -5,6 +5,5 @@ data class RoadmapItem(
     var desc : String="", // 로드맵 전체 설명
     var timelimit : Int = 0,
     var percentage : Int = 0, // 0~100
-    var subContentMap : MutableMap<String, SubContentItem> = mutableMapOf(),
     var roadmapID : String = ""
 )

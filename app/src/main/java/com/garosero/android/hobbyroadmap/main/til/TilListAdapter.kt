@@ -7,7 +7,7 @@ import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerTilListBinding
-import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
+import com.garosero.android.hobbyroadmap.main.viewmodels.TilViewModel
 import java.time.LocalDate
 
 /**

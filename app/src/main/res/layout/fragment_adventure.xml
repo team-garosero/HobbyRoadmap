@@ -106,6 +106,7 @@
                     android:background="@drawable/adv_bg_nametag">
 
                     <ImageView
+                        android:id="@+id/iv_preview"
                         android:layout_width="50dp"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
@@ -115,13 +116,14 @@
                 </LinearLayout>
 
                 <TextView
+                    android:id="@+id/tv_character_name"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="32dp"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:padding="@dimen/margin_8"
+                    android:layout_margin="8dp"
                     android:text="캐릭터 이름"
-                    android:textSize="@dimen/textSize_20"
+                    android:textSize="20sp"
                     android:textStyle="bold" />
             </LinearLayout>
 
@@ -135,6 +137,7 @@
             android:layout_marginRight="@dimen/margin_32"
             android:layout_marginLeft="@dimen/margin_32">
             <ImageView
+                android:id="@+id/iv_full"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:src="@drawable/adv_cat"
@@ -143,12 +146,12 @@
 
         <!-- progress -->
         <ProgressBar
-            android:progress="10"
+            android:id="@+id/pg_xp"
+            style="@android:style/Widget.ProgressBar.Horizontal"
             android:layout_width="match_parent"
             android:layout_height="32dp"
             android:layout_margin="@dimen/margin_32"
-            android:progressDrawable="@drawable/adv_progressbar"
-            style="@android:style/Widget.ProgressBar.Horizontal"/>
+            android:progressDrawable="@drawable/adv_progressbar" />
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -159,20 +162,21 @@
             android:layout_marginBottom="@dimen/margin_32">
 
             <TextView
+                android:id="@+id/tv_level"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Lv. N"
                 android:textSize="@dimen/textSize_20"
-                android:textStyle="bold"/>
+                android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/textView"
+                android:id="@+id/tv_character_xp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
                 android:text="800/1500"
                 android:textSize="@dimen/textSize_16"
-                android:textStyle="bold"
-                android:layout_alignParentRight="true"/>
+                android:textStyle="bold" />
         </RelativeLayout>
 
     </LinearLayout>

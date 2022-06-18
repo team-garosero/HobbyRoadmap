@@ -7,6 +7,7 @@ import com.garosero.android.hobbyroadmap.network.request.RequestListener
 import com.garosero.android.hobbyroadmap.network.request.RoadmapRequest
 import com.garosero.android.hobbyroadmap.network.request.TilRequest
 import com.garosero.android.hobbyroadmap.network.request.UserRequest
+import com.garosero.android.hobbyroadmap.network.response._CategoryResponse
 import com.garosero.android.hobbyroadmap.network.response._UserResponse
 import com.garosero.android.hobbyroadmap.network.response._RoadmapResponse
 import com.garosero.android.hobbyroadmap.network.response._TilResponse
@@ -14,9 +15,11 @@ import com.garosero.android.hobbyroadmap.network.response._TilResponse
 class AppApplication : Application() {
     private val TAG = "AppApplication"
 
-    var tilData = mutableMapOf<String, _TilResponse>()
-    var roadmapData = mutableMapOf<String, _RoadmapResponse>()
-    var userData = _UserResponse()
+    companion object {
+        var tilData = mutableMapOf<String, _TilResponse>()
+        var categoryData = mutableMapOf<String, _CategoryResponse>()
+        var userData = _UserResponse()
+    }
 
     override fun onCreate() {
         super.onCreate()
@@ -30,21 +33,21 @@ class AppApplication : Application() {
             request(TilRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
                     tilData = data as MutableMap<String, _TilResponse>
-                    Log.e(TAG, tilData.toString())
+                    //Log.e(TAG, tilData.toString())
                 }
             })
 
             request(UserRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
                     userData = data as _UserResponse
-                    Log.e(TAG, userData.toString())
+                    //Log.e(TAG, userData.toString())
                 }
             })
 
             request(RoadmapRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
-                    roadmapData = data as MutableMap<String, _RoadmapResponse>
-                    Log.e(TAG, roadmapData.toString())
+                    categoryData = data as MutableMap<String, _CategoryResponse>
+                    //Log.e(TAG, categoryData.toString())
                 }
             })
         }
