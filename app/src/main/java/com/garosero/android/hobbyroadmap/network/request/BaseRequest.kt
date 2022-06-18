@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.request
+package com.garosero.android.hobbyroadmap.network.request
 
 /**
  * 모든 request는 이 클래스를 상속 받도록 함

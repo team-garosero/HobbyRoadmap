@@ -23,11 +23,6 @@ class TilViewModel : ViewModel() {
      */
     fun getDailyData(date:LocalDate = focusDate.value!!):MutableList<TilItem>{
         val data = mutableListOf<TilItem>()
-        AppApplication.tilArraylist.forEach {
-            if(it.date.equals(dateStringYMD(date))) {
-                data.add(it)
-            }
-        }
 
         return data
     }

@@ -1,11 +1,10 @@
-package com.garosero.android.hobbyroadmap.request
+package com.garosero.android.hobbyroadmap.network.request
 
-import android.provider.ContactsContract
 import android.util.Log
-import com.garosero.android.hobbyroadmap.data.CategoryItem
-import com.garosero.android.hobbyroadmap.data.CourseItem
-import com.garosero.android.hobbyroadmap.data.RoadmapItem
-import com.garosero.android.hobbyroadmap.data.SubContentItem
+import com.garosero.android.hobbyroadmap.network.response._CategoryResponse
+import com.garosero.android.hobbyroadmap.network.response._CourseResponse
+import com.garosero.android.hobbyroadmap.network.response._RoadmapResponse
+import com.garosero.android.hobbyroadmap.network.response._SubContentResponse
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.FirebaseDatabase
 
@@ -26,15 +25,15 @@ class RoadmapRequest : BaseRequest() {
         .child(DATA_PATH)
         .get()
         .addOnSuccessListener {
-            val categoryItem = parsingCategory(it)
-            mlistener?.onRequestSuccess(categoryItem as Object)
+
+            val result = parsingCategory(it)
+            mlistener?.onRequestSuccess(result as Object)
         }
         .addOnFailureListener {
             Log.e(TAG, it.toString())
             mlistener?.onRequestFail()
         }
     }
-
     /*
     파싱하는 데이터의 깊이가 깊어서, 함수를 나누어 구성해둠
     추후에 데이터 구조가 변경되면 해당하는 함수를 변경해야 한다.
@@ -61,41 +60,41 @@ class RoadmapRequest : BaseRequest() {
             - roadmapID1
             - roadmapID2...
      */
-    private fun parsingCategory(it : DataSnapshot) : MutableMap<String, CategoryItem> {
-        val categoryMap = mutableMapOf<String, CategoryItem>()
+    private fun parsingCategory(it : DataSnapshot) : MutableMap<String, _CategoryResponse> {
+        val categoryMap = mutableMapOf<String, _CategoryResponse>()
         try {
             it.children.forEach {
-                val categoryItem = it.getValue(CategoryItem::class.java) ?: CategoryItem()
-                categoryItem.roadmapMap = parsingRoadmap(it)
-                categoryItem.categoryID = it.key.toString()
-                categoryMap.put(it.key.toString(), categoryItem)
+                val category = it.getValue(_CategoryResponse::class.java) ?: _CategoryResponse()
+                category.roadmapMap = parsingRoadmap(it)
+                category.categoryID = it.key.toString()
+                categoryMap.put(it.key.toString(), category)
             }
         } catch (error : Exception){}
 
         return categoryMap
     }
 
-    private fun parsingRoadmap(it : DataSnapshot) : MutableMap<String, RoadmapItem> {
-        val roadmapMap = mutableMapOf<String, RoadmapItem>()
+    private fun parsingRoadmap(it : DataSnapshot) : MutableMap<String, _RoadmapResponse> {
+        val roadmapMap = mutableMapOf<String, _RoadmapResponse>()
 
         try {
             it.children.forEach {
-                val roadmapItem = it.getValue(RoadmapItem::class.java) ?: RoadmapItem()
-                roadmapItem.subContentMap = parsingSubContent(it)
-                roadmapItem.roadmapID = it.key.toString()
-                roadmapMap.put(it.key.toString(), roadmapItem)
+                val roadmap = it.getValue(_RoadmapResponse::class.java) ?: _RoadmapResponse()
+                roadmap.subContentMap = parsingSubContent(it)
+                roadmap.roadmapID = it.key.toString()
+                roadmapMap.put(it.key.toString(), roadmap)
             }
         } catch (e : Exception){}
 
         return roadmapMap
     }
 
-    private fun parsingSubContent(it : DataSnapshot) : MutableMap<String, SubContentItem> {
-        val subContentMap = mutableMapOf<String, SubContentItem>()
+    private fun parsingSubContent(it : DataSnapshot) : MutableMap<String, _SubContentResponse> {
+        val subContentMap = mutableMapOf<String, _SubContentResponse>()
 
         try {
             it.children.forEach {
-                val subContentItem = it.getValue(SubContentItem::class.java) ?: SubContentItem()
+                val subContentItem = it.getValue(_SubContentResponse::class.java) ?: _SubContentResponse()
                 subContentItem.courseMap = parsingCourse(it)
                 subContentItem.subContentID = it.key.toString()
                 subContentMap.put(it.key.toString(), subContentItem)
@@ -105,13 +104,13 @@ class RoadmapRequest : BaseRequest() {
         return subContentMap
     }
 
-    private fun parsingCourse(it : DataSnapshot) : MutableMap<String, CourseItem> {
-        val courseMap = mutableMapOf<String, CourseItem>()
+    private fun parsingCourse(it : DataSnapshot) : MutableMap<String, _CourseResponse> {
+        val courseMap = mutableMapOf<String, _CourseResponse>()
         try {
             it.children.forEach {
-                val courseItem = it.getValue(CourseItem::class.java) ?: CourseItem()
-                courseItem.courseID = it.key.toString()
-                courseMap.put(it.key.toString(), courseItem)
+                val course = it.getValue(_CourseResponse::class.java) ?: _CourseResponse()
+                course.courseID = it.key.toString()
+                courseMap.put(it.key.toString(), course)
             }
         } catch (e : Exception){}
 
