@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.main
+package com.garosero.android.hobbyroadmap.main.til
 
 import android.annotation.SuppressLint
 import android.app.DatePickerDialog
@@ -11,7 +11,7 @@ import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilParentBinding
-import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
+import com.garosero.android.hobbyroadmap.main.viewmodels.TilViewModel
 import java.time.LocalDate
 
 @RequiresApi(Build.VERSION_CODES.O)

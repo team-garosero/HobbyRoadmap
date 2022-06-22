@@ -1,9 +1,8 @@
-package com.garosero.android.hobbyroadmap.main
+package com.garosero.android.hobbyroadmap.main.til
 
 import android.annotation.SuppressLint
 import android.os.Build
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -14,6 +13,8 @@ import androidx.navigation.findNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilListBinding
+import com.garosero.android.hobbyroadmap.main.til.TilListAdapter
+import com.garosero.android.hobbyroadmap.main.til.TilParentFragment
 import java.time.LocalDate
 
 @RequiresApi(Build.VERSION_CODES.O)

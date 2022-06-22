@@ -1,21 +1,23 @@
-package com.garosero.android.hobbyroadmap.main
+package com.garosero.android.hobbyroadmap.main.home
 
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
-import com.garosero.android.hobbyroadmap.databinding.RecyclerMylistChildBinding
+import com.garosero.android.hobbyroadmap.databinding.RecyclerHomeBinding
 import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity
 
 /**
- * Adapter for the [RecyclerView] in [MylistParentAdapter].
+ * Adapter for the [RecyclerView] in [HomeFragment].
  */
 
-class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
-    : RecyclerView.Adapter<MylistChildAdapter.ViewHolder>() {
+class HomeAdapter(
+    var dataset : MutableList<RoadmapItem> = mutableListOf()) :
+    RecyclerView.Adapter<HomeAdapter.ViewHolder>() {
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = RecyclerMylistChildBinding.inflate(
+        val view = RecyclerHomeBinding.inflate(
             LayoutInflater.from(parent.context),
             parent,
             false)
@@ -27,14 +29,13 @@ class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
         holder.bind(dataset[position])
     }
 
-    inner class ViewHolder(private val binding : RecyclerMylistChildBinding)
+    class ViewHolder(private val binding : RecyclerHomeBinding)
         : RecyclerView.ViewHolder(binding.root){
 
-        fun bind(item : RoadmapItem){
+        fun bind(item: RoadmapItem){
             binding.apply {
                 tvTitle.text = item.title
-                tvDate.text = item.timelimit
-                tvPercentage.text = "${item.percentage}%"
+                tvDesc.text = item.desc
                 layout.setOnClickListener {
                     // goto SyllabusActivity
                     val intent = Intent(itemView.context, SyllabusActivity::class.java)

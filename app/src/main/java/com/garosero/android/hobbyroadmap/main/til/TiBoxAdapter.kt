@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap.main
+package com.garosero.android.hobbyroadmap.main.til
 
 import android.os.Build
 import android.view.LayoutInflater
@@ -9,7 +9,7 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.RecyclerTilBoxBinding
-import com.garosero.android.hobbyroadmap.viewmodels.TilViewModel
+import com.garosero.android.hobbyroadmap.main.viewmodels.TilViewModel
 import java.time.LocalDate
 
 /**
