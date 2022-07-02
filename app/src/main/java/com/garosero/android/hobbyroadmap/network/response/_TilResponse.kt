@@ -11,4 +11,7 @@ data class _TilResponse(
     var courseID : String = "",
     var content: String = "",
     var date: String = ""
-)
+){
+    var tilId : String = ""
+    private fun getTilID(){}
+}

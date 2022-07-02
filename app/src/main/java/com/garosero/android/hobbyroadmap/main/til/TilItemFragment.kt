@@ -7,12 +7,17 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilItemBinding
 import com.garosero.android.hobbyroadmap.main.viewmodels.TilViewModel
+import com.garosero.android.hobbyroadmap.network.NetworkFactory
+import com.garosero.android.hobbyroadmap.network.request.DeleteTilRequest
+import com.garosero.android.hobbyroadmap.network.request.RequestListener
+import com.garosero.android.hobbyroadmap.network.request.UpdateTilRequest
 
 @RequiresApi(Build.VERSION_CODES.O)
 class TilItemFragment : Fragment() {
@@ -41,30 +46,53 @@ class TilItemFragment : Fragment() {
             if (tilItem != null){
                 tvTitle.text = tilItem.title
                 tvDate.text = tilItem.date
-                tvContent.text = tilItem.content
+                tvContent.setText(tilItem.content)
             } // end if
 
             btnDelete.setOnClickListener {
-                model?.updateTilItemBeingEdited(null)
-                view?.findNavController()?.navigate(R.id.action_tilItemFragment_to_tilListFragment)
+                showAlertDialog(object : DialogInterface.OnClickListener{
+                    override fun onClick(dialog: DialogInterface?, which: Int) {
+                        val tilItem = model?.getTilItemBeingEdited()
+                        val tilId = tilItem?.tilId ?: return
+
+                        val deleteRequest = DeleteTilRequest(tilId)
+                        NetworkFactory.request(deleteRequest)
+
+                        model?.updateTilItemBeingEdited(null)
+                        view?.findNavController()?.navigate(R.id.action_tilItemFragment_to_tilListFragment)
+                    }
+                })
             }
             btnSave.setOnClickListener {
+                if (isEdited()){
+                    val tilItem = model?.getTilItemBeingEdited()
+                    val tilId = tilItem?.tilId ?: return@setOnClickListener
+                    val content = binding?.tvContent?.text ?: return@setOnClickListener
+
+                    val updateRequest = UpdateTilRequest(tilId, content.toString())
+                    NetworkFactory.request(updateRequest)
+
+                } // end if
+
                 model?.updateTilItemBeingEdited(null)
                 view?.findNavController()?.navigate(R.id.action_tilItemFragment_to_tilListFragment)
             }
         }
     }
 
-    private fun showAlertDialog() {
+    private fun showAlertDialog(listener : DialogInterface.OnClickListener) {
         val builder = AlertDialog.Builder(this.requireContext())
-        builder.setTitle("경고").setMessage("수정된 내용이 있습니다. 삭제하거나 저장해주세요.")
-        builder.setPositiveButton("yes", object : DialogInterface.OnClickListener{
-            override fun onClick(dialog: DialogInterface?, which: Int) {
-                dialog?.dismiss()
-            }
-        })
-
-        builder.create().show()
+        builder
+            .setTitle("경고")
+            .setMessage("기록이 삭제됩니다.")
+            .setPositiveButton("yes", listener)
+            .setNegativeButton("no", object : DialogInterface.OnClickListener{
+                override fun onClick(dialog: DialogInterface?, which: Int) {
+                    dialog?.dismiss()
+                }
+            })
+            .create()
+            .show()
     }
 
     private fun isEdited() : Boolean{

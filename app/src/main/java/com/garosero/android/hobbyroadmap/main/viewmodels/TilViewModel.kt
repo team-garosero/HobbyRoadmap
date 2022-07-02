@@ -1,12 +1,10 @@
 package com.garosero.android.hobbyroadmap.main.viewmodels
 
 import android.os.Build
-import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.garosero.android.hobbyroadmap.AppApplication
-import com.garosero.android.hobbyroadmap.data.CourseItem
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import java.time.LocalDate
@@ -25,7 +23,7 @@ class TilViewModel : ViewModel() {
 
     init {
         focusDate.value = LocalDate.now()
-        castToTilMap()
+        initTilMap()
     }
 
     /*
@@ -54,63 +52,17 @@ class TilViewModel : ViewModel() {
     }
 
     // cast response to data-model
-    private fun castToTilMap(){
+    fun initTilMap(){
         tilMap.clear()
         val response = AppApplication.tilData
 
         response.values.forEach {
-            val item = TilItem()
-
-            // 문자열 분해
-            try {
-                val token = it.courseID.split(" ")
-
-                with(item){
-                categoryID = token[0]
-                roadmapID = token[1]
-                subContentID = token[2]
-                courseID = token[3]
-
-                    val courseItem = getCourseItem(categoryID, roadmapID, subContentID, courseID)
-                    title = courseItem.title
-
-
-                }
-
-            } catch (e : Exception){
-                Log.e(TAG, e.stackTraceToString())
-            }
-
-            item.date = it.date
-            item.uid = it.uid
-            item.content = it.content
-
+            val item : TilItem = AppApplication.castHelper.tilResopnse_to_tilItem(it)
             if (tilMap.get(item.date)==null){
                 tilMap.put(item.date, mutableListOf())
+
             }
             tilMap.get(item.date)!!.add(item)
         }
-    }
-
-    fun getCourseItem(
-        categoryId : String,
-        roadmapId : String,
-        subContentId : String,
-        courseId : String
-    ) : CourseItem {
-        val courseResponse = AppApplication.categoryData[categoryId]?.
-            roadmapMap?.get(roadmapId)?.
-            subContentMap?.get(subContentId)?.
-            courseMap?.get(courseId)
-
-        val courseItem = CourseItem()
-        with(courseItem) {
-            xp = courseResponse?.xp ?: 0
-            title = courseResponse?.title ?: ""
-            order = courseResponse?.order ?: 0
-            desc = courseResponse?.desc ?: ""
-        }
-
-        return courseItem
     }
 }

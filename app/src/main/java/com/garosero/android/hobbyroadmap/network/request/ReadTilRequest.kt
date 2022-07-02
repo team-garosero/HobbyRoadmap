@@ -1,7 +1,11 @@
 package com.garosero.android.hobbyroadmap.network.request
 
 import android.util.Log
+import com.garosero.android.hobbyroadmap.AppApplication
+import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.error.CanNotFindUidError
 import com.garosero.android.hobbyroadmap.network.response.*
+import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
@@ -12,6 +16,8 @@ class ReadTilRequest : BaseRequest() {
     private val DATA_PATH = "TIL"
 
     override fun request() {
+        var uid = AppApplication().getUid()
+
         FirebaseDatabase.getInstance()
             .getReference(DATA_PATH)
             .addValueEventListener(object : ValueEventListener {
@@ -20,8 +26,11 @@ class ReadTilRequest : BaseRequest() {
 
                     snapshot.children.forEach {
                         val item = it.getValue(_TilResponse::class.java)
-                        val key = it.key.toString()
-                        answer.put(key, item as _TilResponse)
+
+                        if (item?.uid.equals(uid)) {
+                            item?.tilId = it.key.toString()
+                            answer.put(item?.tilId!!, item)
+                        } // end if
                     }
 
                     mlistener?.onRequestSuccess(answer as Object)

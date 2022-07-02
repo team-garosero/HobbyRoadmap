@@ -5,8 +5,10 @@ import com.garosero.android.hobbyroadmap.network.request.*
 class NetworkFactory {
 
     companion object {
-        fun request(baseRequest: BaseRequest, listener: RequestListener) {
-            baseRequest.setListener(listener)
+        fun request(baseRequest: BaseRequest, listener: RequestListener? = null) {
+            if(listener != null) {
+                baseRequest.setListener(listener)
+            }
             baseRequest.request()
         }
     }

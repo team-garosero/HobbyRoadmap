@@ -1,15 +1,19 @@
 package com.garosero.android.hobbyroadmap
 
 import android.app.Application
+import android.os.Build
 import android.util.Log
+import androidx.annotation.RequiresApi
+import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.error.CanNotFindUidError
+import com.garosero.android.hobbyroadmap.main.helper.CastHelper
+import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
-import com.garosero.android.hobbyroadmap.network.request.RequestListener
-import com.garosero.android.hobbyroadmap.network.request.ReadRoadmapRequest
-import com.garosero.android.hobbyroadmap.network.request.ReadTilRequest
-import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest
+import com.garosero.android.hobbyroadmap.network.request.*
 import com.garosero.android.hobbyroadmap.network.response._CategoryResponse
 import com.garosero.android.hobbyroadmap.network.response._UserResponse
 import com.garosero.android.hobbyroadmap.network.response._TilResponse
+import com.google.firebase.auth.FirebaseAuth
 
 class AppApplication : Application() {
     private val TAG = "AppApplication"
@@ -18,8 +22,13 @@ class AppApplication : Application() {
         var tilData = mutableMapOf<String, _TilResponse>()
         var categoryData = mutableMapOf<String, _CategoryResponse>()
         var userData = _UserResponse()
+
+        private var uid : String? = null
+
+        var castHelper = CastHelper()
     }
 
+    @RequiresApi(Build.VERSION_CODES.O)
     override fun onCreate() {
         super.onCreate()
 
@@ -50,5 +59,29 @@ class AppApplication : Application() {
                 }
             })
         }
+    }
+
+    fun getUid() : String{
+        if (uid!=null) return uid!!
+
+        var uid = FirebaseAuth.getInstance().currentUser?.uid
+        try {
+            if(uid == null) {
+                // 우선 throw error 던지도록 처리
+                throw CanNotFindUidError()
+            }
+        } catch (e : CanNotFindUidError){
+            /**
+             * 지금 uid 값이 안들어옴 나중에 여기 처리해야 함
+             */
+            uid = "M8mYC1eUs6RqEUrxTj7mARW3dK72"
+            Log.e(TAG, e.stackTraceToString())
+        }
+
+        return uid!!
+    }
+
+    fun updateUid(uid : String){
+        AppApplication.uid = uid
     }
 }

@@ -73,7 +73,7 @@ class TilParentFragment : Fragment() {
 
     private fun initLiveData(){
         val observer = Observer<LocalDate>{
-            binding.btnDay.text = DateHelper.changeDateToYYMMDD()
+            binding.btnDay.text = DateHelper.changeDateToYYMMDD(it)
             if (weeklyAdapter != null){
                 if (!weeklyAdapter!!.dataSet.contains(it))
                     weeklyAdapter?.dataSet = model.getLocaleDateList()
