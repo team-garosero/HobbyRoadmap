@@ -1,24 +1,29 @@
 package com.garosero.android.hobbyroadmap.main.viewmodels
 
 import android.os.Build
+import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.garosero.android.hobbyroadmap.AppApplication
+import com.garosero.android.hobbyroadmap.data.CourseItem
 import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import java.time.LocalDate
-import java.time.format.DateTimeFormatter
 
 @RequiresApi(Build.VERSION_CODES.O)
 class TilViewModel : ViewModel() {
+    private val TAG = "TilViewModel"
 
-    val focusDate : MutableLiveData<LocalDate>
-    var tilMap : MutableMap<String, MutableList<TilItem>>
+    val focusDate : MutableLiveData<LocalDate> = MutableLiveData()
+    private var tilMap : MutableMap<String, MutableList<TilItem>> = mutableMapOf()
+
+    /**
+     * til item fragment 에서 수정 중인 til 데이터
+     */
+    private val tilItemBeingEdited : MutableLiveData<TilItem> = MutableLiveData()
 
     init {
-        focusDate = MutableLiveData<LocalDate>()
-        tilMap = mutableMapOf()
-
         focusDate.value = LocalDate.now()
         castToTilMap()
     }
@@ -28,7 +33,7 @@ class TilViewModel : ViewModel() {
     데이터를 여러번 fetch 하지 않도록 수정해야 함.
      */
     fun getDailyData(date:LocalDate = focusDate.value!!):MutableList<TilItem>{
-        return tilMap.get(dateStringYMD(date)) ?: mutableListOf()
+        return tilMap.get(DateHelper.changeDateToYYMMDD(date)) ?: mutableListOf()
     }
 
     fun getLocaleDateList(date: LocalDate = focusDate.value!!) : MutableList<LocalDate>{
@@ -39,8 +44,13 @@ class TilViewModel : ViewModel() {
         return list
     }
 
-    fun dateStringYMD(date: LocalDate = focusDate.value!!): String{
-        return date.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
+    // til item fragment 에서 수정 중인 til 데이터
+    fun getTilItemBeingEdited() : TilItem? {
+        return tilItemBeingEdited.value
+    }
+
+    fun updateTilItemBeingEdited(tilItem : TilItem?){
+        tilItemBeingEdited.value = tilItem
     }
 
     // cast response to data-model
@@ -50,7 +60,27 @@ class TilViewModel : ViewModel() {
 
         response.values.forEach {
             val item = TilItem()
-            item.courseID = it.courseID
+
+            // 문자열 분해
+            try {
+                val token = it.courseID.split(" ")
+
+                with(item){
+                categoryID = token[0]
+                roadmapID = token[1]
+                subContentID = token[2]
+                courseID = token[3]
+
+                    val courseItem = getCourseItem(categoryID, roadmapID, subContentID, courseID)
+                    title = courseItem.title
+
+
+                }
+
+            } catch (e : Exception){
+                Log.e(TAG, e.stackTraceToString())
+            }
+
             item.date = it.date
             item.uid = it.uid
             item.content = it.content
@@ -60,5 +90,27 @@ class TilViewModel : ViewModel() {
             }
             tilMap.get(item.date)!!.add(item)
         }
+    }
+
+    fun getCourseItem(
+        categoryId : String,
+        roadmapId : String,
+        subContentId : String,
+        courseId : String
+    ) : CourseItem {
+        val courseResponse = AppApplication.categoryData[categoryId]?.
+            roadmapMap?.get(roadmapId)?.
+            subContentMap?.get(subContentId)?.
+            courseMap?.get(courseId)
+
+        val courseItem = CourseItem()
+        with(courseItem) {
+            xp = courseResponse?.xp ?: 0
+            title = courseResponse?.title ?: ""
+            order = courseResponse?.order ?: 0
+            desc = courseResponse?.desc ?: ""
+        }
+
+        return courseItem
     }
 }

@@ -17,8 +17,8 @@ import java.time.LocalDate
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TiBoxAdapter(val model : TilViewModel) :
-    RecyclerView.Adapter<TiBoxAdapter.ViewHolder>() {
+class TilBoxAdapter(val model : TilViewModel) :
+    RecyclerView.Adapter<TilBoxAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = RecyclerTilBoxBinding.inflate(

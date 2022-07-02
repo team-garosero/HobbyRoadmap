@@ -3,18 +3,16 @@ package com.garosero.android.hobbyroadmap.main.til
 import android.annotation.SuppressLint
 import android.os.Build
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.annotation.RequiresApi
+import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.navigation.findNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilListBinding
-import com.garosero.android.hobbyroadmap.main.til.TilListAdapter
-import com.garosero.android.hobbyroadmap.main.til.TilParentFragment
 import java.time.LocalDate
 
 @RequiresApi(Build.VERSION_CODES.O)
@@ -34,6 +32,7 @@ class TilListFragment : Fragment() {
         binding.recyclerList.adapter = adapter
         adapter.setOnItemClickListener(object : TilListAdapter.OnItemClickListener{
             override fun onItemClick(item: TilItem) {
+                model.updateTilItemBeingEdited(item)
                 view.findNavController().navigate(R.id.action_tilListFragment_to_tilItemFragment)
             }
         })

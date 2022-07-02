@@ -5,5 +5,4 @@ data class CourseItem(
     var title : String = "",
     var desc : String = "",
     var order : Int = 0,
-    var courseID : String = ""
 )
