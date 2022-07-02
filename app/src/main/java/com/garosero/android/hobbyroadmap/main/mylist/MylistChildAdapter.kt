@@ -2,6 +2,7 @@ package com.garosero.android.hobbyroadmap.main.mylist
 
 import android.content.Intent
 import android.view.LayoutInflater
+import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
@@ -33,13 +34,21 @@ class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
         fun bind(item : RoadmapItem){
             binding.apply {
                 tvTitle.text = item.title
-                tvDate.text = item.timelimit.toString()
+                tvDate.text = item.last_access
                 tvPercentage.text = "${item.percentage}%"
                 layout.setOnClickListener {
                     // goto SyllabusActivity
                     val intent = Intent(itemView.context, SyllabusActivity::class.java)
                     itemView.context.startActivity(intent)
                 }
+
+                /*// todo 이미지 링크 포함하도록 db 구조 변경
+                // 이미지가 없으면, 이미지뷰가 보이지 않도록 처리해두었음
+                if (item.imageLink == null){
+                    ivRoadmap.visibility = View.GONE
+                } else {
+                    ivRoadmap.visibility = View.VISIBLE
+                }*/
             }
         }
     }
