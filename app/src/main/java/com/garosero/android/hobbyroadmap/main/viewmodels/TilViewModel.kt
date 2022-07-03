@@ -5,7 +5,9 @@ import androidx.annotation.RequiresApi
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.garosero.android.hobbyroadmap.AppApplication
+import com.garosero.android.hobbyroadmap.data.CourseItem
 import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.main.helper.CastHelper
 import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import java.time.LocalDate
 
@@ -15,6 +17,7 @@ class TilViewModel : ViewModel() {
 
     val focusDate : MutableLiveData<LocalDate> = MutableLiveData()
     private var tilMap : MutableMap<String, MutableList<TilItem>> = mutableMapOf()
+    private var castHelper = CastHelper()
 
     /**
      * til item fragment 에서 수정 중인 til 데이터
@@ -57,8 +60,8 @@ class TilViewModel : ViewModel() {
         val response = AppApplication.tilData
 
         response.values.forEach {
-            val item : TilItem = AppApplication.castHelper.tilResopnse_to_tilItem(it)
-            if (tilMap.get(item.date)==null){
+            val item : TilItem = castHelper.tilResopnse_to_tilItem(it)
+            if (tilMap.get(item.date) == null){
                 tilMap.put(item.date, mutableListOf())
 
             }

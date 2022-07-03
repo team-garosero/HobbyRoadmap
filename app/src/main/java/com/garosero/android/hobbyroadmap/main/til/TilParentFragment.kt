@@ -10,7 +10,10 @@ import android.view.ViewGroup
 import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
+import androidx.navigation.findNavController
+import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilParentBinding
+import com.garosero.android.hobbyroadmap.main.helper.ActionConfig
 import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import com.garosero.android.hobbyroadmap.main.viewmodels.TilViewModel
 import java.time.LocalDate

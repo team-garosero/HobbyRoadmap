@@ -41,6 +41,39 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/ll_btn_create"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/margin_32"
+            android:layout_gravity="right">
+
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:background="@drawable/til_act_button"
+                android:backgroundTint="#7F8FA4"
+                android:text="취소"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:layout_marginRight="@dimen/margin_32"/>
+
+            <Button
+                android:id="@+id/btn_save"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:background="@drawable/til_act_button"
+                android:backgroundTint="#2E45B9"
+                android:text="저장"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="14sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_btn_update"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
@@ -60,12 +93,12 @@
                 android:layout_marginRight="@dimen/margin_32"/>
 
             <Button
-                android:id="@+id/btn_save"
+                android:id="@+id/btn_update"
                 android:layout_width="80dp"
                 android:layout_height="40dp"
                 android:background="@drawable/til_act_button"
                 android:backgroundTint="#2E45B9"
-                android:text="저장"
+                android:text="수정"
                 android:textColor="@color/white"
                 android:textStyle="bold"
                 android:textSize="14sp"/>

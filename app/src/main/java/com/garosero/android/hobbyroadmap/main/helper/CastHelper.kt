@@ -3,13 +3,11 @@ package com.garosero.android.hobbyroadmap.main.helper
 import android.util.Log
 import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.data.CourseItem
+import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.network.response._CategoryResponse
 import com.garosero.android.hobbyroadmap.network.response._TilResponse
 
-/**
- * 직접 클래스를 생성하지 말고,
- * AppApplication에 접근해서 사용해야 함
- */
 class CastHelper {
     private val TAG = "CastHelper"
 
@@ -69,13 +67,54 @@ class CastHelper {
 
         val courseItem = CourseItem()
         with(courseItem) {
+            this.courseId = courseId
             xp = courseResponse?.xp ?: 0
             title = courseResponse?.title ?: ""
             order = courseResponse?.order ?: 0
             desc = courseResponse?.desc ?: ""
+
         }
 
         return courseItem
     }
 
+    fun getRoadmapItem(
+        categoryId : String,
+        roadmapId : String
+    ) : RoadmapItem {
+        val response = AppApplication.categoryData[categoryId]?.roadmapMap?.get(roadmapId)
+
+        val roadmapItem = RoadmapItem()
+        with(roadmapItem){
+            this.categoryId = categoryId
+            this.roadmapId = roadmapId
+
+            title = response?.title ?: ""
+            desc = response?.desc ?: ""
+            timelimit = response?.timelimit ?: 0
+            percentage = response?.percentage ?: 0
+
+
+        }
+
+        return roadmapItem
+    }
+
+    fun getTilItemList(categoryId: String, roadmapId: String) : ArrayList<TilItem> {
+        val tilItemList = ArrayList<TilItem>()
+
+        AppApplication.tilData.forEach {
+            val tilResponse = it.value
+            val tilItem = tilResopnse_to_tilItem(tilResponse)
+
+            if (tilItem.categoryID.equals(categoryId) && tilItem.roadmapID.equals(roadmapId)) {
+                tilItemList.add(tilItem)
+            }
+        }
+        return tilItemList;
+    }
+
+    fun getCategoryItem(categoryId: String) : _CategoryResponse? {
+        return AppApplication.categoryData[categoryId]
+    }
 }

@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerHomeBinding
+import com.garosero.android.hobbyroadmap.main.helper.ActionConfig
 import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity
 
 /**
@@ -39,6 +40,8 @@ class HomeAdapter(
                 layout.setOnClickListener {
                     // goto SyllabusActivity
                     val intent = Intent(itemView.context, SyllabusActivity::class.java)
+                    intent.setAction(ActionConfig.ACTION_HOME_TO_ROADMAP)
+                    intent.putExtra(ActionConfig.ROADMAP_ITEM, item)
                     itemView.context.startActivity(intent)
                 }
             }

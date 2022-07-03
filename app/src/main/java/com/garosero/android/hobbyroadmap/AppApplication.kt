@@ -4,15 +4,15 @@ import android.app.Application
 import android.os.Build
 import android.util.Log
 import androidx.annotation.RequiresApi
-import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.error.CanNotFindUidError
-import com.garosero.android.hobbyroadmap.main.helper.CastHelper
-import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
-import com.garosero.android.hobbyroadmap.network.request.*
+import com.garosero.android.hobbyroadmap.network.request.ReadRoadmapRequest
+import com.garosero.android.hobbyroadmap.network.request.ReadTilRequest
+import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest
+import com.garosero.android.hobbyroadmap.network.request.RequestListener
 import com.garosero.android.hobbyroadmap.network.response._CategoryResponse
-import com.garosero.android.hobbyroadmap.network.response._UserResponse
 import com.garosero.android.hobbyroadmap.network.response._TilResponse
+import com.garosero.android.hobbyroadmap.network.response._UserResponse
 import com.google.firebase.auth.FirebaseAuth
 
 class AppApplication : Application() {
@@ -24,8 +24,6 @@ class AppApplication : Application() {
         var userData = _UserResponse()
 
         private var uid : String? = null
-
-        var castHelper = CastHelper()
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
@@ -81,6 +79,7 @@ class AppApplication : Application() {
         return uid!!
     }
 
+    // todo : 로그인 시 이 함수가 호출되어야 함.
     fun updateUid(uid : String){
         AppApplication.uid = uid
     }

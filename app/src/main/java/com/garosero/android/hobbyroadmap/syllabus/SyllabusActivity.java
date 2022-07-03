@@ -15,8 +15,7 @@ public class SyllabusActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_syllabus);
 
-        findViewById(R.id.bt_back_challenge).setOnClickListener(view -> {finish();});
-
+        findViewById(R.id.bt_back_challenge).setOnClickListener(view -> onBackPressed());
         replaceFragment(new RoadmapFragment());
     }
 

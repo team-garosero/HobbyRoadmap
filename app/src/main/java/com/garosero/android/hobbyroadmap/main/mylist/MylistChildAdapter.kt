@@ -5,8 +5,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.garosero.android.hobbyroadmap.data.CategoryItem
 import com.garosero.android.hobbyroadmap.data.RoadmapItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerMylistChildBinding
+import com.garosero.android.hobbyroadmap.main.helper.ActionConfig
 import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity
 
 /**
@@ -39,6 +41,8 @@ class MylistChildAdapter(var dataset : MutableList<RoadmapItem>)
                 layout.setOnClickListener {
                     // goto SyllabusActivity
                     val intent = Intent(itemView.context, SyllabusActivity::class.java)
+                    intent.setAction(ActionConfig.ACTION_MYLIST_TO_ROADMAP)
+                    intent.putExtra(ActionConfig.ROADMAP_ITEM, item)
                     itemView.context.startActivity(intent)
                 }
 
