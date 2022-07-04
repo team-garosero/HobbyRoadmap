@@ -25,7 +25,6 @@ class RoadmapRequest : BaseRequest() {
         .child(DATA_PATH)
         .get()
         .addOnSuccessListener {
-
             val result = parsingCategory(it)
             mlistener?.onRequestSuccess(result as Object)
         }

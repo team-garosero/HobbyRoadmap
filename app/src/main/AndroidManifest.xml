@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HobbyRoadmap"
-        android:name=".AppApplication">
+        android:name=".AppApplication"
+        android:usesCleartextTraffic="true">
 
         <activity
             android:name=".notice.NoticeActivity"

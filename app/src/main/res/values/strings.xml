@@ -17,4 +17,5 @@
     <!-- feedback -->
     <string name="feedback_email">example@ex.com</string>
     <string name="feedback_title">feedback_title</string>
+
 </resources>
