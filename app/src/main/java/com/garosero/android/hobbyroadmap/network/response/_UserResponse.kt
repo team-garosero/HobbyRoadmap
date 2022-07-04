@@ -9,6 +9,17 @@ data class _UserResponse(
     var life : Int = 0,
     var name : String = "",
     var nickname : String = "",
+
+    /**
+     * TODO
+     * 2022.07.03
+     * myCategory는 roadmap의 version2.
+     * category가 여러개 일때 roadmap 구조로는 category id를 알 수 없어서 우선 새로 만듦
+     * 논의 후 하나만 사용하도록 수정 필요
+     */
+    var myCategory : Map<String, _MyCategoryResponse> = mapOf(),
+    var roadmap : Map<String, _MyRoadmapResponse> = mapOf(),
+
     var token : String = "",
     var xp : Int = 0,
 )

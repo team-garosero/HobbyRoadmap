@@ -8,7 +8,7 @@ import com.garosero.android.hobbyroadmap.network.response._SubContentResponse
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.FirebaseDatabase
 
-class RoadmapRequest : BaseRequest() {
+class ReadRoadmapRequest : BaseRequest() {
     override val TAG = "ROADMAP_REQUEST"
     private val DATA_PATH = "Roadmap"
 

@@ -4,9 +4,9 @@ import android.app.Application
 import android.util.Log
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
 import com.garosero.android.hobbyroadmap.network.request.*
+
 import com.garosero.android.hobbyroadmap.network.response._CategoryResponse
 import com.garosero.android.hobbyroadmap.network.response._UserResponse
-import com.garosero.android.hobbyroadmap.network.response._RoadmapResponse
 import com.garosero.android.hobbyroadmap.network.response._TilResponse
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
@@ -41,21 +41,21 @@ class AppApplication : Application() {
             }
 
 
-            request(TilRequest(), object : RequestListener(){
+            request(ReadTilRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
                     tilData = data as MutableMap<String, _TilResponse>
                     //Log.e(TAG, tilData.toString())
                 }
             })
 
-            request(UserRequest(), object : RequestListener(){
+            request(ReadUserRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
                     userData = data as _UserResponse
                     //Log.e(TAG, userData.toString())
                 }
             })
 
-            request(RoadmapRequest(), object : RequestListener(){
+            request(ReadRoadmapRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
                     categoryData = data as MutableMap<String, _CategoryResponse>
                     //Log.e(TAG, categoryData.toString())

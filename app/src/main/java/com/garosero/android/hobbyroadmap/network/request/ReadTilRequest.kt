@@ -7,8 +7,8 @@ import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
 
-class TilRequest : BaseRequest() {
-    override val TAG = "TIL_REQUEST"
+class ReadTilRequest : BaseRequest() {
+    override val TAG = ReadTilRequest::javaClass.name
     private val DATA_PATH = "TIL"
 
     override fun request() {
