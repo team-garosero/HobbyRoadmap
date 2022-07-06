@@ -16,26 +16,17 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.HashMap;
 
-public class ApiRequest extends BaseRequest{
-    private final String API_KEY = "CLaq8zUYyGtiDmwvSX0dVOYdP10C7dBQzSXaV9j%2BW%2BErU5N0jzyAomUqqPnzBWCR8YggYr6%2FBEbCvksX2BQCsw%3D%3D";
-    String TAG = "ApiRequest";
-    HashMap<String, String> moduleMap = new HashMap<>();
+public class ApiRequest{
 
+    public static LClassItem lClass;
 
-    LClassItem lClass;
-
-    @Override
-    public String getTAG(){
-        return this.TAG;
-    }
-
-    @Override
-    public void request() {
+    public static void request(String lClassCd, String lClassNm) {
+        final String API_KEY = "CLaq8zUYyGtiDmwvSX0dVOYdP10C7dBQzSXaV9j%2BW%2BErU5N0jzyAomUqqPnzBWCR8YggYr6%2FBEbCvksX2BQCsw%3D%3D";
+        final String TAG = "ApiRequest";
 
         String moduleName = ""; //todo 혹시 쓸 수도 있다 &modulNm=사업
-        // todo 대분류코드ncsLclasCd는 외부에서 받아와야 함->유저가 화면에서 선택하면 넘어오는 것
         String queryUrl = "http://apis.data.go.kr/B490007/ncsStudyModule/openapi21?serviceKey="+API_KEY
-                +"&pageNo="+"1"+"&numOfRows="+"34"+"&returnType=xml"+"&ncsLclasCd="+"02"+moduleName;
+                +"&pageNo="+"1"+"&numOfRows="+"1600"+"&returnType=xml"+"&ncsLclasCd="+lClassCd+moduleName;
         try{
             URL url = new URL(queryUrl);
             InputStream is = url.openStream();
@@ -49,10 +40,9 @@ public class ApiRequest extends BaseRequest{
             xpp.next();
             int eventType= xpp.getEventType();
 
-            moduleMap = new HashMap<>();
+            HashMap<String, String> moduleMap = new HashMap<>();
 
-            // todo 대분류 코드/이름은 외부에서 받아오기
-            lClass = new LClassItem("01", "사업관리");
+            lClass = new LClassItem(lClassCd, lClassNm);
 
             while(eventType != XmlPullParser.END_DOCUMENT){
                 switch(eventType){
@@ -62,43 +52,46 @@ public class ApiRequest extends BaseRequest{
                     case XmlPullParser.START_TAG:
                         tag= xpp.getName();//get tag name
 
-                        if(tag.equals("row")) {
-                            moduleMap = new HashMap<>();
-                        }
-//                        else if(tag.equals("ncsLclasCd")){ // 대분류코드
-//                            xpp.next();
-//                            hashMap.put("LclassCode", xpp.getText());
-//                        } else if(tag.equals("ncsLclasCdnm")) { // 대분류코드명
-//                            xpp.next();
-//                            hashMap.put("LclassName", xpp.getText());
-//                        }
-                        else if(tag.equals("ncsMclasCd")){ // 중분류코드
-                            xpp.next();
-                            moduleMap.put("mClassCode", xpp.getText());
-                        } else if(tag.equals("ncsMclasCdnm")){ // 중분류코드명
-                            xpp.next();
-                            moduleMap.put("mClassName", xpp.getText());
-                        } else if(tag.equals("ncsSclasCd")){ // 소분류코드
-                            xpp.next();
-                            moduleMap.put("sClassCode", xpp.getText());
-                        }else if(tag.equals("ncsSclasCdnm")){ // 소분류코드명
-                            xpp.next();
-                            moduleMap.put("sClassName", xpp.getText());
-                        }else if(tag.equals("ncsSubdCd")){ // 세분류코드
-                            xpp.next();
-                            moduleMap.put("subClassCode", xpp.getText());
-                        }else if(tag.equals("ncsSubdCdnm")){ // 세분류코드명
-                            xpp.next();
-                            moduleMap.put("subClassName", xpp.getText());
-                        }else if(tag.equals("learnModulSeq")){ // 학습모듈번호
-                            xpp.next();
-                            moduleMap.put("moduleNum", xpp.getText());
-                        }else if(tag.equals("learnModulName")){ // 학습모듈명
-                            xpp.next();
-                            moduleMap.put("moduleName", xpp.getText());
-                        }else if(tag.equals("learnModulText")){ // 학습모듈내용
-                            xpp.next();
-                            moduleMap.put("moduleText", xpp.getText());
+                        switch (tag) {
+                            case "row":
+                                moduleMap = new HashMap<>();
+                                break;
+                            case "ncsMclasCd":  // 중분류코드
+                                xpp.next();
+                                moduleMap.put("mClassCode", xpp.getText());
+                                break;
+                            case "ncsMclasCdnm":  // 중분류코드명
+                                xpp.next();
+                                moduleMap.put("mClassName", xpp.getText());
+                                break;
+                            case "ncsSclasCd":  // 소분류코드
+                                xpp.next();
+                                moduleMap.put("sClassCode", xpp.getText());
+                                break;
+                            case "ncsSclasCdnm":  // 소분류코드명
+                                xpp.next();
+                                moduleMap.put("sClassName", xpp.getText());
+                                break;
+                            case "ncsSubdCd":  // 세분류코드
+                                xpp.next();
+                                moduleMap.put("subClassCode", xpp.getText());
+                                break;
+                            case "ncsSubdCdnm":  // 세분류코드명
+                                xpp.next();
+                                moduleMap.put("subClassName", xpp.getText());
+                                break;
+                            case "learnModulSeq":  // 학습모듈번호
+                                xpp.next();
+                                moduleMap.put("moduleNum", xpp.getText());
+                                break;
+                            case "learnModulName":  // 학습모듈명
+                                xpp.next();
+                                moduleMap.put("moduleName", xpp.getText());
+                                break;
+                            case "learnModulText":  // 학습모듈내용
+                                xpp.next();
+                                moduleMap.put("moduleText", xpp.getText());
+                                break;
                         }
                         break;
 
@@ -108,7 +101,7 @@ public class ApiRequest extends BaseRequest{
                     case XmlPullParser.END_TAG:
                         tag= xpp.getName();
                         if(tag.equals("row")) {
-                            parsingLClass();
+                            parsingLClass(moduleMap);
 //                            Log.d(TAG, hashMap.toString());
                         };
                         break;
@@ -122,25 +115,23 @@ public class ApiRequest extends BaseRequest{
 //        Log.d(TAG,lClass.toString()); // 파싱 결과 로그
     }
 
-    public void parsingLClass(){
+    public static void parsingLClass(HashMap<String, String> moduleMap){
         if(lClass.getmClassMap().get(moduleMap.get("mClassCode")) == null){
             lClass.getmClassMap().put(moduleMap.get("mClassCode"), new MClassItem(moduleMap.get("mClassName")));
         }
-
-        parsingMClass();
+        parsingMClass(moduleMap);
     }
 
-    public void parsingMClass(){
+    public static void parsingMClass(HashMap<String, String> moduleMap){
         if(lClass.getmClassMap().get(moduleMap.get("mClassCode"))
                 .getsClassMap().get(moduleMap.get("sClassCode")) == null){
             lClass.getmClassMap().get(moduleMap.get("mClassCode"))
                     .getsClassMap().put(moduleMap.get("sClassCode"), new SClassItem(moduleMap.get("sClassName")));
         }
-
-        parsingSClass();
+        parsingSClass(moduleMap);
     }
 
-    public void parsingSClass(){
+    public static void parsingSClass(HashMap<String, String> moduleMap){
         if(lClass.getmClassMap().get(moduleMap.get("mClassCode"))
                 .getsClassMap().get(moduleMap.get("sClassCode"))
                 .getSubClassMap().get(moduleMap.get("subClassCode")) == null){
@@ -148,17 +139,15 @@ public class ApiRequest extends BaseRequest{
                     .getsClassMap().get(moduleMap.get("sClassCode"))
                     .getSubClassMap().put(moduleMap.get("subClassCode"),new SubClassItem(moduleMap.get("subClassName")));
         }
-
-        parsingSubAndModule();
+        parsingSubAndModule(moduleMap);
     }
 
-    public void parsingSubAndModule(){
+    public static void parsingSubAndModule(HashMap<String, String> moduleMap){
         ModuleClassItem mc = new ModuleClassItem(moduleMap.get("moduleNum"), moduleMap.get("moduleName"), moduleMap.get("moduleText"));
 
         lClass.getmClassMap().get(moduleMap.get("mClassCode"))
                 .getsClassMap().get(moduleMap.get("sClassCode"))
                 .getSubClassMap().get(moduleMap.get("subClassCode"))
                 .getModuleClassMap().put(moduleMap.get("moduleNum"),mc);
-
     }
 }

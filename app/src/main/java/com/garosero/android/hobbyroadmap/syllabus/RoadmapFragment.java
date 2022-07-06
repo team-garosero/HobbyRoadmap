@@ -27,8 +27,7 @@ public class RoadmapFragment extends Fragment {
         recyclerView = root.findViewById(R.id.rv_syllabus);
 
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
-        SyllabusParentAdapter syllabusParentAdapter = new SyllabusParentAdapter();
-        recyclerView.setAdapter(syllabusParentAdapter);
+        recyclerView.setAdapter(new SyllabusChildAdapter());
 
         // btn_lookfor -> community frag
         root.findViewById(R.id.btn_lookfor).setOnClickListener(view -> {

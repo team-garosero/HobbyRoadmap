@@ -3,6 +3,7 @@ package com.garosero.android.hobbyroadmap.syllabus;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -19,19 +20,19 @@ public class CommunityAdapter extends RecyclerView.Adapter<CommunityAdapter.View
 
     @Override
     public void onBindViewHolder(@NonNull CommunityAdapter.ViewHolder holder, int position) {
-
+        holder.tv_content.setText(position+"cd");
     }
 
     @Override
     public int getItemCount() {
-        return 0;
+        return 30;
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
-
+        TextView tv_content;
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-
+            tv_content = itemView.findViewById(R.id.tv_content);
         }
     }
 }

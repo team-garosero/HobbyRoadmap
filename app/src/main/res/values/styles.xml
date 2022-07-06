@@ -11,4 +11,8 @@
         <item name="cornerSizeBottomLeft">10dp</item>
         <item name="cornerSizeBottomRight">0dp</item>
     </style>
+
+    <style name="Underline">
+        <item name="android:background">@drawable/search_underline</item>
+    </style>
 </resources>

@@ -23,25 +23,44 @@
         <entry key="app/src/main/res/drawable/ic_google_signin.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_outline_favorite_24.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/ic_search_path.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/iv_course_color.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/iv_syllabus.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/log_button_bg.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/log_et_bottom.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/log_et_middle.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/set_logout_btn.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/set_profile_bg.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/syll_btn_fill.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/til_act_button.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/til_act_edit.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/underline.xml" value="0.1905" />
         <entry key="app/src/main/res/layout/activity_account.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/activity_blank.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/activity_challenge.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.37599237789897805" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.23052536231884058" />
-        <entry key="app/src/main/res/layout/activity_syllabus.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/activity_syllabus.xml" value="0.35931411964305937" />
         <entry key="app/src/main/res/layout/fragment_adventure.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_community.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_mylist.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_roadmap.xml" value="0.22143707275390628" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.16725616455078127" />
+        <entry key="app/src/main/res/layout/fragment_search_list.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_syllabus.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/fragment_til.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/fragment_til_parent.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_profile.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_category.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_community.xml" value="0.13148148148148148" />
         <entry key="app/src/main/res/layout/recycler_mylist_child.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/recycler_mylist_parent.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_myroadmap.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/recycler_notice.xml" value="0.23052536231884058" />
+        <entry key="app/src/main/res/layout/recycler_search_list.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_syllabus_parent.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recycler_til_box.xml" value="0.23052536231884058" />
         <entry key="app/src/main/res/layout/recyclerview_cardview_commutity.xml" value="0.23052536231884058" />

@@ -29,7 +29,7 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
 
     @Override
     public int getItemCount() {
-        return 3;
+        return 15;
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
