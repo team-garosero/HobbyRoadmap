@@ -12,6 +12,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.garosero.android.hobbyroadmap.R;
 
+import java.util.ArrayList;
+
 public class SyllabusParentAdapter extends RecyclerView.Adapter<SyllabusParentAdapter.ViewHolder>{
     @NonNull
     @Override
@@ -28,7 +30,7 @@ public class SyllabusParentAdapter extends RecyclerView.Adapter<SyllabusParentAd
         }
 
         holder.recyclerView.setLayoutManager(new LinearLayoutManager(holder.recyclerView.getContext()));
-        holder.recyclerView.setAdapter(new SyllabusChildAdapter());
+        holder.recyclerView.setAdapter(new SyllabusChildAdapter(new ArrayList<>()));
     }
 
     @Override

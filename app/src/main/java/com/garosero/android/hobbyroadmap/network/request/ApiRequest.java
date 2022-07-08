@@ -19,6 +19,7 @@ import java.util.HashMap;
 public class ApiRequest{
 
     public static LClassItem lClass;
+    public static int moduleOrder = 0;
 
     public static void request(String lClassCd, String lClassNm) {
         final String API_KEY = "CLaq8zUYyGtiDmwvSX0dVOYdP10C7dBQzSXaV9j%2BW%2BErU5N0jzyAomUqqPnzBWCR8YggYr6%2FBEbCvksX2BQCsw%3D%3D";
@@ -138,6 +139,7 @@ public class ApiRequest{
             lClass.getmClassMap().get(moduleMap.get("mClassCode"))
                     .getsClassMap().get(moduleMap.get("sClassCode"))
                     .getSubClassMap().put(moduleMap.get("subClassCode"),new SubClassItem(moduleMap.get("subClassName")));
+            moduleOrder = 0;
         }
         parsingSubAndModule(moduleMap);
     }
@@ -148,6 +150,6 @@ public class ApiRequest{
         lClass.getmClassMap().get(moduleMap.get("mClassCode"))
                 .getsClassMap().get(moduleMap.get("sClassCode"))
                 .getSubClassMap().get(moduleMap.get("subClassCode"))
-                .getModuleClassMap().put(moduleMap.get("moduleNum"),mc);
+                .getModuleClassMap().put(String.valueOf(moduleOrder++),mc);
     }
 }

@@ -32,7 +32,6 @@ public class SearchAdapter extends FragmentStateAdapter {
             @Override
             public void onDataChange(int flag) {
 //                Log.d("SA Callback",flag+"");
-
                 onDataChange.onDataChange(flag);
             }
         });

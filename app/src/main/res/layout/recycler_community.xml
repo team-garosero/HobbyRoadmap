@@ -4,8 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginTop="16dp"
-    android:layout_marginStart="16dp"
-    android:layout_marginEnd="16dp"
     android:id="@+id/recyclerView_CardView"
     app:cardBackgroundColor="#E9EDF1"
     style="@style/CustomCardViewStyle">
@@ -16,12 +14,26 @@
         android:layout_margin="16dp">
 
         <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="HTML 기본적인 내용 알기"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/tv_content"/>
+
+        <TextView
             android:id="@+id/tv_content"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="wrap_content"
+            android:maxHeight="100dp"
             android:layout_marginBottom="16dp"
-            android:text="csdvsfvdnvklvnckvnkxvn kmlfv fkld"
-            app:layout_constraintTop_toTopOf="parent"
+            android:text="TIL 내용입니다. TIL 내용입니다. TIL 내용TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.입니다. TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다.TIL 내용입니다. TIL 내용입니다. TIL 내용입니다."
+            android:maxLines="5"
+            android:ellipsize="end"
+            app:layout_constraintTop_toBottomOf="@id/tv_title"
             app:layout_constraintBottom_toTopOf="@id/tv_nickname"/>
 
         <ImageView

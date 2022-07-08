@@ -6,24 +6,78 @@
     android:id="@+id/frameLayout"
     tools:context=".syllabus.RoadmapFragment">
 
-    <!-- recyclerview syllabus parent -->
-    <androidx.recyclerview.widget.RecyclerView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/rv_syllabus"
-        android:layout_marginTop="30dp"
-        android:layout_marginBottom="100dp"
-        android:layout_marginStart="40dp"
-        tools:listitem="@layout/recyler_course_child"/>
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginStart="20dp">
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:layout_margin="25dp"
-        android:id="@+id/btn_lookfor"
-        android:background="@drawable/syll_btn_fill"
-        android:text="둘러보러 가기"
-        android:layout_gravity="center|bottom"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_roadmap_title"
+            android:text="정보기술개발"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:id="@+id/tv_count"
+            android:text="학습모듈 30개"
+            android:textSize="10sp"
+            android:textColor="#636363"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:id="@+id/tv_percentage"
+            android:text="80%"
+            android:textSize="28sp"
+            android:textColor="#3249BB"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="20dp">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/bt_my_roadmap"
+                android:background="@drawable/ic_rectangle_my_roadmap"
+                android:text="내 로드맵"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/white" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/bt_community"
+                android:background="@drawable/ic_rectangle_community"
+                android:text="커뮤니티"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#0C0C0C" />
+
+
+        </LinearLayout>
+
+        <!-- recyclerview syllabus parent -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rv_syllabus"
+            android:layout_marginTop="30dp"
+            tools:listitem="@layout/recyler_course_child"/>
+
+    </LinearLayout>
+
 
 </FrameLayout>

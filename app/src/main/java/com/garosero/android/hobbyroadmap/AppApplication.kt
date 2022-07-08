@@ -31,16 +31,6 @@ class AppApplication : Application() {
          */
         with(NetworkFactory){
 
-//            // bobae todo : sample code 호출위치 바꿔야함, AppApplication에선 대분류 정보만 가져오기
-//            GlobalScope.launch(Dispatchers.IO){
-//                request(ApiRequest(), object : RequestListener(){
-//                    override fun onRequestSuccess(data: Object) {
-//                        Log.d(TAG, "success");
-//                    }
-//                })
-//            }
-
-
             request(ReadTilRequest(), object : RequestListener(){
                 override fun onRequestSuccess(data: Object) {
                     tilData = data as MutableMap<String, _TilResponse>

@@ -5,11 +5,79 @@
     android:layout_height="match_parent"
     tools:context=".syllabus.CommunityFragment">
 
-    <!-- recyclerview_community -->
-    <androidx.recyclerview.widget.RecyclerView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/rv_community"
-        tools:listitem="@layout/recycler_community"/>
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="15dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_community_title"
+                android:text="커뮤니티"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_roadmap_title"
+                android:layout_marginTop="3dp"
+                android:text="정보기술개발"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="15dp">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="13dp"
+                    android:id="@+id/iv_community"
+                    android:src="@drawable/syll_ic_participants" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv_count"
+                    android:layout_marginStart="5dp"
+                    android:text="12명이 참여하는 중입니다."
+                    android:textSize="10sp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_desc"
+            android:text="각 로드맵마다 커뮤니티가 있습니다. 커뮤니티는 해당 로드맵에 대해서 공부한 내용을 유저들끼리 공유할 수 있는 기능입니다. "
+            android:textSize="15sp"
+            android:background="@drawable/ic_rectangle_desc"
+            android:gravity="center_vertical"
+            android:padding="15dp"
+            android:layout_marginBottom="15dp"
+            android:visibility="gone"/>
+
+        <!-- recyclerview_community -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rv_community"
+            tools:listitem="@layout/recycler_community"/>
+
+    </LinearLayout>
+
 
 </FrameLayout>

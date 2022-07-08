@@ -26,7 +26,6 @@ import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
 import com.garosero.android.hobbyroadmap.syllabus.CommunityAdapter;
 import com.garosero.android.hobbyroadmap.syllabus.RoadmapFragment;
 import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity;
-import com.garosero.android.hobbyroadmap.syllabus.SyllabusParentAdapter;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 import com.google.firebase.database.DataSnapshot;
@@ -50,7 +49,7 @@ public class SearchFragment extends Fragment {
     TextView tv_path;
     String text = "";
 
-    public static ArrayList<String> classCd = new ArrayList<>();
+    public static ArrayList<String> classCd;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -61,6 +60,8 @@ public class SearchFragment extends Fragment {
         pager = root.findViewById(R.id.pager);
         adapter = new SearchAdapter(this);
         pager.setAdapter(adapter);
+        pager.setUserInputEnabled(false); // disable swipe
+        classCd = new ArrayList<>();
 
 //        Log.d("ClassCd",classCd.toString());
 
@@ -90,7 +91,11 @@ public class SearchFragment extends Fragment {
                 }
                 tv_path.setText(text);
                 if(classCd.size() == 4){
-                    startActivity(new Intent(getActivity(), SyllabusActivity.class));
+                    Intent intent = new Intent(getActivity(), SyllabusActivity.class);
+                    // deep copy
+                    ArrayList<String> classCd2 = new ArrayList<>(classCd);
+                    intent.putExtra("classCd",classCd2);
+                    startActivity(intent);
                 }
 //                Log.d("finnal class", classCd.toString());
 
@@ -98,7 +103,7 @@ public class SearchFragment extends Fragment {
             }
         });
 
-        // SearchAdapter -> this
+        // SearchAdapter -> SearchFragment
         adapter.setOnDataChangeListener(new SearchAdapter.OnDataChange() {
             @Override
             public void onDataChange(int flag) {
@@ -116,10 +121,39 @@ public class SearchFragment extends Fragment {
 
         new TabLayoutMediator(tabLayout, pager, new TabLayoutMediator.TabConfigurationStrategy() {
             @Override
-            public void onConfigureTab(@NonNull TabLayout.Tab tab, int position) {
+            public void onConfigureTab(@NonNull TabLayout.Tab tab, int position){
                 tab.setText(tabElements.get(position));
+                tab.view.setClickable(false);
             }
         }).attach();
+
+        //todo 하위분류 선택 후 다시 상위분류 선택하는 것 처리
+//        tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+//            @Override
+//            public void onTabSelected(TabLayout.Tab tab) {
+//                if(tab.getPosition() != classCd.size()){
+//                    for(int i = classCd.size()-1;tab.getPosition()==classCd.size();i--)
+//                        classCd.remove(i);
+//                    Log.d("SF tab selected",classCd.toString());
+//
+//                    if(pager.getAdapter() != null){
+//                        pager.setAdapter(null);
+//                    }
+//                    pager.setAdapter(adapter);
+//                    pager.setCurrentItem(tab.getPosition());
+//                }
+//            }
+//
+//            @Override
+//            public void onTabUnselected(TabLayout.Tab tab) { //selected실행될 때 그 전의 position이 들어옴
+//
+//            }
+//
+//            @Override
+//            public void onTabReselected(TabLayout.Tab tab) { // ㅎㅏㄴ번에 두번클릭됨
+//
+//            }
+//        });
 
         return root;
     }

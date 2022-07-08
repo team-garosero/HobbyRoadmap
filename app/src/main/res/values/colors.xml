@@ -29,4 +29,9 @@
 
     <!-- stroke color -->
     <color name="stroke_color">#000000</color>
+
+    <color name="roadmap_blue_1">#5970D2</color>
+
+    <color name="roadmap_blue_2">#ACBCFF</color>
+
 </resources>
