@@ -113,7 +113,7 @@ public class ApiRequest{
         } catch (Exception e){
             Log.e(TAG, Log.getStackTraceString(e));
         }
-//        Log.d(TAG,lClass.toString()); // 파싱 결과 로그
+        Log.d(TAG,lClass.toString()); // 파싱 결과 로그
     }
 
     public static void parsingLClass(HashMap<String, String> moduleMap){

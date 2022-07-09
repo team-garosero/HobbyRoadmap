@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/item_adventure"
-        android:name="com.garosero.android.hobbyroadmap.main.search.SearchFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.adventure.AdventureFragment"
         android:label="fragment_adventure"
         tools:layout="@layout/fragment_adventure" />
     <fragment
         android:id="@+id/item_home"
-        android:name="com.garosero.android.hobbyroadmap.main.home.HomeFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.search.SearchFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment

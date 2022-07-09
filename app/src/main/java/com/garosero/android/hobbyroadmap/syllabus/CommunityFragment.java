@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import com.garosero.android.hobbyroadmap.R;
@@ -20,6 +21,7 @@ public class CommunityFragment extends Fragment {
     View root;
     RecyclerView recyclerView;
     TextView tv_title, tv_community_title, tv_desc;
+    ImageButton bt_info;
     ArrayList<String> classCd;
 
     public CommunityFragment(ArrayList<String> classCd){
@@ -36,7 +38,8 @@ public class CommunityFragment extends Fragment {
         tv_title = root.findViewById(R.id.tv_roadmap_title);
         tv_desc = root. findViewById(R.id.tv_desc);
         tv_community_title = root.findViewById(R.id.tv_community_title);
-        tv_community_title.setOnClickListener(new View.OnClickListener() {
+        bt_info = root.findViewById(R.id.btn_info);
+        bt_info.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if(tv_desc.getVisibility() == View.VISIBLE) tv_desc.setVisibility(View.GONE);
