@@ -14,6 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.garosero.android.hobbyroadmap.data.AsteriskPasswordTransformationMethod;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
@@ -104,7 +105,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                             if (task.isSuccessful()) {
                                 uid = Objects.requireNonNull(firebaseAuth.getCurrentUser()).getUid();
                                 Log.d("LoginActivity","uid="+uid);
-                                Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                                Intent intent = new Intent(LoginActivity.this, ProgressActivity.class);
 
                                 ValueEventListener eventListener = new ValueEventListener() {
                                     @Override
@@ -210,7 +211,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                                         }
                                     });
 
-                            Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                            Intent intent = new Intent(LoginActivity.this, ProgressActivity.class);
                             startActivity(intent);
                         } else {
                             // If sign in fails, display a message to the user.

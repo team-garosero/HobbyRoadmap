@@ -1,4 +1,4 @@
-package com.garosero.android.hobbyroadmap
+package com.garosero.android.hobbyroadmap.helper
 
 import android.content.Context
 import android.util.Log

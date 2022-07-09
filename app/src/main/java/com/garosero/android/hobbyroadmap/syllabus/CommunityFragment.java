@@ -9,12 +9,24 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
+import android.widget.TextView;
 
 import com.garosero.android.hobbyroadmap.R;
+import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
+
+import java.util.ArrayList;
 
 public class CommunityFragment extends Fragment {
     View root;
     RecyclerView recyclerView;
+    TextView tv_title, tv_community_title, tv_desc;
+    ImageButton bt_info;
+    ArrayList<String> classCd;
+
+    public CommunityFragment(ArrayList<String> classCd){
+        this.classCd = classCd;
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -23,9 +35,24 @@ public class CommunityFragment extends Fragment {
         root = inflater.inflate(R.layout.fragment_community, container, false);
 
         recyclerView = root.findViewById(R.id.rv_community);
+        tv_title = root.findViewById(R.id.tv_roadmap_title);
+        tv_desc = root. findViewById(R.id.tv_desc);
+        tv_community_title = root.findViewById(R.id.tv_community_title);
+        bt_info = root.findViewById(R.id.btn_info);
+        bt_info.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if(tv_desc.getVisibility() == View.VISIBLE) tv_desc.setVisibility(View.GONE);
+                else tv_desc.setVisibility(View.VISIBLE);
+            }
+        });
 
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         recyclerView.setAdapter(new CommunityAdapter());
+
+        tv_title.setText(ApiRequest.lClass.getmClassMap().get(this.classCd.get(1))
+                .getsClassMap().get(this.classCd.get(2))
+                .getSubClassMap().get(this.classCd.get(3)).getName());
 
         return root;
     }
