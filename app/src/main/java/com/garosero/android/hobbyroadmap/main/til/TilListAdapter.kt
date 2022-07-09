@@ -15,7 +15,7 @@ import java.time.LocalDate
  */
 
 @RequiresApi(Build.VERSION_CODES.O)
-class TilListAdapter(model: TilViewModel) :
+class TilListAdapter(val model: TilViewModel) :
     RecyclerView.Adapter<TilListAdapter.ViewHolder>() {
 
     var dataSet = model.getDailyData()
@@ -58,7 +58,6 @@ class TilListAdapter(model: TilViewModel) :
 
     // submit data
     fun submitData(date: LocalDate){
-        val model = TilViewModel()
         dataSet = model.getDailyData(date)
     }
 }

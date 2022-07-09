@@ -2,7 +2,7 @@ package com.garosero.android.hobbyroadmap.network.request
 
 abstract class RequestListener {
 
-    abstract fun onRequestSuccess(data: Object)
+    abstract fun onRequestSuccess(data: Any)
 
     /**
      * 빈 함수로, 데이터 호출 실패시

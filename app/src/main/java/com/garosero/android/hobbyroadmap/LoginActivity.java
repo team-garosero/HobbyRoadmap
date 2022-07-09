@@ -16,6 +16,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.garosero.android.hobbyroadmap.data.AsteriskPasswordTransformationMethod;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
+import com.garosero.android.hobbyroadmap.network.NetworkFactory;
+import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest;
+import com.garosero.android.hobbyroadmap.network.request.RequestListener;
+import com.garosero.android.hobbyroadmap.network.response.UserResponse;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;

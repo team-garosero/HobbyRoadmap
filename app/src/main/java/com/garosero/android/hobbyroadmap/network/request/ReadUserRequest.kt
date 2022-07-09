@@ -1,7 +1,7 @@
 package com.garosero.android.hobbyroadmap.network.request
 
 import android.util.Log
-import com.garosero.android.hobbyroadmap.network.response._UserResponse
+import com.garosero.android.hobbyroadmap.network.response.UserResponse
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.FirebaseDatabase
 import java.lang.Exception
@@ -31,7 +31,7 @@ class ReadUserRequest : BaseRequest() {
             .child(uid!!)
             .get()
             .addOnSuccessListener {
-                val result = it.getValue(_UserResponse::class.java)
+                val result = it.getValue(UserResponse::class.java)
                 mlistener?.onRequestSuccess(result as Object)
             }
             .addOnFailureListener {

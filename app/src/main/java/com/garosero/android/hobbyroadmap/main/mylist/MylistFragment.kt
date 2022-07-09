@@ -17,7 +17,7 @@ class MylistFragment : Fragment() {
         val binding = FragmentMylistBinding.inflate(inflater, container, false)
         val model = MylistViewModel()
 
-        binding.recycler.adapter = MylistParentAdapter(model.categoryItemList)
+        //binding.recycler.adapter = MylistParentAdapter(model.categoryItemList)
         return binding.root
     }
 }

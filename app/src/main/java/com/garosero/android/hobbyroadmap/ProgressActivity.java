@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
@@ -13,6 +14,13 @@ import android.util.Log;
 import com.garosero.android.hobbyroadmap.data.LClassItem;
 import com.garosero.android.hobbyroadmap.helper.DBHelper;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
+import com.garosero.android.hobbyroadmap.network.NetworkFactory;
+import com.garosero.android.hobbyroadmap.network.request.ReadTilRequest;
+import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest;
+import com.garosero.android.hobbyroadmap.network.request.RequestListener;
+import com.garosero.android.hobbyroadmap.network.response.TilResponse;
+import com.garosero.android.hobbyroadmap.network.response.UserResponse;
+import com.google.firebase.auth.FirebaseAuth;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
@@ -21,6 +29,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.HashMap;
+import java.util.Map;
 
 //6-7초 소요
 public class ProgressActivity extends AppCompatActivity {
@@ -141,6 +150,16 @@ public class ProgressActivity extends AppCompatActivity {
                 }
 //                long after = System.currentTimeMillis();
 //                Log.d(TAG, (after - before) / 1000 + "");
+
+                // get user data
+                NetworkFactory.Companion.request(new ReadUserRequest(), new RequestListener() {
+                    @Override
+                    public void onRequestSuccess(@NonNull Object data) {
+                        AppApplication.Companion.setUserData((UserResponse) data);
+                        Log.e("ProgressActivity", data.toString());
+                    }
+                });
+
                 startActivity(new Intent(this, MainActivity.class));
                 finish();
 

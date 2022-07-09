@@ -16,12 +16,12 @@ class ReadTilRequest : BaseRequest() {
             .getReference(DATA_PATH)
             .addValueEventListener(object : ValueEventListener {
                 override fun onDataChange(snapshot: DataSnapshot) {
-                    val answer = mutableMapOf<String, _TilResponse>()
+                    val answer = mutableMapOf<String, TilResponse>()
 
                     snapshot.children.forEach {
-                        val item = it.getValue(_TilResponse::class.java)
+                        val item = it.getValue(TilResponse::class.java)
                         val key = it.key.toString()
-                        answer.put(key, item as _TilResponse)
+                        answer.put(key, item as TilResponse)
                     }
 
                     mlistener?.onRequestSuccess(answer as Object)

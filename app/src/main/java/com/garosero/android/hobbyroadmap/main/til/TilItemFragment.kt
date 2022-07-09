@@ -1,15 +1,17 @@
 package com.garosero.android.hobbyroadmap.main.til
 
+import android.os.Build
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
-import androidx.navigation.findNavController
-import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilItemBinding
 
-class TilItemFragment : Fragment() {
+@RequiresApi(Build.VERSION_CODES.O)
+class TilItemFragment(val tilItem : TilItem) : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -17,16 +19,31 @@ class TilItemFragment : Fragment() {
         val binding = FragmentTilItemBinding.inflate(layoutInflater)
         val view = binding.root
 
+        // init view
+        with(binding){
+            tvDate.text = tilItem.date
+            tvTitle.text = tilItem.moduleName
+            tvSubtitle.text = tilItem.moduleDesc
+            etContent.setText(tilItem.content)
+        }
+
         // onclick
         with(binding){
             btnDelete.setOnClickListener {
-                view.findNavController().navigate(R.id.action_tilItemFragment_to_tilListFragment)
+                moveToList()
+
             }
             btnSave.setOnClickListener {
-                view.findNavController().navigate(R.id.action_tilItemFragment_to_tilListFragment)
+                moveToList()
+
             }
         }
 
         return view
+    }
+
+    private fun moveToList(){
+        val parent : TilParentFragment  = parentFragment as TilParentFragment
+        parent.changeFragment(TilListFragment())
     }
 }

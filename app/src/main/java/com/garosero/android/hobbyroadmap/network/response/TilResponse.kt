@@ -6,9 +6,12 @@ package com.garosero.android.hobbyroadmap.network.response
  * 파싱할 때 사용한다.
  * 외부에서 직접 호출하지 않아야 한다.
  */
-data class _TilResponse(
+data class TilResponse(
     var uid : String = "",
-    var courseID : String = "",
     var content: String = "",
-    var date: String = ""
+    var date: String = "",
+
+    var moduleDesc : String = "",
+    var moduleName : String = "",
+    var modulePath : String = "",
 )
