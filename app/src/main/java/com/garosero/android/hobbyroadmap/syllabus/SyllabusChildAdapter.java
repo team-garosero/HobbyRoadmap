@@ -56,8 +56,15 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
             public void onClick(View view) {
                 // go to til write
                 Intent intent = new Intent(holder.itemView.getContext(), TilWriteActivity.class);
-                // todo 데이터 전달
+                intent.putExtra(TilWriteActivity.Companion.getLCLASSID(), classCd.get(0));
+                intent.putExtra(TilWriteActivity.Companion.getMCLASSID(), classCd.get(1));
+                intent.putExtra(TilWriteActivity.Companion.getSCLASSID(), classCd.get(2));
+                intent.putExtra(TilWriteActivity.Companion.getSUBCLASSID(), classCd.get(3));
+                intent.putExtra(TilWriteActivity.Companion.getMODULENAME(), moduleClassMap.get(String.valueOf(position)).getName());
+                intent.putExtra(TilWriteActivity.Companion.getMODULEDESC(), moduleClassMap.get(String.valueOf(position)).getText()); //desc?
+
                 holder.itemView.getContext().startActivity(intent);
+                Log.e("syllabusChildAdapter", "click card view");
             }
         });
 

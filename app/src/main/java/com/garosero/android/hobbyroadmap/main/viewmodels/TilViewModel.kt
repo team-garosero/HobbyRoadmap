@@ -1,17 +1,16 @@
 package com.garosero.android.hobbyroadmap.main.viewmodels
 
 import android.os.Build
-import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.main.helper.CastHelper
 import com.garosero.android.hobbyroadmap.network.NetworkFactory.Companion.request
 import com.garosero.android.hobbyroadmap.network.request.ReadTilRequest
 import com.garosero.android.hobbyroadmap.network.request.RequestListener
 import com.garosero.android.hobbyroadmap.network.response.TilResponse
 import com.google.firebase.auth.FirebaseAuth
-import java.lang.Exception
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 
@@ -30,7 +29,6 @@ class TilViewModel : ViewModel() {
             override fun onRequestSuccess(data: Any) {
                 val tilData = data as MutableMap<String, TilResponse>
                 castToTilMap(tilData)
-                Log.e(TAG, tilMap.value!!.toString())
             }
         })
     }
@@ -62,25 +60,7 @@ class TilViewModel : ViewModel() {
         response.values.forEach {
             if (it.uid == FirebaseAuth.getInstance().uid) {
 
-                val item = TilItem()
-
-                item.date = it.date
-                item.uid = it.uid
-                item.content = it.content
-                item.moduleDesc = it.moduleDesc
-                item.moduleName = it.moduleName
-
-                try {
-                    val path = it.modulePath.split(" ")
-                    item.LClassId = path[0]
-                    item.MClassId = path[1]
-                    item.SClassId = path[2]
-                    item.subClassId = path[3]
-
-                } catch (e : Exception){
-                    Log.e(TAG, e.stackTraceToString())
-                }
-
+                val item = CastHelper.tilresponseToTilitem(it)
 
                 if (_tilMap[item.date] == null) {
                     _tilMap[item.date] = mutableListOf()
@@ -91,6 +71,6 @@ class TilViewModel : ViewModel() {
 
         if (tilMap.value == null || tilMap.value != _tilMap) {
             tilMap.value = _tilMap
-        }
+        } // end if
     }
 }

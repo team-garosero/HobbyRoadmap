@@ -19,33 +19,39 @@ class TilWriteActivity : AppCompatActivity() {
         setContentView(R.layout.activity_til_write)
         val binding = ActivityTilWriteBinding.inflate(layoutInflater)
 
-        // tool bar
-        val toolbar = binding.toolbar
-        setSupportActionBar(toolbar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
-
         // fragment
         val tilItem = TilItem()
         tilItem.uid = FirebaseAuth.getInstance().uid.toString()
         tilItem.date = DateHelper.getTodayString()
+        tilItem.LClassId = getIntentData(LCLASSID)
+        tilItem.MClassId = getIntentData(MCLASSID)
+        tilItem.SClassId = getIntentData(SCLASSID)
+        tilItem.subClassId = getIntentData(SUBCLASSID)
+        tilItem.modulePath = "${LCLASSID} ${MCLASSID} ${SCLASSID} ${SUBCLASSID}"
+        tilItem.moduleName = getIntentData(MODULENAME)
+        tilItem.moduleDesc = getIntentData(MODULEDESC)
 
-        // todo : fill
-
-        changeFragment(TilItemFragment(tilItem))
+        changeFragment(TilItemFragment(TilItemFragment.TilWriteMode.CREATE, tilItem))
 
     }
 
-    fun changeFragment(fragment: Fragment){
-        supportFragmentManager.beginTransaction().replace(R.id.nav_host_til, fragment).commit()
+    private fun changeFragment(fragment: Fragment){
+        supportFragmentManager.beginTransaction().replace(R.id.frameLayout, fragment).commit()
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when (item.itemId) {
-            android.R.id.home -> {
-                finish()
-                return true
-            }
-        }
-        return super.onOptionsItemSelected(item)
+    private fun getIntentData(key : String) : String{
+        return if (intent.hasExtra(key)) {
+            return intent.getStringExtra(key).toString()
+        } else ""
+    }
+
+    companion object {
+        val LCLASSID = "LCLASSID"
+        val MCLASSID = "MCLASSID"
+        val SCLASSID = "SCLASSID"
+        val SUBCLASSID = "SUBCLASSID"
+
+        val MODULENAME = "MODULENAME"
+        val MODULEDESC = "MODULEDESC"
     }
 }

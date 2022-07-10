@@ -31,7 +31,7 @@ class TilListFragment : Fragment() {
         adapter.setOnItemClickListener(object : TilListAdapter.OnItemClickListener{
             override fun onItemClick(item: TilItem) {
                 val parent : TilParentFragment  = parentFragment as TilParentFragment
-                parent.changeFragment(TilItemFragment(item))
+                parent.changeFragment(TilItemFragment(TilItemFragment.TilWriteMode.UPDATE, item))
             }
         })
 

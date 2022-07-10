@@ -1,21 +1,24 @@
 package com.garosero.android.hobbyroadmap.syllabus;
 
 import android.os.Bundle;
-
-import androidx.fragment.app.Fragment;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.Observer;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
+import com.garosero.android.hobbyroadmap.AppApplication;
 import com.garosero.android.hobbyroadmap.R;
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
+import com.garosero.android.hobbyroadmap.network.response.TilResponse;
 
 import java.util.ArrayList;
+import java.util.Map;
 
 public class CommunityFragment extends Fragment {
     View root;
@@ -31,9 +34,15 @@ public class CommunityFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
         root = inflater.inflate(R.layout.fragment_community, container, false);
 
+        initView();
+        initRecyclerView();
+
+        return root;
+    }
+
+    private void initView(){
         recyclerView = root.findViewById(R.id.rv_community);
         tv_title = root.findViewById(R.id.tv_roadmap_title);
         tv_desc = root. findViewById(R.id.tv_desc);
@@ -47,13 +56,33 @@ public class CommunityFragment extends Fragment {
             }
         });
 
-        recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
-        recyclerView.setAdapter(new CommunityAdapter());
-
         tv_title.setText(ApiRequest.lClass.getmClassMap().get(this.classCd.get(1))
                 .getsClassMap().get(this.classCd.get(2))
                 .getSubClassMap().get(this.classCd.get(3)).getName());
+    }
 
-        return root;
+    private void initRecyclerView(){
+        recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
+
+        // fixme 제대로 연결되었는지 확인
+        CommunityAdapter communityAdapter = new CommunityAdapter(classCd);
+        recyclerView.setAdapter(communityAdapter);
+
+        if (AppApplication.Companion.getTilData().getValue() != null){
+            communityAdapter.submitData(AppApplication.Companion.getTilData().getValue());
+        } // 초기값 지정
+
+        AppApplication.Companion.requestSubscribeTil();
+        registerObserver(communityAdapter);
+    }
+
+    private void registerObserver(CommunityAdapter communityAdapter){
+        Observer<Map<String, TilResponse>> tilObserver = new Observer<Map<String, TilResponse>>(){
+            @Override
+            public void onChanged(Map<String, TilResponse> stringTilResponseMap) {
+                communityAdapter.submitData(stringTilResponseMap);
+            }
+        };
+        AppApplication.Companion.getTilData().observe(getViewLifecycleOwner(), tilObserver);
     }
 }

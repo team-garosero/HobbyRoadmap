@@ -21,7 +21,9 @@ class ReadTilRequest : BaseRequest() {
                     snapshot.children.forEach {
                         val item = it.getValue(TilResponse::class.java)
                         val key = it.key.toString()
-                        answer.put(key, item as TilResponse)
+
+                        (item as TilResponse).tilId = key
+                        answer[key] = item
                     }
 
                     mlistener?.onRequestSuccess(answer as Object)
