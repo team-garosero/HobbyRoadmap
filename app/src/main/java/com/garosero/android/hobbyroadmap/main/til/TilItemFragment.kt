@@ -8,13 +8,11 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
+import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilItemBinding
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
-import com.garosero.android.hobbyroadmap.network.request.CreateTilRequest
-import com.garosero.android.hobbyroadmap.network.request.DeleteTilRequest
-import com.garosero.android.hobbyroadmap.network.request.RequestListener
-import com.garosero.android.hobbyroadmap.network.request.UpdateTilRequest
+import com.garosero.android.hobbyroadmap.network.request.*
 
 @RequiresApi(Build.VERSION_CODES.O)
 class TilItemFragment(
@@ -66,8 +64,17 @@ class TilItemFragment(
     private fun onCreateTil(){
         NetworkFactory.request(CreateTilRequest(tilResponse = tilItem), object : RequestListener() {
             override fun onRequestSuccess() {
-                makeToast("til이 반영 되었습니다.")
-                moveToList()
+
+                val xp_sub = AppApplication.tilData.value?.values?.size ?: 0
+                val xp = AppApplication.userData.value?.xp ?: (xp_sub * TilParentFragment.model.tilXp)
+
+                NetworkFactory.request(UpdateUserXpRequest(xp + TilParentFragment.model.tilXp), object : RequestListener(){
+
+                    override fun onRequestSuccess() {
+                        makeToast("til이 반영 되었습니다.")
+                        moveToList()
+                    }
+                })
             }
         })
     }

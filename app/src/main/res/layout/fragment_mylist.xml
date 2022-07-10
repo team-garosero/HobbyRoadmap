@@ -28,5 +28,12 @@
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             android:orientation="vertical"
             tools:listitem="@layout/recycler_mylist_parent"/>
+
+        <com.garosero.android.hobbyroadmap.view.EmptyView
+            android:id="@+id/emptyView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"/>
     </LinearLayout>
 </FrameLayout>

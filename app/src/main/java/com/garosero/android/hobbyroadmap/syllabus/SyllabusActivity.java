@@ -33,7 +33,19 @@ public class SyllabusActivity extends AppCompatActivity {
             }
         });
 
-        replaceFragment(new RoadmapFragment(getIntent().getStringArrayListExtra("classCd")));
+        if (getIntent().hasExtra("classCd")) {
+            String[] classCd = getIntent().getStringExtra("classCd").split(" ");
+            ArrayList newList = new ArrayList();
+
+            for (String cd : classCd){
+                newList.add(cd);
+            }
+
+            //Log.e("syll", newList.toString());
+            replaceFragment(new RoadmapFragment(newList));
+        } else {
+
+        } // end if
     }
 
     public void replaceFragment(Fragment fragment){

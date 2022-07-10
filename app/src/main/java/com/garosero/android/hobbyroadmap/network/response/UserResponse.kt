@@ -14,8 +14,3 @@ data class UserResponse(
 
     var myClass : Map<String, MyClassResponse> = mapOf()
 )
-
-data class MyClassResponse(
-    var lastAccess : String = "",
-    var modules : Map<String, String> = mapOf()
-)

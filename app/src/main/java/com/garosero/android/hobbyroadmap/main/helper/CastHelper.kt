@@ -1,7 +1,9 @@
 package com.garosero.android.hobbyroadmap.main.helper
 
 import android.util.Log
+import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.network.response.MyClassResponse
 import com.garosero.android.hobbyroadmap.network.response.TilResponse
 import java.lang.Exception
 
@@ -33,6 +35,30 @@ class CastHelper {
             }
 
             return tilItem
+        }
+
+        fun myClassResponseToMyClass(myClassResponse: MyClassResponse) : MyClass{
+            val myClass = MyClass()
+
+            with(myClass){
+                lastAccess = myClassResponse.lastAccess
+                modules = myClassResponse.modules
+                classPath = myClassResponse.classPath
+
+                try {
+                    val path = myClassResponse.classPath.split(" ")
+                    LClassId = path[0]
+                    MClassId = path[1]
+                    SClassId = path[2]
+                    subClassId = path[3]
+
+                } catch (e : Exception){
+                    Log.e(TAG, e.stackTraceToString())
+                }
+
+            }
+
+            return myClass
         }
     }
 }

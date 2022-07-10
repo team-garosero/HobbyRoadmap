@@ -40,15 +40,6 @@ public class ProgressActivity extends AppCompatActivity {
         helper = new DBHelper(ProgressActivity.this, "newdb.db", null, 1);
         db = helper.getWritableDatabase();
 
-        // get user data
-        NetworkFactory.Companion.request(new ReadUserRequest(), new RequestListener() {
-            @Override
-            public void onRequestSuccess(@NonNull Object data) {
-                AppApplication.Companion.setUserData((UserResponse) data);
-                Log.e("ProgressActivity", data.toString());
-            }
-        });
-
         // fetch api data
         if(helper.exists(db)){
             startActivity(new Intent(this, MainActivity.class));

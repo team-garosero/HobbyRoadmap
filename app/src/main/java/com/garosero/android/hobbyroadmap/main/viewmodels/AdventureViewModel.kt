@@ -3,9 +3,10 @@ package com.garosero.android.hobbyroadmap.main.viewmodels
 import androidx.lifecycle.ViewModel
 import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.R
+import com.garosero.android.hobbyroadmap.network.response.UserResponse
 
 class AdventureViewModel : ViewModel() {
-    private var userData = AppApplication.userData
+    private var userData = AppApplication.userData.value ?: UserResponse()
 
     var characterName = userData.name
     var life = userData.life // todo : custom view 로 분리해서 적용

@@ -32,6 +32,10 @@ class ReadUserRequest : BaseRequest() {
             .get()
             .addOnSuccessListener {
                 val result = it.getValue(UserResponse::class.java)
+                (result as UserResponse).myClass.forEach {
+                    it.value.classPath = it.key
+                }
+
                 mlistener?.onRequestSuccess(result as Object)
             }
             .addOnFailureListener {

@@ -13,9 +13,9 @@
         android:layout_width="60dp"
         android:layout_height="match_parent"
         android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/margin_16"
         android:background="#5970D2"
-        android:foregroundGravity="center_vertical"
-        android:layout_marginRight="@dimen/margin_16"/>
+        android:foregroundGravity="center_vertical" />
 
     <LinearLayout
         android:layout_width="wrap_content"

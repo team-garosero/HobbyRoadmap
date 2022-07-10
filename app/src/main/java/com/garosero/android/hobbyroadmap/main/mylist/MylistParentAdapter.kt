@@ -3,15 +3,16 @@ package com.garosero.android.hobbyroadmap.main.mylist
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.garosero.android.hobbyroadmap.data.CategoryItem
+import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.databinding.RecyclerMylistParentBinding
+import com.garosero.android.hobbyroadmap.main.viewmodels.MylistViewModel
 
 /**
  * Adapter for the [RecyclerView] in [MylistFragment].
  */
 
 class MylistParentAdapter(
-    var dataset : MutableList<CategoryItem> = mutableListOf())
+    var model: MylistViewModel)
     : RecyclerView.Adapter<MylistParentAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -22,19 +23,26 @@ class MylistParentAdapter(
         return ViewHolder(view)
     }
 
+    var dataset = mutableListOf<String>()
     override fun getItemCount(): Int = dataset.size
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.bind(dataset[position])
+        val mClassID = dataset[position]
+        holder.bind(model.getMClassName(mClassID), model.getMyClass(mClassID))
     }
 
     class ViewHolder(private val binding : RecyclerMylistParentBinding)
         : RecyclerView.ViewHolder(binding.root){
 
-        fun bind(item: CategoryItem){
+        fun bind(title : String, classList: MutableList<MyClass>){
             binding.apply {
-                tvTitle.text = item.title
-                recycler.adapter = MylistChildAdapter(item.roadmapList)
+                tvTitle.text = title
+                recycler.adapter = MylistChildAdapter(classList)
             }
         }
+    }
+
+    fun submitData(dataSet : MutableList<String>){
+        this.dataset = dataSet
+        notifyDataSetChanged()
     }
 }

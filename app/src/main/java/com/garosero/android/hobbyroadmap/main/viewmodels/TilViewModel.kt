@@ -21,6 +21,8 @@ class TilViewModel : ViewModel() {
     val focusDate : MutableLiveData<LocalDate> = MutableLiveData<LocalDate>()
     var tilMap : MutableLiveData<MutableMap<String, MutableList<TilItem>>> = MutableLiveData()
 
+    var tilXp = 100 // til 하나당 증가하는 경험치
+
     init {
         focusDate.value = LocalDate.now()
 
