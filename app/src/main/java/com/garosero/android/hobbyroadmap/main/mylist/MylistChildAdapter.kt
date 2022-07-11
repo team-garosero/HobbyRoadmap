@@ -40,7 +40,8 @@ class MylistChildAdapter(var dataset : MutableList<MyClass>)
                 layout.setOnClickListener {
                     // goto SyllabusActivity
                     val intent = Intent(itemView.context, SyllabusActivity::class.java)
-                    intent.putExtra("classCd", item.classPath)
+                    val arrList = ArrayList(item.classPath.split(" "))
+                    intent.putExtra("classCd", arrList)
                     itemView.context.startActivity(intent)
                 }
 

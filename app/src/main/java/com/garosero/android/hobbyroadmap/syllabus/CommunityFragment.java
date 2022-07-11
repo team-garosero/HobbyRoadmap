@@ -1,6 +1,10 @@
 package com.garosero.android.hobbyroadmap.syllabus;
 
+import android.annotation.SuppressLint;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,12 +18,15 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.garosero.android.hobbyroadmap.AppApplication;
 import com.garosero.android.hobbyroadmap.R;
+import com.garosero.android.hobbyroadmap.data.ModuleClassItem;
 import com.garosero.android.hobbyroadmap.data.TilItem;
+import com.garosero.android.hobbyroadmap.helper.DBHelper;
 import com.garosero.android.hobbyroadmap.main.helper.CastHelper;
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
 import com.garosero.android.hobbyroadmap.network.response.TilResponse;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Objects;
@@ -34,7 +41,7 @@ public class CommunityFragment extends Fragment {
     private String LClassID;
     private String MClassID;
     private String SClassID;
-    private String subClassId;
+    private String subClassID;
 
     public CommunityFragment(ArrayList<String> classCD){
         this.classCd = classCD;
@@ -42,7 +49,7 @@ public class CommunityFragment extends Fragment {
             this.LClassID = classCD.get(0);
             this.MClassID = classCD.get(1);
             this.SClassID = classCD.get(2);
-            this.subClassId = classCD.get(3);
+            this.subClassID = classCD.get(3);
         } catch (Exception e){
             e.fillInStackTrace();
         }
@@ -59,6 +66,7 @@ public class CommunityFragment extends Fragment {
         return root;
     }
 
+    @SuppressLint("Range")
     private void initView(){
         recyclerView = root.findViewById(R.id.rv_community);
         tv_title = root.findViewById(R.id.tv_roadmap_title);
@@ -75,9 +83,15 @@ public class CommunityFragment extends Fragment {
             }
         });
 
-        tv_title.setText(ApiRequest.lClass.getmClassMap().get(MClassID)
-                .getsClassMap().get(SClassID)
-                .getSubClassMap().get(subClassId).getName());
+        DBHelper helper = new DBHelper(getContext(), "newdb.db", null, 1);
+        SQLiteDatabase db = helper.getReadableDatabase();
+        String sql = "select * from module_table where l_class_code='"+LClassID+"' and m_class_code='"+MClassID+"' and s_class_code='"+SClassID+"' and sub_class_code='"+subClassID+"'";
+        Cursor c = db.rawQuery(sql, null);
+        c.moveToNext();
+        tv_title.setText(c.getString(c.getColumnIndex("sub_class_name")));
+
+        db.close();
+
 
         if (AppApplication.Companion.getTilData().getValue() == null) AppApplication.Companion.requestSubscribeTil();
         Map<String, TilResponse> tilItems = AppApplication.Companion.getTilData().getValue();
@@ -86,7 +100,7 @@ public class CommunityFragment extends Fragment {
             TilItem item = CastHelper.Companion.tilresponseToTilitem(Objects.requireNonNull(tilItems.get(key)));
             // filter
             if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
-                    item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassId)) {
+                    item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassID)) {
                 participants.add(item.getUid());
             }
         }
@@ -96,7 +110,6 @@ public class CommunityFragment extends Fragment {
     private void initRecyclerView(){
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
 
-        // fixme 제대로 연결되었는지 확인
         CommunityAdapter communityAdapter = new CommunityAdapter(classCd);
         recyclerView.setAdapter(communityAdapter);
 

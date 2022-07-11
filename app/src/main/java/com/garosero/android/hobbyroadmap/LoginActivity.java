@@ -233,6 +233,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         // 두번 클릭시 종료
         if (System.currentTimeMillis() - lastTimeBackPressed < 2000) {
             Toast.makeText(this, "앱을 종료합니다.", Toast.LENGTH_SHORT).show();
+            finish();
             return;
         }
         Toast.makeText(this, "'뒤로' 버튼을 한번 더 누르시면 종료됩니다.", Toast.LENGTH_SHORT).show();
