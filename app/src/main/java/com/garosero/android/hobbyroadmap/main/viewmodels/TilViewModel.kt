@@ -4,31 +4,39 @@ import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.data.TilItem
+import com.garosero.android.hobbyroadmap.main.helper.CastHelper
+import com.garosero.android.hobbyroadmap.network.NetworkFactory.Companion.request
+import com.garosero.android.hobbyroadmap.network.request.ReadTilRequest
+import com.garosero.android.hobbyroadmap.network.request.RequestListener
+import com.garosero.android.hobbyroadmap.network.response.TilResponse
+import com.google.firebase.auth.FirebaseAuth
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 
 @RequiresApi(Build.VERSION_CODES.O)
 class TilViewModel : ViewModel() {
+    val TAG = "TilViewModel"
 
-    val focusDate : MutableLiveData<LocalDate>
-    var tilMap : MutableMap<String, MutableList<TilItem>>
+    val focusDate : MutableLiveData<LocalDate> = MutableLiveData<LocalDate>()
+    var tilMap : MutableLiveData<MutableMap<String, MutableList<TilItem>>> = MutableLiveData()
+
+    var tilXp = 100 // til 하나당 증가하는 경험치
 
     init {
-        focusDate = MutableLiveData<LocalDate>()
-        tilMap = mutableMapOf()
-
         focusDate.value = LocalDate.now()
-        castToTilMap()
+
+        // get til data
+        request(ReadTilRequest(), object : RequestListener(){
+            override fun onRequestSuccess(data: Any) {
+                val tilData = data as MutableMap<String, TilResponse>
+                castToTilMap(tilData)
+            }
+        })
     }
 
-    /*
-    todo : til 구조를 변경
-    데이터를 여러번 fetch 하지 않도록 수정해야 함.
-     */
     fun getDailyData(date:LocalDate = focusDate.value!!):MutableList<TilItem>{
-        return tilMap.get(dateStringYMD(date)) ?: mutableListOf()
+        return tilMap.value?.get(dateStringYMD(date)) ?: mutableListOf()
     }
 
     fun getLocaleDateList(date: LocalDate = focusDate.value!!) : MutableList<LocalDate>{
@@ -43,22 +51,28 @@ class TilViewModel : ViewModel() {
         return date.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
     }
 
+    fun isToday(date: LocalDate = focusDate.value!!) : Boolean {
+        return date.isEqual(LocalDate.now())
+    }
+
     // cast response to data-model
-    private fun castToTilMap(){
-        tilMap.clear()
-        val response = AppApplication.tilData
+    private fun castToTilMap(response : MutableMap<String, TilResponse>){
+        val _tilMap = mutableMapOf<String, MutableList<TilItem>>()
 
         response.values.forEach {
-            val item = TilItem()
-            item.courseID = it.courseID
-            item.date = it.date
-            item.uid = it.uid
-            item.content = it.content
+            if (it.uid == FirebaseAuth.getInstance().uid) {
 
-            if (tilMap.get(item.date)==null){
-                tilMap.put(item.date, mutableListOf())
-            }
-            tilMap.get(item.date)!!.add(item)
+                val item = CastHelper.tilresponseToTilitem(it)
+
+                if (_tilMap[item.date] == null) {
+                    _tilMap[item.date] = mutableListOf()
+                }
+                _tilMap[item.date]!!.add(item)
+            } // end if
         }
+
+        if (tilMap.value == null || tilMap.value != _tilMap) {
+            tilMap.value = _tilMap
+        } // end if
     }
 }

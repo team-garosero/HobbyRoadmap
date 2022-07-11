@@ -33,6 +33,7 @@ class AdventureFragment : Fragment() {
             tvCharacterName.text = model.characterName
             tvCharacterXp.text = "${model.xp}/${model.maxXp}"
             tvLevel.text = "Lv.${model.level}"
+            tvExplain.text = model.pageDescription
 
             pgXp.progress = model.progress
 

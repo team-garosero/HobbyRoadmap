@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.syllabus;
 
+import android.content.Intent;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.garosero.android.hobbyroadmap.R;
 import com.garosero.android.hobbyroadmap.data.ModuleClassItem;
+import com.garosero.android.hobbyroadmap.main.til.TilWriteActivity;
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
 
 import java.util.ArrayList;
@@ -52,7 +54,17 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
         holder.recycler_cardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // todo: TIL로 넘어가기
+                // go to til write
+                Intent intent = new Intent(holder.itemView.getContext(), TilWriteActivity.class);
+                intent.putExtra(TilWriteActivity.Companion.getLCLASSID(), classCd.get(0));
+                intent.putExtra(TilWriteActivity.Companion.getMCLASSID(), classCd.get(1));
+                intent.putExtra(TilWriteActivity.Companion.getSCLASSID(), classCd.get(2));
+                intent.putExtra(TilWriteActivity.Companion.getSUBCLASSID(), classCd.get(3));
+                intent.putExtra(TilWriteActivity.Companion.getMODULENAME(), moduleClassMap.get(String.valueOf(position)).getName());
+                intent.putExtra(TilWriteActivity.Companion.getMODULEDESC(), moduleClassMap.get(String.valueOf(position)).getText()); //desc?
+
+                holder.itemView.getContext().startActivity(intent);
+                Log.e("syllabusChildAdapter", "click card view");
             }
         });
 

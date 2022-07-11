@@ -5,4 +5,8 @@
         <attr name="valueString" format="reference|string" />
         <attr name="type" format="reference|string"/>
     </declare-styleable>
+
+    <declare-styleable name="emptyView">
+        <attr name="android:visibility" format="boolean"/>
+    </declare-styleable>
 </resources>

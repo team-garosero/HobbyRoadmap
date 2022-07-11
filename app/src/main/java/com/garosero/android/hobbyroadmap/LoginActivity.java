@@ -16,6 +16,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.garosero.android.hobbyroadmap.data.AsteriskPasswordTransformationMethod;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
+import com.garosero.android.hobbyroadmap.network.NetworkFactory;
+import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest;
+import com.garosero.android.hobbyroadmap.network.request.RequestListener;
+import com.garosero.android.hobbyroadmap.network.response.UserResponse;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
@@ -213,6 +217,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
                             Intent intent = new Intent(LoginActivity.this, ProgressActivity.class);
                             startActivity(intent);
+                            finish();
+
                         } else {
                             // If sign in fails, display a message to the user.
                             Toast.makeText(LoginActivity.this,"구글 로그인 실패",Toast.LENGTH_SHORT).show();

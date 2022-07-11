@@ -1,9 +1,11 @@
 package com.garosero.android.hobbyroadmap.data
 
+import com.garosero.android.hobbyroadmap.network.response.TilResponse
 
-data class TilItem(
-    var uid : String = "",
-    var courseID : String = "",
-    var content: String = "",
-    var date: String = ""
-)
+class TilItem(
+    var LClassId : String = "",
+    var MClassId : String = "",
+    var SClassId : String = "",
+    var subClassId : String = "",
+) : TilResponse() {
+}
