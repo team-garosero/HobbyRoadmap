@@ -7,9 +7,9 @@
     <application
         android:name=".AppApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher_app"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_launcher_app_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HobbyRoadmap"
         android:usesCleartextTraffic="true">
@@ -48,7 +48,8 @@
         <activity
             android:name=".main.MainActivity"
             android:exported="false"
-            android:launchMode="singleInstance" />
+            android:launchMode="singleInstance"
+            android:label=""/>
     </application>
 
 </manifest>
