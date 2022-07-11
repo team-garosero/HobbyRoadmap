@@ -99,6 +99,7 @@ public class SearchFragment extends Fragment {
                         text = "";
                     }
                     startActivity(intent);
+                    getActivity().finish();
                 }
                 return true;
             }
@@ -160,9 +161,4 @@ public class SearchFragment extends Fragment {
         return root;
     }
 
-    @Override
-    public void onResume() {
-        super.onResume();
-        Log.d("search","onresume");
-    }
 }

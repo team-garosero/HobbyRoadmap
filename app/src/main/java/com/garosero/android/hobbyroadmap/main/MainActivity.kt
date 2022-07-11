@@ -2,10 +2,12 @@ package com.garosero.android.hobbyroadmap.main
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.findNavController
+import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupWithNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.ActivityMainBinding
@@ -25,8 +27,14 @@ class MainActivity : AppCompatActivity() {
         val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_main)
         val navController = navHostFragment!!.findNavController()
 
+        val navGraph = navController.navInflater.inflate(R.navigation.main_navigation)
+        if(intent.hasExtra("roadmapFrag")) navGraph.setStartDestination(R.id.item_mylist)
+        else navGraph.setStartDestination(R.id.item_home)
+
+        navController.graph = navGraph
 
         binding.navView.setupWithNavController(navController)
+
     }
 
     // set toolbar

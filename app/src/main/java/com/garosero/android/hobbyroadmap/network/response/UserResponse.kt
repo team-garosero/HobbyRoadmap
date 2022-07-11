@@ -13,4 +13,8 @@ data class UserResponse(
     var xp : Int = 0,
 
     var myClass : Map<String, MyClassResponse> = mapOf()
-)
+) {
+    override fun toString(): String {
+        return "UserResponse(life=$life, name='$name', nickname='$nickname', token='$token', xp=$xp, myClass=$myClass)"
+    }
+}
