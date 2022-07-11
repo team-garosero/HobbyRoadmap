@@ -35,16 +35,16 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
     private String SClassID;
     private String subClassId;
 
-    public SyllabusChildAdapter(ArrayList<String> classCd){
+    public SyllabusChildAdapter(ArrayList<String> classCd, HashMap<String, ModuleClassItem> moduleClassMap){
         this.classCd = classCd;
         try {
             this.LClassID = classCd.get(0);
             this.MClassID = classCd.get(1);
             this.SClassID = classCd.get(2);
             this.subClassId = classCd.get(3);
-            this.moduleClassMap = ApiRequest.lClass.getmClassMap().get(this.MClassID)
-                    .getsClassMap().get(this.SClassID)
-                    .getSubClassMap().get(this.subClassId).getModuleClassMap();
+
+            this.moduleClassMap = moduleClassMap;
+
         } catch (Exception e){
             e.fillInStackTrace();
         }

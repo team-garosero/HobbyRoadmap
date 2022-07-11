@@ -3,6 +3,7 @@ package com.garosero.android.hobbyroadmap;
 import android.annotation.SuppressLint;
 import android.content.ContentValues;
 import android.content.Intent;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
@@ -35,18 +36,18 @@ public class ProgressActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_progress);
 
-        DBHelper helper;
-        SQLiteDatabase db;
-        helper = new DBHelper(ProgressActivity.this, "newdb.db", null, 1);
-        db = helper.getWritableDatabase();
+        DBHelper helper = new DBHelper(ProgressActivity.this, "newdb.db", null, 1);
+        SQLiteDatabase db = helper.getWritableDatabase();
 
         // fetch api data
         if(helper.exists(db)){
             startActivity(new Intent(this, MainActivity.class));
+            db.close();
             finish();
 
         } else {
-            helper.onCreate(db);
+//            helper.onCreate(db);
+            helper.onUpgrade(db,1,1);
             new Thread(() -> {
                 try {
 //                long before = System.currentTimeMillis();
@@ -143,9 +144,12 @@ public class ProgressActivity extends AppCompatActivity {
                         }
 
                     }
+                    startActivity(new Intent(this, MainActivity.class));
+                    db.close();
+                    finish();
 //                long after = System.currentTimeMillis();
 //                Log.d(TAG, (after - before) / 1000 + "");
-                    db.close();
+//                    db.close();
                 } catch (Exception e) {
                     Log.e(TAG, Log.getStackTraceString(e));
                 }

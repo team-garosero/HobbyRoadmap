@@ -1,6 +1,9 @@
 package com.garosero.android.hobbyroadmap.syllabus;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -18,9 +21,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.garosero.android.hobbyroadmap.AppApplication;
+import com.garosero.android.hobbyroadmap.ProgressActivity;
 import com.garosero.android.hobbyroadmap.R;
+import com.garosero.android.hobbyroadmap.data.ModuleClassItem;
 import com.garosero.android.hobbyroadmap.data.MyClass;
 import com.garosero.android.hobbyroadmap.data.TilItem;
+import com.garosero.android.hobbyroadmap.helper.DBHelper;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
 import com.garosero.android.hobbyroadmap.main.helper.CastHelper;
 import com.garosero.android.hobbyroadmap.main.viewmodels.MylistViewModel;
@@ -29,6 +35,7 @@ import com.garosero.android.hobbyroadmap.network.response.TilResponse;
 import com.garosero.android.hobbyroadmap.network.response.UserResponse;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
@@ -38,11 +45,23 @@ public class RoadmapFragment extends Fragment {
     TextView tv_title, tv_count, tv_percentage;
     Button bt_myRoadmap, bt_community;
     ArrayList<String> classCd;
+    String LClassID, MClassID, SClassID, subClassID;
+
 
     public RoadmapFragment(ArrayList<String> classCd){
+        try {
+            this.LClassID = classCd.get(0);
+            this.MClassID = classCd.get(1);
+            this.SClassID = classCd.get(2);
+            this.subClassID = classCd.get(3);
+        } catch (Exception e){
+            e.fillInStackTrace();
+        }
+
         this.classCd = classCd;
     }
 
+    @SuppressLint("Range")
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -52,19 +71,29 @@ public class RoadmapFragment extends Fragment {
         tv_title = root.findViewById(R.id.tv_roadmap_title);
         tv_count = root.findViewById(R.id.tv_count);
         tv_percentage = root.findViewById(R.id.tv_percentage);
-        bt_myRoadmap = root.findViewById(R.id.bt_my_roadmap); // todo 어디로 이동??
+        bt_myRoadmap = root.findViewById(R.id.bt_my_roadmap);
         bt_community = root.findViewById(R.id.bt_community);
 
-        int subClassSize = ApiRequest.lClass.getmClassMap().get(this.classCd.get(1))
-                .getsClassMap().get(this.classCd.get(2))
-                .getSubClassMap().get(this.classCd.get(3)).getModuleClassMap().size();
+        DBHelper helper = new DBHelper(getContext(), "newdb.db", null, 1);
+        SQLiteDatabase db = helper.getReadableDatabase();
+        String sql = "select * from module_table where l_class_code='"+LClassID+"' and m_class_code='"+MClassID+"' and s_class_code='"+SClassID+"' and sub_class_code='"+subClassID+"'";
+        Cursor c = db.rawQuery(sql, null);
+        int subClassSize = c.getCount();
+        c.moveToNext();
+        tv_title.setText(c.getString(c.getColumnIndex("sub_class_name")));
+//        Log.d("Roadmap",c.getCount()+c.getString(c.getColumnIndex("sub_class_name")));
 
-        tv_title.setText(ApiRequest.lClass.getmClassMap().get(this.classCd.get(1))
-                .getsClassMap().get(this.classCd.get(2))
-                .getSubClassMap().get(this.classCd.get(3)).getName());
+        int moduleOrder = 0;
+        HashMap<String, ModuleClassItem> moduleClassMap = new HashMap<>();
+        do{
+            ModuleClassItem mc = new ModuleClassItem(c.getString(c.getColumnIndex("module_num")), c.getString(c.getColumnIndex("module_name")), c.getString(c.getColumnIndex("module_text")));
+            moduleClassMap.put(String.valueOf(moduleOrder++), mc);
+        }while(c.moveToNext());
+
+        db.close();
         tv_count.setText("학습모듈 "+subClassSize+"개");
 
-        initRecyclerView();
+        initRecyclerView(moduleClassMap);
 
        // todo 1. 유저데이터 접근 2. %계산
 //        if (AppApplication.Companion.getUserData().getValue() == null) AppApplication.Companion.requestSubscribeUser();
@@ -89,11 +118,11 @@ public class RoadmapFragment extends Fragment {
         return root;
     }
 
-    private void initRecyclerView(){
+    private void initRecyclerView(HashMap<String, ModuleClassItem> moduleClassMap){
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
 
         // fixme 제대로 연결되었는지 확인
-        SyllabusChildAdapter syllabusChildAdapter = new SyllabusChildAdapter(classCd);
+        SyllabusChildAdapter syllabusChildAdapter = new SyllabusChildAdapter(classCd, moduleClassMap);
         recyclerView.setAdapter(syllabusChildAdapter);
 
         if (AppApplication.Companion.getTilData().getValue() != null){
