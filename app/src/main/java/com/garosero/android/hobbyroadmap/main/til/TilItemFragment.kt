@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment
 import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.data.TilItem
 import com.garosero.android.hobbyroadmap.databinding.FragmentTilItemBinding
+import com.garosero.android.hobbyroadmap.main.helper.CastHelper
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
 import com.garosero.android.hobbyroadmap.network.request.*
 
@@ -45,10 +46,7 @@ class TilItemFragment(
         // onclick
         with(binding!!){
             btnCancel.setOnClickListener {
-                when (mode){
-                    TilWriteMode.CREATE -> requireActivity().finish()
-                    TilWriteMode.UPDATE -> moveToList()
-                }
+                finish()
             }
 
             btnSave.setOnClickListener {
@@ -62,7 +60,10 @@ class TilItemFragment(
 
     //---------------------------CURD TIL----------------------------
     private fun onCreateTil(){
-        NetworkFactory.request(CreateTilRequest(tilResponse = tilItem), object : RequestListener() {
+        val tilResponse = CastHelper.tilitemToTilresponse(tilItem)
+        tilResponse.content = binding?.etContent?.text.toString()
+
+        NetworkFactory.request(CreateTilRequest(tilResponse), object : RequestListener() {
             override fun onRequestSuccess() {
 
                 val xp_sub = AppApplication.tilData.value?.values?.size ?: 0
@@ -72,7 +73,7 @@ class TilItemFragment(
 
                     override fun onRequestSuccess() {
                         makeToast("til이 반영 되었습니다.")
-                        moveToList()
+                        finish()
                     }
                 })
             }
@@ -83,7 +84,7 @@ class TilItemFragment(
         NetworkFactory.request(DeleteTilRequest(tilItem.tilId), object : RequestListener() {
             override fun onRequestSuccess() {
                 makeToast("til이 삭제 되었습니다.")
-                moveToList()
+                finish()
             }
         })
     }
@@ -98,7 +99,7 @@ class TilItemFragment(
             object : RequestListener() {
             override fun onRequestSuccess() {
                 makeToast("til이 수정 되었습니다.")
-                moveToList()
+                finish()
             }
         })
     }
@@ -108,11 +109,18 @@ class TilItemFragment(
     }
 
     private fun moveToList(){
-        val parent : TilParentFragment  = parentFragment as TilParentFragment
-        parent.changeFragment(TilListFragment())
+        val parent : TilParentFragment?  = parentFragment as? TilParentFragment
+        parent?.changeFragment(TilListFragment())
     }
 
     enum class TilWriteMode{
         CREATE, UPDATE
+    }
+
+    private fun finish(){
+        when (mode){
+            TilWriteMode.CREATE -> requireActivity().finish()
+            TilWriteMode.UPDATE -> moveToList()
+        }
     }
 }

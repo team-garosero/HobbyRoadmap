@@ -21,15 +21,18 @@ class TilWriteActivity : AppCompatActivity() {
 
         // fragment
         val tilItem = TilItem()
-        tilItem.uid = FirebaseAuth.getInstance().uid.toString()
-        tilItem.date = DateHelper.getTodayString()
-        tilItem.LClassId = getIntentData(LCLASSID)
-        tilItem.MClassId = getIntentData(MCLASSID)
-        tilItem.SClassId = getIntentData(SCLASSID)
-        tilItem.subClassId = getIntentData(SUBCLASSID)
-        tilItem.modulePath = "${LCLASSID} ${MCLASSID} ${SCLASSID} ${SUBCLASSID}"
-        tilItem.moduleName = getIntentData(MODULENAME)
-        tilItem.moduleDesc = getIntentData(MODULEDESC)
+
+        with(tilItem){
+            uid = FirebaseAuth.getInstance().uid.toString()
+            date = DateHelper.getTodayString()
+            LClassId = getIntentData(LCLASSID)
+            MClassId = getIntentData(MCLASSID)
+            SClassId = getIntentData(SCLASSID)
+            subClassId = getIntentData(SUBCLASSID)
+            modulePath = "${LClassId} ${MClassId} ${SClassId} ${subClassId}"
+            moduleName = getIntentData(MODULENAME)
+            moduleDesc = getIntentData(MODULEDESC)
+        }
 
         changeFragment(TilItemFragment(TilItemFragment.TilWriteMode.CREATE, tilItem))
 

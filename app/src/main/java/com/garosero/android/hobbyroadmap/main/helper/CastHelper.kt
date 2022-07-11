@@ -38,6 +38,24 @@ class CastHelper {
             return tilItem
         }
 
+        fun tilitemToTilresponse(tilItem: TilItem) : TilResponse{
+            val response = TilResponse()
+
+            with(response){
+                uid = tilItem.uid
+                content = tilItem.content
+                date = tilItem.date
+
+                moduleName = tilItem.moduleName
+                moduleDesc = tilItem.moduleDesc
+                modulePath = tilItem.modulePath
+
+                tilId = tilItem.tilId
+            }
+
+            return response
+        }
+
         fun myClassResponseToMyClass(myClassResponse: MyClassResponse) : MyClass{
             val myClass = MyClass()
 
