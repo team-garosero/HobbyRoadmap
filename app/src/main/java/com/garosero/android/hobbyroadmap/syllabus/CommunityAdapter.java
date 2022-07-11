@@ -39,7 +39,6 @@ public class CommunityAdapter extends RecyclerView.Adapter<CommunityAdapter.View
         } catch (Exception e){
             e.fillInStackTrace();
         }
-
     }
 
     @NonNull
@@ -79,9 +78,9 @@ public class CommunityAdapter extends RecyclerView.Adapter<CommunityAdapter.View
                 @Override
                 public void onClick(View view) {
                     Intent intent = new Intent(view.getContext(), CommunityDetailActivity.class);
-                    Bundle bundle = new Bundle();
-//                bundle.putString("content",);
-                    // todo: bundle로 닉네임 모듈명 내용 넘기기
+                    intent.putExtra("content",item.getContent());
+                    intent.putExtra("moduleName",item.getModuleName());
+                    intent.putExtra("nickname",item.getUid());
 
                     view.getContext().startActivity(intent);
                 }
@@ -96,8 +95,9 @@ public class CommunityAdapter extends RecyclerView.Adapter<CommunityAdapter.View
         for (String key : tilItems.keySet()){
             TilItem item = CastHelper.Companion.tilresponseToTilitem(Objects.requireNonNull(tilItems.get(key)));
 
-            // filter
-            if (item.getSubClassId().equals(subClassId)) {
+            // filter: lClass, mclass, sclass, subclass should be the same
+            if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
+                    item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassId)) {
                 dataSet.add(item);
             } // end if
 

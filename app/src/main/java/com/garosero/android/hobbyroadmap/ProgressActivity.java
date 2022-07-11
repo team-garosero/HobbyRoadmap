@@ -145,7 +145,7 @@ public class ProgressActivity extends AppCompatActivity {
                     }
 //                long after = System.currentTimeMillis();
 //                Log.d(TAG, (after - before) / 1000 + "");
-
+                    db.close();
                 } catch (Exception e) {
                     Log.e(TAG, Log.getStackTraceString(e));
                 }

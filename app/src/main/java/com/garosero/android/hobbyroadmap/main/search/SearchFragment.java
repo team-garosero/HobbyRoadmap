@@ -54,6 +54,7 @@ public class SearchFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         root = inflater.inflate(R.layout.fragment_search, container, false);
         tabLayout = root.findViewById(R.id.tab_layout);
         tv_path = root.findViewById(R.id.tv_path);
@@ -62,8 +63,6 @@ public class SearchFragment extends Fragment {
         pager.setAdapter(adapter);
         pager.setUserInputEnabled(false); // disable swipe
         classCd = new ArrayList<>();
-
-//        Log.d("ClassCd",classCd.toString());
 
         Handler handler = new Handler(Looper.getMainLooper(), new Handler.Callback() {
             @Override
@@ -75,7 +74,7 @@ public class SearchFragment extends Fragment {
                 }
                 pager.setAdapter(adapter);
                 pager.setCurrentItem(message.getData().getInt("flag"));
-
+//                Log.d("tab",message.getData().getInt("flag")+"");
                 switch (classCd.size()){
                     case 0:
                         break;
@@ -95,10 +94,12 @@ public class SearchFragment extends Fragment {
                     // deep copy
                     ArrayList<String> classCd2 = new ArrayList<>(classCd);
                     intent.putExtra("classCd",classCd2);
+                    if(pager.getAdapter() != null){
+                        pager.setAdapter(null);
+                        text = "";
+                    }
                     startActivity(intent);
                 }
-//                Log.d("finnal class", classCd.toString());
-
                 return true;
             }
         });
@@ -126,6 +127,7 @@ public class SearchFragment extends Fragment {
                 tab.view.setClickable(false);
             }
         }).attach();
+//        pager.setCurrentItem(0);
 
         //todo 하위분류 선택 후 다시 상위분류 선택하는 것 처리
 //        tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
@@ -156,5 +158,11 @@ public class SearchFragment extends Fragment {
 //        });
 
         return root;
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        Log.d("search","onresume");
     }
 }

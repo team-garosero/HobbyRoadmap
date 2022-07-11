@@ -23,6 +23,7 @@
         <entry key="app/src/main/res/drawable/ic_google_signin.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_outline_favorite_24.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/ic_rectangle_104.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_rectangle_845.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/ic_search_path.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/iv_course_color.xml" value="0.1905" />
@@ -33,6 +34,7 @@
         <entry key="app/src/main/res/drawable/set_logout_btn.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/set_profile_bg.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/syll_btn_fill.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/syll_check_box.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/syll_check_box_not_taken.xml" value="0.1415" />
         <entry key="app/src/main/res/drawable/syll_ic_participants.xml" value="0.1905" />
         <entry key="app/src/main/res/drawable/til_act_button.xml" value="0.1905" />
@@ -85,5 +87,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.11363145387772737" />
+      </ProjectState>
+    </option>
   </component>
 </project>

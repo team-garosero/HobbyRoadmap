@@ -14,21 +14,38 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.garosero.android.hobbyroadmap.AppApplication;
 import com.garosero.android.hobbyroadmap.R;
+import com.garosero.android.hobbyroadmap.data.TilItem;
+import com.garosero.android.hobbyroadmap.main.helper.CastHelper;
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
 import com.garosero.android.hobbyroadmap.network.response.TilResponse;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Objects;
+import java.util.Set;
 
 public class CommunityFragment extends Fragment {
     View root;
     RecyclerView recyclerView;
-    TextView tv_title, tv_community_title, tv_desc;
+    TextView tv_title, tv_community_title, tv_desc, tv_count;
     ImageButton bt_info;
     ArrayList<String> classCd;
+    private String LClassID;
+    private String MClassID;
+    private String SClassID;
+    private String subClassId;
 
-    public CommunityFragment(ArrayList<String> classCd){
-        this.classCd = classCd;
+    public CommunityFragment(ArrayList<String> classCD){
+        this.classCd = classCD;
+        try {
+            this.LClassID = classCD.get(0);
+            this.MClassID = classCD.get(1);
+            this.SClassID = classCD.get(2);
+            this.subClassId = classCD.get(3);
+        } catch (Exception e){
+            e.fillInStackTrace();
+        }
     }
 
     @Override
@@ -47,7 +64,9 @@ public class CommunityFragment extends Fragment {
         tv_title = root.findViewById(R.id.tv_roadmap_title);
         tv_desc = root. findViewById(R.id.tv_desc);
         tv_community_title = root.findViewById(R.id.tv_community_title);
+        tv_count = root.findViewById(R.id.tv_count);
         bt_info = root.findViewById(R.id.btn_info);
+
         bt_info.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -56,9 +75,22 @@ public class CommunityFragment extends Fragment {
             }
         });
 
-        tv_title.setText(ApiRequest.lClass.getmClassMap().get(this.classCd.get(1))
-                .getsClassMap().get(this.classCd.get(2))
-                .getSubClassMap().get(this.classCd.get(3)).getName());
+        tv_title.setText(ApiRequest.lClass.getmClassMap().get(MClassID)
+                .getsClassMap().get(SClassID)
+                .getSubClassMap().get(subClassId).getName());
+
+        if (AppApplication.Companion.getTilData().getValue() == null) AppApplication.Companion.requestSubscribeTil();
+        Map<String, TilResponse> tilItems = AppApplication.Companion.getTilData().getValue();
+        Set<String> participants = new HashSet<>(); // participants
+        for (String key : tilItems.keySet()){
+            TilItem item = CastHelper.Companion.tilresponseToTilitem(Objects.requireNonNull(tilItems.get(key)));
+            // filter
+            if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
+                    item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassId)) {
+                participants.add(item.getUid());
+            }
+        }
+        tv_count.setText(participants.size()+"명이 참여하는 중입니다.");
     }
 
     private void initRecyclerView(){

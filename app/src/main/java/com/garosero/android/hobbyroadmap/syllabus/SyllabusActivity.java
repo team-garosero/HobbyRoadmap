@@ -28,21 +28,15 @@ public class SyllabusActivity extends AppCompatActivity {
         findViewById(R.id.bt_back_challenge).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(SyllabusActivity.this, MainActivity.class));
+                Intent intent = new Intent(SyllabusActivity.this, MainActivity.class);
+                intent.putExtra("syllabus","myList");
+                startActivity(intent);
                 finish();
             }
         });
 
         if (getIntent().hasExtra("classCd")) {
-            String[] classCd = getIntent().getStringExtra("classCd").split(" ");
-            ArrayList newList = new ArrayList();
-
-            for (String cd : classCd){
-                newList.add(cd);
-            }
-
-            //Log.e("syll", newList.toString());
-            replaceFragment(new RoadmapFragment(newList));
+            replaceFragment(new RoadmapFragment(getIntent().getStringArrayListExtra("classCd")));
         } else {
 
         } // end if

@@ -20,6 +20,7 @@ class CastHelper {
                 moduleName = tilResponse.moduleName
                 moduleDesc = tilResponse.moduleDesc
                 modulePath = tilResponse.modulePath
+                uid = tilResponse.uid
                 tilId = tilResponse.tilId
 
                 try {

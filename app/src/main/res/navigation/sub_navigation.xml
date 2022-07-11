@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sub_navigation"
+    app:startDestination="@id/item_mylist">
+    <fragment
+        android:id="@+id/item_adventure"
+        android:name="com.garosero.android.hobbyroadmap.main.adventure.AdventureFragment"
+        android:label="fragment_adventure"
+        tools:layout="@layout/fragment_adventure" />
+    <fragment
+        android:id="@+id/item_home"
+        android:name="com.garosero.android.hobbyroadmap.main.search.SearchFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/item_til"
+        android:name="com.garosero.android.hobbyroadmap.main.til.TilParentFragment"
+        android:label="fragment_til"
+        tools:layout="@layout/fragment_til_parent" />
+    <fragment
+        android:id="@+id/item_mylist"
+        android:name="com.garosero.android.hobbyroadmap.main.mylist.MylistFragment"
+        android:label="fragment_mylist"
+        tools:layout="@layout/fragment_mylist" />
+</navigation>
