@@ -30,8 +30,8 @@ class NoticeActivity : AppCompatActivity() {
             dataset.apply {
                 if (isEmpty()){
                     val today = LocalDate.now()
-                    add(NoticeItem(title = "3일 동안 접속하지 않았습니다.", date = today.minusDays(3)))
-                    add(NoticeItem(title = "로드맵에 새로운 글이 등록되었습니다.", date = today.minusDays(5)))
+                    add(NoticeItem(title = "학습을 안한지 3일이 경과되었습니다", date = today.minusDays(3)))
+                    add(NoticeItem(title = "IZEL에 오신걸 환영합니다", date = today.minusDays(5)))
                 }
             }
             noticeAdapter = NoticeAdapter(dataset)
