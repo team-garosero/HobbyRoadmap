@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100031</learnModulSeq>
+<learnModulName>지식재산 발굴</learnModulName>
+<learnModulText>선행기술, 권리확보, 발굴전략, 특허정보, 경쟁분석, 차이분석, TRIZ, RSp, PMI</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100032</learnModulSeq>
+<learnModulName>지식재산 권리화</learnModulName>
+<learnModulText>지식재산권, 특허, 상표, 디자인, 명세서, 출원, 의견제출통지서, 도면, 보정서, 의견서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100033</learnModulSeq>
+<learnModulName>지식재산계약</learnModulName>
+<learnModulText>계약, 협상, 라이선스, 양도계약, 계약조건, 권리관계, 지식재산, 로열티, 계약이행, 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100034</learnModulSeq>
+<learnModulName>지식재산 유지</learnModulName>
+<learnModulText>지식재산, 권리 존속 여부, 지식재산관리시스템, 지식재산 교육, 수립, 개발, 실시, 평가, 영업비밀, 파악, 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100035</learnModulSeq>
+<learnModulName>지식재산 경영 수행</learnModulName>
+<learnModulText>지식재산 경영, 지식재산 경영 단계, 지식재산 경영 전략, 지식재산 경영체계, 연구개발(R&amp;amp;D) 전략, 지식재산 경영재원, 지식재산 기반 인수합병(M&amp;amp;A), 직무발명제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100036</learnModulSeq>
+<learnModulName>지식재산 권리 행사</learnModulName>
+<learnModulText>지식재산, 특허권, 디자인권, 상표권, 저작권, 침해, 심판, 소송, 손해, ADR</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100037</learnModulSeq>
+<learnModulName>지식재산 분쟁방어</learnModulName>
+<learnModulText>지식재산권, 특허권, 침해, 특허소송, 특허무효심판, 권리범위심판, 회피설계, 협상, 반소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100038</learnModulSeq>
+<learnModulName>지식재산 서비스 수행</learnModulName>
+<learnModulText>지식재산권, 조사 분석, 경영컨설팅, 관리시스템 개발, 번역, 지식재산 거래, 지식재산 금융지식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지식재산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100039</learnModulSeq>
+<learnModulName>지식재산 해외 법무 수행</learnModulName>
+<learnModulText>해외 지식재산 권리화, 해외 출원 전략, 해외 출원 방법, 해외 지식재산권 관리, 국가별 권리유지, 해외 지식재산권 조사, 해외 법무 서신, 지식재산권 확보 방안, 해외 법제도, 국제 표준화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200386</learnModulSeq>
+<learnModulName>지식재산 기술성 평가</learnModulName>
+<learnModulText>기술성, 기술 환경, 기술 유용성, 기술 경쟁성, 기술경영, 연구개발(R&amp;D)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200387</learnModulSeq>
+<learnModulName>지식재산 권리성 평가</learnModulName>
+<learnModulText>권리성, 선행기술 조사, 권리 안정성, 권리범위, 사업 연관성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200388</learnModulSeq>
+<learnModulName>지식재산 시장성 평가</learnModulName>
+<learnModulText>기술의 활용 형태, 프로덕트에의 기술 활용, 프로세스에의 기술 활용, 사업계획서, 목표시장, 시장참여자, 표준산업분류, 전방 및 후방 산업, 시장환경, 경쟁기업, 경쟁제품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200389</learnModulSeq>
+<learnModulName>지식재산 사업성 평가</learnModulName>
+<learnModulText>사업계획, 시장분석, 사업화 역량, 가격/품질 경쟁력, 기술의 경제적 수명, 현금흐름, 기술력평가, 기술기여도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200390</learnModulSeq>
+<learnModulName>지식재산 평가 결과 도출</learnModulName>
+<learnModulText>가치평가 접근법, 방법론, 현금흐름할인법, 로열티공제법, 기술력평가, 기술가치평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200393</learnModulSeq>
+<learnModulName>지식재산 평가 기획</learnModulName>
+<learnModulText>기술평가, 기술가치 평가, 기술사업화, 가치와 가격, 기술평가단계, 기술사업타당성, 기술평가상담, 기술실사, 기술평가절차, 연구단계와 개발단계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200394</learnModulSeq>
+<learnModulName>지식재산 거래 기획</learnModulName>
+<learnModulText>기술 이전, 기술 도입, 기술 상품, 기술 이전 제안서, 기술 도입 사양서, 기술 유통, 기술 마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200395</learnModulSeq>
+<learnModulName>지식재산 기술 마케팅</learnModulName>
+<learnModulText>기술 상품, 기술 소개 자료(SMK), 기술 소개 영상(e-SMK), 기술 마케팅, 기술 상담, 기술 이전 설명회, 기술 거래 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200396</learnModulSeq>
+<learnModulName>지식재산 거래 조건 협상</learnModulName>
+<learnModulText>거래 조건, 협상, 기술 수요자, 기술 공급자, 기술 사업화, 실사 계획, 기술 이전, 지식재산, 기술 거래 계약서, 체크리스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>지식재산평가·거래</ncsSubdCdnm>
+<learnModulSeq>EDU20161200397</learnModulSeq>
+<learnModulName>지식재산 거래 사후 관리</learnModulName>
+<learnModulText>기술 이전, 계약 이행, 기술료 납부, 사후 관리, 분쟁 조정, 특허침해, 특허심판, 특허분쟁, 법적 조치, 기술 이전 지원 방안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100040</learnModulSeq>
+<learnModulName>지식재산 요구분석</learnModulName>
+<learnModulText>특허정보 조사분석, 조사분석 담당자, 조사분석 요구자, 조사분석 방법, 조사분석 산출물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100041</learnModulSeq>
+<learnModulName>지식재산 환경분석</learnModulName>
+<learnModulText>조직구조, 지식재산 전략, 조직분석, 경영환경 파악, 지식재산법, 지식재산정책, 지식재산제도, 지식재산동향, 전문검색사이트, 지식재산정보 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100042</learnModulSeq>
+<learnModulName>지식재산 정보검색</learnModulName>
+<learnModulText>정보검색, 검색조건 확정, 분류기준 수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100043</learnModulSeq>
+<learnModulName>지식재산 유효자료 선별</learnModulName>
+<learnModulText>공개, 공보, 출원일, 등록일, 유효자료, 특허분류, IPC, CPC, UPC, 등록, 소멸, 출원일, 노이즈</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100044</learnModulSeq>
+<learnModulName>지식재산 자료정리</learnModulName>
+<learnModulText>지식재산권, 산업재산권, 저작권, 신지식재산권, 특허, 실용신안, 상표, 디자인, 국제특허분류(IPC), 검색</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100045</learnModulSeq>
+<learnModulName>지식재산정량분석</learnModulName>
+<learnModulText>수량 분석, 순위 분석, 점유율 분석, 시계열 분석, 지수 분석, 상관관계 분석, 기술정보 가공, 통계 분석, 기술동향, 기술예측</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100046</learnModulSeq>
+<learnModulName>지식재산 정성분석</learnModulName>
+<learnModulText>핵심특허 선별, 권리분석, 권리대비 분석, 클레임 차트, 기술 발전도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100047</learnModulSeq>
+<learnModulName>지식재산 개발방향 수립지원</learnModulName>
+<learnModulText>기술 포트폴리오, 지식재산 포트폴리오, 기술 트렌드 분석, 유망기술, 공백기술, 요소기술, 핵심기술, 유사기술, 개발 방향</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>지식재산정보조사분석</ncsSubdCdnm>
+<learnModulSeq>EDU20160100048</learnModulSeq>
+<learnModulName>지식재산 확보전략 수립지원</learnModulName>
+<learnModulText>분쟁쟁점, 판례분석, 장벽기술, 인용, 피인용, 클레임 차트, 회피설계, 아이디어 발굴, 파생기술, 응용기술, 포트폴리오, 특허망</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200001</learnModulSeq>
+<learnModulName>발명상담</learnModulName>
+<learnModulText>발명신고서, 선행기술, 종래기술, 발명 상담, 특허요건, 청구항, 최선실시예, 변형실시예, 특허명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200002</learnModulSeq>
+<learnModulName>선행기술 조사분석</learnModulName>
+<learnModulText>발명신고서, 선행기술, 특허명세서, 특허 데이터베이스, 특허 신규성, 특허 진보성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200003</learnModulSeq>
+<learnModulName>발명 사업성 분석</learnModulName>
+<learnModulText>기술경쟁력, 기술개발 방향, 기술·특허 동향, 기술의 표준 적합성, 기술의 확장성, 대체기술,라 이프사이클, 발명기술, 사업타당성, 시장 동향, 시장경쟁력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200004</learnModulSeq>
+<learnModulName>출원전략 수립</learnModulName>
+<learnModulText>지식재산권, 특허, 상표, 디자인, 해외출원, 침해, 권리행사, 회피설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200005</learnModulSeq>
+<learnModulName>출원서류 검토</learnModulName>
+<learnModulText>출원서, 명세서, PCT 국제출원, 청구범위, 발명의 설명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200006</learnModulSeq>
+<learnModulName>기계·금속·토목 특허명세서 검토</learnModulName>
+<learnModulText>출원서류, 도면, 구성요소, 청구항, 특허요건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200007</learnModulSeq>
+<learnModulName>전기·전자·통신 특허명세서 검토</learnModulName>
+<learnModulText>명세서, 전기전자통신, 제어알고리즘, 청구범위, 청구항, 특허출원, 표준특허, 회로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200008</learnModulSeq>
+<learnModulName>화학·바이오 특허명세서 검토</learnModulName>
+<learnModulText>화학, 바이오, 구조식, 서열, 조성물, 제조방법, 용도, 명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200009</learnModulSeq>
+<learnModulName>심사절차 대응 검토</learnModulName>
+<learnModulText>거절, 보정서, 신규사항, 심사지침, 의견서, 특허권,</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20171200010</learnModulSeq>
+<learnModulName>특허 유지관리</learnModulName>
+<learnModulText>특허권, 청구항, 권리범위, 특허 유지, 포트폴리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>법률</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>지식재산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>특허엔지니어링</ncsSubdCdnm>
+<learnModulSeq>EDU20180100011</learnModulSeq>
+<learnModulName>직무발명제도 설계</learnModulName>
+<learnModulText>직무발명, 직무발명보상금, 발명진흥법, 직무발명 보상규정, 직무발명 사전승계, 직무발명 심의 위원회, 직무발명 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800105</learnModulSeq>
+<learnModulName>기본설계</learnModulName>
+<learnModulText>기본설계도서, 기본설계도면, 설계설명서, 계통도, 기준층 평면도, 장비배치도, 예상공사비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800106</learnModulSeq>
+<learnModulName>종합방재계획 수립</learnModulName>
+<learnModulText>방화구획, 주요구조부, 내화성능, 연소 생성물, 열 방출률, 허용 안전 피난 시간, 실제 피난 시간, 내장재 불연화, 화재 시나리오, 피난 시나리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800107</learnModulSeq>
+<learnModulName>성능위주설계</learnModulName>
+<learnModulText>소화설비, 경보설비, 소화활동설비, 방화구획, 피난용 승강기, 비상용 승강기, 피난안전구역, 외창 보호용 스프링클러, 양방향 피난, 막다른 복도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800108</learnModulSeq>
+<learnModulName>사전재난영향성 평가</learnModulName>
+<learnModulText>종합재난관리체제 구축, 내진설계, 피난계획과 제연계획 수립, 보안, 테러, 침수, 종합방재실, 피해 경감계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800109</learnModulSeq>
+<learnModulName>수계소화설비 실시설계</learnModulName>
+<learnModulText>수계 소화 설비, 설계 도면, 계산서, 공사 시방서, 공사비 내역서, 일위 대가, 설계 완료 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800111</learnModulSeq>
+<learnModulName>경보설비 실시설계</learnModulName>
+<learnModulText>기본설계, 실시설계, 허가 동의, 공사 시방서, 물량 산출, 공사 원가, 일위 대가, 표준 품셈, 공사비 내역서, 설계 완료보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800112</learnModulSeq>
+<learnModulName>제연설비 실시설계</learnModulName>
+<learnModulText>제연설비, 기본설계, 설계도면, 계산서, 덕트, 송풍기, 표준 시방서, 전문 시방서, 공사 시방서, 공사비 내역서, 설계 보고서, 과업 지시서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800113</learnModulSeq>
+<learnModulName>소화활동설비와 피난구조설비 실시설계</learnModulName>
+<learnModulText>소화활동설비, 피난설비, 설계도면, 공사시방서, 공사비 내역서, 일위대가, 설계완료 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800114</learnModulSeq>
+<learnModulName>소방전기설비 실시설계</learnModulName>
+<learnModulText>소방전기설비, 설계도면, 전압강하, 비상전원, 공사 시방서, 공사비 내역서, 일위 대가, 설계 완료 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800115</learnModulSeq>
+<learnModulName>설계감리</learnModulName>
+<learnModulText>설계감리, 과업 지시서, 설계 설명서, 기본설계, 실시설계, 종합 방재 계획서, 용량 계산서, 상세도, 예상 공정표, 예상 공사비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200002</learnModulSeq>
+<learnModulName>설계계획 준비·수립</learnModulName>
+<learnModulText>소방 대상물, 소방 관련 법규, 소방 시설, 설계 공정표, 투입 인력, 성과물 목록, 신기술･신공법, 품질 관리 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200003</learnModulSeq>
+<learnModulName>가스계 물분무 등 소화설비 실시설계</learnModulName>
+<learnModulText>가스계 물분무 등 소화설비, 설계도면, 계산서, 공사 시방서, 공사비 내역서, 일위대가, 설계 완료 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200004</learnModulSeq>
+<learnModulName>수계 물분무 등 소화설비 실시설계</learnModulName>
+<learnModulText>물분무 소화설비, 포 소화설비, 공사 시방서, 공사비 내역서, 일위대가, 설계 완료 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200005</learnModulSeq>
+<learnModulName>공사감리 수행계획 수립 · 행정처리</learnModulName>
+<learnModulText>품질, 환경, 안전, 시공, 감리 지정 신고, 공정, 검측, 유해, 위험, 원가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>소방시설설계·감리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200006</learnModulSeq>
+<learnModulName>공사감리 수행·감리결과 보고</learnModulName>
+<learnModulText>설계 도서, 자재 승인, 감리 일지, 준공 검사, 시운전, 감리 결과 보고서, 유지 관리 지침서, 검측, 시공 상세도, 성능 시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200420</learnModulSeq>
+<learnModulName>시공계획 수립</learnModulName>
+<learnModulText>설계도서, 설계도면, 시방서, 계산서, 내역서, 자재비, 노무비, 일위대가, 시공계획, 시공상세도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200435</learnModulSeq>
+<learnModulName>시공관리</learnModulName>
+<learnModulText>설계도서, 시공계획서, 내역서, 자재비, 노무비, 시공상세도, 공정계획표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200437</learnModulSeq>
+<learnModulName>수계소화설비 시공</learnModulName>
+<learnModulText>수조, 가압송수장치, 배관, 유수검지장치, 헤드, 고정포방출구, 방수구, 기동장치, 제어반, 배선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200445</learnModulSeq>
+<learnModulName>가스계소화설비 시공</learnModulName>
+<learnModulText>가스계소화설비, 이산화탄소소화설비, 할로겐화합물소화설비, 청정소화약제소화설비, 분말소화설비, 소화기, 자동소화장치, 간이소화용구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200453</learnModulSeq>
+<learnModulName>경보설비 시공</learnModulName>
+<learnModulText>경보설비, 자동화재탐지설비, 비상방송설비, 자동화재속보설비, 누전경보기, 가스누설경보기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200460</learnModulSeq>
+<learnModulName>소방용 전원설비 시공</learnModulName>
+<learnModulText>설계도서, 발전·전원설비, 풍도·연도·냉각수설비, 내역서, 시공계획, 시공 상세도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200467</learnModulSeq>
+<learnModulName>피난·소화용수설비 시공</learnModulName>
+<learnModulText>피난기구, 유도선, 유도등, 유도표지, 비상조명등, 소화용수설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200479</learnModulSeq>
+<learnModulName>소화활동설비 시공</learnModulName>
+<learnModulText>연결송수관설비, 연결살수설비, 비상콘센트설비, 무선통신보조설비, 연소방지설비, 송수구, 방수구, 가압송수장치, 방수헤드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200482</learnModulSeq>
+<learnModulName>제연설비 시공</learnModulName>
+<learnModulText>제연, 덕트, 송풍기, 내열 성능, 급·배기구, 제어반, TAB, 국가화재안전기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소방시설공사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200487</learnModulSeq>
+<learnModulName>성능평가 시행</learnModulName>
+<learnModulText>성능평가, 수계소화설비, 가스계소화설비, 경보설비, 소방용전원설비, 피난설비, 소화용수설비, 소화활동설비, 제연설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700347</learnModulSeq>
+<learnModulName>행정 관리⋅계획</learnModulName>
+<learnModulText>구조⋅구급 활동, 재난 현장, 표준화 지침, 체계화, 전산 프로그램, 품질 관리, 현장 활동 상황 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700348</learnModulSeq>
+<learnModulName>구조⋅구급 교육훈련</learnModulName>
+<learnModulText>구급장비, 구조장비, 숙달 훈련, 직무교육, 119구급대원 현장응급처치 표준지침, 재난현장 표준작전절차, 응급상황 대처, 상황별 대처</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700349</learnModulSeq>
+<learnModulName>장비 점검⋅출동 준비</learnModulName>
+<learnModulText>상황실, 상황 관리, 상황 관제, 출동 지령, 차량 관리, 일일점검, 주간점검, 구급차, 구조차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700350</learnModulSeq>
+<learnModulName>일반 구조</learnModulName>
+<learnModulText>추락, 수난, 요구조자, 응급 대응, 맨홀, 탐지 장비, 확보물, 토사 붕괴, 하강 기술, 삼각대</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700351</learnModulSeq>
+<learnModulName>생활 안전 구조</learnModulName>
+<learnModulText>건설 기계, 산업 기계, 안전망, 유압 전개기, 유압 절단기, 붕괴, 매몰, 수색견, 로프, 절단기, 포획망</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700352</learnModulSeq>
+<learnModulName>특수 구조</learnModulName>
+<learnModulText>화생방 구조, 항공구조, 재난 구조, 개인보호장비, 국제 협력 구조, 해외긴급구호대, 유해화학물질, 항공 이송, 재난 등급 분류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700353</learnModulSeq>
+<learnModulName>환자 평가</learnModulName>
+<learnModulText>현장조사, 중증도, 신체 검진, 평가 장비 활용, 활력징후, 환자평가, 심전도, 맥박산소포화도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700354</learnModulSeq>
+<learnModulName>구급 안전 관리</learnModulName>
+<learnModulText>감염, 구조·구급대원, 개인보호장비, 안전 점검, 소독, 멸균, 스트레스, 건강 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700355</learnModulSeq>
+<learnModulName>환자 이송 및 출동 결과 평가</learnModulName>
+<learnModulText>UHF, VHF, 기지국, 차량 고정 무전기, 휴대용 무전기, 통신, 통신 장비, 통신 요령, 채널, 주파수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20150700361</learnModulSeq>
+<learnModulName>응급처치</learnModulName>
+<learnModulText>기본소생술, 전문심장소생술, 환자평가, 소아소생술, 근골격계손상, 두부척추손상, 가슴손상 및 심혈관계 손상, 복부손상, 재난 및 다중손상 사고, 아동학대 및 정신질환자 처치, 응급분만</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>구조구급</ncsSubdCdnm>
+<learnModulSeq>EDU20190100019</learnModulSeq>
+<learnModulName>수상구조</learnModulName>
+<learnModulText>수상구조, 상황 판단, 관련 법령, 위험 요소, 맨몸 구조, 장비구조, 인명구조, 대처 요령, 구조장 비, 구조수영</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700335</learnModulSeq>
+<learnModulName>소방계획 수립</learnModulName>
+<learnModulText>예산편성, 점검 이력, 점검 및 정비계획, 자위소방조직, 소방계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700337</learnModulSeq>
+<learnModulName>소방안전 교육훈련</learnModulName>
+<learnModulText>관계인, 교육훈련, 안전교육, 소방안전관리자, 강사 양성, 교안 작성, 안전수칙, 화재, 피난기구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700338</learnModulSeq>
+<learnModulName>소방안전 관리 감독</learnModulName>
+<learnModulText>가연물질, 점화원, 연소, 소화, 공사장 소방안전, 위험물질, 소방계획서, 안전수칙, 안전관리계획, 안전관리감독, 화기취급, 화기관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700340</learnModulSeq>
+<learnModulName>경보설비 점검</learnModulName>
+<learnModulText>자동 화재탐지설비, 수신기, 발신기, 감지기, 중계기, 비상 경보설비, 비상벨 설비, 자동식 사이렌설비, 비상 방송설비, 자동 화재속보설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700341</learnModulSeq>
+<learnModulName>피난⋅소화활동⋅방화시설 점검</learnModulName>
+<learnModulText>｢국가화재안전기준｣, 피난기구, 인명구조기구, 연결송수관설비⋅연결살수설비, 비상콘센트설비⋅무선통신보조설비, 연소방지설비⋅건축방화시설, 비상전원설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700342</learnModulSeq>
+<learnModulName>점검장비 관리</learnModulName>
+<learnModulText>｢소방법｣상의 점검장비 목록, 점검장비 규격, 점검대장, 점검장비 작동법, 견적서, 발주서, 품의서, 장비명세서, 검정, 교정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700343</learnModulSeq>
+<learnModulName>소방시설 점검행정</learnModulName>
+<learnModulText>점검계획, 자체점검, 견적 의뢰, 점검인력 배치기준, 소방시설점검표, 소방시설관리업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700344</learnModulSeq>
+<learnModulName>자율점검</learnModulName>
+<learnModulText>건물 하자, 소방시설 하자, 하자 점검, 화재원인 점검, 화재조사, 사전점검, 상주점검, 유지관리, 결과보고서, 기술자등급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700345</learnModulSeq>
+<learnModulName>소방시설 유지보수</learnModulName>
+<learnModulText>건축허가 동의 시 검토사항, 소방시설별 화재안전기준, 건축과 소방의 관계, 대상물 용도별 소방시설 설치, 소방시설 자체점검, 소방시설 성능 점검, 소방시설 외관 점검, 소방시설별 점검체크리스트, 소방시설 유지보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700346</learnModulSeq>
+<learnModulName>사고대응조치</learnModulName>
+<learnModulText>사고대응계획, 비상대응, 비상연락체계, 비상조치, 비상시 행동요령 및 절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20210100083</learnModulSeq>
+<learnModulName>소화 기구·수계 소화 설비 점검</learnModulName>
+<learnModulText>소화 기구, 옥내⋅외 소화전 설비, 스프링클러 설비, 물분무･포 소화 설비 점검, 소방 시설 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>소방안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20210100084</learnModulSeq>
+<learnModulName>가스계·분말 소화 설비 점검</learnModulName>
+<learnModulText>이산화탄소 소화 설비, 할론 소화 설비, 할로겐화합물 및 불활성기체 소화 설비, 가스계 소화 설비, 분말 소화 설비, 소방 시설 점검, 소화 약제 저장 용기, 선택 밸브, 과압 배출구, 분사 헤드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700058</learnModulSeq>
+<learnModulName>국내 관련 법령 적용</learnModulName>
+<learnModulText>위험물, 위험물 운송·운반, 이동 탱크 저장소, 운반 용기, 위험물 운송자, ｢위험물 안전 관리법｣, 물질 안전 보건 자료(MSDS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700080</learnModulSeq>
+<learnModulName>위험물 분류</learnModulName>
+<learnModulText>소방화학, 연소공학, 위험물질론 및 소화약제화학에 관한 지식, ｢위험물안전관리법｣, ｢산업안전보건법｣, ｢유해화학물질안전관리법｣</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700082</learnModulSeq>
+<learnModulName>제4류 위험물 취급</learnModulName>
+<learnModulText>기초일반화학, 연소 및 폭발 관련 기초이론</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700084</learnModulSeq>
+<learnModulName>제1, 6류 위험물 취급</learnModulName>
+<learnModulText>기초화학 및 연소학, 소화약제화학, 유해화학물질에 관한 지식, ｢위험물안전관리법｣, ｢화학물질관리법｣ 등 관련 법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700085</learnModulSeq>
+<learnModulName>제2, 5류 위험물 취급</learnModulName>
+<learnModulText>일반화학 이론, 유기화학, 무기화학, ｢위험물안전관리법｣ 및 하위 법령에 관한 법률, ｢화학물질관리법｣, ｢산업안전보건법｣</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700086</learnModulSeq>
+<learnModulName>제3류 위험물 취급</learnModulName>
+<learnModulText>일반화학 이론, 유기화학 이론, 소방학 이론, 위험물질에 관한 지식, 자연발화성물질 및 금수성물질에 관한 지식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700087</learnModulSeq>
+<learnModulName>위험물 운송⋅운반시설 기준 파악</learnModulName>
+<learnModulText>국내 위험물질 안전규제의 체제 이해, 위험물안전관리법령의 구성 체계 및 법령 용어 이해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700088</learnModulSeq>
+<learnModulName>위험물 운송ㆍ운반 관리</learnModulName>
+<learnModulText>관련 법규의 적용(｢도로교통법｣, ｢위험물안전관리법｣, ｢화학물질관리법｣, ｢산업안전보건법｣, 위험물 관련 국제법), 위험물 분류 및 취급(위험물의 물질별 취급방법, 분류방법, 물리화학적 특성, 유해위험성, GHS, MSDS), 위험물 운송․운반시설 기준(위험물 운송․운반 차량의 시설기준, 안전장비 기준)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700089</learnModulSeq>
+<learnModulName>사고대응조치</learnModulName>
+<learnModulText>위험물 안전관리 체계의 이해, 매뉴얼 체계 및 매뉴얼 사용 용어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700090</learnModulSeq>
+<learnModulName>교육훈련</learnModulName>
+<learnModulText>｢위험물안전관리법｣, 성인학습자의 특성, 안전의 개념, 교육계획 수립절차, 교수 방법론, 교육평가 방법, 교육운영 매뉴얼, 교육훈련 방법론</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>위험물운송·운반관리</ncsSubdCdnm>
+<learnModulSeq>EDU20211200259</learnModulSeq>
+<learnModulName>국제 관련 규정 적용</learnModulName>
+<learnModulText>유엔 번호, 운송 명칭, 포장 등급, 유엔 목록, 위험물 포장, 위험물 표지, 위험물 표시, 위험물 플래카드, 위험물 운송 서류, 위험물 목록</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200631</learnModulSeq>
+<learnModulName>위험물 안전계획 수립</learnModulName>
+<learnModulText>위험물안전관리법, 위험성 평가, 위험물 저장취급, 위험물 시설 유지관리, 교육훈련, 안전감독, 위험물안전관리 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200635</learnModulSeq>
+<learnModulName>저장․취급 위험물 분류</learnModulName>
+<learnModulText>위험물, 성상, 유해성, 판정, 분류, 위험성 표시, 연소, 소화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200637</learnModulSeq>
+<learnModulName>위험물 저장</learnModulName>
+<learnModulText>위험물제조소등, 위험물 저장, 위험물 취급, 위험물 혼재, 위험물 용기, 위험물의 위험성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200639</learnModulSeq>
+<learnModulName>위험물 제조소 유지관리</learnModulName>
+<learnModulText>위험물 제조소, 안전거리, 보유공지, 표지 및 게시판</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200640</learnModulSeq>
+<learnModulName>위험물 저장소 유지관리</learnModulName>
+<learnModulText>옥내저장소, 옥외탱크저장소, 옥내탱크저장소, 옥외저장소, 지하탱크저장소, 이동탱크저장소, 간이탱크저장소, 암반탱크저장소, 안전거리, 보유공지, 표지 및 게시판, 특례기준, 일반점검표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200642</learnModulSeq>
+<learnModulName>위험물 취급소 유지관리</learnModulName>
+<learnModulText>위험물, 위험물 제조소등, 위험물 취급소, 일반취급소, 주유취급소, 판매취급소, 이송취급소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200644</learnModulSeq>
+<learnModulName>위험물안전관리 감독</learnModulName>
+<learnModulText>위험물, 위험물 저장, 위험물 취급, 위험물시설 유지관리, 위험물시설 보수작업, 위험물 운반, 위험물작업 감독</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200646</learnModulSeq>
+<learnModulName>위험물안전관리 교육훈련</learnModulName>
+<learnModulText>교육훈련 계획 및 방법, 교육훈련 분석, 교안 작성, 교수 양성, 교육훈련 이행, 교육훈련 평가 및 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200648</learnModulSeq>
+<learnModulName>위험물 사고 시 비상대응</learnModulName>
+<learnModulText>위험물, 위험물 안전, 사고 대응, 위험물 사고, 사고 대응 매뉴얼, 위험물 사고 보고, 사고현장 복구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200649</learnModulSeq>
+<learnModulName>위험물행정 처리</learnModulName>
+<learnModulText>예방규정, 설치(변경)허가, 지위승계, 용도폐지, 변경신고, 안전관리자 선임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20211200260</learnModulSeq>
+<learnModulName>위험물 취급</learnModulName>
+<learnModulText>위험물제조소등, 위험물 저장, 위험물 취급, 위험물 혼재, 위험물 용기, 위험물의 위험성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20211200261</learnModulSeq>
+<learnModulName>위험물 화재예방·소화방법</learnModulName>
+<learnModulText>위험물 화재 예방, 위험물 소화 방법, 소화약제, 소화 기구, 소화시설</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20211200262</learnModulSeq>
+<learnModulName>위험물 제조소등의 소방설비 적용</learnModulName>
+<learnModulText>제조소등, 위험물의 종류, 지정 수량, 소화 난이도 등급, 소방설비, 소화설비, 경보설비, 피난설비, 소화설비 적응성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20211200263</learnModulSeq>
+<learnModulName>유기화합물 위험성 파악</learnModulName>
+<learnModulText>유기화합물, 탄소화합물, 탄화수소화합물, 유기물, 위험물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>위험물안전관리</ncsSubdCdnm>
+<learnModulSeq>EDU20211200264</learnModulSeq>
+<learnModulName>무기화합물 위험성 파악</learnModulName>
+<learnModulText>금속, 비금속, 무기화합물, 금속화합물, 비금속화합물, 위험물, 혼촉 발화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200018</learnModulSeq>
+<learnModulName>화재조사계획 수립</learnModulName>
+<learnModulText>화재 신고, 연소 가연물, 소방 시설, 방화 구획, 피난·방화 시설, 소방 안전 관리, 화재 조사 범위, 화재 조사 방법, 화재 조사 구성, 화재 조사 장비, 화재 조사 순서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200193</learnModulSeq>
+<learnModulName>발화지점 판정</learnModulName>
+<learnModulText>발화 장소, 발화 지점, 화재 패턴, 화재 지표, 현장 발굴, 현장 복원, 물적 자료 분석, 가설 설정, 가설 검증</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200195</learnModulSeq>
+<learnModulName>전기화재 감식</learnModulName>
+<learnModulText>전기 화재, 전기 화재 특징, 전기 화재 특이점, 전기 화재 원인 판정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200418</learnModulSeq>
+<learnModulName>방화화재 감식</learnModulName>
+<learnModulText>방화, 형법, 화재 현장 조사, 화재 현장 감식, 인화성 물질, 보험 사기, 인위적인 착화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200419</learnModulSeq>
+<learnModulName>화학화재 감식</learnModulName>
+<learnModulText>화학 화재, 화학 화재 특징, 화학 물질 연소 특성, 화학 화재 원인 판정, 비등 액체 팽창 증기운 폭발(BLEVE), 증기운 폭발(VCE)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200420</learnModulSeq>
+<learnModulName>차량화재 감식</learnModulName>
+<learnModulText>차량, 차량 화재, 엔진 파손, 누유, 배기 계통 과열, 전기적 결함, 교통사고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200421</learnModulSeq>
+<learnModulName>가스화재 감식</learnModulName>
+<learnModulText>가스, 폭발, 가스 화재, 연소기, 연소 범위, 용기, 저장 탱크, 액화 석유 가스, 도시가스, 고압가스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200422</learnModulSeq>
+<learnModulName>기타화재 감식</learnModulName>
+<learnModulText>임야 화재, 산불, 가연물, 행동 특징, 원인 조사, 방향 지표, 미소 화원, 유염 화원, 무염 화원, 훈소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200423</learnModulSeq>
+<learnModulName>증거 수집·관리·검사</learnModulName>
+<learnModulText>증거물, 감정물, 연소 촉진제, 수집, 문서화 관리, 보관, 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200424</learnModulSeq>
+<learnModulName>화재피해 파악</learnModulName>
+<learnModulText>인적 피해, 물적 피해, 사망 피해, 부상 피해, 부동산 피해, 동산 피해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>소방</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>화재감식평가</ncsSubdCdnm>
+<learnModulSeq>EDU20201200425</learnModulSeq>
+<learnModulName>화재조사보고서 작성</learnModulName>
+<learnModulText>화재 발생 시간, 화재 유형, 조사서 종류, 유의 사항, 발화 열원, 발화 요인, 화재 보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700452</learnModulSeq>
+<learnModulName>방재 시설 공통 직무</learnModulName>
+<learnModulText>재해 특성, 방재 시설 기능, 방재 시설 적용 공법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700453</learnModulSeq>
+<learnModulName>재해 예방</learnModulName>
+<learnModulText>재해 유형, 재해 특성, 방재 시설, 기후 변화, 방재 법령</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700454</learnModulSeq>
+<learnModulName>방재 시설 계획</learnModulName>
+<learnModulText>재해 유형, 재해 특성, 방재 시설, 방재 법령, 방재 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700455</learnModulSeq>
+<learnModulName>방재 시설 조사</learnModulName>
+<learnModulText>방재 시설, 자연재해, 관련 법령, 재해 유형별 피해 요인, 공간 변화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700456</learnModulSeq>
+<learnModulName>재해 유형별 설계</learnModulName>
+<learnModulText>자연재해, 방재 시설물, 방재 관련 법령, 설계 기준, 설계도서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700457</learnModulSeq>
+<learnModulName>방재 시설 시공 관리</learnModulName>
+<learnModulText>방재 시설, 시공, 시공 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700458</learnModulSeq>
+<learnModulName>방재 시설 유지 관리</learnModulName>
+<learnModulText>방재 시설, 유지관리, 비상, 안전 점검, 정밀 점검, 응급 조치, 안전 관리, 하자 관리, 계측 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방재시설</ncsSubdCdnm>
+<learnModulSeq>EDU20140700459</learnModulSeq>
+<learnModulName>재해 유형별 전산 프로그램 활용</learnModulName>
+<learnModulText>하천 재해, 내수 재해, 사면 재해, 토사 재해, 해안 재해, 바람 재해, 기타 재해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700435</learnModulSeq>
+<learnModulName>기업 재난 사례 분석</learnModulName>
+<learnModulText>자연 재난, 사회 재난, 리스크, 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700436</learnModulSeq>
+<learnModulName>기업 재난관리 기획</learnModulName>
+<learnModulText>조직 현황, 경영 환경 분석, 지배 구조, 기업 재해 경감 활동, 기업 재난 관리 시스템(BCMS), 핵심 업무, 이해관계자, 리스크 성향, 리스크와 기회 식별</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700437</learnModulSeq>
+<learnModulName>기업 자원 분석</learnModulName>
+<learnModulText>기업 자원(인적 및 물적 자원), 재무 분석, 신뢰도 분석, 공급망 관리 이론, 수요망 관리 이론, 시장 리스크 이론, 커뮤니케이션, 잠재 리스크 상관 분석, 업무 중단 리스크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700438</learnModulSeq>
+<learnModulName>업무 영향 분석</learnModulName>
+<learnModulText>프로세스, 업무 중단, 핵심 업무, 복구 전략, 소요 자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700439</learnModulSeq>
+<learnModulName>리스크(위험성) 평가</learnModulName>
+<learnModulText>프로세스, 업무 중단, 핵심 업무, 복구 전략, 소요 자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700440</learnModulSeq>
+<learnModulName>리스크(위험성) 관리</learnModulName>
+<learnModulText>리스크 수용, 리스크 수용 전략, 리스크 이전, 리스크 이전 전략, 리스크 완화, 리스크 완화 전략, 리스크 회피, 리스크 회피 전략, 리스크 대응, 리스크 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700441</learnModulSeq>
+<learnModulName>사업 연속성 전략 수립</learnModulName>
+<learnModulText>사업 연속성 전략 수립, 위협 완화 조치, 대응 구조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700442</learnModulSeq>
+<learnModulName>기업 사고 대응 절차 수립</learnModulName>
+<learnModulText>재난 관리 시스템, 업무 연속성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700443</learnModulSeq>
+<learnModulName>기업 재난 관리 모의 훈련</learnModulName>
+<learnModulText>모의 훈련, 모의 훈련 평가, 모의 훈련 시나리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700444</learnModulSeq>
+<learnModulName>기업 재난 관리 심사</learnModulName>
+<learnModulText>재난 관리 표준, 재난 관련 법, 재난 관리 시스템, 심사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업재난관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700445</learnModulSeq>
+<learnModulName>기업 재난 관리 교육</learnModulName>
+<learnModulText>기업 재난 관리, 재난 관리 교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700446</learnModulSeq>
+<learnModulName>방재 안전 대책 기획</learnModulName>
+<learnModulText>방재 관련 법령, 재난 및 안전 관리 기본법, 자연 재난, 사회 재난</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700447</learnModulSeq>
+<learnModulName>방재 기초 자료 조사</learnModulName>
+<learnModulText>자연 현황, 인문·사회 현황, 방재 현황, 재해 발생 현황, 관련 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700448</learnModulSeq>
+<learnModulName>방재 안전 대책 현장 조사</learnModulName>
+<learnModulText>현장 조사, 위험 지구 후보지, 현장 조사표, 재해 발생 특성, 재해 유형별 위험 요인, 주민 설문·탐문 조사, 피해 조사, 복구 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700449</learnModulSeq>
+<learnModulName>재해 분석·평가</learnModulName>
+<learnModulText>풍수해, 하천 재해, 내수 재해, 사면 재해, 토사 재해, 해안 재해, 바람 재해, 기능 복원 사업, 개선 복구 사업, 개선 복구 계획서, 지구 단위 종합 복구 계획, 재해 대장, 복합 재해, 통합 방재 성능, 방재 성능 목표 강우량, 복구 사업 분석·평가, 재해 저감성 평가, 지역 경제 발전 성 평가, 주민 생활 쾌적성 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700450</learnModulSeq>
+<learnModulName>방재 경제성 분석</learnModulName>
+<learnModulText>재해, 침수, 피해액, 공사비, 방재 시설, 현재 가치, 저감 대책, 비용·편익, 투자 우선순위, 경제성 분석, 사업비, 유지비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700451</learnModulSeq>
+<learnModulName>재해 저감 대책 수립</learnModulName>
+<learnModulText>풍수해, 하천 재해, 내수 재해, 사면 재해, 토사 재해, 해안 재해, 바람 재해, 재해 저감 대책, 전 지역 단위, 수계 단위, 위험 지구 단위, 우수 유출, 소하천 재해, 자연재해 위험 개선 지구, 설계 수문량, 방재 성능 목표 강우량, 구조적 저감 대책, 비구조적 저감 대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700460</learnModulSeq>
+<learnModulName>재해 지도</learnModulName>
+<learnModulText>침수 흔적 조사, 침수 흔적지 측량, 침수 흔적도, 침수 예상도, 홍수, 범람 위험도, 해안 침수 예상도, 재해 정보 지도, 재해 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700461</learnModulSeq>
+<learnModulName>비상 대응 관리</learnModulName>
+<learnModulText>댐 저수지 붕괴, 해일, 지진, 비상 상황 , 비상 발령 절차, 비상 대응 기관, 라이프 라인, 긴급 구조, 구급, 응급 복구, 대피, 재해 구호, 이재민, 구호물자, 지역 안전 계획, 실습, 훈련</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>방재</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>방재안전대책관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140700462</learnModulSeq>
+<learnModulName>방재 성능 목표 설정</learnModulName>
+<learnModulText>방재 성능 목표, 확률 강우량, 종합 가중값, 공간적 범위, 시간적 범위, 목표 강우량, 단기 계획, 중기 계획, 장기 계획, 통합형 확률 강우 강도식, 위험 환경, 위험 관리 능력, 방재 성능, 진단 지표, 진단 등급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100001</learnModulSeq>
+<learnModulName>스마트재난정보수집</learnModulName>
+<learnModulText>스토리지, 빅데이터, 마이닝, 클라우드, 클라우딩 컴퓨팅, 사물인터넷, 비정형, NoSQL, R 프로그래밍</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100003</learnModulSeq>
+<learnModulName>스마트재난정보저장관리</learnModulName>
+<learnModulText>데이터 저장, 데이터 유형, 데이터 분석, 정형 데이터정형 데이터, 반정형 데이터정형 데이터, 비정형 데이터정형 데이터, 데이터 모델링, 데이터베이스, 데이터 전환</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100004</learnModulSeq>
+<learnModulName>스마트재난전조감지</learnModulName>
+<learnModulText>재난전조, 재난전조 감지, 재난징후, 스마트기술, ICBMA, 텍스트마이닝, 정형데이터, 시계열자료, 비시계열자료, 결측치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100289</learnModulSeq>
+<learnModulName>스마트재난원인분석</learnModulName>
+<learnModulText>자연재난, 사회재난, 복합재난, 재난원인 분석, 스마트기술, 과학적 시각화, 텍스트마이닝, 통계분석, 지리정보 시스템, 빅데이터 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100290</learnModulSeq>
+<learnModulName>스마트재난위해성평가</learnModulName>
+<learnModulText>위해, 위해성, 재난관리, 빈도분석, 재난발생규모, 스마트재난정보, 스마트기술(ICBMA)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100291</learnModulSeq>
+<learnModulName>스마트재난취약성평가</learnModulName>
+<learnModulText>재난관리, 재난관리 역량, 스마트 데이터, 스마트 기술, 구조적 취약성, 비구조적 취약성, 시스템 취약성, 취약성 분석, 취약성 경감 방안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100292</learnModulSeq>
+<learnModulName>스마트재난영향평가</learnModulName>
+<learnModulText>위험도(risk), 위해성(hazard), 노출성(exposure), 취약성(vulnerability or fragility), 손상함수(damage function), 손실함수(loss function), 인벤토리(inventory), ICBMA(IoT, Cloud, BigData, Mobile, Artificial Intelligence), 지표/지수(indicator/index)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>스마트재난위험예측</ncsSubdCdnm>
+<learnModulSeq>EDU20200100293</learnModulSeq>
+<learnModulName>스마트재난해석</learnModulName>
+<learnModulText>지식베이스, 마인드맵, 재난 예측모델, 재난 경감대책 지원, 데이터 지원과 대응, 대응훈련</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100021</learnModulSeq>
+<learnModulName>스마트재난관리기획</learnModulName>
+<learnModulText>스마트재난관리, 사물인터넷(IoT: Internet of Things), 클라우드(Cloud), 빅데이터(Bigdata), 모바일 (Mobile), 인공지능(AI: Artificial Intelligence), 동향분석, 운영 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100022</learnModulSeq>
+<learnModulName>스마트재난관리정보설계</learnModulName>
+<learnModulText>스마트재난관리, 재난관리 시스템, ICBMA, 사물인터넷, 클라우드, 빅데이터, 모바일, 인공지능, 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100023</learnModulSeq>
+<learnModulName>스마트재난예방업무설계</learnModulName>
+<learnModulText>재난유형, 예방대상, 재난예방 관련 법령과 제도, 재난예방 업무흐름도, 재난예방적용 스마트기 술 파악, 재난예방적용 스마트기술 선정, 스마트재난예방 목표, 스마트재난예방 시나리오, 스마 트재난예방 실행전략, 스마트재난예방 로드맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100024</learnModulSeq>
+<learnModulName>스마트재난대비업무설계</learnModulName>
+<learnModulText>재난유형, 대비 대상, 재난대비 법령과 제도, 재난대비 업무흐름도, 스마트기술 파악, 스마트기술 선정, 스마트재난대비 목표, 스마트재난대비 시나리오, 스마트재난대비 실행 전략, 스마트재난대비 로드맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100025</learnModulSeq>
+<learnModulName>스마트재난대응업무설계</learnModulName>
+<learnModulText>재난유형, 재난대응 법령과 제도, 재난대응 업무흐름도, 재난대응적용 스마트기술, 스마트재난대응 실행 전략, 재난상황 관리, 응급조치, 긴급대응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100026</learnModulSeq>
+<learnModulName>스마트재난복구업무설계</learnModulName>
+<learnModulText>재난복구, 복구 계획, 재난유형, 재난특성, 스마트 기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100027</learnModulSeq>
+<learnModulName>스마트재난관리기술적용</learnModulName>
+<learnModulText>사물인터넷 기술, 센서, 사용자인터페이스, 데이터베이스, 재난관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>05</ncsLclasCd>
+<ncsLclasCdnm>법률·경찰·소방·교도·국방</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>소방방재</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>스마트재난관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>스마트재난관리설계</ncsSubdCdnm>
+<learnModulSeq>EDU20200100028</learnModulSeq>
+<learnModulName>스마트재난관리환류</learnModulName>
+<learnModulText>스마트기술, 재난관리 환류, 재해 저감, 재난관리 교육, 재난관리 훈련</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>168</totCnt>
+</dataInfo>
+</root>

@@ -1,0 +1,2964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600061</learnModulSeq>
+<learnModulName>지역사회 분석</learnModulName>
+<learnModulText>지역사회, 지역사회 분석, 지역사회 진단, 지역사회 사정, 지역사회 자료 수집, 지역사회 자료 분류, 지역사회 자료 해석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600063</learnModulSeq>
+<learnModulName>욕구 조사</learnModulName>
+<learnModulText>사회복지, 욕구 조사, 조사도구, 지역사회 자원, 데이터, 분석, 해석, 양적·질적 데이터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600065</learnModulSeq>
+<learnModulName>사회문제 사정</learnModulName>
+<learnModulText>사회문제, 사회문제 파악, 사회문제 분석, 우선순위 설정, 대안 제시, 사회문제 해결, 계획 수립, 사회문제 사정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600066</learnModulSeq>
+<learnModulName>지역사회 네트워크</learnModulName>
+<learnModulText>지역사회, 지역사회 네트워크, 교환, 소통, 지역사회 문제 해결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600068</learnModulSeq>
+<learnModulName>주민조직화</learnModulName>
+<learnModulText>주민조직화, 대상자 선정, 주민 지도자, 주민 교육, 역량 강화, 주민조직</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600070</learnModulSeq>
+<learnModulName>지역사회 자원 구축</learnModulName>
+<learnModulText>자원 DB 구축, 자원 활용, 자원 유지․관리, 기부자 관리, 기부자 피드백, 성과 보고, SNS 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600071</learnModulSeq>
+<learnModulName>사회 행동</learnModulName>
+<learnModulText>이슈, 쟁점화, 복지 욕구, 사회 행동, 행동 계획 수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600072</learnModulSeq>
+<learnModulName>복지 계획 수립</learnModulName>
+<learnModulText>사회복지, 지역사회, 지역사회 복지 계획, 지역사회복지협의체, 복지 관련 계획, 복지 욕구, 문제 해결 대안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>지역사회복지개발</ncsSubdCdnm>
+<learnModulSeq>EDU20150600073</learnModulSeq>
+<learnModulName>정책 제안</learnModulName>
+<learnModulText>어젠다, 정책 입안자, 정책 수립 과정, 정책 제안서, 정책 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600084</learnModulSeq>
+<learnModulName>사회복지사업 기획</learnModulName>
+<learnModulText>사회복지조직, 사회복지시설, 미션·비전, 전략, 사업 계획, 예산, 실적 분석, 성과 평가, 성과 측정, 성과 관리, 지도 점검, 감사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600085</learnModulSeq>
+<learnModulName>사회복지조직 인사관리</learnModulName>
+<learnModulText>직무분류, 업무분장표, 인력 계획, 직원 선발 및 배치, 인력 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600086</learnModulSeq>
+<learnModulName>사회복지조직 직원역량개발</learnModulName>
+<learnModulText>직원역량개발, 교육요구 파악, 교육 관련 정보 수집, 교육 준비 및 실시, 교육평가, 슈퍼비전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600087</learnModulSeq>
+<learnModulName>사회복지조직 재무관리</learnModulName>
+<learnModulText>재무관리, 예산 수립, 결산, 수입, 지출, 추가경정예산, 자산, 비품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600088</learnModulSeq>
+<learnModulName>사회복지조직 정보자원관리</learnModulName>
+<learnModulText>소프트웨어, 하드웨어, 데이터, 네트워크, 정보 보호, 통합 문서, 사회복지 전산 시스템, 업무 시스템, 공동시설 정보, 문서 관리, 기록 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600089</learnModulSeq>
+<learnModulName>사회복지조직 사무관리</learnModulName>
+<learnModulText>시설운영규정, 종사자 복무규정, 사회복지시설정보시스템, 서식, 자문위원회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600090</learnModulSeq>
+<learnModulName>사회복지조직 환경(시설)관리</learnModulName>
+<learnModulText>시설 ․ 소방 ․ 전기 안전 점검, 시설 안전 관리 계획, 집단 급식소 관리, 감염병 예방, 소방 훈련, 응급 대응, 편의 시설, 기능 보강, 시설 개방</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600091</learnModulSeq>
+<learnModulName>사회복지조직 자원개발</learnModulName>
+<learnModulText>자원봉사, 교육, 자원 개발, 후원처, 홍보, 후원자 관리, 지역사회, 네트워킹, 협의체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사회복지조직운영</ncsSubdCdnm>
+<learnModulSeq>EDU20150600092</learnModulSeq>
+<learnModulName>사회복지조직 홍보</learnModulName>
+<learnModulText>조직 이미지 관리, 홍보 기획, 이벤트 기획, CI, 홍보 매체, 온라인 홍보, 홈페이지, SNS 홍보, 위기 대응 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200041</learnModulSeq>
+<learnModulName>지역사회 보장 계획</learnModulName>
+<learnModulText>지역사회 보장 계획, 지역사회 보장 협의체, 지역사회복지, 지역사회 수급 진단, 지역사회 보장 계획 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200042</learnModulSeq>
+<learnModulName>복지예산 관리</learnModulName>
+<learnModulText>복지 예산 관리, 사회복지 재원, 논리 모델, 사업 계획, 예산 편성, 예산 집행, 결산, 재무 행정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200043</learnModulSeq>
+<learnModulName>사회복지 기관 지원 관리</learnModulName>
+<learnModulText>사회복지 시설, 사회복지관, 사회복지 법인, 시설설치, 사회복지 사업법, 인․허가, 보조금, 지도 감독, 컨설팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200044</learnModulSeq>
+<learnModulName>자원 발굴 민관 협력</learnModulName>
+<learnModulText>지역사회 조직화, 지역사회 자원, 연계 활동, 직능 단체, 자생 단체, 자조 모임, 민관 협의체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200045</learnModulSeq>
+<learnModulName>대상자 발굴 조사</learnModulName>
+<learnModulText>사회복지 제도, 사회복지 정책, 사회복지 서비스, 서비스 정보 홍보·제공, 지원 자원 네트워크 연계.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200046</learnModulSeq>
+<learnModulName>복지 대상자 지원</learnModulName>
+<learnModulText>복지 대상자, 사회복지 상담, 욕구 조사, 기록, 소득·재산조사, 복지 급여, 복지 서비스, 사회보장 제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200047</learnModulSeq>
+<learnModulName>자활자립 지원</learnModulName>
+<learnModulText>사회복지 제도, 사회복지 정책, 사회복지 서비스, 서비스 홍보, 자활자립 지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200048</learnModulSeq>
+<learnModulName>자격 변동 관리</learnModulName>
+<learnModulText>사회복지 서비스, 수급요건, 자격변동, 근로능력 평가, 변동사항 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200049</learnModulSeq>
+<learnModulName>공공사례관리</learnModulName>
+<learnModulText>통합 사례관리, 초기 상담, 통합 상담 내역, 상담 기록, 사정, 유관 기관, 사후 관리, 수퍼비전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200050</learnModulSeq>
+<learnModulName>복지 특이민원 관리</learnModulName>
+<learnModulText>민원, 공정 사무 처리, 특이민원, 민원 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>사회복지정책</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공공복지</ncsSubdCdnm>
+<learnModulSeq>EDU20151200051</learnModulSeq>
+<learnModulName>사회복지 프로그램 전산 운용</learnModulName>
+<learnModulText>사회복지 통합 관리망, 사회보장 정보 시스템(행복 e음), 통합 업무, 사회복지 업무, 온나라 시스템, 공문서, e호조, 자원봉사 관리 시스템(VMS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100347</learnModulSeq>
+<learnModulName>사회복지프로그램 욕구조사</learnModulName>
+<learnModulText>사회복지 욕구, 지역사회 문제, 조사 설계, 프로그램 설계 자료, 욕구 측정, 자료 분석, 보고서 작성, 우선순위 결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100348</learnModulSeq>
+<learnModulName>사회복지프로그램 계획수립</learnModulName>
+<learnModulText>사회복지프로그램 계획수립, 프로그램 결정, 프로그램 목표, 프로그램 설계, 프로그램 예산 계획, 프로그램 평가 계획, 논리모델, 프로포절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100349</learnModulSeq>
+<learnModulName>사회복지프로그램 홍보</learnModulName>
+<learnModulText>홍보, 마케팅, 홍보물, 보도 자료, 프로그램, 성과, 참가자, 지역사회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100350</learnModulSeq>
+<learnModulName>사회복지프로그램 자원개발</learnModulName>
+<learnModulText>사회복지프로그램, 사회복지 자원개발, 물적자원, 인적자원, 정보자원, 정보시스템, 지역네트워크, 사회자본</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100351</learnModulSeq>
+<learnModulName>사회복지프로그램 실행</learnModulName>
+<learnModulText>프로그램 정보안내, 신청접수, 선정기준, 프로그램 계약, 프로그램 예산집행, 프로그램 내·외부문서, 프로그램 기록, 개인정보보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100352</learnModulSeq>
+<learnModulName>사회복지프로그램 점검</learnModulName>
+<learnModulText>목표점검, 모니터링, 체계이론, 피드백, 프로그램 보완, 슈퍼비전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100353</learnModulSeq>
+<learnModulName>사회복지프로그램 종결</learnModulName>
+<learnModulText>프로그램 종결, 종결안내문, 종결 감정, 후속 프로그램, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>사회복지프로그램운영</ncsSubdCdnm>
+<learnModulSeq>EDU20160100354</learnModulSeq>
+<learnModulName>사회복지프로그램 평가</learnModulName>
+<learnModulText>프로그램 평가, 과정평가, 총괄평가, 성과평가, 목표달성, 예산분석, 참가자 변화, 측정도구, 기록물, 보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101659</learnModulSeq>
+<learnModulName>신체 활동 지원</learnModulName>
+<learnModulText>식사 보조, 이동 보조, 대소변 보조, 목욕 보조, 용모 관리, 보조 기구, 욕구 사정, 잔존 능력, 체크리스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101660</learnModulSeq>
+<learnModulName>인지․정서 지원</learnModulName>
+<learnModulText>학습 지원, 욕구 파악, 자원 관리, 인지력 향상, 인지 치료, 프로그램 개발, 자원 연계, 활동 프로그램, 여가 활동, 정보 제공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101661</learnModulSeq>
+<learnModulName>가사 활동 지원</learnModulName>
+<learnModulText>신체적인 기능, 식사준비 계획, 식사준비 능력, 청소지원 계획, 청소지원 능력, 의복관리 계획, 의복관리 능력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101662</learnModulSeq>
+<learnModulName>사회 활동 지원</learnModulName>
+<learnModulText>사회 활동 지원, 지역 자원 정보, 외출 지원, 금전 관리, 행정(민원) 업무, 인권 교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101663</learnModulSeq>
+<learnModulName>건강 지원</learnModulName>
+<learnModulText>위생 상태, 건강 상태, 점검과 기록, 약물 복용, 욕구 사정, 체크리스트, 의료 기관 연계, 재활 운동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101664</learnModulSeq>
+<learnModulName>가족 관계 지원</learnModulName>
+<learnModulText>보호자 교육, 가족 교류, 자조모임, 개인정보 보호, 사회복지시설정보시스템, 입소 상담, 사례 관리, 지역사회 자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101665</learnModulSeq>
+<learnModulName>일상생활 위험 관리</learnModulName>
+<learnModulText>일상생활 위험 관리, 안전 교육, 위험요인 분석, 안전점검, 응급 상황 파악, 기록 작성, 보고, 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>일상생활기능지원</ncsSubdCdnm>
+<learnModulSeq>EDU20160101666</learnModulSeq>
+<learnModulName>일상생활 서비스 기록 관리</learnModulName>
+<learnModulText>일상생활 서비스 기록 관리, 일상생활 지원 업무일지 작성, 일상생활 지원 업무일지 보고, 일상생활 지원 활동일지 작성, 일상생활 지원 활동일지 활용, 일상생활 지원 개별 파일 관리, 일상생활 지원 개별 파일 활용, 일상생활 지원 회의 참여, 일상생활 지원 회의 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101043</learnModulSeq>
+<learnModulName>사회복지면담 초기면접</learnModulName>
+<learnModulText>관계형성, 계약(계약서), 구조화, 라포(rapport) 형성, 면담, 면담 신청서, 사회복지사, 인테이크(intake), 주호소 문제, 접수, 클라이언트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101044</learnModulSeq>
+<learnModulName>사회복지면담 기록관리</learnModulName>
+<learnModulText>면담, 기록, 기록물, 기록물 관리, 개인정보 보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101045</learnModulSeq>
+<learnModulName>사회복지면담 사정</learnModulName>
+<learnModulText>사회복지 면담, 면담 사정, 욕구 조사, 클라이언트 정보 수집, 개인 조사, 가족력 조사, 자원 조사, 자료 분석, 면담 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101046</learnModulSeq>
+<learnModulName>개인상담</learnModulName>
+<learnModulText>개인상담, 내적 변화, 대인관계 변화, 개인-환경 변화, 정서적 개입, 인지적 개입, 사회기술능력, 자기주장훈련, 스트레스 관리, 자원분석, 자원연계, 자기옹호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101047</learnModulSeq>
+<learnModulName>가족상담</learnModulName>
+<learnModulText>가족, 가계도, 생태도, 체계이론, 가족 의사소통, 생태체계, 가족생활주기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101048</learnModulSeq>
+<learnModulName>집단상담</learnModulName>
+<learnModulText>집단 특성, 목표설정, 물리적 환경, 집단 구성원, 역동성, 집단 발달단계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101049</learnModulSeq>
+<learnModulName>사회복지면담 종결</learnModulName>
+<learnModulText>면담결과, 평가, 종결, 목표 재설정, 대처능력, 조기 종결, 사례 의뢰, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사회복지면담</ncsSubdCdnm>
+<learnModulSeq>EDU20160101050</learnModulSeq>
+<learnModulName>사회복지면담 슈퍼비전</learnModulName>
+<learnModulText>면담자료 수집, 사례 발표, 사례보고서, 욕구조사 및 사정, 상담목표, 사례개념화, 윤리적 딜레마, 면담과정 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101650</learnModulSeq>
+<learnModulName>사회복지사례관리 외부운영체계 구축</learnModulName>
+<learnModulText>외부 운영 체계, 발굴·의뢰 체계, 아웃리치, 자원, 자원 개발, 반응 역량, 자원의 범주, 네트워크, 통합 사례 회의, 민관 협력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101651</learnModulSeq>
+<learnModulName>사회복지사례관리 내부운영체계 구축</learnModulName>
+<learnModulText>조직 유형 분석, 역할 분장, 운영 규정, 사례관리 기록, 지역 사회 자원, 슈퍼비전, 사례관리자 교육 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101652</learnModulSeq>
+<learnModulName>사회복지사례관리 인테이크</learnModulName>
+<learnModulText>사례관리 과정, 초기 면접, 일반적 상황, 가계도, 생태도, 문제와 욕구 진단, 사례관리자의 평가, 사례 회의, 클라이언트 선정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101653</learnModulSeq>
+<learnModulName>사회복지사례관리 통합적 욕구 사정</learnModulName>
+<learnModulText>사정, 사정 도구, 가족 체계, 환경 체계, 자원 목록, 욕구 사정, 자원 사정, 강점 사정, 장애물 사정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101654</learnModulSeq>
+<learnModulName>사회복지사례관리 실행 계획 수립</learnModulName>
+<learnModulText>목표 수립, 정보, 실행 계획, 통합 사례 회의, 욕구, 자원 활용, 참여, 계약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101657</learnModulSeq>
+<learnModulName>사회복지사례관리 평가</learnModulName>
+<learnModulText>사례관리 모니터링, 사례관리 점검, 사례관리 조정, 운영 평가, 과정 평가, 결과 평가, 종결 상담, 종결 사례 회의</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사회복지</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>사회복지서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>사회복지사례관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101658</learnModulSeq>
+<learnModulName>사회복지사례관리 종결</learnModulName>
+<learnModulText>사례관리 종결, 종결보고서, 종결 결과통보, 자원체계, 사후관리, 사후관리계획, 외부체계 모니터링, 타기관 의뢰</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600013</learnModulSeq>
+<learnModulName>직업심리검사</learnModulName>
+<learnModulText>직업 심리검사, 평가, 사정, 표준화, 자기 보고식 검사, 신뢰도, 타당도, 규준, t점수, 친밀 교감</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600014</learnModulSeq>
+<learnModulName>취업상담</learnModulName>
+<learnModulText>취업상담, 취업알선, 취업 효능감, 노동시장 관행, 조직문화, 직무 수행 역량, 직업정보, 직업능 력개발, 직업훈련, 직업 안정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600015</learnModulSeq>
+<learnModulName>직업적응상담</learnModulName>
+<learnModulText>직업적응, 일-환경 적합 이론, 조직 문화, 작업 환경, 직업윤리, 직장 예절, 구조 조-정, 실업, 직무만족, 진로 경로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600016</learnModulSeq>
+<learnModulName>전직지원상담</learnModulName>
+<learnModulText>재취업 알선, 전직, 일-환경 적합 이론, 조직문화, 작업 환경, 구조 조정, 실업, 스트레스, 진로 경로, 이행 노동시장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600017</learnModulSeq>
+<learnModulName>창업상담</learnModulName>
+<learnModulText>창업, 마케팅, 상권분석, 기업가 정신, 트렌드, 창업 멘토링, 비즈니스 모델, 수익 모델, 창업 아이템, 사업타당성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600018</learnModulSeq>
+<learnModulName>직업복귀상담</learnModulName>
+<learnModulText>직업복귀 상담, 진로단절여성, 진로장벽, 직업복귀 동기, 직업 기초 역량, 일⋅가정 양립, 유리 천장, 비전통적 직업, 전통적 직업, 제대군인 지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600019</learnModulSeq>
+<learnModulName>은퇴상담</learnModulName>
+<learnModulText>은퇴, 퇴직, 은퇴상담, 은퇴자 생애 형태, 생애 진로대안 탐색, 대안 선택, 의사결정, 생애 설계 서, 진로일기, 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600020</learnModulSeq>
+<learnModulName>재활직업상담</learnModulName>
+<learnModulText>재활 직업상담, 초기 면담, ICIDH(International classification of impairments, disabilities, and handicaps), ICF(International classification of functioning, disability and health), 재활 직업상담 구조화, 구직활동 개입 평가, 면담평가, 신체기능평가, 심리 사회 기능평가, 작업 기능평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600021</learnModulSeq>
+<learnModulName>다문화직업상담</learnModulName>
+<learnModulText>비교 문화적, 결혼 이민자, 외국인 노동자, 북한이탈주민, 문화 변용, 인종, 민족, 문화 수용도, 소 수 민족 진로 발달, 인종적 현저성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600022</learnModulSeq>
+<learnModulName>심층직업상담</learnModulName>
+<learnModulText>특성⋅요인 이론, 개인-환경 적합 접근, 진로발달 이론, 사회 학습 이론, 진단 도구, 의사결정, 비합 리적 신념, REBT 기법, 주제 분석 기법, 인지 치료 기법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600023</learnModulSeq>
+<learnModulName>집단상담프로그램운영</learnModulName>
+<learnModulText>집단상담, 집단상담 프로그램, 집단상담 진행자, 집단상담 프로그램 개발, 집단상담 프로그램 실시,집단상담 프로그램 운영, 집단상담 프로그램 평가, 프로그램 지침서, 대리 학습, 활동지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600024</learnModulSeq>
+<learnModulName>사이버직업상담</learnModulName>
+<learnModulText>사이버 직업상담, 사이버 공간, 사이버 직업상담 기법, 사이버 직업상담자 언어 반응, 모델링, 사회 학습 이론, 진로 분기점, 취업 효능감, 사이버 직업상담자의 윤리, 네티즌 윤리 강령</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600025</learnModulSeq>
+<learnModulName>직업상담연구</learnModulName>
+<learnModulText>실증적 연구, 연구 설계, 독립 변인, 종속 변인, 가외 변인, 예언 변인, 준거 변인, 정질적 방법, 생애 진로 사정, 슈퍼비전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20160600026</learnModulSeq>
+<learnModulName>직업상담 일반 1</learnModulName>
+<learnModulText>직업 안정 기관, 직업 소개, 직업 지도, 무료 직업 소개 사업, 유료 직업 소개 사업, 근로자 공급 사업, 직업정보 제공 사업, 고용 서비스, 직업정보망</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20201200237</learnModulSeq>
+<learnModulName>직업상담 일반 2</learnModulName>
+<learnModulText>직업 안정 기관, 직업 소개, 직업 지도, 무료 직업 소개 사업, 유료 직업 소개 사업, 근로자 공급 사업, 직업 정보 제공 사업, 고용 서비스, 직업정보망</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20201200238</learnModulSeq>
+<learnModulName>직업정보 관리</learnModulName>
+<learnModulText>직업정보 수집, 직업정보 분석, 직업정보 가공, 직업정보 제공 매체, 직업정보 체계화, 직업정보 제공, 직업정보 평가, 직업정보 매체, 직업정보 격차, 의사결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800002</learnModulSeq>
+<learnModulName>직업상담 홍보</learnModulName>
+<learnModulText>홍보대상, 홍보전략, 공중, 홍보목적, 홍보목표, 프로그램, 콘텐츠, 매체, 홍보효과, 홍보결과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800003</learnModulSeq>
+<learnModulName>직업상담 진단</learnModulName>
+<learnModulText>진단, 직업 심리검사, 측정, 평가, 사정, 척도, 표준화, 자기 보고식 검사, 신뢰도, 타당도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800004</learnModulSeq>
+<learnModulName>직업상담 초기면담</learnModulName>
+<learnModulText>직업상담 초기면담, 친밀교감, 호소논점, 구조화, 상담목표 설정, 상담전략 수립, 공감적 이해, 수용적 존중, 일관적 성실성, 비언어적 행동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800005</learnModulSeq>
+<learnModulName>비대면 직업상담</learnModulName>
+<learnModulText>비대면 직업상담, 비대면 직업상담 기법, 비대면 직업상담자 언어반응, 직업상담자의 윤리, 상담의 구조화, 흥미사정 기법, 목표 설정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800006</learnModulSeq>
+<learnModulName>진로상담</learnModulName>
+<learnModulText>진로논점, 상담동기, 자기탐색, 가족 직업 가계도, 개인자원목록, 직업정보, 진로계획, 의사결정, 진로목표, 진로역량 확장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800007</learnModulSeq>
+<learnModulName>취업상담</learnModulName>
+<learnModulText>취업상담, 취업알선, 직무수행역량, 직업정보, 구직활동 지원, 구인 발굴, 사후관리, 채용동향, 취업계획서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800008</learnModulSeq>
+<learnModulName>직업복귀상담</learnModulName>
+<learnModulText>직업복귀상담, 진로단절여성, 진로장벽, 진로자본, 직업적응 상담, 직무전환, 제대군인 지원, 직업기초 역량, 일·가정 양립, 비전통적 직업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800009</learnModulSeq>
+<learnModulName>직업적응상담</learnModulName>
+<learnModulText>직업적응, 일-환경 적합 이론, 조직문화, 작업환경, 직업윤리, 직장예절, 구조조정, 실업, 직무만족, 진로경로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800010</learnModulSeq>
+<learnModulName>다문화직업상담</learnModulName>
+<learnModulText>문화수용도, 다문화주의, 비교문화, 문화충돌, 이주민 취업준비도, 사회적 지지, 직업의식, 구직역량, 구직활 동 계획, 직업적응 지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800011</learnModulSeq>
+<learnModulName>재활직업상담</learnModulName>
+<learnModulText>재활직업상담, 초기면담, ICIDH, ICF, 재활직업상담 구조화, 구직활동 개입 평가, 면담 평가, 신체기능 평 가, 심리사회기능 평가, 작업기능 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800012</learnModulSeq>
+<learnModulName>해외취업상담</learnModulName>
+<learnModulText>해외취업 역량, 해외취업 동기, 해외취업 목표, 해외취업 경험, 해외취업 복귀</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800013</learnModulSeq>
+<learnModulName>창직상담</learnModulName>
+<learnModulText>창직, 창직역량, 창직진단, 창직구체화, 산업동향 분석, 트렌드, 창직 아이템, 정보수집, 창직실행, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800014</learnModulSeq>
+<learnModulName>직업훈련상담</learnModulName>
+<learnModulText>직업훈련, 직업능력개발, 훈련정보, 훈련과정, 훈련상담, 훈련기관, 자격제도, 국가기술자격, 국가자격, 민간공인자격</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800015</learnModulSeq>
+<learnModulName>집단상담프로그램 운영</learnModulName>
+<learnModulText>집단상담, 집단상담 프로그램, 요구도 조사, 집단상담 프로그램 목표설정, 집단역동, 집단상담 프로그램 구 조화, 집단상담 프로그램 개발, 집단상담 프로그램 운영, 집단상담 프로그램 평가, 프로그램 지침서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800016</learnModulSeq>
+<learnModulName>심층직업상담</learnModulName>
+<learnModulText>특성‧요인 이론, 개인-환경 적합 접근, 진로발달 이론, 사회학습 이론, 진단도구, 의사결정, 비합리적 신 념, REBT 기법, 주제분석 기법, 인지치료 기법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800017</learnModulSeq>
+<learnModulName>직업상담 슈퍼비전</learnModulName>
+<learnModulText>직업상담 슈퍼비전, 직업상담 슈퍼바이저, 직업상담 슈퍼바이지, 슈퍼비전 구조화, 가설 설정, 사례 개념화, 직업상담 슈퍼비전 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800018</learnModulSeq>
+<learnModulName>직업상담연구</learnModulName>
+<learnModulText>직업상담 정책, 직업상담 기법, 신직업, 직업상담 전망, 직업 검사도구, 융복합기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800019</learnModulSeq>
+<learnModulName>직업정보 수집</learnModulName>
+<learnModulText>직업정보 수집, 직업정보원, 직업정보 원자료, 직업정보 수집 방법, 표준직업정보, 직업정보 제공, 직업정보 평가, 직업정보 매체, 직업정보 격차, 의사결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800020</learnModulSeq>
+<learnModulName>직업정보 분석</learnModulName>
+<learnModulText>직무분석, 기업정보, 고용환경, 분석정보 평가, 직업전망, 산업동향</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800021</learnModulSeq>
+<learnModulName>직업정보 체계화</learnModulName>
+<learnModulText>직업정보 수집, 직업정보원, 직업정보 분석, 직업정보 가공, 직업정보 체계화, 직업정보 제공, 직업정보 평 가, 직업정보 매체, 노동시장, 노동 관계 법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800022</learnModulSeq>
+<learnModulName>직업정보 가공</learnModulName>
+<learnModulText>직업정보격차, 직업정보 문해력, 직업정보 요구도, 매체 선택, 가독성, 사용성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800023</learnModulSeq>
+<learnModulName>직업정보 제공</learnModulName>
+<learnModulText>직업정보 수집, 직업정보원, 직업정보 분석, 직업정보 가공, 직업정보 체계화, 직업정보 제공, 직업정보 평 가, 직업정보 분류체계, 직업정보 시스템, 의사결정 지원 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800024</learnModulSeq>
+<learnModulName>취업지원 행사운영</learnModulName>
+<learnModulText>취업지원행사, 행사전략, 취업박람회, 정보수집, 인력운영, 홍보, 대행업체, 사전 리허설, 돌발상황, 결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800025</learnModulSeq>
+<learnModulName>직업상담 서비스 협업체계 구축</learnModulName>
+<learnModulText>협업체계, 지역사회, 구인기업, 인적자원, 네트워크, MOU(memorandum of understanding), 유관기관, 관계망, 소통, 구축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>직업상담</ncsSubdCdnm>
+<learnModulSeq>EDU20210800026</learnModulSeq>
+<learnModulName>직업상담 행정</learnModulName>
+<learnModulText>직업상담 목표, 직업상담 기획, 직업상담 행정, 직업상담 인력 관리, 직업상담 실적, 직업상담 사무, 직업상 담 시설, 전산망 관리, 개인정보 보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200150</learnModulSeq>
+<learnModulName>구인자 상담</learnModulName>
+<learnModulText>구인신청, 취업알선, 직업정보, 직업분류, 근로조건, 인력채용, 구인정보, 직무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200151</learnModulSeq>
+<learnModulName>구직자 상담</learnModulName>
+<learnModulText>구직표, 구직신청, 구직자상담, 취업계획, 상담기법, 직업정보, 노동시장, 근로조건, 구직정보시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200152</learnModulSeq>
+<learnModulName>직업심리검사 실시</learnModulName>
+<learnModulText>직업심리검사, 내담자 평가, 심리검사, 직업상담, 취업알선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200153</learnModulSeq>
+<learnModulName>직업훈련 상담</learnModulName>
+<learnModulText>직업능력개발훈련, 구직자(양성)훈련, 재직자(향상)훈련, 직업능력개발정보망(HRD-Net), 국가기술자격제도, 직업훈련기관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200154</learnModulSeq>
+<learnModulName>구직기술 상담</learnModulName>
+<learnModulText>구직유형, 취업걸림돌, 직업심리검사, 취업지원서류, 직무역량, NCS 기반 능력중심채용, 경력기술서, 직무, 모의면접, 이미지메이킹</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200155</learnModulSeq>
+<learnModulName>취업지원사업 운영</learnModulName>
+<learnModulText>취업지원 사업, 취업알선행사, 취업역량강화 프로그램, 집단상담 프로그램, 심리검사, 직업상담, 취업알선, 위탁사업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200156</learnModulSeq>
+<learnModulName>구인구직 매칭</learnModulName>
+<learnModulText>취업알선, 적중알선, 잡매칭, 직업분류, 직무이해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200157</learnModulSeq>
+<learnModulName>사후관리</learnModulName>
+<learnModulText>취업알선 시스템, 사례관리, 모니터링, 통계조사, 직무분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>취업알선</ncsSubdCdnm>
+<learnModulSeq>EDU20170200158</learnModulSeq>
+<learnModulName>구인구직자 발굴</learnModulName>
+<learnModulText>구직자 모집, 구인자 모집, 구인구직자 수요처, 홍보 매체, 구인구직 사이트, 구직 경로, 구인 경로, 구인구직자 발굴 활동, 취업지원 유관기관, 채용 행사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200121</learnModulSeq>
+<learnModulName>전직지원 사전컨설팅</learnModulName>
+<learnModulText>전직지원서비스, 전직지원 프로세스, 기업정보, 경영분석, 기업조직 정보보고서, 역량평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200122</learnModulSeq>
+<learnModulName>전직변화관리</learnModulName>
+<learnModulText>고용동향정보, 사례보고서, 스트레스 관리, 시간관리, 경력전환, 변화관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200123</learnModulSeq>
+<learnModulName>경력목표설정</learnModulName>
+<learnModulText>직무분석, 경력진단, 전직목표, 전직계획, 경력컨설팅, 전직전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200124</learnModulSeq>
+<learnModulName>재취업컨설팅</learnModulName>
+<learnModulText>재취업, 취업기술, 구직활동역량, 직장적응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200125</learnModulSeq>
+<learnModulName>창업컨설팅</learnModulName>
+<learnModulText>창업역량, 예비창업자, 시장성조사, 창업아이템, 상권 및 입지선정, 경영지원, 예비창업자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200126</learnModulSeq>
+<learnModulName>생애설계컨설팅</learnModulName>
+<learnModulText>인생 6대 영역, 퇴직상담, 은퇴상담, 생애진로, 평생교육, 자원봉사, 사회적 경제, 사회보장제도, 중장년</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200127</learnModulSeq>
+<learnModulName>능력개발컨설팅</learnModulName>
+<learnModulText>국가기술 자격제도, 국가직무능력표준(NCS), HRD-net, 직업정보, 근로자직업능력개발법, 한국표준직업분류, 한국표준산업분류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200128</learnModulSeq>
+<learnModulName>전직지원프로그램 운영</learnModulName>
+<learnModulText>요구분석, 조사 설계, FGI, 전직지원프로그램 설계, 프로그램 운영, 결과보고서, 교육평가, 교강사 관리, 인적네트워크 구성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20170200129</learnModulSeq>
+<learnModulName>전직지원 사후관리</learnModulName>
+<learnModulText>전직지원 컨설팅, 만족도 조사, 전직지원 피드백, 전직지원, 사례관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800027</learnModulSeq>
+<learnModulName>고객창출</learnModulName>
+<learnModulText>거시 외부 환경 분석, 경제동향, 산업동향, 노동시장, 고용정책, 기초요구 파악, 고객창출, 전략 제안서, 사 후 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800028</learnModulSeq>
+<learnModulName>대상기업 요구 분석</learnModulName>
+<learnModulText>고용동향 수집, 고용동향 분석, 기업분석, 산업분석, 전직지원 서비스 요구분석, 사업 타당성 검토, 전직지 원 서비스 프로그램, 사업제안서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800029</learnModulSeq>
+<learnModulName>전직지원 서비스 기획</learnModulName>
+<learnModulText>고객사 요구사항, 전직지원 서비스 계획안, 전직지원 서비스 범위, 협의 및 절충, 소통기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800030</learnModulSeq>
+<learnModulName>전직 초기면담</learnModulName>
+<learnModulText>전직 초기면담, 호소논점, 촉진관계, 직업정보 수집, 직업정보 제공, 전직 상담 구조화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800031</learnModulSeq>
+<learnModulName>변화동기 지원</learnModulName>
+<learnModulText>전직지원, 변화동기, 진로자본, 역량분석, 동기체계이론, 자기결정이론, 동기강화상담, 건강행동 과정적 접 근, 내재적 동기, 외재적 동기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800032</learnModulSeq>
+<learnModulName>전직논점 진단</learnModulName>
+<learnModulText>전직진단, 진단도구, 전직논점, 전직역량 분석, 진로자본, 진로전환, 비자발적 실업, 행동함정, 부정적 정서, 전직지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800033</learnModulSeq>
+<learnModulName>전직역량 분석</learnModulName>
+<learnModulText>전직지원, 역량분석, 진단, 진로자본, 직무역량, 역량평가, 역량 모델링, 역량사전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800034</learnModulSeq>
+<learnModulName>전직목표 설정</learnModulName>
+<learnModulText>진로욕구, 전직대안, 전직목표, 실행계획 수립, 실행계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800035</learnModulSeq>
+<learnModulName>생애설계 지원</learnModulName>
+<learnModulText>퇴직, 생애설계상담, 퇴직자 생애 형태, 생애 진로대안 탐색, 대안 선택, 의사결정, 생애설계계획서, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800036</learnModulSeq>
+<learnModulName>전직지원 프로그램 운영</learnModulName>
+<learnModulText>전직지원 프로그램, 전직지원 프로그램 요구도 조사, 전직지원 프로그램 운영계획서, 전직지원 프로그램 지 침서, 전직지원 프로그램 만족도, 전직지원 프로그램 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800037</learnModulSeq>
+<learnModulName>재취업상담</learnModulName>
+<learnModulText>재취업, 구직활동, 구직효능감, 구직역량, 구직전략, 채용정보, 면접, 근로조건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800038</learnModulSeq>
+<learnModulName>창업상담</learnModulName>
+<learnModulText>창업, 마케팅, 상권분석, 기업가 정신, 트렌드, 창업 멘토링, 비즈니스 모델, 수익 모델, 창업 아이템, 사업 타당성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800039</learnModulSeq>
+<learnModulName>전직훈련상담</learnModulName>
+<learnModulText>전직훈련, 훈련 요구도, 역량, 목표 설정, 생애주기, 훈련과정, 자격취득, 의사결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800040</learnModulSeq>
+<learnModulName>전직심화상담</learnModulName>
+<learnModulText>분노, 불안, 우울, 자기효능감, 인지치료 기법, REBT 기법, 주제분석 기법, 은유법, 근육이완법, 훈습</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800041</learnModulSeq>
+<learnModulName>전직지원상담 감독</learnModulName>
+<learnModulText>전직지원상담 수련감독자, 전직지원상담 지도감독자, 수련생, 수련감독 구조화, 수련감독 평가, 수석 수련감 독자, 수련감독자 기준, 수련감독자 윤리, 수련생 권리장전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800042</learnModulSeq>
+<learnModulName>전직지원 정보관리</learnModulName>
+<learnModulText>전직지원 정보 수집, 전직지원 정보 분석, 전직지원 정보 가공, 전직지원 정보 제공, 전직지원 정보 평가, 훈련정보, 자격정보, 의사결정, 직업선택</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800043</learnModulSeq>
+<learnModulName>전직지원 연구</learnModulName>
+<learnModulText>전직지원 정책, 전직지원 검사도구, 전직지원 상담기법, 전직지원 프로그램, 전직지원 정책 연구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800044</learnModulSeq>
+<learnModulName>전직지원 사후관리</learnModulName>
+<learnModulText>전직지원, 재취업, 변화동기, 생애설계, 전직목표, 직업유지, 조직문화 적응, 직장갈등, 직업건강</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업상담서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>전직지원</ncsSubdCdnm>
+<learnModulSeq>EDU20210800045</learnModulSeq>
+<learnModulName>전직행정</learnModulName>
+<learnModulText>상담일지, 개인정보보호, 문서작성, 문서분류, 문서관리, 전산 입력, 업무처리규정, 관리지침, 정보망 구축, 네트워크 구축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600027</learnModulSeq>
+<learnModulName>청소년 조사연구 및 사업기획</learnModulName>
+<learnModulText>청소년 특성, 청소년 정책, 청소년 관련 법, 청소년 사업, 청소년 프로그램, 사업 운영 계획, 특 성화 계획, 자료 수집, 요구 분석, 성과 분석, 현황 분석, 연구 조사지, 연구 결과 활용하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600028</learnModulSeq>
+<learnModulName>청소년프로그램 개발</learnModulName>
+<learnModulText>청소년 프로그램, 청소년 프로그램 개발, 청소년 프로그램 운영 계획안, 청소년 프로그램 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600029</learnModulSeq>
+<learnModulName>청소년프로그램 실행</learnModulName>
+<learnModulText>청소년 지도자, 청소년 프로그램 참여자, 청소년 프로그램 공간과 기자재, 청소년 프로그램 실행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600031</learnModulSeq>
+<learnModulName>청소년프로그램 평가</learnModulName>
+<learnModulText>프로그램 평가 계획 설계, 평가 방법, 평가도구, 평가 보고서, 프로그램 성과 평가, 사후 관리계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600032</learnModulSeq>
+<learnModulName>자원봉사활동 운영</learnModulName>
+<learnModulText>자원봉사 활동 운영 계획, 자원 인력 모집 ‧교육‧운영, 자원 인력 슈퍼비전, 자원봉사 활동 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600033</learnModulSeq>
+<learnModulName>청소년자치활동 인증관리</learnModulName>
+<learnModulText>인증 프로그램 개발, 인증 프로그램 운영, 인증 요소, 인증 프로그램 평가, 활동 기록 관리, 유지 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600036</learnModulSeq>
+<learnModulName>청소년자치활동 운영</learnModulName>
+<learnModulText>사업 계획 수립, 청소년 지도 인력 교육, 참가자 모집, 청소년 자치활동 지원, 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600037</learnModulSeq>
+<learnModulName>청소년 생활지도</learnModulName>
+<learnModulText>생활 지도 이해, 사례 이해 및 분석, 생활 지도 수행, 지원 체계 발굴 및 연계, 매뉴얼 작성, 평가도구의 개발 및 적용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600038</learnModulSeq>
+<learnModulName>청소년기관 행정지원</learnModulName>
+<learnModulText>예산, 회계, 인사, 사무 관리, 인사 규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600039</learnModulSeq>
+<learnModulName>네트워크 구축 및 운영</learnModulName>
+<learnModulText>네트워크, 지역 자원 개발, 자원 점검, 지역 자원 관리, 연계 사업, 평가 회의</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600041</learnModulSeq>
+<learnModulName>청소년활동 정보 관리</learnModulName>
+<learnModulText>활동 정보, 정보 수집·정리, 정보 활용, 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600043</learnModulSeq>
+<learnModulName>청소년활동 안전 및 위생관리</learnModulName>
+<learnModulText>청소년, 청소년 안전 교육, 청소년 위생 교육, 청소년 성희롱 및 성폭행 예방 교육, 청소년기본법, 청소년활동진흥법, 청소년보호법, 아동·청소년의 성 보호에 관한 법률, 산업안전보건법 시행 규칙, 식품 위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600044</learnModulSeq>
+<learnModulName>교육훈련</learnModulName>
+<learnModulText>경력 개발, 청소년 지도자, 요구 분석, 교수 설계, 프로그램 개발, 교육 실행, 교육 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600045</learnModulSeq>
+<learnModulName>청소년 권익증진활동지원</learnModulName>
+<learnModulText>청소년 권익 증진, 이슈 선정, 실천 전략, 연대 협력, 활동 실천, 활동 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>청소년활동</ncsSubdCdnm>
+<learnModulSeq>EDU20160600047</learnModulSeq>
+<learnModulName>현장실습지도</learnModulName>
+<learnModulText>실습, 실습생, 운영 계획, 현장 실습, 현장 실무, 슈퍼비전, 실습평가, 결과 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600123</learnModulSeq>
+<learnModulName>접수면접</learnModulName>
+<learnModulText>접수면접, 상담 신청서, 기관 운영 규정, 사례 배정, 문제 평가, 개인 정보 보호, 면담 기술, 비 밀 보장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600124</learnModulSeq>
+<learnModulName>심리평가</learnModulName>
+<learnModulText>심리평가, 심리검사, 행동 관찰, 채점, 해석, 심리평가 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600125</learnModulSeq>
+<learnModulName>개인상담</learnModulName>
+<learnModulText>개인 상담, 라포 형성, 상담 구조화, 사례 개념화, 상담 목표, 회기 평가, 상담 이론, 상담 종결, 추수 상담</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600126</learnModulSeq>
+<learnModulName>집단상담</learnModulName>
+<learnModulText>집단상담, 요구 분석, 집단상담 주제, 집단상담 목표, 집단 역동, 집단상담 기법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600127</learnModulSeq>
+<learnModulName>매체상담</learnModulName>
+<learnModulText>매체상담, 전화 상담, 게시판 상담, 메일 상담, SNS 상담, 채팅 상담, 상담 일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600128</learnModulSeq>
+<learnModulName>위기개입</learnModulName>
+<learnModulText>위기개입, 위기 청소년, 가출, 청소년 성매매, 성폭력, 학교 폭력, 가정 폭력, 근로 청소년, 청소년 상담</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600129</learnModulSeq>
+<learnModulName>청소년부모상담</learnModulName>
+<learnModulText>청소년 부모상담, 부모상담, 부모 교육, 부모자문, 청소년 부모</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600130</learnModulSeq>
+<learnModulName>상담자문</learnModulName>
+<learnModulText>정신 건강 자문, 내담자 중심 사례 자문, 피자문자 중심 사례 자문, 프로그램 중심 행정 자문,피자문자 중심 행정 자문</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600131</learnModulSeq>
+<learnModulName>청소년 자립지원</learnModulName>
+<learnModulText>진로 상담, 자립지원, 학업 지원, 학업 복귀, 사회 진입, 생활 기술, 진학 지원, 취업 지원, 학교 밖 청소년, 학업 중단 숙려제, 학교 밖 청소년 지원 사업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600132</learnModulSeq>
+<learnModulName>청소년 사례 통합관리</learnModulName>
+<learnModulText>기관의 사업 계획 및 지침, 대상자 발굴, 대상자 평가, 지역 사회 연계 기관, 사례 관리, 지원 전략, 자원 제공, 추후 관리, 서비스 전달 체계, 사례 관리 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600133</learnModulSeq>
+<learnModulName>상담수퍼비전</learnModulName>
+<learnModulText>수퍼비전, 상담 전문성 발달 수준, 상담 사례 보고서, 상담 사례 분석, 상담수퍼비전 계약, 수퍼 비전 목표 합의, 수퍼비전 방식, 수퍼비전 종결, 종결 후 전문성 향상, 수퍼비전 종합 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600134</learnModulSeq>
+<learnModulName>청소년상담 교육프로그램 운영</learnModulName>
+<learnModulText>청소년상담, 교육훈련, 교육프로그램, 수요, 요구 조사, 교육 훈련 기획, 교육 운영, 교육프로그램 실행, 교육훈련 과정, 교육훈련 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600135</learnModulSeq>
+<learnModulName>청소년상담 연구개발</learnModulName>
+<learnModulText>청소년상담 연구, 청소년 연구, 청소년상담 연구개발, 상담 프로그램 개발, 상담 효과성 연구, 청소년상담 의제 설정, 청소년 정책 제안, 청소년상담 프로그램 개발, 청소년상담 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>청소년상담복지</ncsSubdCdnm>
+<learnModulSeq>EDU20160600136</learnModulSeq>
+<learnModulName>지역사회안전망 운영</learnModulName>
+<learnModulText>지역 사회, 지역 사회 상담, 지역 사회 청소년 사회 안전망, 지역사회청소년통합지원체계, 지역자원, 협력 체계 구축, 연계 협력, 통합 지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200064</learnModulSeq>
+<learnModulName>진로개발기획 운영</learnModulName>
+<learnModulText>환경분석, 진로사업운영계획서, 진로교육사업결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200069</learnModulSeq>
+<learnModulName>진로개발역량 진단</learnModulName>
+<learnModulText>진로개발역량 진단, 진단도구, 심리검사, 검사와 진단도구의 채점 및 해석, 결과보고서, 사후관리, 자원연계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200070</learnModulSeq>
+<learnModulName>진로개발상담</learnModulName>
+<learnModulText>진로개발상담, 진로개발상담 실시, 진로개발상담 평가, 상담 종결 보고서, 추수상담</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200072</learnModulSeq>
+<learnModulName>진로개발교육</learnModulName>
+<learnModulText>진로개발, 청소년 프로그램 개발, 교육 실행, 교육 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200074</learnModulSeq>
+<learnModulName>진로지원 자원개발</learnModulName>
+<learnModulText>진로체험, 진로체험장, 지원인력, 네트워크, 지원인력풀</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200078</learnModulSeq>
+<learnModulName>진로체험활동 운영</learnModulName>
+<learnModulText>진로체험활동, 체험장, 멘토, 진로체험활동 사전준비, 진로체험활동 평가, 사업계획서, 진로체험활동 보고서, 진로체험활동 관찰 보고서, 진로체험 유형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200080</learnModulSeq>
+<learnModulName>진로정보 제공 관리</learnModulName>
+<learnModulText>직업정보, 진학정보, 자격정보, 훈련정보, 평생학습정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200082</learnModulSeq>
+<learnModulName>자립이행 지원</learnModulName>
+<learnModulText>창업, 구직, 진학, 진학상담, 구직과정, 창업과정, 창업역량, 진학계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200083</learnModulSeq>
+<learnModulName>진로개발지원 평가</learnModulName>
+<learnModulText>사업평가 계획, 사업평가 수행, 사업평가 분석, 참가자 사례관리, 사업평가 보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>청소년지도</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>진로지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200084</learnModulSeq>
+<learnModulName>진로개발지원 연구</learnModulName>
+<learnModulText>사례관리, 사례분석위원회, 사례연구, 설문지, 요구분석, 정책개발, 진로정책, 청소년 진로개발지원, 통계분석, 현장적합성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200109</learnModulSeq>
+<learnModulName>상담안내</learnModulName>
+<learnModulText>상담안내, 상담접수, 상담신청, 상담예약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200110</learnModulSeq>
+<learnModulName>접수상담</learnModulName>
+<learnModulText>접수상담, 호소문제, 정보수집, 상담자 배정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200111</learnModulSeq>
+<learnModulName>내담자 의뢰ㆍ연계</learnModulName>
+<learnModulText>의뢰‧연계, 기관 특성 및 분류, 기관 협약, 의뢰 소견서, 의뢰‧연계 동의, 기관 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200112</learnModulSeq>
+<learnModulName>개인심리치료상담</learnModulName>
+<learnModulText>개인심리치료상담, 상담구조화, 상담관계, 사례개념화, 상담목표, 치료 이론, 치료 원리, 상담 효과, 상담 종결, 상담 기록</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200113</learnModulSeq>
+<learnModulName>집단상담 프로그램 운영</learnModulName>
+<learnModulText>집단상담 프로그램, 구조화, 요구조사, 운영계획서, 프로그램 매뉴얼, 종결, 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200114</learnModulSeq>
+<learnModulName>관계자 상담</learnModulName>
+<learnModulText>커플상담, 가족상담, 조력자 상담, 상호역동, 상담 계획 수립, 사례개념화, 가계도, 상호역동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200115</learnModulSeq>
+<learnModulName>위기상담</learnModulName>
+<learnModulText>위기 상황 평가, 위기 수준 평가, 위기상담, 의뢰 및 연계, 결과 보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200116</learnModulSeq>
+<learnModulName>심리상담 교육</learnModulName>
+<learnModulText>심리상담 교육, 요구조사, 교육 설계, 교육 홍보, 교육 실시, 교육 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200117</learnModulSeq>
+<learnModulName>심리검사 활용</learnModulName>
+<learnModulText>심리검사, 검사 오리엔테이션, 검사 실시, 검사 채점, 심리평가 보고서, 심리검사 해석, 해석 상담.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200118</learnModulSeq>
+<learnModulName>심리상담 자료관리</learnModulName>
+<learnModulText>개인정보, 상담자 윤리, 상담 기록물, 상담 통계, 상담 현황, 윤리규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200119</learnModulSeq>
+<learnModulName>심리상담 자문</learnModulName>
+<learnModulText>자문, 상담, 자문방식, 협약, 요구분석, 계약서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>상담</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>심리상담</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>심리상담</ncsSubdCdnm>
+<learnModulSeq>EDU20170200120</learnModulSeq>
+<learnModulName>상담자 훈련</learnModulName>
+<learnModulText>수련상담자, 교육분석, 윤리교육, 심리상담 훈련, 수퍼비전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600001</learnModulSeq>
+<learnModulName>보육운영관리</learnModulName>
+<learnModulText>보육통합정보시스템, 인사관리, 재무회계규칙, 회계 관리, 예산 편성, 보육실습관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600002</learnModulSeq>
+<learnModulName>어린이집운영방침수립</learnModulName>
+<learnModulText>운영철학, 보육목표, 예산서, 반 구성, 표준보육과정, 보육계획안, 연간행사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600003</learnModulSeq>
+<learnModulName>어린이집 환경구성</learnModulName>
+<learnModulText>보육실 놀이 환경 구성, 실내외 환경구성, 시설·설비 및 비품 관리, 활동자료 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600004</learnModulSeq>
+<learnModulName>보육활동운영</learnModulName>
+<learnModulText>자유 선택 활동, 흥미 영역, 대·소집단 활동, 실외 활동, 놀이 환경 구성, 놀이 연계, 놀이 통합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600005</learnModulSeq>
+<learnModulName>놀이 지도</learnModulName>
+<learnModulText>신체 놀이, 감각 운동 놀이, 기능 놀이, 역할놀이, 쌓기 놀이, 구성 놀이, 흥미 영역, 놀이 환경 구성, 놀이 연계, 놀이 통합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600006</learnModulSeq>
+<learnModulName>신체예술활동지도</learnModulName>
+<learnModulText>신체활동 환경 구성, 신체활동 자료, 기본운동능력, 신체활동 지도, 음률활동 환경 구성, 음률활 동 자료, 음률활동 지도, 미술활동 환경 구성, 미술활동 자료, 미술활동 지도, 창의성, 심미감, 자발성, 즉흥성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600007</learnModulSeq>
+<learnModulName>언어수과학지도</learnModulName>
+<learnModulText>언어 활동을 위한 환경 구성, 의사소통 능력, 언어 활동 지도, 그림책 읽기, 수･조작 활동을 위 한 환경 구성, 영유아의 인지발달, 기초적인 수학적 개념, 수･조작 활동 지도, 과학 활동을 위한 환경 구성, 과학 활동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600008</learnModulSeq>
+<learnModulName>영유아 건강·안전·영양 지도</learnModulName>
+<learnModulText>건강관리 행동요령, 영유아보육법, 영유아 건강검진, 감염병, 안전관리 행동요령, 응급상황 대처, 비상연락망 구축, 급 ․ 간식 식단, 식습관 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600009</learnModulSeq>
+<learnModulName>보육평가</learnModulName>
+<learnModulText>보육평가, 영유아 관찰, 보육과정 평가, 보육운영 평가, 어린이집 평가인증</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600010</learnModulSeq>
+<learnModulName>영유아발달지원</learnModulName>
+<learnModulText>발달적 문제, 문제 행동 지도, 발달검사, 아동 상담, 전문가와의 협력, 치료기법, 장애, 가정방문, 발달지체 영유아, 개별화 보육 계획, 개별화 보육 계획안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600011</learnModulSeq>
+<learnModulName>가정·지역사회와의 협력</learnModulName>
+<learnModulText>가정･지역사회 협력, 부모상담, 부모교육, 부모참여지원, 어린이집 운영위원회, 지역사회협력, 지역사회 기관, 지역사회 전문가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20160600012</learnModulSeq>
+<learnModulName>보육연구</learnModulName>
+<learnModulText>보육 현장 연구, 보육 프로그램, 교사 교육, 멘토링, 파트너십</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100387</learnModulSeq>
+<learnModulName>어린이집 보육계획 수립</learnModulName>
+<learnModulText>표준 보육 과정, 보육 목표, 연간 보육 계획, 주간 보육 계획, 월간 보육 계획, 일일 보육 계획, 일일 보육 계획 평가, 보육 계획 반영</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100388</learnModulSeq>
+<learnModulName>생활지도</learnModulName>
+<learnModulText>기본 생활 습관, 인성, 사회관계, 일상생활 지도, 질서, 배려, 협력, 배변, 수면, 청결, 예절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100389</learnModulSeq>
+<learnModulName>신체활동 지도</learnModulName>
+<learnModulText>신체 활동 환경 구성, 신체 활동 자료, 기본 운동 능력, 신체 활동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100390</learnModulSeq>
+<learnModulName>음률활동지도</learnModulName>
+<learnModulText>음률 활동 환경 구성, 음률 활동 자료, 음률 활동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100391</learnModulSeq>
+<learnModulName>미술활동지도</learnModulName>
+<learnModulText>미술 활동 환경 구성, 미술 활동 자료, 미술 활동 계획, 미술 활동 지도, 탐색, 표현, 감상, 창의 성, 심미감, 자발성, 협동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100392</learnModulSeq>
+<learnModulName>언어활동지도</learnModulName>
+<learnModulText>언어 발달, 언어 활동 환경 구성, 언어 활동 자료, 언어 활동 지도, 문학 활동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100393</learnModulSeq>
+<learnModulName>수･조작활동지도</learnModulName>
+<learnModulText>수학, 수･조작 영역, 환경 구성, 수학 개념, 자연 탐구 영역, 상호 작용, 수학 자료, 수학 개념, 수･조작 자료, 수학 능력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100394</learnModulSeq>
+<learnModulName>과학활동지도</learnModulName>
+<learnModulText>인지 발달, 과학 활동 환경, 감각･탐색 활동, 과학 활동 자료, 과학 활동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100395</learnModulSeq>
+<learnModulName>건강 지도</learnModulName>
+<learnModulText>건강, 질병, 투약, 응급, 감염병</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100396</learnModulSeq>
+<learnModulName>영양지도</learnModulName>
+<learnModulText>급･간식, 이유식, 식습관, 식습관 형성, 식사 예절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100397</learnModulSeq>
+<learnModulName>보육 과정 및 운영 평가</learnModulName>
+<learnModulText>보육과정 평가, 보육운영 평가, 어린이집 평가인증, 평가인증 적용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100398</learnModulSeq>
+<learnModulName>장애아 발달지원</learnModulName>
+<learnModulText>장애아, 장애 유형, 행동 특성, 관찰, 부모면담, 협력교수, 보육 환경, 개별화보육계획(IEP)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보육</ncsSubdCdnm>
+<learnModulSeq>EDU20190100399</learnModulSeq>
+<learnModulName>지역사회와의 협력</learnModulName>
+<learnModulText>지역 사회 협력, 지역 사회 기관, 지역 사회 전문가, 지역 사회 연계, 지역 사회 특성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200856</learnModulSeq>
+<learnModulName>산후서비스관리</learnModulName>
+<learnModulText>표준 서비스, 부가 서비스, 산후서비스 초기 상담, 정부의 출산 지원 정책, 직무 역량 평가, 개인 개발</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200857</learnModulSeq>
+<learnModulName>산전(출산전) 관리</learnModulName>
+<learnModulText>임신부, 임신, 영양 관리, 유방, 분만 과정, 통증 완화 방법, 출산 준비물, 임신출산 지원 정책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200858</learnModulSeq>
+<learnModulName>산모관리</learnModulName>
+<learnModulText>산욕기, 자궁 퇴축, 오로, 산욕열, 회음부 관찰, 산후통, 산후 부종, 유방 울혈, 산후 정서적 변화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200859</learnModulSeq>
+<learnModulName>신생아 관리</learnModulName>
+<learnModulText>신생아, 건강 상태, 배설, 위생, 목욕, 이상 징후</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200860</learnModulSeq>
+<learnModulName>수유 관리</learnModulName>
+<learnModulText>모유 수유, 인공 수유, 수유 보조 기구, 젖병 소독, 젖 짜는 방법, 수유 자세, 분유 조제 방법, 유방 관리, 초기 유방 울혈, S.M.C 유방 마사지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200861</learnModulSeq>
+<learnModulName>일상생활 지원</learnModulName>
+<learnModulText>일상생활, 온도, 습도, 청소, 산모 용품, 신생아 용품, 온습도계, 주방, 식사 지원, 세탁, 큰아이</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>산후육아지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200862</learnModulSeq>
+<learnModulName>특수 대상 관리</learnModulName>
+<learnModulText>고위험 산모, 장애 산모, 다문화 산모, 청소년 산모, 미혼모 산모, 특수 신생아, 임신출산 지원 정책, 다문화 산후 조리, 응급 상황 대처법, 산후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>아이돌봄</ncsSubdCdnm>
+<learnModulSeq>EDU20211200080</learnModulSeq>
+<learnModulName>아이 돌봄 서비스 관리</learnModulName>
+<learnModulText>아이 돌봄 서비스, 경력 단절 여성, 인적 및 물적 자원, 서비스 관리 계획, 서비스 성과 기준, 모니터링, 아 이돌보미 교육, 종사자 교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>아이돌봄</ncsSubdCdnm>
+<learnModulSeq>EDU20211200081</learnModulSeq>
+<learnModulName>아이 돌봄 기본 업무 관리</learnModulName>
+<learnModulText>가정 내 면접, 기본 정보 기록, 업무 계약, 가족 특성 파악, 아이 특성 파악, 요구 사항 정리, 비상 연락 체계 작성, 육아 일지 작성, 돌봄 준비물 요청, 업무 과정 조정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>아이돌봄</ncsSubdCdnm>
+<learnModulSeq>EDU20211200082</learnModulSeq>
+<learnModulName>건강 안전 돌봄</learnModulName>
+<learnModulText>돌봄, 환경, 안전 지도, 교통사고, 재해 대처, 응급조치, 건강 관리, 예방접종, 아동 인권 존중, 학대 예방</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>아이돌봄</ncsSubdCdnm>
+<learnModulSeq>EDU20211200083</learnModulSeq>
+<learnModulName>정서 돌봄</learnModulName>
+<learnModulText>언어, 경청, 반응, 신체 놀이, 교감, 스킨십, 정서 표현, 위로, 불안, 스트레스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>아이돌봄</ncsSubdCdnm>
+<learnModulSeq>EDU20211200084</learnModulSeq>
+<learnModulName>신체 돌봄</learnModulName>
+<learnModulText>배변 훈련, 청결 습관, 성장 발달, 수면 습관, 영양 관리, 놀이 활동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>07</ncsLclasCd>
+<ncsLclasCdnm>사회복지·종교</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>보육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>아이돌봄</ncsSubdCdnm>
+<learnModulSeq>EDU20211200085</learnModulSeq>
+<learnModulName>아이 생활 지원</learnModulName>
+<learnModulText>생활 습관, 청결, 인사, 식사 예절, 옷 입기, 세탁, 용품 관리, 청소, 통학 관리, 일정 관리</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>227</totCnt>
+</dataInfo>
+</root>

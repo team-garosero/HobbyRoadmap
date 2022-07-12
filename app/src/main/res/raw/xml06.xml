@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600282</learnModulSeq>
+<learnModulName>의료기기관리 업무기획</learnModulName>
+<learnModulText>정보 수집, 정보 분석, 의료기기법, 의사 결정, 업무 기획, 단계별 업무 계획, 회의, 토의, 교육, 자료 제공, 피드백, 리더십, 중간 평가, 최종 평가, 중간 보고서, 최종 결과 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600283</learnModulSeq>
+<learnModulName>의료기기 구매관리</learnModulName>
+<learnModulText>구매 의뢰서, 구입 계획, 견적서, 기술 검토서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600289</learnModulSeq>
+<learnModulName>의료기기 설치기술검수</learnModulName>
+<learnModulText>의료기기 설치 계획, 의료기기 설치, 시험 가동, 검수, 고정 자산 등록</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600290</learnModulSeq>
+<learnModulName>의료기기 유지보수</learnModulName>
+<learnModulText>의료기기 등급, 기술 문서, 예방 점검, 수리, 교정, 결과서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600291</learnModulSeq>
+<learnModulName>의료기기 성능평가</learnModulName>
+<learnModulText>기술 정보 수집, 평가 계획, 성능 평가, 기기 관리, 평가 결과서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600292</learnModulSeq>
+<learnModulName>임상기술지원</learnModulName>
+<learnModulText>의료기기, 요구 분석, 연구 개발, 임상 시험, 기술 정보, 설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600294</learnModulSeq>
+<learnModulName>의료기기 기술관리</learnModulName>
+<learnModulText>기술 관리 정보 수집, 기술 관리 계획, 외주 용역, 재고 재산 관리, 인증 관리, 기술 관리 결과서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600295</learnModulSeq>
+<learnModulName>의료기기 교육훈련</learnModulName>
+<learnModulText>요구 분석, 교수 설계, 교안 작성, 교육 매체, 교육 평가, 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의료기기관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600296</learnModulSeq>
+<learnModulName>의료기기 안전관리</learnModulName>
+<learnModulText>의료기기 등급, 인적 조직, 육안 점검, 정기 점검, 생물학적 안전 점검, 의료기기 법규, 장비 이력서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140600297</learnModulSeq>
+<learnModulName>진료지원보조</learnModulName>
+<learnModulText>진료 준비, 고객 안내, 정리 정돈, 의료기기 안전관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140600298</learnModulSeq>
+<learnModulName>물품전달</learnModulName>
+<learnModulText>검체물, 소독물품, 부소독물품, 약품, 서류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140600300</learnModulSeq>
+<learnModulName>환자이송보조</learnModulName>
+<learnModulText>인체 역학, 무게 중심, 안전장치, 휠체어, 운반차(stretcher car), 홑이불(sheet), 보행기, 보조기, 목발</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140600304</learnModulSeq>
+<learnModulName>물품세척</learnModulName>
+<learnModulText>오염 물품, 보호 장구, 손위생, 일회용품, 재사용 물품, 비품, 세척, 청결, 소독, 멸균</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140600306</learnModulSeq>
+<learnModulName>오염물처리</learnModulName>
+<learnModulText>신체 배출물, 오염 세탁물, 오염 폐기물, 개인의 사생활 보호, 감염, 표준주의, 위생관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140700596</learnModulSeq>
+<learnModulName>일상생활 수행지원</learnModulName>
+<learnModulText>인체 역학, 무게 중심, 보행 보조 장비, 경구, 비경구, 비위관, 영양, 관절 가동 범위, 의사소통</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140700597</learnModulSeq>
+<learnModulName>신체청결지원</learnModulName>
+<learnModulText>신체 청결, 목욕, 세수, 면도, 구강 청결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20140700598</learnModulSeq>
+<learnModulName>사고예방지원</learnModulName>
+<learnModulText>위험요인, 위험요소, 위험물질, 의료폐기물, 감염요인, 화재요인, 안전장치, 안전설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20211200268</learnModulSeq>
+<learnModulName>요양보호제도</learnModulName>
+<learnModulText>노인장기요양보험, 장기요양급여, 노인복지법, 저출산‧고령사회기본법, 요양보호사, 장기요양서비스, 요양보호 대상자, 노인 인권, 노인 학대</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>요양지원</ncsSubdCdnm>
+<learnModulSeq>EDU20211200269</learnModulSeq>
+<learnModulName>인지활동지원보조</learnModulName>
+<learnModulText>인지기능, 기억 능력, 연산 능력, 치매, 인지 저하, 인지활동, 정신행동증상, 문제행동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600312</learnModulSeq>
+<learnModulName>의지제작</learnModulName>
+<learnModulText>재료 및 부품 선택, 임시 의지, 측정, 본뜨기, 석고 모델 수정, 라이너, 체크 소켓, 소켓, 현가장치, 조립, 정렬, 가장착 및 장착, 외관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600314</learnModulSeq>
+<learnModulName>보조기제작</learnModulName>
+<learnModulText>측정, 석고 모델 수정, 제작, 조립 및 정렬, 장착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600315</learnModulSeq>
+<learnModulName>정형화제작</learnModulName>
+<learnModulText>정형화, 신발, 구두, 패턴, 화형, 인솔(안창)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600316</learnModulSeq>
+<learnModulName>자세유지기구제작</learnModulName>
+<learnModulText>자세유지기구, 자세 변형, 도수 평가, 중립 자세, 우레탄 폼, 착석 시스템 베이스, 벨트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600317</learnModulSeq>
+<learnModulName>기타 보조기구제작</learnModulName>
+<learnModulText>타이핑 보조기구, 휠체어, 수부 측정, 저온 플라스틱, 벨크로, 인체 계측</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600319</learnModulSeq>
+<learnModulName>의지보조기 교육</learnModulName>
+<learnModulText>의지, 보조기, 정형화, 자세 보조기구, 기타 보조기구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600320</learnModulSeq>
+<learnModulName>의지보조기 연구개발</learnModulName>
+<learnModulText>연구 개발, 실용신안, 특허, 매뉴얼, 교재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600378</learnModulSeq>
+<learnModulName>의뢰인 상담 및 평가</learnModulName>
+<learnModulText>상담, 장애인 보조기구, 평가, 신체 계통, 보행, 기능적 활동, 자세, 환경</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>09</ncsSubdCd>
+<ncsSubdCdnm>의지보조기제작·관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600380</learnModulSeq>
+<learnModulName>의지보조기 경영 및 사후관리</learnModulName>
+<learnModulText>경영 관리, 인력 관리, 재무 관리, 장비 관리, 재료 관리, 환경 관리, 문서 관리, 의뢰인 관리, 상지 의지, 하지 의지, 정형화, 자세유지기구, 기타 보조기구, 사후 관리, 수리, 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600322</learnModulSeq>
+<learnModulName>행동청능 평가</learnModulName>
+<learnModulText>순음청력검사, 기도청력검사, 골도청력검사, 차폐검사, 특수순음청력검사, 심리음향검사, 음량검사, 판별역치검사, 미세증가감성지수검사, 어음청각검사, 소음 청각검사, 아동청각검사, 행동관찰 청각검사, 시각강화청각검사, 조건놀이청각검사, 위난청 청각검사, 행동청능평가 보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600356</learnModulSeq>
+<learnModulName>보청기적합</learnModulName>
+<learnModulText>보청기, 적합, 귓본, 귀꽂이, 커플러, 전기 음향 측정, 실이 측정, 음장검사, 방향분별검사, 보 고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600357</learnModulSeq>
+<learnModulName>특수보청기적합</learnModulName>
+<learnModulText>특수 보청기, 인공와우, 청각 이식기기, 청각 보조기기, 적합, 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600358</learnModulSeq>
+<learnModulName>청능재활</learnModulName>
+<learnModulText>청능 재활, 상담, 청능 훈련, 말지각 훈련, 의사소통 전략 훈련, 독화 훈련</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600360</learnModulSeq>
+<learnModulName>중추청각기능재활</learnModulName>
+<learnModulText>중추청각기능, 중추청각기능 재활, 중추청각 처리 장애</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600362</learnModulSeq>
+<learnModulName>전정기능재활</learnModulName>
+<learnModulText>전정기관, 어지럼증, 안진, 영상 안진 검사, 온도안진검사, 회전검사, 동적자세검사, 전정 유발 근전위, 전정기능 재활, 전정기능 재활 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600363</learnModulSeq>
+<learnModulName>이명재활</learnModulName>
+<learnModulText>이명(tinnitus), 이명 평가, 이명 재활, 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600364</learnModulSeq>
+<learnModulName>청력보존</learnModulName>
+<learnModulText>소음, 소음성 난청, 청력 보호기기, 청력 정도 관리, 소음 특수 건강 진단, 청력 보존 프로그램, 청력 보존 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600365</learnModulSeq>
+<learnModulName>청각관리 교육연구개발</learnModulName>
+<learnModulText>청각 관리 교육, 청능 평가도구, 청능 재활 전략, 청각기기 신기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600367</learnModulSeq>
+<learnModulName>청각기기 제작</learnModulName>
+<learnModulText>청각기기(보청기) 생산, 품질 검사, 수리, 인허가 업무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>10</ncsSubdCd>
+<ncsSubdCdnm>청각관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600368</learnModulSeq>
+<learnModulName>청각경영 관리</learnModulName>
+<learnModulText>창업, 의료기기 시행 규칙, 인력 관리, 세무 회계, 마케팅 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600220</learnModulSeq>
+<learnModulName>심리건강증진</learnModulName>
+<learnModulText>심리 건강, 심리 장애, 자원 안내, 스트레스 관리 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700010</learnModulSeq>
+<learnModulName>심리평가</learnModulName>
+<learnModulText>심리평가, 심리검사, 면담, 실시, 채점, 해석, 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700011</learnModulSeq>
+<learnModulName>심리치료</learnModulName>
+<learnModulText>심리 치료, 심리학적 상담, 근거 기반 치료, 치료 원리, 임상적 적용, 내담자 관계, 치료 이론, 효과 평가, 심리 치료 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700012</learnModulSeq>
+<learnModulName>심리자문개발</learnModulName>
+<learnModulText>심리 자문, 개인 자문, 단체 자문, 지역 사회, 치료 매뉴얼 개발, 교육 자료 개발, 심리 검사 도구 개발</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700013</learnModulSeq>
+<learnModulName>심리교육</learnModulName>
+<learnModulText>심리 교육, 스트레스 관리, 분노 조절, 문제 해결, 사회성 증진, 보호자 교육, 부모 교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700014</learnModulSeq>
+<learnModulName>임상심리연구</learnModulName>
+<learnModulText>임상 심리 연구 설계, 자료 수집, 결과 분석, 논문(보고서) 작성, 임상 심리 연구 윤리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700016</learnModulSeq>
+<learnModulName>심리재활</learnModulName>
+<learnModulText>심리 재활, 사례 관리, 가족 지원, 재활 프로그램, 지역 사회 자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700017</learnModulSeq>
+<learnModulName>지도감독</learnModulName>
+<learnModulText>심리 평가, 심리 검사, 면담, 실시, 채점, 해석, 보고서, 수련생, 슈퍼바이저</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700018</learnModulSeq>
+<learnModulName>임상심리지원</learnModulName>
+<learnModulText>행동 수정, 대인 관계, 아동 지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>13</ncsSubdCd>
+<ncsSubdCdnm>임상심리</ncsSubdCdnm>
+<learnModulSeq>EDU20180700019</learnModulSeq>
+<learnModulName>심리건강증진</learnModulName>
+<learnModulText>심리 건강, 심리 장애, 자원 안내, 스트레스 관리 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101123</learnModulSeq>
+<learnModulName>의료정보 완전성 관리</learnModulName>
+<learnModulText>의무기록(의료정보) 관리규정, 의무기록(의료정보) 완결관리, 의무기록 점검, 재원점검, 미완결기록, 필수작성항목, 의무기록 접근권한, 의무기록 서식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101124</learnModulSeq>
+<learnModulName>의료정보전사</learnModulName>
+<learnModulText>의학전사, 의학전사자, 의무기록 전사시스템, 병리진단 보고서, 세포병리 진단 보고서, 수술지, 영상의학 보고서, 퇴원요약지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101125</learnModulSeq>
+<learnModulName>질환등록</learnModulName>
+<learnModulText>질환등록, 질환등록시스템, 등록질환, 암등록, 종양질환, 퇴원손상질환, 중증 및 희귀난치성질환, 모성사망 및 영아사망, 등록질환정보 수집 및 보고, 국가암등록 ‧ 통계사업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101129</learnModulSeq>
+<learnModulName>의료정보보호</learnModulName>
+<learnModulText>개인정보, 개인건강정보보호, Privacy &amp;amp; Security, 정보자산, 접근권한, 접근통제, 위험평가, 위험관리, 관리적 보호, 기술적 보호, 물리적 보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101130</learnModulSeq>
+<learnModulName>진료정보 지원</learnModulName>
+<learnModulText>병원정보시스템, 등록번호 부여 방법, 신규 등록환자, 이중등록번호, 진료정보 DB 구축/관리, 진료서비스 상담 및 설명, 협력병원, 진료의뢰 상담, 행사기획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101131</learnModulSeq>
+<learnModulName>요양급여 정보관리</learnModulName>
+<learnModulText>적정진료, 요양급여 적정성, 요양급여 유형, 행위별 요양급여, DRG 요양급여, 환자 유형, 심사조정(삭감), 이의신청, 진료수가, 원가분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101133</learnModulSeq>
+<learnModulName>의료정보관리 질 향상</learnModulName>
+<learnModulText>Quality Improvement(QI, 질 향상), Continuous Quality Improvement(CQI, 지속적 질 향상), PDCA, Statistical Process Control(SPC, 통계적 공정관리), Risk Management(RM, 위험관리), Balanced Score Card(BSC, 균형성과표), 임상질지표, 질향상위원회, 의료정보위원회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>의료기술지원</ncsSclasCdnm>
+<ncsSubdCd>14</ncsSubdCd>
+<ncsSubdCdnm>의료정보관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101134</learnModulSeq>
+<learnModulName>의료기관평가 지원</learnModulName>
+<learnModulText>의료기관 인증, 의료기관 신임평가, 응급의료기관 평가, 요양기관 적정성 평가, 의료의 질 향상, 환자 안전, 추적조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600223</learnModulSeq>
+<learnModulName>원무관리</learnModulName>
+<learnModulText>초진, 재진, 급여 유형, 예약 제도, 선택 진료, 본인 부담 제도, 입원 수속, 병실 배정, 전과/전 실, 퇴원 수속, 제 증명 발급, 유형 변경, 미수금 관리, 지불 보증, 재원 환자, 보험 급여 기준, 처방 전달 시스템, 전자 의무 기록, 상병명, 이의 신청, 협력 병원, 고객 만족도 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600225</learnModulSeq>
+<learnModulName>병원인사관리</learnModulName>
+<learnModulText>노사 관계, 급여 관리, 4대 보험, 교육 수련, 채용 경력 관리, 인사 평가, 근태 관리, 직무 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600228</learnModulSeq>
+<learnModulName>병원일반관리</learnModulName>
+<learnModulText>의전, 현장 대리인, 용역비, 문서 분류, 문서 기호, 공람, 업무용 차량, 구급차, 차량 배차, 자동차보험, 재고 관리, 시장 가격 조사, 계약 관리, 물품 공급 계약, 연구비, 의학연구윤리심의위원회, 시설 공사, 건물 유지 및 보수, 시설 보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600229</learnModulSeq>
+<learnModulName>병원경영기획</learnModulName>
+<learnModulText>미션, 비전, SWOT분석, 포지셔닝, 마케팅, 브랜드, 웹 사이트, QI, CS, 임상평가지표, 고객 만족도조사, 의료 기관 인증제, 법정 정원, 직무 분석, 직무기술서, 직무명세서, 직무 평가, 소요 정원, 손익 예산, 자본 예산, 종합 예산, 예산 편성, 예산 집행, 예산 통제, 예산 변동, 추가 경정 예산, 사업 계획서, 장/단기 발전 계획, 자금 분석, 투자, 미래 가치, 현재 가치, 순현재가치법, 내부 수익률, 투자 가치 평가, 제 규정, 위원회 규정, 정관, 근로 기준법, 단체 협약, 취업 규칙, 유권 해석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600232</learnModulSeq>
+<learnModulName>병원경영평가</learnModulName>
+<learnModulText>경영 실적 분석, 잠재 고객 파악, 병원 경영 분석, 병원 경영 지표, 병원 원가 분석, 손익 분석, 적정 원가 산정, 원가 분석보고서, 감사 계획, 감사 업무 수행, 감사 결과보고서, 감 사 결과 처분 요구서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600234</learnModulSeq>
+<learnModulName>병원구매관리</learnModulName>
+<learnModulText>물류 관리, 재고 관리, 구매 요구서, 시장 조사, 입찰 계약, 구매 타당성 검토, 입출고 관리, 창고 관리, 납품, 검수, 약품, 의료 소모품, 의료 장비, 구매 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>병원행정</ncsSubdCdnm>
+<learnModulSeq>EDU20140600235</learnModulSeq>
+<learnModulName>병원회계관리</learnModulName>
+<learnModulText>결산, 재무제표, 전표, 대차 대조표, 손익 계산서, 현금흐름표, 기본금 변동 계산서, 출납 관리, 법인세, 소득세, 부가 가치세, 재산세, 취득세, 등록면허세, 고유목적사업준비금, 자금수지표, 자금 조달전략, 자본 예산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600301</learnModulSeq>
+<learnModulName>환자응대하기</learnModulName>
+<learnModulText>진료 접수, 진료 흐름도, 병원 정보 시스템, 보험 유형, 커뮤니케이션 스킬, 이미지 메이킹, 의료 서비스 매너, 의료 서비스 특성, 환자의 불편 사항 응대, 환자 대기 시간 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600302</learnModulSeq>
+<learnModulName>환자서비스관리하기</learnModulName>
+<learnModulText>환자 관리, 환자 유형 분류, 사후 관리, MOT(서비스 접점), 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600303</learnModulSeq>
+<learnModulName>예약관리하기</learnModulName>
+<learnModulText>예약의 중요성 이해, 의료 서비스 매너, 병원 예약 정보, 진료 흐름도 이해, 병원 정보 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600307</learnModulSeq>
+<learnModulName>진료서비스지원관리하기</learnModulName>
+<learnModulText>환자 정보 등록, 진료 대기 시간 관리, 진료과 특성, 건강보험, 병원 정보 시스템, 진료 전후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600309</learnModulSeq>
+<learnModulName>환자상담관리하기</learnModulName>
+<learnModulText>온라인 상담, 전화 상담, 환자 상담, 불만 환자 상담, 상담 일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600311</learnModulSeq>
+<learnModulName>수납관리하기</learnModulName>
+<learnModulText>청구 수납하기, 영수증 발행하기, 미수금 관리, 환불 관리하기, 증명서 발급하기, 진료비 수납 기록, 진료비 관리하기, 보험 청구하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600413</learnModulSeq>
+<learnModulName>내부고객관리하기</learnModulName>
+<learnModulText>내부 고객, 병원 CS, 팀워크, 팀커뮤니케이션, 동기부여</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600415</learnModulSeq>
+<learnModulName>병원마케팅관리하기</learnModulName>
+<learnModulText>의료계 정보, 홈페이지 모니터링, 바이럴 마케팅, 개인 정보 보호법, 환자 만족도 조사, 의료 서비스 마케팅, 의료 광고법, 의료 서비스 마케팅, STP 분석, SWOT 분석, Marketing-mix, 4P, 7P</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>병원안내</ncsSubdCdnm>
+<learnModulSeq>EDU20140600416</learnModulSeq>
+<learnModulName>병원환경관리하기</learnModulName>
+<learnModulText>병원 환경, 편의 시설, 안전, 위생, 병원 이미지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600417</learnModulSeq>
+<learnModulName>보건교육 요구도 진단</learnModulName>
+<learnModulText>보건 현황, 보건 문제, 우선순위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600418</learnModulSeq>
+<learnModulName>보건교육 계획</learnModulName>
+<learnModulText>주제 설정, 목적 설정, 자원 활용, 수행 과정 계획, 평가 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600419</learnModulSeq>
+<learnModulName>보건교육 전략 개발</learnModulName>
+<learnModulText>보건교육, 대상자, 교수법, 콘텐츠 개발, 교수 전략, 보건교육 정보, 보건 정보, 정보 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600420</learnModulSeq>
+<learnModulName>보건교육 매체 개발</learnModulName>
+<learnModulText>보건교육, 전자 매체, 문서 매체, 보건교육 도구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600421</learnModulSeq>
+<learnModulName>보건교육 홍보</learnModulName>
+<learnModulText>보건교육, 보건교육 내용, 홍보, 전략, 건강 메시지, 캠페인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600422</learnModulSeq>
+<learnModulName>보건교육 의사소통</learnModulName>
+<learnModulText>보건교육, 보건교육 의사소통, 의사소통 전략, 의사소통 기술, 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600423</learnModulSeq>
+<learnModulName>보건교육 인프라 구축</learnModulName>
+<learnModulText>보건교육 환경, 보건교육 협력자, 자원봉사자 조직</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600424</learnModulSeq>
+<learnModulName>보건교육 수행</learnModulName>
+<learnModulText>교안 작성, 보건교육, 교육 실행, 자원 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보건교육</ncsSubdCdnm>
+<learnModulSeq>EDU20140600425</learnModulSeq>
+<learnModulName>보건교육 평가</learnModulName>
+<learnModulText>보건교육 평가 방법, 평가 지표 개발, 보건교육 평가, 평가 결과 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600426</learnModulSeq>
+<learnModulName>감염인자 관리</learnModulName>
+<learnModulText>오염, 세척, 소독, 소독제, 물질안전보건자료(MSDS), 세탁물, 감염인자, 전파경로, 위생해충</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600427</learnModulSeq>
+<learnModulName>의료폐기물관리</learnModulName>
+<learnModulText>의료폐기물, 무선주파수인식(RFID), 폐기물관리법, 전자태그, 계획, 유지, 발생, 보관, 위탁 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600428</learnModulSeq>
+<learnModulName>의료시설 환경위생교육</learnModulName>
+<learnModulText>수인성·식품매개질환, 공조시스템, 가습기, 중앙공급실, 세척기, 멸균기, 소독제, 집중치료실, 병원감염관리, 미세먼지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600429</learnModulSeq>
+<learnModulName>의료기구 위생관리</learnModulName>
+<learnModulText>소독, 멸균, 오염, 감염, 의료기구, 세척기, 소독기, 멸균기, 폐기물, 소독기구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600430</learnModulSeq>
+<learnModulName>의료시설 공기질관리</learnModulName>
+<learnModulText>의료시설, 다중이용시설, 실내공기질 기준, 실내공기질 평가, 실내공기질 관리, 공기조화시스템, 환기설비, 공기정화설비, 고성능 여과기(HEPA 필터), 공기청정도, 음압병실</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600431</learnModulSeq>
+<learnModulName>의료시설 수질환경위생관리</learnModulName>
+<learnModulText>수질환경, 먹는물, 정수기, 하․폐수, 오염원, 시설관리, 유지관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600432</learnModulSeq>
+<learnModulName>의료시설 기타유해인자관리</learnModulName>
+<learnModulText>유해화학물질, 항암물질, 방사선, 인간공학적 유해인자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>의료시설위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600433</learnModulSeq>
+<learnModulName>의료시설 식품위생관리</learnModulName>
+<learnModulText>식품안전성, 식품위생법, 위해요소중점관리기준(HACCP), 위해요인, 식품보존, 식중독, 환자식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100215</learnModulSeq>
+<learnModulName>식품위생관리</learnModulName>
+<learnModulText>위해, 위해분석, 중요관리점, 판매, 유통, 저장, 검수·검품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100216</learnModulSeq>
+<learnModulName>생활환경 위생관리</learnModulName>
+<learnModulText>빛공해, 침입광, 지역사회공기오염, 대기오염물질, 생활소음, 방음시설, 생활악취, 복합악취</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100217</learnModulSeq>
+<learnModulName>물 위생관리</learnModulName>
+<learnModulText>먹는 물, 생활용수, 생활오수, 수질시험, 수처리공정, 수질관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100218</learnModulSeq>
+<learnModulName>폐기물 위생관리</learnModulName>
+<learnModulText>폐기물, 가정폐기물, 생활폐기물, 음식물쓰레기, 종량제, 소각, 매립, 재활용, 자원화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100219</learnModulSeq>
+<learnModulName>주거환경 위생관리</learnModulName>
+<learnModulText>단독주택, 공동주택, 사회복지시설, 주거위생, 실내공기질, 주거환경, 최저주거기준, 층간소음</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100220</learnModulSeq>
+<learnModulName>보건대상자별 위생관리</learnModulName>
+<learnModulText>건강위생상태, 지역사회 건강위생상태 현황, 노인건강, 영유아․모성건강, 장애인건강</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100221</learnModulSeq>
+<learnModulName>주요 질환별 위생관리</learnModulName>
+<learnModulText>건강위생상태, 지역사회 건강위생상태 현황, 심혈관질환, 재가 암 환자, 정신질환자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100223</learnModulSeq>
+<learnModulName>방역·소독관리</learnModulName>
+<learnModulText>방역소독, 위생해충, 유해조수, 방역약품, 방역장비, 소독대상</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100224</learnModulSeq>
+<learnModulName>감염 예방관리</learnModulName>
+<learnModulText>호흡기계감염병, 소화기계감염병, 피부점막감염병, 매개곤충감염병, 기생충감염병, 살균소독제, 소독장비, 감염증상, 감염경로, 감염병 예방관리, 매개체, 병원소, 잠복기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100226</learnModulSeq>
+<learnModulName>위생시설·장비 안전관리</learnModulName>
+<learnModulText>위생시설, 장비안전, 재난, 기초해부학 지식, 안전메뉴얼, 응급처치메뉴얼, 심폐소생술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>06</ncsLclasCd>
+<ncsLclasCdnm>보건·의료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>보건</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보건지원</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>지역사회위생관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100228</learnModulSeq>
+<learnModulName>지역사회 위생윤리</learnModulName>
+<learnModulText>지역사회 위생관리, 공동체 위생윤리기준, 지역사회 위생윤리 교육, 리더십, 직업윤리</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>101</totCnt>
+</dataInfo>
+</root>

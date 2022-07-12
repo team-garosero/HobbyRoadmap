@@ -1,0 +1,5512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160101716</learnModulSeq>
+<learnModulName>합금설계</learnModulName>
+<learnModulText>합금함량, 시료 채취, 기계적 특성, 분광분석, 합금원소의 역할, 합금설계, 경화능시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160102629</learnModulSeq>
+<learnModulName>환경안전관리</learnModulName>
+<learnModulText>환경안전, 산업보건법, 근로감독관, 안전보건지침, 주조, 합금제조, 응급조치, 열상, 좌상, 소화기, 안전작업 표준, 안전점검, 안전표지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160300044</learnModulSeq>
+<learnModulName>재료설계 고객요구 조건 검토파악</learnModulName>
+<learnModulText>고객 만족, 관계 마케팅, 주조, 합금, 용해, 외형검사, 치수검사, 재질검사, 비파괴검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160300083</learnModulSeq>
+<learnModulName>재료설계 자료 분석</learnModulName>
+<learnModulText>재료설계, 합금설계, 재료선정, 재료특성, 재료표준규격, 생산공정, 기능성, 가공성, 합금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160300182</learnModulSeq>
+<learnModulName>재료설계 표준화</learnModulName>
+<learnModulText>고객 만족, 관계 마케팅, 주조, 합금, 용해, 외형검사, 치수검사, 재질검사, 비파괴검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160400032</learnModulSeq>
+<learnModulName>원부자재관리</learnModulName>
+<learnModulText>원부자재, 합금성분, KS규격, 시험성적서, 철강재료, 비철재료, 재료시험, 시험성적서, 경도시험, 충격시험, 인장시험, 압축시험, 피로시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160400035</learnModulSeq>
+<learnModulName>시제품 제작생산</learnModulName>
+<learnModulText>생산 공정, 설비 구성, 시제품, 합금, 용해, 작업 지침서, 성능 평가, 유지보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160400042</learnModulSeq>
+<learnModulName>품질관리</learnModulName>
+<learnModulText>품질관리, 설계, 사전예방, 기계, 재질, 요소부품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20160400225</learnModulSeq>
+<learnModulName>생산공정 설계</learnModulName>
+<learnModulText>공정관리, 작업 공정도, CPM(Critical Path Method), 제조원가, 제작사양서, 발주서, 공수계획, 일정계획, 작업분배, 진도관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20190100578</learnModulSeq>
+<learnModulName>합금설계 표준</learnModulName>
+<learnModulText>합금성분원소, 장입계산, 로전시험, 분광분석, 성분함량분석, 합금성분파악</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20190100579</learnModulSeq>
+<learnModulName>합금함량 분석</learnModulName>
+<learnModulText>합금함량, 시료 채취, 기계적 특성, 로전 시험, 분광분석, 합금 성분원소, 장입계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재료설계</ncsSubdCdnm>
+<learnModulSeq>EDU20190100581</learnModulSeq>
+<learnModulName>합금함량 조정</learnModulName>
+<learnModulText>장입계산, 원부자재, 함량 조절, 투입량 결정, 분광분석시험, 합금성분, 기계적 성질, 경화능시험, 담금질성, 질량효과, 합금재료 선정, 합금설계 표준서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160101714</learnModulSeq>
+<learnModulName>기계적 재료시험</learnModulName>
+<learnModulText>금속 재료 기계적 시험, 금속 재료 파괴 시험, 재료 시험법, 금속 재료 인장 시험법, 금속 재료 경도 시험, 금속 재료 충격 시험, 재료의 피로 시험, 굽힘 시험, 마모 시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160101715</learnModulSeq>
+<learnModulName>물리적 재료시험</learnModulName>
+<learnModulText>자기 이력곡선, 자속밀도, 잔류 자속밀도, 자기장 세기, 퀴리점, 전기 전도도, 휘트스톤브릿지, 열전도도, 열용량, 열팽창</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160200212</learnModulSeq>
+<learnModulName>재료시험편 준비</learnModulName>
+<learnModulText>시험편, 표준 규격, 식별 번호, 시험편 가공, 계측 장비, 가공, 공차, 오차, 측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160200213</learnModulSeq>
+<learnModulName>화학적 재료시험</learnModulName>
+<learnModulText>내식성 시험, 염수 분무 시험, 페록실 시험, 코르드 코어트 시험, 용융 아연 도금 부착량 시험, 발광 분광 분석기, X선 형광 분석기(XRF), 에너지 분산형 분석기(EDS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160200214</learnModulSeq>
+<learnModulName>재료시험 결과정리</learnModulName>
+<learnModulText>시험 자료, 단위 요소, 시험 결과물, 성적서, 결과물 정리, 종합 분석 평가, 결과물 보안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160200215</learnModulSeq>
+<learnModulName>재료시험설비 자원관리</learnModulName>
+<learnModulText>고객, 재료시험, 소급성, 표준물질, 교정, 일상점검, 중간점검, 시험절차서, 교정시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160200216</learnModulSeq>
+<learnModulName>재료시험 신뢰성확보</learnModulName>
+<learnModulText>시험원, 숙련도, 신뢰성, 시험 방법, 품질 보증, 유효성, 품질 관리, 시정 조치, 부적합품 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160300037</learnModulSeq>
+<learnModulName>코팅두께측정·밀착성 시험</learnModulName>
+<learnModulText>표면처리, 도금, 도장, 용사, 코팅층 두께 측정, 밀착성 시험, 표준시편, 코팅 두께, 영상장치, 성적서, 접착력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20160300043</learnModulSeq>
+<learnModulName>재료시험계획 수립</learnModulName>
+<learnModulText>고객, 재료시험, 재료검사, 시험규격, 작업사양서, 시험절차서, 작업지시서, 재료시험 성적서, 시험기기, 부속장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20200100343</learnModulSeq>
+<learnModulName>인장시험</learnModulName>
+<learnModulText>인장 시험기, 인장시험, 인장 시험편, 인장강도, 연신율, 단면 수축률, 비례한도, 탄성계수, 항복점, 포아송비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20200100346</learnModulSeq>
+<learnModulName>굽힘·마모시험</learnModulName>
+<learnModulText>굽힘시험, 굽힘 시험기, 굽힘각도, 굽힘 모멘트, 굽힘강도, 마모시험, 마모 시험기, 내마모성, 마찰계수, 마찰저항</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20200100349</learnModulSeq>
+<learnModulName>피로·CTOD·크리프시험</learnModulName>
+<learnModulText>피로 시험, 피로한도, 반복응력, CTOD 시험, 파괴역학, 파괴인성, 크리프 시험, 크리프 곡선, 크리프 파괴, 크리프 시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100021</learnModulSeq>
+<learnModulName>표면 거칠기 시험</learnModulName>
+<learnModulText>정밀 다듬질, 상 다듬질, 중 다듬질, 거친 다듬질, 중심선 평균 거칠기, 10점 평균 거칠기, 촉침식 표면 거칠기, 광파 간섭식 표면 거칠기, 촉침식 표면 거칠기 표준 시험편</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100022</learnModulSeq>
+<learnModulName>경도시험</learnModulName>
+<learnModulText>재료 시험법, 경도시험, 경도 시험기, 기계적 성질, 브리넬 경도시험, 로크웰 경도시험, 비커스 경도시험, 쇼어 경도시험, 압입자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100023</learnModulSeq>
+<learnModulName>충격시험</learnModulName>
+<learnModulText>재료 시험법, 충격 시험기, 샤르피 충격시험, 아이조드 충격시험, 충격 하중, 강도, 연신율, 연성, 취성, 충 격 흡수 에너지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100024</learnModulSeq>
+<learnModulName>압축시험</learnModulName>
+<learnModulText>압축시험, 압축강도, 인장강도, 항복강도, 단면 수축률, 탄성계수, 만능재료 시험기, 바우싱거 효과, 공칭응 력, 진응력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100025</learnModulSeq>
+<learnModulName>불꽃시험</learnModulName>
+<learnModulText>불꽃시험, 육안검사, 연삭기, 연삭숫돌, 입도, 강종, 탄소강, 합금강, 유선, 파열</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100026</learnModulSeq>
+<learnModulName>DWTT·DTT·NRL 시험</learnModulName>
+<learnModulText>연성 파면율, 취성 파면율, 역취성 파면율, 천이온도, 흡수 에너지, API(American Petroleum Institute), 라인 파이프, %SA(Shear Area), 전단 백분율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>재료시험</ncsSubdCdnm>
+<learnModulSeq>EDU20220100027</learnModulSeq>
+<learnModulName>고온·저온 인장시험</learnModulName>
+<learnModulText>재료 시험법, 인장시험, 고온, 저온, 강도, 연신율, 취성, 연성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101667</learnModulSeq>
+<learnModulName>재료조직평가 계획</learnModulName>
+<learnModulText>고객, 요구조건, 분석방법, 분석비용, 시험성적서, 시험일정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101668</learnModulSeq>
+<learnModulName>거시조직 검사</learnModulName>
+<learnModulText>불꽃시험, 육안검사, 매크로조직검사, 실체현미경, 설퍼프린트, 섬유상조직, 편석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101669</learnModulSeq>
+<learnModulName>광학현미경 조직검사</learnModulName>
+<learnModulText>시편절단기, 마운팅 프레스, 시험편연마기, 연마제, 전해연마, 부식, 광학현미경, 금속조직 시험, 상(phase), 구상화율, 결정입도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101670</learnModulSeq>
+<learnModulName>주사전자현미경 조직분석</learnModulName>
+<learnModulText>주사전자현미경, 2차전자 이미지, 후방산란전자 이미지, EDS분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101671</learnModulSeq>
+<learnModulName>투과전자현미경 조직해석</learnModulName>
+<learnModulText>투과전자현미경(TEM), 카메라정수, 렌즈수차, 격자영상법, 후레넬 줄무늬, 분해능, 콘트라스트,회절도형, 역격자, 명시야상, 암시야상, Kikuchi 선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101672</learnModulSeq>
+<learnModulName>건식분석</learnModulName>
+<learnModulText>성분분석, 상분석, 정량분석, 정성분석, 에너지분산형 분광분석기(EDS), 형광분석기(XRF), X-선회절분석기(XRD), 원소분석기(CHNOS), 시편준비, 에너지분산형 형광분석기(ED-XRF), 파장분산형 형광분석기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101673</learnModulSeq>
+<learnModulName>습식분석</learnModulName>
+<learnModulText>시편준비, 성분분석, 정량분석, 정성분석, 원자흡수 분광기(AA, atomic absorption spectrometer,AAS), 유도결합 플라즈마 분석기(ICP, inductively coupled plasma atomic emission spectrometry,ICP-AES, 유도결합 플라즈마 발광분석기), 자외선분광기( UV, 자외선-가시광선 분광분석기,UV-VIS Spectrophotometer).</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101674</learnModulSeq>
+<learnModulName>평가분석 자료화</learnModulName>
+<learnModulText>보고서, 성적서, 적합성 검토, 시스템특성, 검사기준서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101675</learnModulSeq>
+<learnModulName>시험설비 관리</learnModulName>
+<learnModulText>광학현미경, 주사전자현미경(SEM), 에너지 분산형 분광분석기(EDX), 투과전자현미경(TEM), 안전점검, 국가교정기관지정제도운영요령, 국가표준기본법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20160101676</learnModulSeq>
+<learnModulName>재료조직시험 안전관리</learnModulName>
+<learnModulText>물질안전보건자료(MSDS), 공정안전관리(PSM), 위험예지훈련, 무재해운동, 안전보호 장구, 안전기준응급조치, 안전점검, 안전사고방지대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20190100609</learnModulSeq>
+<learnModulName>거시조직 판별</learnModulName>
+<learnModulText>금속조직, 실체현미경, 거시조직, 육안검사, 거시결함, 설퍼 프린트 시험법, 주변 흠 시험법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20190100610</learnModulSeq>
+<learnModulName>거시조직 검사</learnModulName>
+<learnModulText>불꽃시험, 육안검사, 거시조직검사, 실체현미경, 설퍼프린트, 섬유상조직, 편석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20190100611</learnModulSeq>
+<learnModulName>광학현미경 조직검사</learnModulName>
+<learnModulText>시편절단기, 마운팅기, 시험편연마기, 연마제, 전해연마, 부식(에칭), 광학현미경, 미세조직</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금속엔지니어링</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>재료조직평가</ncsSubdCdnm>
+<learnModulSeq>EDU20190100612</learnModulSeq>
+<learnModulName>광학현미경 조직평가</learnModulName>
+<learnModulText>결정립, 결정입도, 비교법, 절단법, 평적법, 화상해석, 페라이트, 펄라이트, 개재물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160101677</learnModulSeq>
+<learnModulName>제선 공정 관리</learnModulName>
+<learnModulText>생산성, 수주, 납기, 수주 사양서, 작업 공정서, 안전재고, 운영재고, 생산계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160101683</learnModulSeq>
+<learnModulName>제선 연·원료 처리</learnModulName>
+<learnModulText>연·원료 제어 시스템, 연·원료 준비작업, 연·원료 선별 처리, 연·원료 설비 점검, 연·원료 배합, 연·원료 불출, 연·원료 야드, 연·원료 환경설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160101687</learnModulSeq>
+<learnModulName>소결광 제조</learnModulName>
+<learnModulText>소결, 정량절출장치, 혼합, 장입장치, 셔틀 컨베이어, 호퍼, 원료장입기, 배풍장치, 점화로, 파쇄기, 냉각기, 낙하강도, 장입층후, 상부광, 주배풍기, 냉각기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102242</learnModulSeq>
+<learnModulName>코크스 제조</learnModulName>
+<learnModulText>코크스(coke), 석탄(coal), 파쇄기(crusher), 건식소화(CDQ), 습식소화, 코크스 오븐(coke oven)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102243</learnModulSeq>
+<learnModulName>고로 조업</learnModulName>
+<learnModulText>고로, 장입, 평량, 벨트 컨베이어(Belt Conveor), 노황관리, 출선, 주상, 송풍</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102244</learnModulSeq>
+<learnModulName>출선 작업</learnModulName>
+<learnModulText>고로, 출선구, 대탕도, 주상, 경주통, 개공기, 머드건(머드 건), 용선, 슬래그(슬래그), 재탕도, 지탕도, 수재, 괴재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102245</learnModulSeq>
+<learnModulName>제선 품질관리</learnModulName>
+<learnModulText>철광석 종류, 정립광, 연료탄, 코크스, 소결광, 입도, 열간 강도, 환원분화 지수, 스크린, 강도, 슬래그, 열전대</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102246</learnModulSeq>
+<learnModulName>고로 설비 관리</learnModulName>
+<learnModulText>풍구, 대풍구, Blow Pipe, 송풍지관, 휴대용 가스 검지기, 적열, 누풍</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102247</learnModulSeq>
+<learnModulName>제선설비 유지 보수</learnModulName>
+<learnModulText>설비관리, 설비점검, 유지보수, 일상점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20160102248</learnModulSeq>
+<learnModulName>제선 환경안전 관리</learnModulName>
+<learnModulText>산업안전, 산업재해, 위험성 평가, 재해예방, 위험요소, 안전교육, 물질안전보건자료, 유해화학물질, 안전점검, 폐기물 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100002</learnModulSeq>
+<learnModulName>제선 연·원료 처리 기본 작업</learnModulName>
+<learnModulText>철광석, 석탄, 코크스, 석회석, 벨트컨베이어, 야드 설비, 선광법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100003</learnModulSeq>
+<learnModulName>소결광 제조 기본 작업</learnModulName>
+<learnModulText>소결기, 냉각기(Cooler), 파쇄기(Crusher), 정량절출장치(CFW: Constant Feeder Weigher), 원료 혼 합 및 조립장치(Mixer), 장입장치, 셔틀 컨베이어(Shuttle Conveyor), 소결원료, 분 코크스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100004</learnModulSeq>
+<learnModulName>소결 관리</learnModulName>
+<learnModulText>고로, 정량절출장치, 혼합, 장입장치, 셔틀 컨베이어, 호퍼, 원료장입기, 배풍장치, 점화로, 파쇄기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100005</learnModulSeq>
+<learnModulName>코크스 제조 기본 작업</learnModulName>
+<learnModulText>코크스(coke), 석탄(coal), 파쇄기(crusher), 건식소화(CDQ), 습식소화, 코크스 오븐(coke oven)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100006</learnModulSeq>
+<learnModulName>코크스 관리</learnModulName>
+<learnModulText>코크스(coke), 석탄(coal), 연소관리, 노체관리, 노온관리, 화성부산물, COG 정제, 타르회수, 안수, 수질관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100007</learnModulSeq>
+<learnModulName>고로 기본 작업</learnModulName>
+<learnModulText>고로, 장입, 평량, 벨트 컨베이어(Belt Conveyor), 고로조업, 노황관리, 출선, 주상, 송풍</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100008</learnModulSeq>
+<learnModulName>열풍 취입</learnModulName>
+<learnModulText>열풍로, 고로, 축열실, 연소실, 배열회수 설비, 복합송풍, 조습, 열풍온도, 열풍취입, 열풍변</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100009</learnModulSeq>
+<learnModulName>미분탄 취입</learnModulName>
+<learnModulText>고로, 석탄, 미분탄, 벨트 컨베이어(Belt Conveor), 풍구, 취입렌스, 송풍, 노황관리, 파쇄</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100010</learnModulSeq>
+<learnModulName>고로 설비 관리 기본 작업</learnModulName>
+<learnModulText>풍구, 대풍구, 송풍 지관, 브리더(bleeder), 노정, 노흉(Shaft), 노복(Belly), 출선구, 환상관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100011</learnModulSeq>
+<learnModulName>가스 청정 설비 관리</learnModulName>
+<learnModulText>비숍 스크러버(Bischoff Scrubber), 노정압, 시크너(Thickener), 사이클론(Cyclone), 더미스터, 분진 (Dust), 수봉변, 씰포트(Seal Pot), 퍼지(Purge)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100016</learnModulSeq>
+<learnModulName>코크스 제조</learnModulName>
+<learnModulText>코크스(Coke), 석탄(Coal), 파쇄기(Crusher), 건식소화(CDQ), 습식소화, 코크스(Coke) 오븐(Oven)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100017</learnModulSeq>
+<learnModulName>고로 화입·종풍 조업</learnModulName>
+<learnModulText>고로 화입, 고로 조업 지수(용어), 열풍로 구조와 운전방법, 미분탄 취입설비 구성, 고로내 상황 및 노내 반응의 이해, 장입물 분포조정, 판넬 감시와 HMI 운전, 송·휴풍하기, 비정상 조업시 조치, 종풍조업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제선</ncsSubdCdnm>
+<learnModulSeq>EDU20190100018</learnModulSeq>
+<learnModulName>고로 설비관리</learnModulName>
+<learnModulText>노체설비관리, 집진설비관리, 가스청정설비관리, 풍구관리, 냉각계통관리, 펌프관리, 연와관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160100976</learnModulSeq>
+<learnModulName>용선 예비처리</learnModulName>
+<learnModulText>TLC, OLC, 용선, 탈인, 탈황, 탈규, 슬래그, 배재, 스키머, 생석회, 소결광, 산소, 인젝션랜스, 형석, FeSi, 예비처리, 측온, 샘플링, 출선, 탈류, HMPS, 고체산소(고산), 기체산소(기산), 혼선로, 내화물, 연와, 용선배합율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160100979</learnModulSeq>
+<learnModulName>전로 조업</learnModulName>
+<learnModulText>주원료, 부원료, 열정산, 물질정산, 취련, 출강, 랜스, 합금철, 탈산제, 산소, 탈탄반응, 노내반응, 전로, 상취전로, 복합취련, 저취전로, 용선, 고철, 냉선, 생석회, 돌로마이트, 형석, 슬래그, 레이들, 경동설비, 랜스, 서브랜스, 출강구, 장입레이들, 수강레이들, 철광석, 소결광, 밀스케일, 슬래그코팅, RH(순환 탈가스법), OG(Oxygen Gas Recovery), PI(Powder Injection), Tripper Car, LD전로, Hard Blow, Soft Blow</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101051</learnModulSeq>
+<learnModulName>제강 제품설계</learnModulName>
+<learnModulText>KS규격, DIN, JIS, ANSI, Millsheet, 제품주문서, 원자재 가격 동향, ISO규격, 철강 제품별 성분 함량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101052</learnModulSeq>
+<learnModulName>전기로 조업</learnModulName>
+<learnModulText>내화물, 전력, 전극, 주원료(고철 및 합금철), 부원료(생석회, 형석 및 괴탄), 전기로체, 산소 취입 장치, 가탄제 투입장치, 슬래그 포밍, 용해기, 산화정련기, 출강(Tapping), 레이들(Ladle), 용강 탈산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101600</learnModulSeq>
+<learnModulName>제강 고객요구사항 파악</learnModulName>
+<learnModulText>KS규격, DIN, JIS, ANSI, Millsheet, 제품주문서, 원자재 가격 동향, ISO규격, 철강 제품별 성분 함량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101601</learnModulSeq>
+<learnModulName>LF 정련</learnModulName>
+<learnModulText>LF(Ladle Furnace), LF대차, 크레인(Crane), 용강, 배재기(Slag Skimmer), 톱 버블링(Top Bubbling), 보텀 버블링(Bottom Bubbling), 수강레이들, Top Lance, 보온재, 전극봉, 합금철, 슬래그</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101603</learnModulSeq>
+<learnModulName>진공 정련</learnModulName>
+<learnModulText>부원료, 합금철, 진공 처리, 슬래그, 랜스, 탈산재, 산소, 탈탄반응, 탈황반응, 탈수소 반응, 탈질소 반응, 탈산, Slag 조성제어, 형석, 슬래그, 레이들, 설비, 산소랜스, 서브랜스, 출강구, 장입레이들, 수강레이들, 철광석, 소결광, 밀스케일, 진공도, 침적관, 진공조, 진공펌프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101604</learnModulSeq>
+<learnModulName>연속주조 준비</learnModulName>
+<learnModulText>턴디시(Tundish), 침지노즐, 주형(Mold), 더미바(Dummy-Bar), 실링(Sealing), 스토퍼(Stopper), 캡핑(Capping), 오실레이션(Oscillation), 연속주조 전자장치((EMS, EMBR, ECLM, EMLI)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101606</learnModulSeq>
+<learnModulName>조괴</learnModulName>
+<learnModulText>용강 ,주형, hot top 레이들 ,하정반, 상정반, 평평정반 , 스툴, 주입관, 포니레이들, 진공탱크,아르곤실링박스, 아르곤게이지, 진공게이지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101608</learnModulSeq>
+<learnModulName>제강 품질관리</learnModulName>
+<learnModulText>품질관리매뉴얼, 작업표준, 기술표준, 제강 품질관리 절차서류: 검사보고서, 검사성적서, 공정계획서, 생산계획서, 작업지시서, 불량발생(부적합)통보서, 공정이상통보서, 불량(발생)처리보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160101611</learnModulSeq>
+<learnModulName>제강 설비관리</learnModulName>
+<learnModulText>설비 관리, 설비 점검, 점검 주기별 용어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20160102620</learnModulSeq>
+<learnModulName>제강 환경안전관리</learnModulName>
+<learnModulText>위험성평가, 유해 위험요인, 유해 위험요인 파악, 위험강도, 위험빈도, 위험성, 최초 평가, 수시 평가, 정기 평가, 안전 보호구, 방열복, 일산화탄소, 산소농도, 위험물, 고열 물질, 산업안전보건법, 국소배기장치, 집진기, 물질안전보건자료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100073</learnModulSeq>
+<learnModulName>전기로 조업</learnModulName>
+<learnModulText>주원료 철 스크랩(Scrap), 배합비, 장입바켓, 회수율, 부원료 및 합금철, 슬래그 포밍, 용해기, 산 화정련기, 출강, 가탄제, 전력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100074</learnModulSeq>
+<learnModulName>전기로 조업 준비</learnModulName>
+<learnModulText>전기로, 노천정 및 선회 장치, 장입 바스켓, 조연 버너, 수랭 랜스, 전기로 내화물, 수랭 판넬, 열간 보수재, 전극, 레이들, 프라브(Probe)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100075</learnModulSeq>
+<learnModulName>연속 주조</learnModulName>
+<learnModulText>Mold, Bender, Segment, Electro Magnetic Stirrer 1,2차 냉각수, Stopper, Slide Gate, 침지노즐</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100076</learnModulSeq>
+<learnModulName>연속 주조 주편 정정</learnModulName>
+<learnModulText>스카핑(Scafing), 그라인딩 머신(Grinding Machine), 숏 브러스트(Shot Blast), 수랭, 공랭, 주편이송</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100077</learnModulSeq>
+<learnModulName>제강 품질 검사</learnModulName>
+<learnModulText>제강 품질검사, 품질검사, 수입 검사, 공정 검사, 제품 검사, 샘플링 검사, 전로 제강 공정, 전기 로 제강 공정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100078</learnModulSeq>
+<learnModulName>제강 천장 크레인 및 중장비 지원 작업</learnModulName>
+<learnModulText>제강 지원 작업, 천장 크레인, 줄걸이, 로더, 지게차, 수신호, 깃발 신호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100079</learnModulSeq>
+<learnModulName>제강 원료∙부원료 입고 관리</learnModulName>
+<learnModulText>전로, 전기로, 용선, 고철(Scrap), 냉선, 부원료, 합금철, 생석회, 장입, 취련</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100080</learnModulSeq>
+<learnModulName>제강 내화물 관리</learnModulName>
+<learnModulText>EBT, 카세트(Cassette), 포러스플러그(Porous Plug), 탑 노즐(Top Nozzle), 플레이트(Plate), 콜렉터 노즐(Collector Nozzle), 필러(Filler), 샌드(Sand), 롱 노즐(Shroud), 침지노즐(SEN)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100081</learnModulSeq>
+<learnModulName>제강 부대 설비 관리</learnModulName>
+<learnModulText>제강, 수처리, 슬러지(Sludge), 냉각수, 집진기, 펌프, 관리기준, 유틸리티, 변압기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>제강</ncsSubdCdnm>
+<learnModulSeq>EDU20190100082</learnModulSeq>
+<learnModulName>유도로 용해 작업</learnModulName>
+<learnModulText>유도 용해로, 철 스크랩, 냉선, 용해, 합금철, 부원료, 전력량, 장입, 출강, 고주파 유도로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101482</learnModulSeq>
+<learnModulName>열간압연 공정설계</learnModulName>
+<learnModulText>규격, 물성, ksi, 롤 단위, Inquiry, 나포장, 부적합품, 납기, 화학성분, 기계적특성, 롤 단위, 패스스케즐, 주문외, 통판성, 인장강도, 항복강도, 연신율, 경도, 고객 요구조건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101484</learnModulSeq>
+<learnModulName>열간압연 작업계획 수립</learnModulName>
+<learnModulText>KS, JIS, ASTM, SAE, AISI, BS, DIN, 열간압연, 6시그마(6σ), 공정능력지수(Cp,Cpk), 품질영향인자(CTQ), 공정영향인자(V/F), 비철금속, Stainless</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101487</learnModulSeq>
+<learnModulName>열간압연 가열</learnModulName>
+<learnModulText>슬래브, 공기비, 노압, 조로, 스키드, 푸셔식, 워킹빔식, 사행, 장입패턴, Charger, 장입, 추출, 예열대, 가열대, 균열대, Recuperator, 스케일생성, 축열식버너, 버너, 부생가스, 믹스가스, COG, LDG, BFG, Damper, 재로시간, 추출피치, Zone, 성에너지, 승온, 하온, 수봉변, MPC제어, 차단변, NK밸브</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101490</learnModulSeq>
+<learnModulName>열간압연작업</learnModulName>
+<learnModulText>치수, 형상, 롤(Roll), 벤더(Bender), 페어크로스(Pair Cross), 시프트(Shift), SDD(Surface Defect Detector=표면결함검출기), FDT(Finishing Delivery Temperature = 다듬질압연 출측 온도), 마무리압연온도, 사상압연 출측 온도), 연신율, 판 Crown</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101492</learnModulSeq>
+<learnModulName>열간압연 냉각</learnModulName>
+<learnModulText>ROT(Run Out Table) , CTC(Colling Temperature Control), FDT(Finishing Delivery Temperature ) Bank, 인장강도, 항복강도, 연신율, 경도, 강도, 등온변태, 연속냉각변태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101493</learnModulSeq>
+<learnModulName>열간압연 권취</learnModulName>
+<learnModulText>텔레스코프, RMS, ROT, Lead율, Lag율, Strip Tension, QOC</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101495</learnModulSeq>
+<learnModulName>열간압연 정정</learnModulName>
+<learnModulText>Skin Pass, Shear, 평탄도, 교정이론, 칫수, 형상, Pay off reel, Tension Reel, Roll</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101496</learnModulSeq>
+<learnModulName>열간압연 제품검사</learnModulName>
+<learnModulText>공정분석, Skin Pass, Shear, 평탄도, 조질압연, 표면품질, 칫수, 형상, Pay off reel, Tension Reel, Work Roll</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101497</learnModulSeq>
+<learnModulName>열간압연 고객대응</learnModulName>
+<learnModulText>가공비, 제조 원단위, 제조공정, 품질설계, 고객납기, 공정계획서, 검사성적서, 클레임, 품질불만, 조업데이타</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101498</learnModulSeq>
+<learnModulName>열간압연 품질불량 관리</learnModulName>
+<learnModulText>품질트렌드, 두께불량, 폭불량, 재질불량, 주문외, 스크랩, 품질시스템, 품질판정, 한도견본, 작업표준서, 기술표준서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101499</learnModulSeq>
+<learnModulName>열간압연 설비유지보수</learnModulName>
+<learnModulText>윤활, 비중 , 점도지수, 적하유출, 미끄럼베어링, 구름베어링, 수급지, 프레스건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101799</learnModulSeq>
+<learnModulName>열간압연 소재 관리</learnModulName>
+<learnModulText>열간압연용 소재(Slab, Bloom, Billet, Beam Blank), 용삭(Scarfing),연삭(Scalping)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102087</learnModulSeq>
+<learnModulName>열간압연 환경안전관리</learnModulName>
+<learnModulText>안전작업표준서, GHS-MSDS 제도, PSM 제도, 공정안전자료, 위험성 평가(HAZOP), 산업안전보건법, 대기환경보전법, 비상조치계획서와 자체감사 체크리스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100099</learnModulSeq>
+<learnModulName>열간 압연 롤 관리</learnModulName>
+<learnModulText>작업 롤, 지지 롤, 초크, 베어링, 연마, 선삭, 스폴링, 평 롤, 공형 롤</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100100</learnModulSeq>
+<learnModulName>열간 압연 준비 작업</learnModulName>
+<learnModulText>롤(Roll), 벤더(Bender), 페어 크로스(Pair Cross), SDD(Surface Defect Detector, 표면 결함 검출기), FDT(Finishing Delivery Temperature, 다듬질 압연 출측 온도, 다듬질 후면 온도), 스폴링(Spalling), 절손, 재결정 온도, 결정립, 롤 스프링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100101</learnModulSeq>
+<learnModulName>열간 압연 본 작업</learnModulName>
+<learnModulText>롤(Roll), 벤더(Bender), 페어크로스(Pair Cross), SDD(Surface Defect Detector, 표면 결함 검출기), FDT(Finishing Delivery Temperature, 스폴링(Spalling), 절손</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160100955</learnModulSeq>
+<learnModulName>냉간압연 풀림</learnModulName>
+<learnModulText>COG ,N2 ,HN GAS ,버너(Burner),퍼지(Purge) ,상자풀림(BAF) ,연속풀림(CAL) , 가열대, 균열대,서냉대 ,급냉대 ,Blower , 열처리Cycle ,퍼니스(Furnace)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160100956</learnModulSeq>
+<learnModulName>냉간압연 정정</learnModulName>
+<learnModulText>페이오프릴, 텐션릴, 용접기, 사이드트리머, Gap, Lap, Burr Masher, 텐션 레벨라, 반곡, 형상, 도유기, 결함검출기, 포장타입, 라벨, 정보처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160100957</learnModulSeq>
+<learnModulName>환경안전관리</learnModulName>
+<learnModulText>환경보건, 물질안전보건자료(MSDS-GHS), 단위작업, 요소작업, 위험성평가, 안전보건, 산업안전보건법, 안전보건 교육, 점검, 위험요인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160100958</learnModulSeq>
+<learnModulName>냉간압연제품 고객 품질대응</learnModulName>
+<learnModulText>냉간압연, 냉간압연 공정, drawing 공정, 표면 불량, 변형조직, 균열(crack), dent, scale, SEM분석, EDS분석, 공정분석, 공정표준화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160101951</learnModulSeq>
+<learnModulName>냉간압연 조질압연</learnModulName>
+<learnModulText>롤(Roll), 조질압연(Skin Pass), 연신율, 압연유(Wet유), 형상교정, 롤 조도, 표면조도, 워크 롤(Work Roll), 폴리셔(Polisher), 장력, 압하율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102215</learnModulSeq>
+<learnModulName>냉간압연 품질설계</learnModulName>
+<learnModulText>품질 설계, 제조 가부, 공정 설계, 품질 판정, 품질판정기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102216</learnModulSeq>
+<learnModulName>냉간압연 작업스케줄 편성</learnModulName>
+<learnModulText>생산계획, 설비사양, 공정상황. 작업순서, 단위편성, 우선순위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102217</learnModulSeq>
+<learnModulName>냉간압연 산세</learnModulName>
+<learnModulText>용접, 소재의 성분, 용접성, 카본 당량, 용접 조건, 용접 품질, 용접 셋업 데이터값, 용접기 제어 인자, 영점 조정, 용접기 제어값, 산세성, 형상 개선, 텐션레벨러 제어 모드, 연신값, 인터메시, 스케일 층의 특성, 산 탱크 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102218</learnModulSeq>
+<learnModulName>냉간압연작업</learnModulName>
+<learnModulText>냉간압연, 압하율, 압하력, 소성가공, 밀스탠드, 작업지시서, 압연스케쥴, 압연롤, 압연유, 압연유품질, 텐션, 형상제어, 두께제어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102219</learnModulSeq>
+<learnModulName>냉간압연 청정</learnModulName>
+<learnModulText>심용접, 알칼리 청정, 전해 청정, 린스탱크, 브러시 스크러버, 윙거 롤(winger roll), 건조기(deyer), 텐션 릴, 페이오프릴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102220</learnModulSeq>
+<learnModulName>냉간압연 품질검사</learnModulName>
+<learnModulText>소재, 검사, 국·내외 규격, 결함, 소재 수입검사 기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20160102221</learnModulSeq>
+<learnModulName>설비유지보수</learnModulName>
+<learnModulText>설비관리 시스템, 설비 유지보수, 예방정비, 급유 급지, 윤활, 안전 작업허가 절차, 정비 작업 설비점검, 설비중요도 평가, 설비정비 유지보수 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100148</learnModulSeq>
+<learnModulName>냉간 압연 강판 용융 도금</learnModulName>
+<learnModulText>페이 오프 릴, 스킨 패스 밀, 퍼니스, 아연 도금욕, 아연 도금 포트, 에어나이프, 쿨링 타워, 코터, 텐션 릴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100149</learnModulSeq>
+<learnModulName>냉간 압연 강판 전기 도금</learnModulName>
+<learnModulText>수평 도금 셀(LCC-H: Liquid Cushion–Horizontal), 불용성 애노드(Anode), 도금 롤, 전기 도금 처리 공정, 패러데이(Faraday)의 법칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100150</learnModulSeq>
+<learnModulName>냉간 압연 도금 강판 후처리</learnModulName>
+<learnModulText>후처리, 인산염, 크로메이트, 인산염 처리 공정, 표면 조정, 수지 피복, 코터, 후처리 용액 제조, 후처리 용액 분석, 내지문</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>냉간압연</ncsSubdCdnm>
+<learnModulSeq>EDU20190100151</learnModulSeq>
+<learnModulName>냉간 압연 도금 강판 품질 관리</learnModulName>
+<learnModulText>두께 측정기, 폭 측정기, 표면 결함 검출기(SDD), 도금 부착량, 색차계 측정 장치, 후처리 부착 량, 평량기, 조도 측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100013</learnModulSeq>
+<learnModulName>금속재료제조설비 정비작업관리</learnModulName>
+<learnModulText>작업 시방서, 산업안전보건법령, 정기·주기 점검 절차서, 기타관련도면, 공구 및 장비 사양서, 자재관리지침, 자재관리지침, 관련 계기 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100014</learnModulSeq>
+<learnModulName>금속재료제조설비 기계도면 해독</learnModulName>
+<learnModulText>설계도, 공유압 및 배관, 도면기호, CAD 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100015</learnModulSeq>
+<learnModulName>금속재료제조설비 전기계측제어도면해독</learnModulName>
+<learnModulText>전력계통, 수변전설비, 변압기, 차단기, 시퀀스제어, 전자계전기, 타이머, 배선용차단기, 계측제어, 피드백제어, 유량검출기, 레벨검출기, 계측제어플로시트, 계기일람표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100016</learnModulSeq>
+<learnModulName>금속재료제조설비 기계요소 정비</learnModulName>
+<learnModulText>기계요소, 볼트, 너트, 끼워 맞춤 공자, 다듬질, 베어링, 커플링, 브레이크, 정비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100017</learnModulSeq>
+<learnModulName>금속재료제조설비 공기구 활용</learnModulName>
+<learnModulText>작업용 공기구, 줄걸이용 공기구, 와이어로프, 치공구, 치공구 재질, 치공구 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100018</learnModulSeq>
+<learnModulName>금속재료제조설비 측정기 활용</learnModulName>
+<learnModulText>버니어 캘리퍼스, 마이크로미터, 측정기구 점검, 측정보조기구, 측정방법, 수준기, 표면 거칠기, 경도시험, 측정 보조기구 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100019</learnModulSeq>
+<learnModulName>금속재료제조설비 동력전달장치 정비</learnModulName>
+<learnModulText>감속기, 체인구동방식, 벨트, 풀리, 스프로켓, 베어링, 열박음, 클리어런스, 치합, 백래쉬</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100020</learnModulSeq>
+<learnModulName>금속재료제조설비 유공압 기기 정비</learnModulName>
+<learnModulText>공기압축기, 에어필터, 루브리케이터, 액추에이터, 레귤레이터, 유압펌프, 유압밸브, 오일탱크, 공압밸브</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100021</learnModulSeq>
+<learnModulName>금속재료제조설비 유체기기 정비</learnModulName>
+<learnModulText>유체 기기, 펌프, 송풍기, 블로어, 공기압축기, 연소기기, 정비, 밸브</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100022</learnModulSeq>
+<learnModulName>금속재료제조설비 배관기기 정비</learnModulName>
+<learnModulText>배관, 배관도면, 배관 기기, 배관 정비, 배관 장치, 밸브, 밸브 종류, 밸브 분해, 밸브 조립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100025</learnModulSeq>
+<learnModulName>금속재료제조 운반 장치 설비 정비</learnModulName>
+<learnModulText>호이스트, 와이어드럼, 크래브, 주행감속기, 마그네틱 브레이크, 스러스터 브레이크, 유압 브레이크, 라이닝</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100026</learnModulSeq>
+<learnModulName>금속재료제조설비 윤활관리</learnModulName>
+<learnModulText>설비이력 관리, 급유 주기관리, 윤활회로 및 시스템, 오일 누설, 윤활유, 윤활기기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100028</learnModulSeq>
+<learnModulName>금속재료제조 수변전설비 정비</learnModulName>
+<learnModulText>수변전설비, 케이블, 전력용콘덴서, 전력계통, 보호장치, 접지공사, 접지방식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100029</learnModulSeq>
+<learnModulName>금속재료제조설비 차단기 정비</learnModulName>
+<learnModulText>단로기, 유입차단기, 공기차단기, 진공차단기, 가스차단기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100030</learnModulSeq>
+<learnModulName>금속재료제조설비 변압기 정비</learnModulName>
+<learnModulText>전압강하, 임피던스전압, 부싱, 비율차동계전기, 브흐홀쯔릴레이, OLTC, 절연유, 각 변위시험, 극 성시험, 여자전류, 접지, 전압비, 유중가스분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100031</learnModulSeq>
+<learnModulName>금속재료제조설비 예비전원정비</learnModulName>
+<learnModulText>예비전원장치, 비상발전기, 무정전 전원장치(UPS), 상시 전원, 비상용 전원, 자동절환 스위치 (ATS), 축전지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100032</learnModulSeq>
+<learnModulName>금속재료제조설비 제어시스템 정비</learnModulName>
+<learnModulText>제어시스템, 시퀀스제어, 계측제어, PLC, DCS, HMI, 네트워크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100033</learnModulSeq>
+<learnModulName>금속재료제조설비 제어반 정비</learnModulName>
+<learnModulText>검출 스위치, 리밋 스위치, 근접 스위치, 과전류 릴레이, 릴레이, 타이머, 카운터, 계전기, 시퀀 스, 시퀀스제어, 계측제어, 변환기, 시그널컨디셔너, 표시계기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100034</learnModulSeq>
+<learnModulName>금속재료제조설비 현장센서 정비</learnModulName>
+<learnModulText>검출 스위치, 리밋 스위치, 근접 스위치, 압력 스위치, 유량 스위치, 액위 스위치, 온도센서, 압 력센서, 유량센서, 레벨센서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100035</learnModulSeq>
+<learnModulName>금속재료제조설비 전동기 정비</learnModulName>
+<learnModulText>기동특성, 전동기 진동, 조립공차, 접지, 절연계급, 절연수명, 잔존수명, 속도제어, 토크제어 슬립, 축 절연, 절연 진단, 브러시, 부분방전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100036</learnModulSeq>
+<learnModulName>금속재료제조설비 조절밸브 정비</learnModulName>
+<learnModulText>조절밸브, 공기식, 유압식, 전기식, 글로브밸브, 볼밸브, 게이트밸브, 다이아프램밸브, 포지셔너, 락업밸브, 스피드 컨트롤러</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>금속재료제조설비정비</ncsSubdCdnm>
+<learnModulSeq>EDU20180100037</learnModulSeq>
+<learnModulName>금속재료제조설비 정비작업 안전관리</learnModulName>
+<learnModulText>안전관리계획, 안전관리기준, 설치, 운영, 교체, 위험성 평가, 유해·위험요인, 환경관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101359</learnModulSeq>
+<learnModulName>고객요구사항 파악 및 생산계획 수립</learnModulName>
+<learnModulText>주물, 합금, 원형, 용해, 외형검사, 치수검사, 재질검사, 비파괴검사, 생산일정 계획, 생산공정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101363</learnModulSeq>
+<learnModulName>원형 제작</learnModulName>
+<learnModulText>원형의 종류와 재질, 도면검토 및 설계, 수축률, 가공여유, 빼기구배, 분할면, 주조방안, 필요장비 및 공구, 안전 사항 준수, 원형의 검사 및 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101367</learnModulSeq>
+<learnModulName>조형 작업</learnModulName>
+<learnModulText>원형의 종류와 재질, 도면검토 및 설계, 수축률, 가공여유, 빼기구배, 분할면, 주조방안, 필요장비 및 공구, 안전 사항 준수, 원형의 검사 및 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101368</learnModulSeq>
+<learnModulName>용해 작업</learnModulName>
+<learnModulText>용해로, 도가니로, 전기로, 큐폴라, 유도로, 저항로, 아크로, 고주파유도로, 저주파유도로, 화학분석표, 분석창치, 내화물(벽돌. 도가니. 등) 레이들</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101372</learnModulSeq>
+<learnModulName>주조품 후처리</learnModulName>
+<learnModulText>주형 해체, 탈사, 탈사기, 절단, 방청, 함침 처리, 연마, 유공압기기, 용접, 열처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101378</learnModulSeq>
+<learnModulName>주조 결함 발생 방지 대책 수립</learnModulName>
+<learnModulText>주조, 결함, 형상, 응고, 미세조직, 화학조성, 재질, 치수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101381</learnModulSeq>
+<learnModulName>주조환경, 안전보건관리</learnModulName>
+<learnModulText>주조설비, 주조환경안전, 보건관리, 용해설비, 주물사처리설비, 후처리설비 환경관련법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101384</learnModulSeq>
+<learnModulName>특수주조</learnModulName>
+<learnModulText>다이케스팅, 인베스트먼트, 셀몰드, 저압주조, 원심주조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101391</learnModulSeq>
+<learnModulName>주조 품질관리</learnModulName>
+<learnModulText>원부자재, 입고 검사서, 공정검사, 작업 표준서, 검사 기준서, 육안검사, 화학분석 검사, 제품 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20160101949</learnModulSeq>
+<learnModulName>주조 공정 설계</learnModulName>
+<learnModulText>주형재료, 생산방법, 품질관리기법, 탕구방안, 압탕방안, 주조방안, 유동해석, 응고해석, 검사기준서, 검사기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100501</learnModulSeq>
+<learnModulName>주조설비관리</learnModulName>
+<learnModulText>주조설비, 용해설비, 주물사처리설비, 후처리설비, 환경설비, 설비관리규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100503</learnModulSeq>
+<learnModulName>원형설계 및 원형제작</learnModulName>
+<learnModulText>원형의 종류와 재질, 도면검토 및 설계, 수축률, 가공여유, 빼기구배, 분할면, 주조방안, 필요장 비 및 공구, 안전 사항 준수, 원형검사, 원형관리, 3D모델링하기, 3D프린트하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100505</learnModulSeq>
+<learnModulName>일반 주형 조형 작업</learnModulName>
+<learnModulText>주물사, 주형, 조형, 주형 상자, 주형 재료, 주물사 시험기, 중추, 원형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100506</learnModulSeq>
+<learnModulName>특수 주형 조형 작업</learnModulName>
+<learnModulText>레진코티드샌드, 이형제, 규사, CO₂가스, 규산소다, 발포폴리스티렌, 도형제, 셀주형기, 다이캐 스팅머신, 금형, 후처리설비.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100508</learnModulSeq>
+<learnModulName>주철 및 비철금속 용해작업</learnModulName>
+<learnModulText>주철, 비철금속, 용해설비, 화학분석, 용해로, 내화물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100510</learnModulSeq>
+<learnModulName>출탕 작업</learnModulName>
+<learnModulText>용탕, 응고, 화학분석표, 분석장치, 내화물, 레이들</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100511</learnModulSeq>
+<learnModulName>주조공정관리 및 품질관리</learnModulName>
+<learnModulText>원부자재, 입고 검사서, 공정검사, 작업 표준서, 검사 기준서, 육안검사, 화학분석 검사, 제품 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100513</learnModulSeq>
+<learnModulName>주조 환경·안전보건관리</learnModulName>
+<learnModulText>주조환경안전, 보건관리, 환경관련법, 환경설비, 설비관리규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주조</ncsSubdCdnm>
+<learnModulSeq>EDU20190100515</learnModulSeq>
+<learnModulName>주조 작업장 정리</learnModulName>
+<learnModulText>주물사, 주형, 조형, 주형 상자, 주형 재료, 수공구, 자재, 원형, 코어, 도형제, 주물사 처리 설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160101688</learnModulSeq>
+<learnModulName>단조압출인발 생산계획관리</learnModulName>
+<learnModulText>단조가공, 압출가공, 인발가공, 생산계획, 작업지시서, 생산공정관리, 제조공정도, 규격, 단조기, 압출기, 인발기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160101697</learnModulSeq>
+<learnModulName>단조압출인발 제조공정 설계</learnModulName>
+<learnModulText>공정해석, 제조공정 시뮬레이션, 단조, 압연, 인발, 작업조건, 검사기준서, 시험장비, 품질검사, 관리계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160101702</learnModulSeq>
+<learnModulName>단조압출인발 금형 제작 및 준비</learnModulName>
+<learnModulText>단조, 압출, 인발, 금형 종류, 금형 재료, 기계적 성질, CAM, 설계 도면, 금형 설계, 금형 제작 계획서, 금형제작 시방서, 금형 검사, 금형 수리, 불량품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160101704</learnModulSeq>
+<learnModulName>단조성형</learnModulName>
+<learnModulText>단조기계류, 가열로, 트리밍프레스, 버어니어 켈리퍼스, 한계게이지, 한도견본, 작업표준서 환봉, 열간, 성형율, 단조비, 보호구(보안경, 안전화, 귀마개, 안전모, 앞치마, 장갑)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160101712</learnModulSeq>
+<learnModulName>압출성형</learnModulName>
+<learnModulText>압출기술, 강재, 알루미늄, 동합금, 기계적 성질, 물리적 성질, 화학적 성질, 정련동, 개량화처리, 인장강도, 경도, 규소, 구리, 니켈, 크로뮴, 마크로 편석, 주조균열, 열전도율, 더미 블록, 다이 베커(backer), 다이링, 로울러, 보울스터, 서브 보울스터 압출시스템, 컨테이너, 컨테이너 라이너, 맨드릴, 천공심 금형, 용해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160102613</learnModulSeq>
+<learnModulName>인발성형</learnModulName>
+<learnModulText>산세척, 윤활제, 신선기, 인발기, 예방정비, 표면처리, PH, 측정기기, 블라스트, 치공구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160102614</learnModulSeq>
+<learnModulName>단조압출인발 성형품 후처리</learnModulName>
+<learnModulText>브라스트, 표면오염제거, 탈지제, 물질안전보건자료(MSDS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160102615</learnModulSeq>
+<learnModulName>단조압출인발 품질관리</learnModulName>
+<learnModulText>공차, 표면조도, 품질관리, 통계적관리, 탄성과 소성변형, 제조공정, 수입검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>단조·압출·인발</ncsSubdCdnm>
+<learnModulSeq>EDU20160102616</learnModulSeq>
+<learnModulName>단조압출인발 설비 보전</learnModulName>
+<learnModulText>가열로, 성형 설비, 공압, 유압, PLC, 예방 정비, 설비 보전. 내화물, 파이로미터, 열전대, 전사적예방보전(TPM)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101545</learnModulSeq>
+<learnModulName>생산계획수립 및 공정관리</learnModulName>
+<learnModulText>킬드강, 세미킬드강, 림드강, 냉간가공, 열간가공, 경화능, 리드타임, 4M, 생산성, 냉각제, 흡열형, 발열형 변성가스, 어닐링, 노멀라이징, 퀜칭, 템퍼링, 침투, 자분, 초음파 탐상검사, 방사선 투과검사, 로트, 마스킹, 각인처리, MSDS, 작업표준서, 편석, 단류선, 균질화처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101548</learnModulSeq>
+<learnModulName>표면개질열처리</learnModulName>
+<learnModulText>표면개질, 설비점검표, 열원, 냉각제, 작업표준서, PVD, CVD, 분위기가스, 진공도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101552</learnModulSeq>
+<learnModulName>열처리 작업 안전관리</learnModulName>
+<learnModulText>위험예지훈련, 무재해운동, 안전보호 장구, 안전기준응급조치, 안전점검, 안전사고방지대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100263</learnModulSeq>
+<learnModulName>열처리 품질평가</learnModulName>
+<learnModulText>시료 채취, 시험편 제작, 검사기준서, 품질 판정, 경도, 경화깊이, 미세조직, 품질판정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100264</learnModulSeq>
+<learnModulName>열처리 부적합품 관리</learnModulName>
+<learnModulText>시료 채취, 시험편 제작, 검사기준서, 품질 판정, 파괴기점, 미세조직, 부적합품 관리, 재발방지, 품질관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100265</learnModulSeq>
+<learnModulName>열처리 공정관리</learnModulName>
+<learnModulText>열처리 작업조건, 열처리 생산, 열처리 품질관리, 열처리 작업표준서, 열처리 검사성적서, 열처 리 설비관리, 열처리 이력, 열처리 로트관리, 열처리 분위기관리, 열처리 전·후처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100266</learnModulSeq>
+<learnModulName>어닐링ㆍ노멀라이징 열처리</learnModulName>
+<learnModulText>어닐링, 노멀라이징, 열처리, 냉각제, 열처리로, 경도, 인성, 열전도, 경도시험, 금속조직, 내화물, 보온제, 냉각장치, 온도계, 온도제어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100267</learnModulSeq>
+<learnModulName>퀜칭ㆍ템퍼링열처리</learnModulName>
+<learnModulText>퀜칭, 템퍼링, 후처리, 냉각제, 열처리로, 경도, 인성, 열전도, 경도시험, 금속조직, 내화물, 보온 제, 냉각장치, 온도계, 온도제어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100268</learnModulSeq>
+<learnModulName>화학적표면경화열처리</learnModulName>
+<learnModulText>화학적 표면경화, 열처리, 침탄, 질화, 확산, 탄소 농도, 표면 경도, 침탄 설비, 암모니아 가스, 해리도, 질화 설비, 질화로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100269</learnModulSeq>
+<learnModulName>물리적표면경화열처리</learnModulName>
+<learnModulText>물리적 표면경화, 열처리, 고주파유도, 화구, 화염경화, 고주파유도경화열처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100270</learnModulSeq>
+<learnModulName>항온염욕열처리</learnModulName>
+<learnModulText>항온냉각곡선(TTT curve), 연속냉각곡선(CCT curve), 합금원소, 잔류 오스테나이트, 마텐자이트, 베이나이트, 염욕(salt bath), TD Process</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100272</learnModulSeq>
+<learnModulName>진공열처리․심냉처리</learnModulName>
+<learnModulText>진공도, 진공 펌프, 진공열처리, 심냉, 심랭, 심냉처리, 심랭처리, 항온냉각곡선(TTT curve), 연속 냉각곡선(CCT curve), 합금원소, 잔류 오스테나이트, 마텐자이트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100273</learnModulSeq>
+<learnModulName>열처리 생산설비 점검</learnModulName>
+<learnModulText>설비의 매뉴얼, 설비일일점검표, 설비관리기준서, 설비의 이력, 카드관리, 부대설비, 각종 보수공구 명칭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>열처리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100274</learnModulSeq>
+<learnModulName>열처리 생산설비 유지관리</learnModulName>
+<learnModulText>설비의 매뉴얼, 설비일일점검표, 설비관리기준서, 설비의 이력, 카드관리, 부대설비, 각종 보수공 구 명칭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200973</learnModulSeq>
+<learnModulName>선재 공정설계</learnModulName>
+<learnModulText>선재 소재, 선재 가공 방법, 선재 제품 공정 설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200974</learnModulSeq>
+<learnModulName>선재 산세작업</learnModulName>
+<learnModulText>산세 처리액, 산화 스케일, 산세조, 호이스트, 수세, 염산, 황산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200975</learnModulSeq>
+<learnModulName>선재 피막작업</learnModulName>
+<learnModulText>피막 작업, 피막의 종류, 피막 설비, 윤활 처리액, 피막 처리액</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200976</learnModulSeq>
+<learnModulName>선재 열처리 작업</learnModulName>
+<learnModulText>피막 작업, 피막의 종류, 피막 설비, 윤활 처리액, 피막 처리액</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200977</learnModulSeq>
+<learnModulName>선재 신선작업</learnModulName>
+<learnModulText>선재 열처리 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200978</learnModulSeq>
+<learnModulName>선재 탈지작업</learnModulName>
+<learnModulText>소재, 탈지, 수세, 밀착 불량, 전처리, 전처리 평가, 오염</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200979</learnModulSeq>
+<learnModulName>선재 도금작업</learnModulName>
+<learnModulText>선재도금, 선재전처리, 선재도금조건, 선재작업준비, 선재산처리, 선재도금액관리, 선재도금규격, 선재작업안전, 선재피막처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200980</learnModulSeq>
+<learnModulName>선재 품질검사 관리</learnModulName>
+<learnModulText>검사, 시편, 열처리, 공정검사, 수입검사, 비파괴검사, 검사규격, 검사시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200981</learnModulSeq>
+<learnModulName>선재 설비유지 보수</learnModulName>
+<learnModulText>윤활, 진동, 진단, 미끄럼베어링, 구름베어링, 설비관리, 설비점검, 점검주기별 용어, 응급조치, MSDS, 환경법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>선재가공</ncsSubdCdnm>
+<learnModulSeq>EDU20161200985</learnModulSeq>
+<learnModulName>선재 작업안전 관리</learnModulName>
+<learnModulText>안전, 안전교육, 보호장구, 안전행동지침, 안전규정, 사고원인, 위험성평가, 원인분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160101053</learnModulSeq>
+<learnModulName>판금제관 성형작업</learnModulName>
+<learnModulText>판금제관 성형, 소성변형, 굽힘가공, 수공구, 프레스가공 , 가공경화, 방향성, 스프링 백, 최소반지름, 캠버현상, 드로잉가공, 변형교정, 블랭킹, 트리밍, 브로칭, 버링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102605</learnModulSeq>
+<learnModulName>판금제관 현도작업</learnModulName>
+<learnModulText>평면도법, 투상, 투상면, 투상선, 상관체, 상관선, 절단도법, 평행선전개, 방사선전개, 삼각형전개, 혼합전개, 실장, 굽힘(절곡), 게이지, 판뜨기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102606</learnModulSeq>
+<learnModulName>판금제관 절단작업</learnModulName>
+<learnModulText>절단, 수공구 절단, 가스 절단, 동력 절단, CNC 절단, CNC 프로그래밍, 절단 변형, 변형 교정, 금속 판재, 봉재, 관재, 형강재, 변형 교정 기구, 열변형, 프레스 금형, 전단, 전단 응력, 전단 클리어런스, 날끝각, 사이각, 틈새, 연삭 작업, 플라즈마 절단, 레이저 절단, 워터젯 절단, NCT, 슬리팅, 펀칭, 시어링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102607</learnModulSeq>
+<learnModulName>판금제관 조립작업</learnModulName>
+<learnModulText>그루브 시임, 스탠딩 시임, 시임 여유, 굽힘작업, 덕트시임, 용접절차사양서(WPS), 가스용접, 피복아크용접, CO2용접, TIG용접, 표준(중성)불꽃, 비드, 용접시점, 크레이터, 언더컷, 오버랩, 운봉법, 가접, 토치각도, 작업각, 진행각, 용착금속, 용적, 역변형, 전진법, 후진법, 나사, 볼트, 너트, 정하중, 비틀림하중, 전단하중, 토크, 리벳의 길이, 리벳이음의 효율, 리벳의 지름, 코킹, 플러링, 리벳 성형, 브라인드 리벳</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102608</learnModulSeq>
+<learnModulName>판금제관 제품검사</learnModulName>
+<learnModulText>테스터 해머, 절단, 캠버, 벤딩, 성형, 조립, 리벳, 측정기, 도면해독, 비교측정, 직접측정, 한계측정, 간접측정, 도기, 지시측정기, 게이지, 인디케이터, 버니어캘리퍼스, 하이트게이지, 교정, 재료검사, 비파괴 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102609</learnModulSeq>
+<learnModulName>판금제관 설비 관리</learnModulName>
+<learnModulText>일상점검표, 설비 실제 가동률, 계획보전활동, 설비 부품 이상 발견, 설비진단, 볼트 너트 점검하기, 붉은 표찰, 치공구 관리, 전용공구 제작비, 제품 개당 제조시간, 윤활관리, 급유</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102610</learnModulSeq>
+<learnModulName>판금제관 작업장 정리</learnModulName>
+<learnModulText>수공구, 공구 관리, 정리정돈</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20160102611</learnModulSeq>
+<learnModulName>판금제관 작업계획 수립</learnModulName>
+<learnModulText>제도 규격, 통칙, 표준화, 열처리, 시방서, 작업공정도, 적산표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100123</learnModulSeq>
+<learnModulName>판금제관 도면검토 작업</learnModulName>
+<learnModulText>제도 규격, 통칙, 표준화, 열처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100124</learnModulSeq>
+<learnModulName>판금제관 공정도 작성</learnModulName>
+<learnModulText>제도 규격, 통칙, 표준화, 열처리, 시방서, 부품 공정도, 제품 공정도, 인원배치도, 적산표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100125</learnModulSeq>
+<learnModulName>판금제관 현도작업</learnModulName>
+<learnModulText>평면도법, 투상, 투상면, 투상선, 상관체, 상관선, 절단도법, 평행선전개, 방사선전개, 삼각형전 개, 혼합전개, 실장, 굽힘(절곡)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100126</learnModulSeq>
+<learnModulName>판금제관 판뜨기</learnModulName>
+<learnModulText>평면도법, 투상, 투상면, 투상선, 상관체, 상관선, 절단도법, 평행선전개, 방사선전개, 삼각형전 개, 혼합전개, 실장, 굽힘(절곡), 게이지, 판뜨기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100127</learnModulSeq>
+<learnModulName>판금제관 수공구 절단</learnModulName>
+<learnModulText>수공구 절단, 가스 절단, 변형 교정, 금속 판재, 봉재, 관재, 형강재, 변형 교정 기구, 프레스 금 형, 전단, 전단 클리어런스, 날끝각, 사이각</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100128</learnModulSeq>
+<learnModulName>판금제관 동력 절단</learnModulName>
+<learnModulText>CNC 프로그래밍, 절단 변형, 금속 판재, 형강재, 변형 교정 기구, 열변형, 프레스 금형, 전단 클 리어런스, 날끝각, 사이각, NCT, 슬리팅, 펀칭, 시어링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100129</learnModulSeq>
+<learnModulName>판금제관 강재 성형</learnModulName>
+<learnModulText>소성변형, 굽힘가공, 프레스가공, 방향성, 가공경화, 최소반경 지름, 변형교정, 스프링 백, 캠버 현상, 블랭킹, 트리밍, 드로잉가공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100130</learnModulSeq>
+<learnModulName>판금제관 판재 성형</learnModulName>
+<learnModulText>굽힘 가공, 프레스가공, 방향성, 가공경화, 최소반경 지름, 변형교정, 스프링 백, 캠버현상, 트리 밍, 블랭킹,</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100131</learnModulSeq>
+<learnModulName>판금제관 부품 조립</learnModulName>
+<learnModulText>그루브 시임, 스탠딩 시임, 시임 여유, 덕트시임, 용접절차사양서(WPS), 표준(중성)불꽃, 용접시 점, 크레이터, 언더컷, 오버랩, 용착금속</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100132</learnModulSeq>
+<learnModulName>판금제관 요소조립</learnModulName>
+<learnModulText>정하중, 비틀림하중, 전단하중, 토크, 리벳의 길이, 리벳이음의 효율, 리벳의 지름, 코킹, 플러링, 리벳 성형, 브라인드 리벳</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100133</learnModulSeq>
+<learnModulName>판금제관 외관치수 검사</learnModulName>
+<learnModulText>테스터 해머, 절단, 벤딩, 성형, 조립, 측정기, 도면해독, 비교측정, 직접측정, 간접측정, 버니어 캘리퍼스, 하이트게이지, 교정, 재료검사, 비파괴 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100134</learnModulSeq>
+<learnModulName>판금제관 교정완성품 검사</learnModulName>
+<learnModulText>테스터 해머, 절단, 벤딩, 성형, 조립, 측정기, 도면해독, 비교측정, 직접측정, 간접측정, 버니어 캘리퍼스, 하이트게이지, 교정, 재료검사, 비파괴 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100135</learnModulSeq>
+<learnModulName>판금제관 설비 점검관리</learnModulName>
+<learnModulText>일상점검표, 설비 실제 가동률, 계획보전활동, 설비 부품 이상 발견, 설비진단, 볼트 너트 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190100136</learnModulSeq>
+<learnModulName>판금제관 설비 보수유지 관리</learnModulName>
+<learnModulText>치공구 관리, 전용공구 제작비, 제품 개당 제조시간, 윤활관리, 급유, TPM, 예방보전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>판금제관</ncsSubdCdnm>
+<learnModulSeq>EDU20190300003</learnModulSeq>
+<learnModulName>판금제관 작업 안전관리</learnModulName>
+<learnModulText>수공구 , 공구 관리, 정리, 정돈, 소음, 응급조치, 심폐소생술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200987</learnModulSeq>
+<learnModulName>강관 공정설계</learnModulName>
+<learnModulText>고객요구사항, 품질설계, 제조가부, 공정설계, 환경안전보건, ERW, SAW, 작업배치인원, 강관제조공정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200989</learnModulSeq>
+<learnModulName>강관 원료가공</learnModulName>
+<learnModulText>열연코일, 스켈프, 플레이트, 나이프, 입고검사, 언코일러, 슬리터, 에지밀러, 리코일러</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200992</learnModulSeq>
+<learnModulName>강관 성형</learnModulName>
+<learnModulText>스켈프, 쉐어웰더, 브랙다운, 핀패스, 리덕션, 비드, 비드커터, 성형롤</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200994</learnModulSeq>
+<learnModulName>강관 용접</learnModulName>
+<learnModulText>고주파전기저항용접, 서브머지드아크용접, 가스메탈아크용접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200996</learnModulSeq>
+<learnModulName>강관 정형</learnModulName>
+<learnModulText>정형(사이징, sizing), 턱스헤드(turkamp;apos;s head), 절단기, 교정기, 교정롤, 레벨블록(level block), 라이너(liner), 패스라인(pass line), 연마</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200997</learnModulSeq>
+<learnModulName>강관 관단가공</learnModulName>
+<learnModulText>관단 확관기, 면취기, 나사기, 커플링, 면취 각도(관단 직각도 포함), 면취면, 루트 페이스(root face), 관단 내면 리밍, 나사부 명칭, 나사 게이지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200998</learnModulSeq>
+<learnModulName>강관 열처리</learnModulName>
+<learnModulText>Fe-C상태도, 응력제거열처리, 심어닐링(seam annealing), 변태점, 어닐링(annealing), 노멀라이징(normalizing), 퀜칭(quenching), 템퍼링(tempering), 전기저항용접(ERW; Electric Resistance Welding)강관, 잠호 용접(SAW, submerged arc welding)강관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161200999</learnModulSeq>
+<learnModulName>강관 품질검사</learnModulName>
+<learnModulText>육안검사, 수압검사, 비파괴검사, 기계적 성질(인장시험, 경도시험, 충격시험)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161201000</learnModulSeq>
+<learnModulName>강관 도금처리</learnModulName>
+<learnModulText>탈지, 산세, 수세, 플럭스, 건조/예열, 도금, 냉각, 후처리, 제품검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161201001</learnModulSeq>
+<learnModulName>강관 도복장 처리</learnModulName>
+<learnModulText>도복장, 쇼트(shot), 그리트(grit), 거칠기(profile), 청정도(cleanliness), 임펠러, 압출기, 정전도장기, 핀홀, 음극박리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161201002</learnModulSeq>
+<learnModulName>강관 포장</learnModulName>
+<learnModulText>마킹(marking), 방청재 종류(바니시, varnish), 포장, 스틸 밴드(steel band), 결속기, 포장재, 출하, 선적</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>강관제조</ncsSubdCdnm>
+<learnModulSeq>EDU20161201003</learnModulSeq>
+<learnModulName>강관 제조설비관리</learnModulName>
+<learnModulText>베어링, 감속기, 유압기기, 축, 작동유, 모터, 커플링, 기어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100035</learnModulSeq>
+<learnModulName>고객 요구사항 파악</learnModulName>
+<learnModulText>납기, 원가, 생산계획, 일정계획, 생산방법, 단가, 견적, 검사, 시험항목, 기준서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100036</learnModulSeq>
+<learnModulName>분말생산계획 수립</learnModulName>
+<learnModulText>분말야금, 원·부자재, 생산계획, 자재관리, 수급일정, 생산준비, 생산공정 관리, 생산효율성, 제작사양서, 구 매발주서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100037</learnModulSeq>
+<learnModulName>분말 제조</learnModulName>
+<learnModulText>원료, 원재료, 중량, 배합, 분말, 제조, 전처리, 후처리, 열처리, 표면처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100041</learnModulSeq>
+<learnModulName>분말 분급과 혼합</learnModulName>
+<learnModulText>분말, 혼합, 계량, 분급, 균질화, 합금, 성형보조제, 첨가제, 원료, 믹서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100050</learnModulSeq>
+<learnModulName>분말 특성평가</learnModulName>
+<learnModulText>입도 분석, 입형 분석, 조직 분석, 성분분석, 결과해석, 입도분석기, 현미경, SEM, XRF, ICP</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100051</learnModulSeq>
+<learnModulName>분말야금 부품생산계획 수립</learnModulName>
+<learnModulText>품질관리, 원·부자재, 생산계획, 자재관리, 수급일정, 생산준비, 생산공정관리, 생산효율성, 제작사양서, 구매발주서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100056</learnModulSeq>
+<learnModulName>분말야금용 금형 설계</learnModulName>
+<learnModulText>분말야금, 금형, 부품 열처리, 압착, 품질검사, 금형 설계, 금형 재료, 성형, 공정관리, 프레스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100057</learnModulSeq>
+<learnModulName>분말 배합</learnModulName>
+<learnModulText>분말야금, 배합비 설계, 이종 금속분말, 혼합 장비 선정, 편석, 혼합 평가, 균질화 평가, 분말 성형 전처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100058</learnModulSeq>
+<learnModulName>분말 성형체 제작</learnModulName>
+<learnModulText>장입, 성형체, 평탄화, 가압성형, 분말사출성형, 압축비, 분말압연, 슬립캐스팅, 겉보기 밀도, 하우스너 비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100059</learnModulSeq>
+<learnModulName>분말 성형체 소결</learnModulName>
+<learnModulText>분말야금, 소결, 고상소결, 액상소결, 소결공정, 소결로, 결정립, 치밀화, 소결밀도, 소결치수 변화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100060</learnModulSeq>
+<learnModulName>분말야금 소결체 후처리</learnModulName>
+<learnModulText>분말야금, 소결체, 연마, 정형, 표면처리, 작업절차서, 표면조도, 품질평가, 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100061</learnModulSeq>
+<learnModulName>분말야금 소결체 특성분석</learnModulName>
+<learnModulText>소결체, 분석, 장비, 평가, 해석, 성능검사, 밀도, 기공도, 인장, 굽힘, 경도, 충격, 표면</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100062</learnModulSeq>
+<learnModulName>분말야금 품질관리</learnModulName>
+<learnModulText>분말, 성형, 소결, 후처리, 측정 장비, 품질관리, 불량, 정기점검, 보수, 부품 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100063</learnModulSeq>
+<learnModulName>분말야금 설비관리</learnModulName>
+<learnModulText>분말 제조, 성형, 소결, 후처리, 측정 장비, 설비 관리, 정기점검, 보수, 부품 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>분말야금</ncsSubdCdnm>
+<learnModulSeq>EDU20210100071</learnModulSeq>
+<learnModulName>분말야금 안전･환경관리</learnModulName>
+<learnModulText>환경안전, 산업안전보건법, 안전보건지침, 응급조치, 안전작업표준, 안전점검, 안전표지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200196</learnModulSeq>
+<learnModulName>다이캐스팅 주조</learnModulName>
+<learnModulText>다이캐스팅, 주조, 주조 방안, 용해, 금형, 핫 챔버, 콜드 챔버, 탕구, 압탕, 코어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200197</learnModulSeq>
+<learnModulName>인베스트먼트 주조</learnModulName>
+<learnModulText>주조 방안, 압탕, 탕도, 게이트, 탕구, 정밀 주조, 내화물, 고주파 용해로, 왁스 트리, 경화제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200240</learnModulSeq>
+<learnModulName>셸몰드 주조</learnModulName>
+<learnModulText>주조 방안, 압탕, 탕도, 게이트, 탕구, 내화물, 고주파 용해로, 셸 금형, 경화제, 고주파 용해로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200241</learnModulSeq>
+<learnModulName>중력금형 주조</learnModulName>
+<learnModulText>중력금형 주조, 도형제, 금형, 중력금형 주조기, 용해로, 용탕 주입, 응고, 도가니로, 후처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200246</learnModulSeq>
+<learnModulName>저압 주조</learnModulName>
+<learnModulText>저압 주조, 보온로, 도가니로, 레들, 급탕관, 가압 장치, 도형제, 가압 제어 장치, 후처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200251</learnModulSeq>
+<learnModulName>진공 주조</learnModulName>
+<learnModulText>진공도, 주조 방안, 주형 점검, 용탕 준비, 용해 조건, 후처리, 보전 계획, 설비 점검, 이력 관리, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200252</learnModulSeq>
+<learnModulName>원심 주조</learnModulName>
+<learnModulText>원심 주조 방안, 작업표준서, 주형 점검, 주형 준비, 용탕 준비, 원심 주조, 후처리, 설비 점검, 응급조치, 작동 상태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200253</learnModulSeq>
+<learnModulName>비철 연속 주조</learnModulName>
+<learnModulText>턴디시, 더미바, 연속 주조, 플럭스, 연주 설비, 주형, 침지 노즐, 스토퍼, 후처리, 브레이크 아웃(break out)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200254</learnModulSeq>
+<learnModulName>풀몰드 주조</learnModulName>
+<learnModulText>풀몰드, 탕구계, 탕구, 탕도, 주입구, 주조 방안, 발포성 수지, 원형, 주형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200255</learnModulSeq>
+<learnModulName>용탕 단조</learnModulName>
+<learnModulText>용탕 단조, 고압 주조, 스퀴즈 캐스팅, 탕구 방안, 작업표준서, 압탕 방안, 주조 방안, 금형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200256</learnModulSeq>
+<learnModulName>특수주조 품질관리</learnModulName>
+<learnModulText>품질관리, 측정기, 제작 도면, 검사 방법, 특수주조, 부적합품, 검사기준서, 비파괴 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>금속가공</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>특수주조</ncsSubdCdnm>
+<learnModulSeq>EDU20201200257</learnModulSeq>
+<learnModulName>특수주조 환경·안전관리</learnModulName>
+<learnModulText>위험 예지 훈련, 무재해 운동, 안전 보호 장구, 안전 기준 응급조치, 안전 점검, 안전사고 방지 대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101423</learnModulSeq>
+<learnModulName>생산계획 및 환경안전</learnModulName>
+<learnModulText>도금규격, 검사기준서, 작업지시서, 제조공정도, 생산계획서, 생산공정관리, 안전보호구, 현장안전교육, 산업안전보건기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101428</learnModulSeq>
+<learnModulName>치구제작 및 도금공정설계</learnModulName>
+<learnModulText>치구 형상, 음극봉(음극 부스바), 양극, 피복(절연물질), 도금액에 따른 전류밀도, 전압, 금속의 전도도, 수입검사, 도금두께, 표면시험법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101432</learnModulSeq>
+<learnModulName>도금액 관리</learnModulName>
+<learnModulText>Hull Cell Test, 화학분석, 공해공정시험법, 헐셀과 도금의 평가, 도금액 관리 및 시험분석방법 pH측정, 도금액 분석, 시약조제 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101434</learnModulSeq>
+<learnModulName>전처리작업</learnModulName>
+<learnModulText>산화막, 연마, 탈지, 산처리, 밀착불량, 비전성재료 전처리, 전처리 평가, 오염</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101436</learnModulSeq>
+<learnModulName>전기도금작업</learnModulName>
+<learnModulText>자연채광, 간접조명, 전체조명, 부분조명, 온도와 습도, 색채관리, 보안색, 도금설비, 도금공정의 배치방식, 도금탱크, 금속의 열전도도, 건조설비, 냉각설비, 배기설비, 원심분리기, 수세탱크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101440</learnModulSeq>
+<learnModulName>무전해도금작업</learnModulName>
+<learnModulText>자연채광, 온도･습도, 마스킹(Masking), 걸이(Rack), 탈지조, 산세조, 수세조, 무전해도금조, 무전해도금공정, 냉각설비, 건조설비, 배기설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101443</learnModulSeq>
+<learnModulName>피막처리작업</learnModulName>
+<learnModulText>기계적 전처리, 화학적 전처리, 전해연마, 화학연마, 치구, 양극산화법, 피막검사법, 화성피막처리, 착색처리, 봉공처리, 변색방지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101447</learnModulSeq>
+<learnModulName>건식도금작업</learnModulName>
+<learnModulText>습식도금, 건식도금, CVD, PVD, 스퍼터링, 플라즈마, 이온도금, 반응챔버, 진공도, 진공펌프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101450</learnModulSeq>
+<learnModulName>후처리작업</learnModulName>
+<learnModulText>크로메이트, 유기피막, 유기도료, 수소취성, 베이킹</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20160101451</learnModulSeq>
+<learnModulName>제품검사 및 불량대책수립</learnModulName>
+<learnModulText>전기도금 용어, KS규격, 전기도금 불량, 제품검사, 측정장비 조작방법, 검교정 성적서, 불량재발 방지대책, 도금불량원인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20190100184</learnModulSeq>
+<learnModulName>전처리작업</learnModulName>
+<learnModulText>산화막, 연마, 탈지, 산처리, 밀착불량, 비전도성재료 전처리, 전처리 평가, 오염</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20190100185</learnModulSeq>
+<learnModulName>피막처리작업</learnModulName>
+<learnModulText>기계적 전처리, 화학적 전처리, 전해연마, 화학연마, 치구, 양극산화법, 피막검사법, 화성피막처 리, 착색처리, 봉공처리, 변색방지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20190100186</learnModulSeq>
+<learnModulName>건식도금작업</learnModulName>
+<learnModulText>건식도금, CVD, PVD, 진공증착, 스퍼터링, 플라즈마, 이온도금, 진공게이지, 진공펌프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>도금</ncsSubdCdnm>
+<learnModulSeq>EDU20190100187</learnModulSeq>
+<learnModulName>도금 환경 법규 검토</learnModulName>
+<learnModulText>MSDS, 화학물질 관리법, 산업안전보건법, 소방법, 위험물 안전관리, 장외영향 평가제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101295</learnModulSeq>
+<learnModulName>금속도장 설계</learnModulName>
+<learnModulText>금속도장, 고객요구사항, 도장설계, 시방서, 도장 공정, 품질검사 계획, 견적서, 금속재료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101299</learnModulSeq>
+<learnModulName>금속도장 작업계획 수립</learnModulName>
+<learnModulText>금속도장, 금속도장 작업계획, 금속도장 작업표준서, 금속도장 시방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101302</learnModulSeq>
+<learnModulName>금속도장 입고검사관리</learnModulName>
+<learnModulText>도장 재료, 도료, 입고 계획, 입고량, 납품서, 시방서, 보관장소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101303</learnModulSeq>
+<learnModulName>금속도장 환경안전관리</learnModulName>
+<learnModulText>환경설비, 금속도장, 대기환경보전법, 산업폐기물관리법, 산업안전보건법, 물질안전보건자료, 소방법, 소화기, 개인안전보호구, 방폭기기, 대기환경측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101305</learnModulSeq>
+<learnModulName>금속도장 표면처리</learnModulName>
+<learnModulText>표면처리, 표면처리 용액, 블라스트, 동력공구, 금속소재, 탈지, 수세, 화성처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101306</learnModulSeq>
+<learnModulName>금속도장 작업</learnModulName>
+<learnModulText>도장작업, 도료, 도료 점도, 조색, 붓 도장, 롤러 도장, 에어 스프레이 도장, 에어리스 스프레이 도장, 침적 도장, 전착도장, 롤 코팅 도장, 정전 도장, 분체도장, 세척기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101310</learnModulSeq>
+<learnModulName>금속도장 건조</learnModulName>
+<learnModulText>도장건조, 금속소재, 건조불량, 건조설비, 건조로, 표면온도 측정, 열풍 건조로, 댐퍼, 도료, 건조시간</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20160101312</learnModulSeq>
+<learnModulName>금속도장 검사</learnModulName>
+<learnModulText>도장검사, 도장공정, 검사계획서, 점검표, 습도막 검사, 도막두께, 도막결함, 침전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100502</learnModulSeq>
+<learnModulName>금속도장 환경안전 관리</learnModulName>
+<learnModulText>환경설비, 환경오염, 대기환경보전법, 산업폐기물관리법, 물질안전보건자료, 대기환경측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100504</learnModulSeq>
+<learnModulName>금속도장 소방·전기안전관리</learnModulName>
+<learnModulText>환경설비, 금속 도장, 산업안전보건법, 소방법, 소화기, 방폭기기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100507</learnModulSeq>
+<learnModulName>금속도장 개인안전관리</learnModulName>
+<learnModulText>환경설비, 금속 도장, 산업안전보건법, 개인안전보호구, 방폭기기, 안전점검.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100509</learnModulSeq>
+<learnModulName>기계적 표면처리</learnModulName>
+<learnModulText>표면처리, 표면처리 용액, 블라스트, 동력공구, 금속소재, 탈지, 수세, 화성처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100512</learnModulSeq>
+<learnModulName>화학적 표면처리</learnModulName>
+<learnModulText>표면처리, 표면처리 용액, 금속소재, 탈지, 수세, pH, 침지법, 증기법, 에멀젼, 용제, 산, 알칼리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100514</learnModulSeq>
+<learnModulName>화성피막 처리</learnModulName>
+<learnModulText>표면처리, 표면처리 용액, 블라스트, 동력공구, 금속소재, 탈지, 수세, 화성처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100516</learnModulSeq>
+<learnModulName>도장 설비·기기</learnModulName>
+<learnModulText>에어구동 장비, 동력구동 장비, 점검진단 항목, 진단 보수 기기, 이력 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100517</learnModulSeq>
+<learnModulName>조색작업</learnModulName>
+<learnModulText>조색, 색상코드, 색상명, 조색제, 목측조색, 계량조색, CCM, 색상비교, 조색 데이터화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100518</learnModulSeq>
+<learnModulName>주걱·붓·롤러 도장</learnModulName>
+<learnModulText>도장작업, 도장공정, 도료, 도료 점도, 퍼티, 주걱, 붓 도장, 롤러 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100519</learnModulSeq>
+<learnModulName>에어스프레이 도장</learnModulName>
+<learnModulText>도장작업, 도장공정, 도료, 도료점도, 에어스프레이 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100520</learnModulSeq>
+<learnModulName>에어리스 도장</learnModulName>
+<learnModulText>도장작업, 도장공정, 도료, 도료점도, 에어스프레이 도장, 에어리스 스프레이 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100521</learnModulSeq>
+<learnModulName>침적 도장</learnModulName>
+<learnModulText>도장작업, 도료, 도료 점도, 침적 도장, 전착 도장, 세척기, 도막, MSDS, 폐기물, 전기분해, 전기석출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100522</learnModulSeq>
+<learnModulName>롤코팅 도장</learnModulName>
+<learnModulText>롤 코팅, 정상식, 역행식, 도료, 점도, 콘트롤 박스, 배업 드럼, 롤 스피트, 롤 간격, 피도물, 도료 받침 접시, 용제, 롤코팅 도장, 정상식, 역행식, 롤 스피트, 롤 간격, 도료 받침 접시, 픽업 롤, 코팅 롤, 백업드럼, 도료 점도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100523</learnModulSeq>
+<learnModulName>액상정전 도장</learnModulName>
+<learnModulText>도장작업, 도장공정, 도료, 도료 점도, 액상 정전 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100524</learnModulSeq>
+<learnModulName>분체도장</learnModulName>
+<learnModulText>도장작업, 도장공정, 도료, 안전 관리, 분체 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100525</learnModulSeq>
+<learnModulName>적외선·자외선 건조</learnModulName>
+<learnModulText>적외선, 원적외선, 자외선, 건조, 도장, 도료, 금속소재, 표면온도, 건조기, 건조 설비, MSDS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100526</learnModulSeq>
+<learnModulName>열풍건조</learnModulName>
+<learnModulText>표면처리, 열풍건조, 도장건조, 금속소재, 건조불량, 건조설비, 건조로, 표면온도 측정, 열풍 건 조로, 댐퍼, 도료, 건조시간</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100527</learnModulSeq>
+<learnModulName>금속도장 검사 일반</learnModulName>
+<learnModulText>시방서, 작업절차서, 검사계획서, 검사장비, 도장검사, 등급판정, 검사결과판정, 검사결과관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>표면처리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>금속도장</ncsSubdCdnm>
+<learnModulSeq>EDU20190100528</learnModulSeq>
+<learnModulName>금속도장 결함 대책</learnModulName>
+<learnModulText>도장공정, 도막결함, 결함현상, 결함원인, 결함대책, 보수방법, 부적합사항, 재발방지대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101190</learnModulSeq>
+<learnModulName>피복아크용접 작업안전보건관리</learnModulName>
+<learnModulText>안전점검, 안전수칙, CO₂가스, 보호구, 보호면, 소화기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101191</learnModulSeq>
+<learnModulName>피복아크용접 도면해독</learnModulName>
+<learnModulText>용접 기호, 이음 형상, 용접 기본 기호, 용접 보조 기호, 용접 자세, 홈 가공, 루트면, 루트간격, 심(seam), 맞대기 이음, 겹치기 이음, 티이음, 모서리 이음, 변두리 이음, 필릿, 목 길이, 목두께, KS, ISO, AWS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101193</learnModulSeq>
+<learnModulName>피복아크용접 재료준비</learnModulName>
+<learnModulText>모재, 그루브 형상, 이음형상, 용접봉, 용접절차사양서, 용접 자세, 홈 가공, 개선 각, 탄소강, 합금강, 용접봉, 용접 지그, 필릿, 목 길이, 목 두께, 용접치공구, 용접 게이지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101194</learnModulSeq>
+<learnModulName>피복아크용접 장비준비</learnModulName>
+<learnModulText>안전점검, 안전수칙, CO₂가스, 보호구, 보호면, 소화기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101197</learnModulSeq>
+<learnModulName>피복아크용접 가용접 작업</learnModulName>
+<learnModulText>가용접, 용접법, 홈 형상, 측정공구, 안전수칙, 용접구조물 조립, 용접변형, 잔류응력, 응력집중</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101198</learnModulSeq>
+<learnModulName>피복아크용접 비드쌓기</learnModulName>
+<learnModulText>용접야금, 용접부, 열영향부, 연강, 슬래그, 피복제, 심선, 모재, 용접봉, 용가재, 아크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101201</learnModulSeq>
+<learnModulName>피복아크용접부 검사</learnModulName>
+<learnModulText>용접절차사양서(WPS), 용접절차기록서(PQR), 용접조건, 용접모재, 용접이음형상, 가용접 검사, 홈보수 작업, 파괴시험, 비파괴시험법(MT/ PT/ RT/ UT), 용접 변형의 원인 및 방지대책, 용접결함, 잔류응력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101203</learnModulSeq>
+<learnModulName>피복아크용접 결함부 보수용접 작업</learnModulName>
+<learnModulText>피복금속아크용접, 용접결함, 파괴 검사 및 비파괴 검사, 보수 용접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101206</learnModulSeq>
+<learnModulName>피복아크용접 작업후 정리정돈</learnModulName>
+<learnModulText>본체 전원, 배기･환기 장치, 치 공구, 안전 보호구, 안전 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300146</learnModulSeq>
+<learnModulName>피복아크용접 맞대기용접</learnModulName>
+<learnModulText>용접부 온도관리, 아래보기자세, 수직자세, 수평자세, 위보기자세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300150</learnModulSeq>
+<learnModulName>피복아크용접 필렛용접</learnModulName>
+<learnModulText>T형 필렛 용접, 모서리 용접, 용접의 조건, 용접 전류, 피복아크용접기, 피복아크용접봉, 용접 자세, 용접 전후처리, 용접 안전 장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>피복아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300153</learnModulSeq>
+<learnModulName>피복아크용접 파이프용접</learnModulName>
+<learnModulText>피복아크용접(SMAW,MMAW), 루트간격, 루트면, 홈깊이, 홈각도, 아크길이, 진행각도, 작업각도, 언더컷, 오버랩, 용락, 기공, 슬래그혼입, 용착불량, 용융지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700280</learnModulSeq>
+<learnModulName>CO₂용접작업 안전 관리</learnModulName>
+<learnModulText>안전 점검, 안전 수칙, CO₂가스, 보호구, 보호면, 소화기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700281</learnModulSeq>
+<learnModulName>CO₂용접도면 해독</learnModulName>
+<learnModulText>용접 기호, 이음 형상, 용접절차사양서, 용접절차인정기록서, 용입, 용접 자세, 홈 가공, 개선 각, 심(seam), 표면 육성, 루트 면, 필릿, 목 길이, 목 두께, ASME, AWS, SMAW, GTAW, SAW, FCAW</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700282</learnModulSeq>
+<learnModulName>CO₂용접 재료 준비</learnModulName>
+<learnModulText>모재, 용접 와이어의 특성, CO₂가스, 보호 가스, 백킹재, 용접 이음 형상, 용접 강도, 용접 열 영향부, 용접 이행 형태, 와이어 송급 방식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700283</learnModulSeq>
+<learnModulName>CO₂용접 장비 준비</learnModulName>
+<learnModulText>CO2 용접, 와이어 송급 장치, 압력 조정기, 용접 토치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700284</learnModulSeq>
+<learnModulName>CO₂용접 가용접 작업</learnModulName>
+<learnModulText>가용접, 홈 형상, 측정 공구, 안전 수칙, 용접 구조물 조립, 용접 변형, 잔류 응력, 응력 집중</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700285</learnModulSeq>
+<learnModulName>솔리드와이어용접 작업</learnModulName>
+<learnModulText>CO2 용접, 솔리드와이어, 와이어 송급 장치, 보호 가스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700286</learnModulSeq>
+<learnModulName>플럭스코어드와이어용접 작업</learnModulName>
+<learnModulText>CO2 용접, 솔리드와이어, 와이어 송급 장치, 보호 가스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700287</learnModulSeq>
+<learnModulName>CO₂용접 용접부 검사</learnModulName>
+<learnModulText>용접절차사양서(WPS), 용접절차기록서(PQR), 용접 모재, 파괴 시험법, 비파괴 시험법(VT/ MT/ PT/ RT/ UT), 용접 결함, 용접 이음 형상, 가용접, 용접 변형, 잔류 응력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700288</learnModulSeq>
+<learnModulName>CO₂용접 결함부 보수용접 작업</learnModulName>
+<learnModulText>CO2 용접, 보수 용접, 용접 결함, 비파괴 및 파괴 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700289</learnModulSeq>
+<learnModulName>CO₂용접 작업 후 정리정돈</learnModulName>
+<learnModulText>보호 가스, 밸브, 누설 검사, 전원, 용접 보호구, 작업 공구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20200100394</learnModulSeq>
+<learnModulName>솔리드와이어용접 비드쌓기</learnModulName>
+<learnModulText>아래보기자세, 수평자세, 수직자세, 좁은 비드, 넓은 비드, 솔리드와이어, 보호가스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20200100396</learnModulSeq>
+<learnModulName>솔리드와이어 필릿 용접</learnModulName>
+<learnModulText>T형 필릿, 모서리 이음, 가접, 아래보기 자세, 수평 자세, 수직 자세, 위보기 자세, 솔리드 와이어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20200100398</learnModulSeq>
+<learnModulName>솔리드와이어 맞대기 용접</learnModulName>
+<learnModulText>아래보기 자세, 수직자세, 수평자세, 맞대기 용접, 루트간격, 루트면, 베벨각, 가용접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20200100401</learnModulSeq>
+<learnModulName>플럭스코어드와이어 비드쌓기</learnModulName>
+<learnModulText>CO2용접, 플럭스코어드와이어용접, FCAW, 비드쌓기, 용접조건설정, 전류, 전압, 보호가스, 용접 절차사양서, WPS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20200100403</learnModulSeq>
+<learnModulName>플럭스코어드와이어 필릿 용접</learnModulName>
+<learnModulText>CO2용접, 플럭스코어드와이어용접, FCAW, 필릿용접, 모서리용접, 용접조건설정, 전류, 전압, 용 접절차사양서, WPS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>CO₂용접</ncsSubdCdnm>
+<learnModulSeq>EDU20200100404</learnModulSeq>
+<learnModulName>플럭스코어드와이어 맞대기 용접</learnModulName>
+<learnModulText>CO2 용접, 플럭스코어드와이어용접, FCAW, 맞대기용접, 용접부 온도관리, 용접 조건설정, 전류, 전압, 용접절차사양서, WPS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101598</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 재료준비</learnModulName>
+<learnModulText>가스텅스텐아크용접, GTAW, 용접토치, 전극봉, 용가재, 보호가스, 퍼지, 유량, 세라믹 노즐, 용접절차사양서, 용접지그, 불활성가스, 뒷댐재, 정극성, 역극성, 용접모재, 이음 형상, 아르곤 가스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101602</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 기초용접하기</learnModulName>
+<learnModulText>탄소강 용접조건, 스테인리스강 용접조건, 알루미늄 용접조건, 용접 계통도, 용접기 사양서, 보호가스, 시방서, 용접부의 예열과 후열, 아래보기·수직·수평·위보기 비드내기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101609</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 응용용접하기</learnModulName>
+<learnModulText>가스텅스텐아크용접, 용접 절차 사양서, 텅스텐전극봉, 용접봉, 세라믹노즐, 스테인리스강</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101610</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 구조물 제작하기</learnModulName>
+<learnModulText>가스텅스텐아크용접(GTAW), 텅스텐 전극봉, 세라믹 노즐, 보호가스, 용가재, 아르곤 가스, 유량계, 루트간격, 아크길이, 진행각도, 작업각도, 기공, 언더컷, 오버랩, 크레이터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101846</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 작업 후 정리정돈</learnModulName>
+<learnModulText>보호가스, 유량계, 환기장치, 배기가스, 접지선, 누설검사, 작업공구, 용접 보호구, 용접 전원, 가스 누설 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101948</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 작업안전보건관리</learnModulName>
+<learnModulText>안전점검, 안전수칙, 보호가스(불활성가스), 용접퓸, 보호구, 보호면, 소화기, MSDS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160102135</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 도면해독</learnModulName>
+<learnModulText>용접기호, 용접이음형상, 용접자세, 용접절차사양서, 홈 가공, 개선 각, 루트면, 목 길이, 목 두께, 예열</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160102136</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 가용접 작업</learnModulName>
+<learnModulText>가스텅스텐아크용접, GTAW, 가용접, 용접절차사양서, 그루브가공, 측정공구, 안전수칙, 용접 구조물 조립, 불활성가스, 역극성, 정극성, 용접변형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160102137</learnModulSeq>
+<learnModulName>가스텅스텐아크용접부 검사</learnModulName>
+<learnModulText>용접절차사양서(WPS), 용접절차기록서(WPQR), 작업표준서, 육안검사, 용접조건, 도면해독, 외관검사, 용접이음형상, 비파괴시험법(PT/MT/RT/UT/ECT/LT), 보수용접기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100441</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 비드쌓기</learnModulName>
+<learnModulText>용접전류, 용접전압, 용가재(용접봉), 크레이터, 보호가스, 텅스텐전극, 세라믹 노즐, 콜릿 척, 유량계, 아르곤가스, 용접토치, 용접기 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100442</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 맞대기용접</learnModulName>
+<learnModulText>가스텅스텐아크용접, 맞대기용접, 아래보기자세, 수직자세, 수평자세, 위보기자세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100444</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 필릿용접</learnModulName>
+<learnModulText>T형 필릿용접조건, 모서리 용접조건, 보호가스, 시방서, 아래보기‧수직‧수평‧위보기 필릿용접, 모서리 용접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100445</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 파이프용접</learnModulName>
+<learnModulText>가스텅스텐아크용접, 파이프용접, 파이프 필릿용접, 파이프 맞대기용접, 2G, 5G, 6G, 6GR</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20201200217</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 장비준비</learnModulName>
+<learnModulText>가스텅스텐아크용접, GTAW, 용접토치, 용가재, 보호가스, 용접절차사양서, 용접지그, 불활성가스, 뒷댐재, 정극성, 역극성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가스텅스텐아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20201200230</learnModulSeq>
+<learnModulName>가스텅스텐아크용접 결함부 보수용접 작업</learnModulName>
+<learnModulText>용접절차사양서(WPS), 용접절차기록서(WPQR), 작업표준서, 육안검사, 용접조건, 도면해독, 외관검사, 용 접이음형상, 비파괴시험법(PT/MT/RT/UT/ECT/LT), 보수용접기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101553</learnModulSeq>
+<learnModulName>가스메탈아크용접 작업안전보건관리</learnModulName>
+<learnModulText>산업안전보건법 용접 안전수칙, 용접안전보호구, 가스메탈아크용접, 용접작업장 안전점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101564</learnModulSeq>
+<learnModulName>가스메탈아크용접 도면해독</learnModulName>
+<learnModulText>용접 기호, 보조 기호, 기준선, 지시선, 맞대기 용접, 필릿 용접, 용접 자세, 용접 이음 형상, 제작도면, 각장(목 길이), 각목(목 두께), 용접절차사양서(WPS), 절차인정기록서(PQR)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101565</learnModulSeq>
+<learnModulName>가스메탈아크용접 재료준비</learnModulName>
+<learnModulText>용접재료, 용접와이어의 특성, 실드가스(Ar He CO₂O₂)특징, 백킹재, 용접 이음형상, 용접강도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101566</learnModulSeq>
+<learnModulName>가스메탈아크용접 장비준비</learnModulName>
+<learnModulText>가스메탈아크용접(MIG용접, MAG용접) 와이어 송급장치, 압력조정기, 용접토치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101567</learnModulSeq>
+<learnModulName>가스메탈아크용접 가용접 작업</learnModulName>
+<learnModulText>측정 공구, 가용접, 그루브, 인장강도, 버니어 캘리퍼스, 마이크로미터, 용접 이음</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101568</learnModulSeq>
+<learnModulName>가스메탈아크용접 본용접 작업</learnModulName>
+<learnModulText>가스메탈아크용접, 예열, 층간온도, 후열, 용접변형, 스테인리스강, 알루미늄, 용접결함</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160102020</learnModulSeq>
+<learnModulName>가스메탈아크용접부 검사</learnModulName>
+<learnModulText>용접절차사양서(WPS), 용접 치수, 비파괴시험법(MT/ PT/ RT/ UT), 용접결함, 가용접, 용접변형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160102021</learnModulSeq>
+<learnModulName>가스메탈아크용접 결함부 보수용접 작업</learnModulName>
+<learnModulText>가스메탈 아크용접(MIG용접), 보수용접, 용접결함, 비파괴 및 파괴검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160102022</learnModulSeq>
+<learnModulName>가스메탈아크용접 작업 후 정리정돈</learnModulName>
+<learnModulText>보호가스, 밸브, 누설검사, 전원, 용접 보호구, 작업공구, 용접기록물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300137</learnModulSeq>
+<learnModulName>가스메탈아크용접 비드쌓기</learnModulName>
+<learnModulText>용접전류, 용접전압, 직선비드 용접, 위빙비드 용접, 탄소강, 스테인리스강, 알루미늄 합금, 용접 절차사양서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300138</learnModulSeq>
+<learnModulName>가스메탈아크용접 맞대기용접</learnModulName>
+<learnModulText>예열, 후열, 층간온도, 아래보기 자세, 수직 자세, 수평 자세, 위보기 자세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300139</learnModulSeq>
+<learnModulName>가스메탈아크용접 필렛용접</learnModulName>
+<learnModulText>가스메탈아크용접, 예열, 층간온도, 후열, 스테인리스강, 알루미늄, T형 필렛용접, 모서리용접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>가스메탈아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190300140</learnModulSeq>
+<learnModulName>가스메탈아크용접 파이프용접</learnModulName>
+<learnModulText>가스메탈아크용접, 예열, 층간온도, 후열, 스테인리스강, 알루미늄, 파이프 필렛용접, 파이프 맞대기 용접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101103</learnModulSeq>
+<learnModulName>서브머지드아크용접 작업안전보건관리</learnModulName>
+<learnModulText>안전 수칙, 보호구, 보호면, 작업장 정리 정돈, 물질안전보건자료(MSDS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101104</learnModulSeq>
+<learnModulName>서브머지드아크용접 도면해독</learnModulName>
+<learnModulText>제작도면, 홈의 이음 형상 및 기호, 용접 구조물, 용접자세, 용접절차사양서, 용접방법 및 조건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101105</learnModulSeq>
+<learnModulName>서브머지드아크용접 재료준비</learnModulName>
+<learnModulText>모재, 용접 와이어의 특성, 용제, 백킹재, 용접 이음 형상, 용접 강도, 용접 열 영향부, 용접 이행 형태, 와이어 송급 방식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101106</learnModulSeq>
+<learnModulName>서브머지드아크용접 가용접 작업</learnModulName>
+<learnModulText>서브머지드 아크용접, 플럭스공급장치, 와이어 송급장치, 이동대차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101107</learnModulSeq>
+<learnModulName>서브머지드아크용접 용접장비 준비</learnModulName>
+<learnModulText>서브머지드용접기 및 부속장치, 용접용 재료, 이송장치, 용접장치의 설치 ․ 점검 ․ 운전 ․ 조작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101108</learnModulSeq>
+<learnModulName>서브머지드아크용접 본용접 작업</learnModulName>
+<learnModulText>서브머지드아크용접, 플럭스공급장치, 와이어 송급장치, 캐리지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101109</learnModulSeq>
+<learnModulName>서브머지드아크용접부 검사</learnModulName>
+<learnModulText>용접절차사양서(WPS), 용접절차기록서(PQR), 용접모재, 파괴시험, 비파괴시험법(MT/ PT/ RT/ UT), 용접결함, 용접이음형상, 가용접, 용접변형, 잔류응력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101110</learnModulSeq>
+<learnModulName>서브머지드아크용접 결함부 보수용접 작업</learnModulName>
+<learnModulText>서브머지드 아크 용접, 블루홀, 크렉, 기공, 보수용접, 용접결함, 비파괴 및 파괴검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20160101111</learnModulSeq>
+<learnModulName>서브머지드아크용접 작업 후 정리정돈</learnModulName>
+<learnModulText>서브머지드 아크 용접 용제, 호퍼, 용제의 종류와 특성, 용제 보관법, 용접 전원차단, 환기장치 전원차단, 보호구 및 용접 작업장 정리정돈</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100724</learnModulSeq>
+<learnModulName>서브머지드아크용접 도면해독</learnModulName>
+<learnModulText>제도 도면, 홈의 이음 형상 및 기호, 용접 구조물, 용접 자세, 용접절차사양서, 용접 방법 및 조건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100726</learnModulSeq>
+<learnModulName>단일전극 서브머지드아크용접 용접장비 준비</learnModulName>
+<learnModulText>용접 와이어, 호퍼, 용제, 백킹재, 서브머지드아크 용접기, 용접재료, 이송장치, 스틸 울(Steel Wool)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100728</learnModulSeq>
+<learnModulName>다전극 서브머지드아크용접 용접장비 준비</learnModulName>
+<learnModulText>용접와이어, 백킹재, 다전극, 레일, 용제, 와이어릴, 직류(DC), 교류(DC), 용제 건조기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100729</learnModulSeq>
+<learnModulName>단일전극 서브머지드아크용접 예열 및 본용접 작업</learnModulName>
+<learnModulText>서브머지드아크용접, SAW, 플럭스 공급장치, 단일전극 와이어 송급장치, 오토캐리지, 플럭스 및 와이어, 용접절차시방서(WPS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>서브머지드아크용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100730</learnModulSeq>
+<learnModulName>다전극 서브머지드아크용접 용접 및 본용접 작업</learnModulName>
+<learnModulText>서브머지드아크용접, 플럭스공급장치, 다전극 와이어 송급장치, 캐리지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700531</learnModulSeq>
+<learnModulName>기본용접작업</learnModulName>
+<learnModulText>용접절차사양서, 용접 작업 지시서, 용접 도면, 부적합 보고서, 보수 용접 시방서 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700532</learnModulSeq>
+<learnModulName>제작도면·용접절차사양서 파악</learnModulName>
+<learnModulText>용접 기호, 보조 기호, 기준선, 지시선, 맞대기 용접, 필릿 용접, 용접 자세, 용접 이음 형상, 제작도면, ISO2553 규격, AWS A2.4 규격, ASME-Sect.IX, 각장(목 길이), 각목(목 두께), 용접절차사양서(WPS), 절차인정기록서(PQR), 작업공정표(TRV), 용접 변수, PQ시험, 용접성, 건전성, 작업성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700533</learnModulSeq>
+<learnModulName>로봇용접 준비</learnModulName>
+<learnModulText>용가재, 플럭스 코드 와이어, 솔리드 와이어, 탄산가스(CO가스), 고장력강, GMAW, FCAW, 용접절차사양서(WPS), 용접지그 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700534</learnModulSeq>
+<learnModulName>로봇용접장비 세팅</learnModulName>
+<learnModulText>로봇용접, 로봇 제어기, 로봇 구성, 로봇용접 인터페이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700535</learnModulSeq>
+<learnModulName>위치데이터 프로그램 코딩</learnModulName>
+<learnModulText>지그, 지그 세팅, 가용접, Teaching Pendant, 위치 데이터 프로그램, 엔드 이펙터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700536</learnModulSeq>
+<learnModulName>용접작업 프로그램 코딩</learnModulName>
+<learnModulText>READY, SPEED/P, SPEED/C, MOVE, MOVES, MOVEC/C, MOVEC, AS, AE, GOSUB, WS, WE, AST ON, AST OFF, TST</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700537</learnModulSeq>
+<learnModulName>로봇용접 작업</learnModulName>
+<learnModulText>예열, 가용접, 본용접, 후열처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700538</learnModulSeq>
+<learnModulName>로봇용접 단품 후처리 검사</learnModulName>
+<learnModulText>용접 후 마무리, 다듬질, 크리닝, 그라인더, 절단, 결함, 변형, 보수 용접, 육안 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700539</learnModulSeq>
+<learnModulName>로봇용접 완료 작업</learnModulName>
+<learnModulText>로봇, GMAW 용접기, 포지셔너, 컨트롤러, 터어닝롤러, 메니플레이터, 흄 가스, 유해 가스, 탄산가스(CO가스), 용접지그, FCAW 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20150700544</learnModulSeq>
+<learnModulName>로봇 용접 전체조립품 후처리 검사</learnModulName>
+<learnModulText>로봇용접, 전체조립품 후처리 검사, 용접부 육안 검사, 용접부 비파괴검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100542</learnModulSeq>
+<learnModulName>제작도면·단품 용접절차사양서 파악</learnModulName>
+<learnModulText>기본 기호, 용접 자세, 홈의 형상, 구조상 특성, 이음 형상, 용접 각장, 가공 상태, 후처리 방법, 용접절차사양서(WPS). 용접절차인정기록서(PQR)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100543</learnModulSeq>
+<learnModulName>제작도면 전체조립품 용접절차사양서 파악</learnModulName>
+<learnModulText>용접 기호, 보조 기호, ISO2553규격, AWS A2.4규격, ASME-Sect.IX, 각장(목길이), 각목(목두께), 용접절차사양서(WPS), 절차인정기록서(PQR), 용접 변수, PQ시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100544</learnModulSeq>
+<learnModulName>프로그램 코딩(단품)</learnModulName>
+<learnModulText>지그, 지그 세팅, 가용접, Teaching Pendant, 위치 데이터 프로그램, 엔드 이펙터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100546</learnModulSeq>
+<learnModulName>프로그램 코딩(전체조립품)</learnModulName>
+<learnModulText>용접 로봇 제어기, Teaching Pendant, 위치 데이터 프로그램, 엔드 이펙터, 쇼크센서, 용접 지그</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>용접</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>로봇용접</ncsSubdCdnm>
+<learnModulSeq>EDU20190100551</learnModulSeq>
+<learnModulName>로봇용접 작업</learnModulName>
+<learnModulText>로봇용접, 지그세팅, 동기제어 로봇, 가용접, 프로그램 코딩, 결함부, 열처리, 예열</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100029</learnModulSeq>
+<learnModulName>마그네슘 제련</learnModulName>
+<learnModulText>광석, 선광, 하소, 배소, 염소화, 소결, 규소열환원, 용융염 전해제련, 플럭스용해, 플럭스정련</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100030</learnModulSeq>
+<learnModulName>마그네슘 합금 제조</learnModulName>
+<learnModulText>시료 채취, 분광분석, 기계적 특성, 화학적 특성, 합금 성분 원소, 합금 함량, 장입 계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100031</learnModulSeq>
+<learnModulName>마그네슘 주조</learnModulName>
+<learnModulText>중력주조, 금형, 경합금, 용탕 관리, 사형주조, 정밀주조, 박판 연속주조, 빌렛 연속주조, 주조품 후처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100032</learnModulSeq>
+<learnModulName>마그네슘 다이캐스팅</learnModulName>
+<learnModulText>용해, 용탕, 합금, 개재물, 다이캐스팅, 트리밍, 사상, 용탕 청정도, 신뢰성, 품질, 결함</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100033</learnModulSeq>
+<learnModulName>마그네슘 소성 가공</learnModulName>
+<learnModulText>소성가공, 단조, 압출, 압연, 판재성형, 전처리, 균질화, 치공구, 예열, 빌릿, 금형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100034</learnModulSeq>
+<learnModulName>마그네슘 표면처리</learnModulName>
+<learnModulText>치구, 기계적 전처리, 화학적 전처리, 화성처리, 양극산화, 도금처리, 무전해 니켈도금, 도장처리, 발색, 도료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100035</learnModulSeq>
+<learnModulName>마그네슘 리사이클링</learnModulName>
+<learnModulText>마그네슘, 마그네슘 합금, 리사이클링, 스크랩, 정련, 드로스, 슬러지, 개재물, 청정도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마그네슘제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100036</learnModulSeq>
+<learnModulName>마그네슘 안전관리</learnModulName>
+<learnModulText>마그네슘 용해, 산화방지, 슬러지, 드로스, 기계가공, 절삭칩, 미분, 소화제, 소화기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100037</learnModulSeq>
+<learnModulName>타이타늄 금속 제련</learnModulName>
+<learnModulText>원광석 종류, 원광석 성분, 화학성분 분석, 사염화타이타늄, 염화, 증류, 크롤법 제련, 제련 반응공학, 제련 열역학, 스폰지 제조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100038</learnModulSeq>
+<learnModulName>타이타늄 용해･주조</learnModulName>
+<learnModulText>타이타늄 스폰지, 성형체, 수화물, 가접, 잉곳, 전극봉, 인베스트먼트 주조, 진공용해, 재용해, 진공 열처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100039</learnModulSeq>
+<learnModulName>타이타늄 중간재 제조</learnModulName>
+<learnModulText>타이타늄, 빌렛, 박판, 후판, 용접관, 이음매 없는 관, 봉재, 선재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100040</learnModulSeq>
+<learnModulName>타이타늄 소재가공</learnModulName>
+<learnModulText>형단조, 링단조, 작업표준서, 프레스, 성형, 타이타늄, 프레스, 초소성, 용접, 접합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100041</learnModulSeq>
+<learnModulName>타이타늄 적층 제조</learnModulName>
+<learnModulText>금속분말, 타이타늄 분말, 아토마이징, 플라즈마, 스캐닝, 적층제조, 3D프린팅, STL 파일, PBF, 금속가공 후처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100042</learnModulSeq>
+<learnModulName>타이타늄 열･표면처리</learnModulName>
+<learnModulText>타이타늄 열처리, 타이타늄 착색처리, 타이타늄 표면처리, 타이타늄 귀금속, 타이타늄 산화법, 타이타늄 의장 표면처리, 타이타늄 응력제거, 타이타늄 내마모, 타이타늄 내식성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100043</learnModulSeq>
+<learnModulName>타이타늄 리사이클링</learnModulName>
+<learnModulText>순 타이타늄, 타이타늄 합금, 스크랩, 금속재료 시험, 성분 분석, 파쇄, 절단, 쇼트가공, 산 세척, 알칼리 세척</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>타이타늄제조</ncsSubdCdnm>
+<learnModulSeq>EDU20200100044</learnModulSeq>
+<learnModulName>타이타늄 환경안전관리</learnModulName>
+<learnModulText>제련공정, 가공설비, 재자원화, 작업환경, 비상조치, 설비 안전관리, 공정 안전관리, 생성물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100152</learnModulSeq>
+<learnModulName>건식제련 기초</learnModulName>
+<learnModulText>금속, 비철금속, 건식제련, 금속광석, 화학반응, 열역학, 물질･열수지, 생산준비, 생산관리, 품질관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100153</learnModulSeq>
+<learnModulName>원료 예비처리</learnModulName>
+<learnModulText>광석, 입도분포, 샘플링, 수분측정, 선광, 정광, 분쇄, 건조, 하소, 배소, 단광, 소결, 펠레타이징</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100155</learnModulSeq>
+<learnModulName>환경안전관리</learnModulName>
+<learnModulText>환경관련 법규, 비상조치, 각종 부품에 대한 성능 및 교체주기, 개인 안전보호장구 사용에 관한 지식, 안전보건자료(MSDS), 부품 교체에 필요한 작업표준, 비상조치, 산업환경관리법 및 규정, 설비의 사용 매뉴얼, 작업자 환경관련 장비에 대한 성능 및 교체주기, 작업자 환경장비의 사용 매뉴얼 및 조작, 작업장 환경을 측정･관리, 환경장비 부품교체에 필요한 작업표준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100157</learnModulSeq>
+<learnModulName>조금속 제조</learnModulName>
+<learnModulText>매트, 조금속, 슬래그, 용탕, 원료, 부원료, 배기가스, 집진</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100158</learnModulSeq>
+<learnModulName>조금속 정련</learnModulName>
+<learnModulText>조금속, 정련, 산환제, 환원제, 드로스, 슬래그, 정련반응, 상분리, 플럭스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100159</learnModulSeq>
+<learnModulName>플럭스 첨가 정련</learnModulName>
+<learnModulText>조금속, 정련, 산화제, 환원제, 스컴, 드로스, 슬래그, 상 분리, 플럭스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100160</learnModulSeq>
+<learnModulName>주조 작업</learnModulName>
+<learnModulText>전기동, 터프피치동, 인탈산동, 아연당량, 스크랩, 플럭스, 장입버킷, 탈가스처리, 탈산처리, 잉고트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100162</learnModulSeq>
+<learnModulName>부산물 회수</learnModulName>
+<learnModulText>부산물, 폐기물, 양극 슬라임, 조황산니켈, 더스트, 동 슬래그, 귀금속 부산물, 석고, 폐황산 슬러지, 유가 금속 황화물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100163</learnModulSeq>
+<learnModulName>부산물 처리작업</learnModulName>
+<learnModulText>양극슬라임, 슬래그, 열교환기, 폐열보일러</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100165</learnModulSeq>
+<learnModulName>황산 제조</learnModulName>
+<learnModulText>황산 제조, 아황산가스, 가스세정, 전화반응, 전화탑, 제품품질, 배출가스, 가스 분석, 세정 설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비철금속건식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100167</learnModulSeq>
+<learnModulName>품질 및 설비관리</learnModulName>
+<learnModulText>제품사양, 작업표준, 불량원인, 불량대책, 운전기록, 정기점검, 검사보고서, 통계, 분석시스템, 작업표준서, 검사기준서, 품질관리, 설비매뉴얼, 예비부품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100169</learnModulSeq>
+<learnModulName>고액분리 작업</learnModulName>
+<learnModulText>슬러리, 농축, 응집, 침강, 여과, 여과포, 슬러지, 세척</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100170</learnModulSeq>
+<learnModulName>회수 작업</learnModulName>
+<learnModulText>금속의 이온화 경향, 화학치환, 전해채취, 가스환원, 결정화, 화합물의 결정화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100172</learnModulSeq>
+<learnModulName>설비관리</learnModulName>
+<learnModulText>운전, 정기점검, 일상점검, 보수, 설비, 부자재, 사후관리, 일상관리, 정기관리, 운전기록, 통계, 검사보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100173</learnModulSeq>
+<learnModulName>환경안전관리</learnModulName>
+<learnModulText>환경관련 법규, 비상조치, 각종 부품에 대한 성능 및 교체주기, 개인 안전보호장구 사용에 관한 지식, 안전보건자료(MSDS), 부품 교체에 필요한 작업표준, 비상조치, 산업환경관리법 및 규정, 설비의 사용 매뉴얼, 작업자 환경관련 장비에 대한 성능 및 교체주기, 작업자 환경장비의 사용매뉴얼 및 조작, 작업장 환경을 측정･관리, 환경장비 부품교체에 필요한 작업표준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100175</learnModulSeq>
+<learnModulName>공정설계와 생산계획</learnModulName>
+<learnModulText>습식제련, 광석의 예비처리, 열역학제1법칙, 열역학제2, 3법칙, 반응속도론, 생산공정의 표준화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100177</learnModulSeq>
+<learnModulName>원료 예비처리 작업</learnModulName>
+<learnModulText>광석처리, 선광, 분쇄, 분립, 비중선광, 중액선광, 부유선광, 자력선광, 정전선광, 하소, 산화배소, 황산화배소, 염화배소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100179</learnModulSeq>
+<learnModulName>침출 작업</learnModulName>
+<learnModulText>침출액, 침출반응, 화학조성, 물질수지, 산화/환원 전위, pH, 화학분석, 반응속도, 물성 측정, 슬러리 이송</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100181</learnModulSeq>
+<learnModulName>침출액 정제 작업</learnModulName>
+<learnModulText>정액, 침전반응, 치환반응, 용매추출, 이온교환수지, 흡착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100183</learnModulSeq>
+<learnModulName>전해 작업</learnModulName>
+<learnModulText>전리, 이온화, 정련, 전해정련, 용융염, 극판, 박리, 분극, 과전압, 해리전압, 부동태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100185</learnModulSeq>
+<learnModulName>부산물 처리 작업</learnModulName>
+<learnModulText>침출, 침출잔사, 배가스, 폐가스, 황화물, 염화물, 가수분해, 사안, 중금속, 코크스 가스액, 폐열, 폐수, 사이클론, 필터, 집진</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100186</learnModulSeq>
+<learnModulName>품질관리</learnModulName>
+<learnModulText>제품사양, 작업표준, 불량원인, 불량대책, 운전기록, 정기점검, 검사보고서, 통계, 분석시스템, 작업표준서, 검사기준서, 품질관리, 설비매뉴얼, 예비부품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>16</ncsLclasCd>
+<ncsLclasCdnm>재료</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금속재료</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>비철금속재료제조</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>비철금속습식제련</ncsSubdCdnm>
+<learnModulSeq>EDU20220100187</learnModulSeq>
+<learnModulName>표준화 작업</learnModulName>
+<learnModulText>표준화, 작업 표준, 과학 기술계 표준, 사내 표준, 표준 작업 조합표, 공정 분석, 공정 관리, 측정 표준, 참고 표준, 성문 표준</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>423</totCnt>
+</dataInfo>
+</root>

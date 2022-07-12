@@ -1,0 +1,2456 @@
+<root>
+<data>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100412</learnModulSeq>
+<learnModulName>한식 조리실무</learnModulName>
+<learnModulText>한식조리, 위생관련법규, 개인위생, 위해요소, 교차오염, 청결관리, 레시피, 메뉴개발, 식 재료, 한식양념</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100413</learnModulSeq>
+<learnModulName>한식 밥 · 죽조리</learnModulName>
+<learnModulText>쌀, 잡곡, 부재료, 계량, 불리기, 분쇄, 가열, 호화, 노화, 고명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100414</learnModulSeq>
+<learnModulName>한식 면류조리</learnModulName>
+<learnModulText>면, 국수, 만두, 냉면, 육수, 양념장, 고명, 반죽, 만두피, 칼국수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100415</learnModulSeq>
+<learnModulName>한식 국 · 탕조리</learnModulName>
+<learnModulText>육수, 국, 탕, 부재료, 사골, 세척, 가열, 제조, 혼합, 원산지 확인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100416</learnModulSeq>
+<learnModulName>한식 찌개 · 전골조리</learnModulName>
+<learnModulText>찌개, 전골, 양념장, 육수, 뚝배기, 벙거짓골, 쟁개비, 냄비, 조치보, 신선로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100417</learnModulSeq>
+<learnModulName>한식 찜 · 선조리</learnModulName>
+<learnModulText>찜, 선, 양념장, 고명, 전처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100418</learnModulSeq>
+<learnModulName>한식 조림 · 초 · 볶음조리</learnModulName>
+<learnModulText>조림, 볶음, 초, 양념장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100419</learnModulSeq>
+<learnModulName>한식 전 · 적 · 튀김조리</learnModulName>
+<learnModulText>전, 적, 튀김, 꼬치, 지지기, 튀겨 내기, 소 만들기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100420</learnModulSeq>
+<learnModulName>한식 구이조리</learnModulName>
+<learnModulText>구이, 석쇠, 유장 처리, 재료의 특성, 혼합 비율, 계량법, 도구 사용, 재료 전처리, 불의 세기 조절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100421</learnModulSeq>
+<learnModulName>한식 생채 · 숙채 · 회조리</learnModulName>
+<learnModulText>생채, 숙채, 회, 냉채, 숙회, 삶기, 데치기, 무치기, 볶기, 양념</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100422</learnModulSeq>
+<learnModulName>김치조리</learnModulName>
+<learnModulText>김치, 다듬기, 자르기, 절이기, 세척, 양념, 숙성, 유산균, 염도, pH</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100423</learnModulSeq>
+<learnModulName>음청류조리</learnModulName>
+<learnModulText>차, 청, 탕, 장, 화채, 수정과, 식혜, 미수, 갈수, 숙수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100424</learnModulSeq>
+<learnModulName>한과조리</learnModulName>
+<learnModulText>한과, 유밀과, 유과, 다식, 정과, 엿강정, 숙실과, 과편, 엿</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100425</learnModulSeq>
+<learnModulName>장아찌조리</learnModulName>
+<learnModulText>장아찌, 장아찌 숙성 온도, 근채류, 엽채류, 침지법, 담금장, 탈염 방법, 숙 장아찌, 발효</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300143</learnModulSeq>
+<learnModulName>한식 위생관리</learnModulName>
+<learnModulText>개인위생, 식자재, 시설물, 위생관리, 주방기구, 주방시설, 살균, 소독, 방충, 방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300144</learnModulSeq>
+<learnModulName>한식 안전관리</learnModulName>
+<learnModulText>안전관리 점검표, 안전문화, 현장 안전관리, 안전대책, 안전관리 시스템, 산업재해, 안전보호장 비, 구급품. 응급상황, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300145</learnModulSeq>
+<learnModulName>한식 메뉴관리</learnModulName>
+<learnModulText>동기유발, 메뉴, 음식 디자인, 품질관리, 가격, 수익성, 평가기준, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300147</learnModulSeq>
+<learnModulName>한식 구매관리</learnModulName>
+<learnModulText>시장조사, 구매관리, 검수관리, 생산계획, 재료 구매계획, 입출고관리, 재고관리, 선별, 검수절차, 거래명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300148</learnModulSeq>
+<learnModulName>한식 재료관리</learnModulName>
+<learnModulText>식재료, 냉동, 냉장, 저장, 온도, 습도, 유통기한, 재고, 선입선출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300149</learnModulSeq>
+<learnModulName>한식 기초조리실무</learnModulName>
+<learnModulText>칼의 종류, 썰기 방법, 칼의 연마, 양념, 고명, 육수, 상차림, 조리도구, 계량방법, 조리법, 조리 원리, 식재료, 한식의 종류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300151</learnModulSeq>
+<learnModulName>한식 밥조리</learnModulName>
+<learnModulText>쌀, 잡곡, 부재료, 계량, 불리기, 분쇄, 가열, 호화, 고명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300152</learnModulSeq>
+<learnModulName>한식 죽조리</learnModulName>
+<learnModulText>쌀, 잡곡, 부재료, 계량, 불리기, 분쇄, 가열, 호화, 고명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300154</learnModulSeq>
+<learnModulName>한식 찌개조리</learnModulName>
+<learnModulText>찌개, 양념장, 육수, 뚝배기, 벙거짓골, 쟁개비, 냄비, 조치보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300155</learnModulSeq>
+<learnModulName>한식 전골조리</learnModulName>
+<learnModulText>전골, 양념장, 육수, 뚝배기, 벙거짓골, 쟁개비, 냄비, 조치보, 신선로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300156</learnModulSeq>
+<learnModulName>한식 조림･초조리</learnModulName>
+<learnModulText>조림, 초, 양념장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300157</learnModulSeq>
+<learnModulName>한식 볶음조리</learnModulName>
+<learnModulText>볶음, 양념장, 고명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300158</learnModulSeq>
+<learnModulName>한식 전·적 조리</learnModulName>
+<learnModulText>전, 적, 꼬치, 지지기, 소 만들기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300159</learnModulSeq>
+<learnModulName>한식 튀김조리</learnModulName>
+<learnModulText>튀김, 꼬치, 튀겨 내기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300160</learnModulSeq>
+<learnModulName>한식 생채·회조리</learnModulName>
+<learnModulText>생채, 회, 냉채, 숙회, 삶기, 데치기,무치기, 볶기, 양념</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>한식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300162</learnModulSeq>
+<learnModulName>한식 숙채조리</learnModulName>
+<learnModulText>숙채, 삶기, 데치기, 무치기, 볶기, 양념, 계량법, 기물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200108</learnModulSeq>
+<learnModulName>양식 조리실무</learnModulName>
+<learnModulText>HACCP, 식재료, 개인위생, MENU, 조리용어, 기초양식, 식중독, 안전장비, 양식 조리, 서양 조리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200109</learnModulSeq>
+<learnModulName>양식 스톡조리</learnModulName>
+<learnModulText>부케가르니(Bouguet garni), 미르포아(Mirepoix), 브라운 스톡(Brown stock), 화이트 스톡(White stock), 퓌메(Fumet), 부용(Bouillon), 시머링(Simmering), 스키밍(Skimming)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200120</learnModulSeq>
+<learnModulName>양식 소스조리</learnModulName>
+<learnModulText>부케가르니(Bouquet garni), 미르포아(Mirepoix), 루(Roux), 리에종(Liaisons), 스톡(Stock), 소스(Sauce), 비네그레트(Vinaigrette), 디저트 소스(Dessert Sauce)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200132</learnModulSeq>
+<learnModulName>양식 수프조리</learnModulName>
+<learnModulText>육류, 생선, 가금류, 채소, 농후제, 스톡 또는 퐁드(Fond/Stock), 부용(Bouillon), 크림(Cream), 빵(Bread), 향신료, 조리도구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200140</learnModulSeq>
+<learnModulName>양식 전채조리</learnModulName>
+<learnModulText>애피타이저(Appetizer), 채소(Vegetable), 콩디망(Condiments), 허브(Herb), 소스(Sauce), 오르되브르(Hors d’oeuvre), 핑거볼(Finger bowl), 카나페(Canape), 샌드위치(Sandwich), 스프레드(Spread)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200212</learnModulSeq>
+<learnModulName>양식 샐러드조리</learnModulName>
+<learnModulText>단순 샐러드, 복합 샐러드, 드레싱, 콩디망(condiment], 유화, 허브, 향신료, 가르드 망제(gardemanger)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200254</learnModulSeq>
+<learnModulName>양식 어패류조리</learnModulName>
+<learnModulText>어패류, 어패류 조리, 어패류 요리, 생선, 갑각류, 조개류, 어류, 생선 스톡, 소스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200255</learnModulSeq>
+<learnModulName>양식 육류조리</learnModulName>
+<learnModulText>육류, 가금류, 육류 부산물 조리, 향신료, 조리도구, 마리네이드, 조리법, 소스, 가니쉬, 로스팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200257</learnModulSeq>
+<learnModulName>양식 파스타조리</learnModulName>
+<learnModulText>파스타, 밀가루, 소스, 향초, 토마토, 치즈</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200258</learnModulSeq>
+<learnModulName>양식 조식 조리</learnModulName>
+<learnModulText>서니 사이드 업(Sunny side up), 오버 이지(Over easy), 오버 하드(Over hard), 스크램블 에그 (Scrambled egg), 오믈렛(Omelet), 보일드 에그(Boiled egg), 프렌치토스트(Franch toast), 에그 베 네딕틴(Egg benedictine), 시리얼(Cereals)류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100282</learnModulSeq>
+<learnModulName>양식 위생 관리</learnModulName>
+<learnModulText>개인위생, 식자재, 시설물, 위생관리, 주방기구, 주방시설, 살균, 소독, 방충, 방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100283</learnModulSeq>
+<learnModulName>양식 안전 관리</learnModulName>
+<learnModulText>안전관리 점검표, 안전문화, 현장 안전관리, 안전대책, 안전관리 시스템, 산업재해, 안전보호장 비, 구급품. 응급상황, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100284</learnModulSeq>
+<learnModulName>양식 메뉴 관리</learnModulName>
+<learnModulText>동기유발, 메뉴, 음식 디자인, 품질관리, 가격, 수익성, 평가기준, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100285</learnModulSeq>
+<learnModulName>양식 구매 관리</learnModulName>
+<learnModulText>시장조사, 구매관리, 검수관리, 생산계획, 재료 구매계획, 입출고관리, 재고관리, 선별, 검수절차, 거래명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100286</learnModulSeq>
+<learnModulName>양식 재료 관리</learnModulName>
+<learnModulText>식재료, 냉동, 냉장, 저장, 온도, 습도, 유통기한, 재고, 선입선출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100287</learnModulSeq>
+<learnModulName>양식 기초 조리 실무</learnModulName>
+<learnModulText>칼(Knife)의 종류, 칼 연마, 기본 재료 준비(Mise en Plase), 기본 썰기 방법, 안심(Tenderloin), 등 심(Sirloin), 육수(Stock), 소스(Sauce), 조리 기물의 종류, 조리 도구, 전처리 방법, 작업대 정리 정 돈, 기본 조리 방법, 조리법, 건식열 조리(Dry Heat Cooking), 습식열 조리(Moist Heat Cooking), 복합 조리(Combination Heat Cooking), 비가열 조리(No Heat Cooking)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100288</learnModulSeq>
+<learnModulName>양식 샌드위치 조리</learnModulName>
+<learnModulText>핫 샌드위치, 콜드 샌드위치. 오픈 샌드위치, 클로즈드 샌드위치(closed sandwich), 핑거 샌드위 치, 롤 샌드위치, 빵(bread), 스프레드(spread), 속재료(filling), 가니쉬(garnish)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100289</learnModulSeq>
+<learnModulName>양식 사이드 디시 조리</learnModulName>
+<learnModulText>곡류, 서류, 두류, 채소류, 엽채류, 근채류, 인경채류, 과채류, 화채류, 파스타, 버섯류, 과일류, 감자요리, 조리방법, 조리도구, 스파이스, 사이드 디시, 플레이팅, 품질평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100290</learnModulSeq>
+<learnModulName>양식 디저트 조리</learnModulName>
+<learnModulText>콜드(Cold) 디저트, 핫(Hot) 디저트, 스페셜 디저트, 무스(Mousse), 젤리(Jelly), 바바루아(Bavarois), 핫 수플레(Hot souffle), 크레이프(Crepe), 크렘 브륄레(Creme brulee), 아이스크림(Ice cream), 셔벗 (Sherbet), 디저트 소스(Dessert sauce), 바닐라 소스(Vanilla sauce), 마카롱(Macaron), 이탈리안 머 랭(Italian meringue), 초콜릿(Chocolate), 크림(Cream)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100291</learnModulSeq>
+<learnModulName>연회 조리</learnModulName>
+<learnModulText>리셉션 메뉴, 연회용 뷔페 메뉴, 연회용 코스 메뉴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100292</learnModulSeq>
+<learnModulName>푸드 플레이팅</learnModulName>
+<learnModulText>푸드 플레이팅(Food plating), 점(Point), 선(Line), 면(Surface), 입체(Volume), 색(Color), 배치 밸런스 (Layout), 포커스 푸드(Focus food), 접시(Plate), 접시 틀(Plate frame), 접시 림(Plate Rim)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>양식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100293</learnModulSeq>
+<learnModulName>조리 외식 경영</learnModulName>
+<learnModulText>외식 산업(Food-service industry), 외식 영업의 3요소(QSC: Quality, Service, Cleanness), 패스트 푸드(Fast food), 패밀리 레스토랑(Family restaurant), 일반 전문 식당, 고급 전문 식당, 접객 서비 스, 카사바나와 스미스(Kasavana  Smith) 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200399</learnModulSeq>
+<learnModulName>중식 조리실무</learnModulName>
+<learnModulText>위생 관리, 안전 관리, 메뉴 관리, 구매 관리, 식재료 관리, 시설·설비, 중식 기초 기능, 세척·소독</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200400</learnModulSeq>
+<learnModulName>중식 절임·무침조리</learnModulName>
+<learnModulText>오이, 당근, 무, 자차이, 땅콩, 양배추, 식초, 팔각, 간장, 젓갈, 고추기름</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200401</learnModulSeq>
+<learnModulName>중식 육수·소스조리</learnModulName>
+<learnModulText>육류, 가금류, 향신료, 양념류, 가공 소스류, 재료 손질, 채소류, 조리 도구 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200403</learnModulSeq>
+<learnModulName>중식 냉채조리</learnModulName>
+<learnModulText>냉채, 육류, 해산물, 채소, 무치기, 장국물, 양념, 수정, 훈제, 기초 장식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200404</learnModulSeq>
+<learnModulName>중식 딤섬조리</learnModulName>
+<learnModulText>딤섬, 빚기, 익히기, 제품 완성, 재료 준비, 찌기, 삶기, 지지기, 튀기기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200407</learnModulSeq>
+<learnModulName>중식 수프·탕조리</learnModulName>
+<learnModulText>육류의 뼈, 생선의 뼈, 채소, 향신료, 샥스핀류, 제비집류, 게살류, 해산물류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200408</learnModulSeq>
+<learnModulName>중식 볶음조리</learnModulName>
+<learnModulText>중식, 볶음 요리, 볶음 재료, 준비하기, 조리하기, 완성하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200409</learnModulSeq>
+<learnModulName>중식 튀김조리</learnModulName>
+<learnModulText>전분, 밀가루, 튀김용 기름, 육류, 갑각류, 어패류, 두부류, 가금류, 달걀, 채소류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200411</learnModulSeq>
+<learnModulName>중식 찜조리</learnModulName>
+<learnModulText>찜 요리의 특성, 재료, 도구, 재료 손질, 찜기, 도구, 양념, 향신료, 그릇 선택, 장식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200412</learnModulSeq>
+<learnModulName>중식 조림조리</learnModulName>
+<learnModulText>조림, 재료 선정, 조림 도구, 조림 종류, 채소류, 향신료, 양념류, 생선류, 육류, 두부류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200415</learnModulSeq>
+<learnModulName>중식 구이조리</learnModulName>
+<learnModulText>북경오리구이, 바비큐, 꼬치구이, 애저구이, 차소육(叉燒肉), 돌판구이, 암로고(暗爐烤), 명로고(明爐烤), 자법(炙法)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200416</learnModulSeq>
+<learnModulName>중식 면조리</learnModulName>
+<learnModulText>밀가루, 소금, 식소다, 수타면, 기계면, 채소, 해산물, 육류, 육수, 면</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200418</learnModulSeq>
+<learnModulName>중식 밥조리</learnModulName>
+<learnModulText>중식, 밥, 볶음밥, 덮밥, 재료, 위생, 안전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200421</learnModulSeq>
+<learnModulName>중식 후식조리</learnModulName>
+<learnModulText>설탕, 과일, 시럽, 채소, 빠스(拔絲), 곡물, 찬 후식, 더운 후식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100275</learnModulSeq>
+<learnModulName>중식 위생 관리</learnModulName>
+<learnModulText>개인위생, 식자재, 시설물, 위생관리, 주방기구, 주방시설, 살균, 소독, 방충, 방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100276</learnModulSeq>
+<learnModulName>중식 안전 관리</learnModulName>
+<learnModulText>안전관리 점검표, 안전문화, 현장 안전관리, 안전대책, 안전관리 시스템, 산업재해, 안전보호장비, 구급품. 응급상황, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100277</learnModulSeq>
+<learnModulName>중식 메뉴 관리</learnModulName>
+<learnModulText>동기유발, 메뉴, 음식 디자인, 품질관리, 가격, 수익성, 평가기준, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100278</learnModulSeq>
+<learnModulName>중식 구매 관리</learnModulName>
+<learnModulText>시장조사, 구매관리, 검수관리, 생산계획, 재료 구매계획, 입출고관리, 재고관리, 선별, 검수절차, 거래명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100279</learnModulSeq>
+<learnModulName>중식 재료 관리</learnModulName>
+<learnModulText>식재료, 냉동, 냉장, 저장, 온도, 습도, 유통기한, 재고, 선입선출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100280</learnModulSeq>
+<learnModulName>중식 기초 조리 실무</learnModulName>
+<learnModulText>칼, 숫돌, 조리 도구, 안전 수칙, 식재료, 소도구, 조리 방법, 전처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>중식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100281</learnModulSeq>
+<learnModulName>중식 식품 조각</learnModulName>
+<learnModulText>푸드 카빙(food carving), 식품 조각, 채소 조각, 과일 조각, 접시 세팅, 푸드 스타일링, 데커레이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100295</learnModulSeq>
+<learnModulName>일식 조리실무</learnModulName>
+<learnModulText>개인위생, 식품 위생법, HACCP, 교차 오염, 사고 예방, 구매, 검수, 재고 관리, 식재료, 조리 용어, 조리 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100296</learnModulSeq>
+<learnModulName>일식 초회 및 무침조리</learnModulName>
+<learnModulText>초회, 무침, 건다시마, 폰즈, 가스오 부시(かつおぶし, 가다랑어를 건조시킨 것), 갑오징어 명란젓, 곤약, 야쿠미(やくみ), 도사스(양념 초간장)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100303</learnModulSeq>
+<learnModulName>일식 국물 및 냄비조리</learnModulName>
+<learnModulText>일번 다시, 이번 다시, 다시마 다시, 니보시 다시, 가다랑어포, 일본 된장, 도미, 나베, 스키야키, 어묵, 조개</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100306</learnModulSeq>
+<learnModulName>일식 조림조리</learnModulName>
+<learnModulText>도미조림, 대합 술찜, 도미, 대합, 다시 육수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100309</learnModulSeq>
+<learnModulName>일식 회조리</learnModulName>
+<learnModulText>아라이(담수로 씻기), 마스카와(살짝 데치기), 곤부지메(다시마 절임), 히라츠쿠리(평썰기), 이토키리(가늘게 썰기), 우스츠꾸리(얇게 썰기), 가쿠키리(각 썰기), 유비키츠꾸리(데쳐 썰기)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100311</learnModulSeq>
+<learnModulName>일식 구이조리</learnModulName>
+<learnModulText>고로모, 덴다시, 스아게, 고로모아게, 가라아게, 야쿠미, 덴가츠, 야쿠미, 아시라이</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100312</learnModulSeq>
+<learnModulName>일식 면류조리</learnModulName>
+<learnModulText>우동, 메밀국수, 튀김메밀국수·우동, 볶음메밀국수, 우동, 소면, 라멘, 맛국물, 부재료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100324</learnModulSeq>
+<learnModulName>일식 굳힘조리</learnModulName>
+<learnModulText>굳힘 요리, 젤라틴, 한천, 칡 전분(쿠즈코), 고마도후, 니코고리, 양갱, 묵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100336</learnModulSeq>
+<learnModulName>복어 선별관리</learnModulName>
+<learnModulText>복어 종류 및 특성, 복어 저장 관리 및 복어 선별, 복어 전처리, 토막칼(데바보초), 생선회칼(사시미보초), 채소용칼(우스바보초), 조리용칼, 조리도구 명칭 및 용도, 조리도구 위생 및 안전 관리, 조리도구 종류별 특성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100356</learnModulSeq>
+<learnModulName>복어 손질</learnModulName>
+<learnModulText>복어, 가식, 불가식, 복어 독, 테트로도톡신, 껍질, 독성 부위, 제독</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100367</learnModulSeq>
+<learnModulName>일식 초밥조리</learnModulName>
+<learnModulText>샤리(초밥), 아와세스(초밥용 초), 와사비(고추냉이), 데미즈(손을 적시는 물), 네타(초밥용 생선), 히카리모노(등 푸른 생선), 시로미(흰살 생선), 호소마키(얇게 만 김초밥), 후토마키(굵게 만 김초밥)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100368</learnModulSeq>
+<learnModulName>복어 부재료 손질, 양념장 준비 및 복어술 제조</learnModulName>
+<learnModulText>복어, 복떡, 초간장, 양념, 양념장, 다시마, 복어술, 지느러미, 히레사케, 시라코, 미자케, 정종</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100369</learnModulSeq>
+<learnModulName>복어 껍질 굳힘 및 초회조리</learnModulName>
+<learnModulText>昆布(こんぶ) 곤부(다시마), 薬味(やくみ) 야쿠미(양념), ポン酢(ぽんず) 폰즈(초간장), 皮にこごり(かわにこごり) 카와니코고리(복어 껍질 굳힘), 浅葱(あさつき) 아사츠키(실파), 流し缶(ながかん) 나가시캉(찜틀), 鰹節(かつおぶし)가스오 부시(조미용 가다랑어), ゼラチン(ぜらちん) 제라친(젤라틴), 河豚皮(ふぐかわ)후구가와(복어 껍질), 生姜(しょうが) 쇼우가(생강)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100370</learnModulSeq>
+<learnModulName>복어 회, 구이 및 튀김조리</learnModulName>
+<learnModulText>복어, 구이, 튀김, 사시미, 폰즈, 야쿠미, 식품 위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100371</learnModulSeq>
+<learnModulName>복어 찜조리</learnModulName>
+<learnModulText>복어, 술찜, 수육, 맛국물, 샤브샤브, 맑은탕, 냄비, 다시마, 식품위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100372</learnModulSeq>
+<learnModulName>복어 초밥 및 죽조리</learnModulName>
+<learnModulText>合せ酢(あわせず)아와세즈(혼합초, 초밥 식초, 배합초), ご飯(ごはん)고항(밥), 米(こめ)고메(쌀), もち米모찌고메(찹쌀), 鮨,鮒,寿司,鮨,鮓,酸模 (すし)스시(초밥) , 握り(にぎり)니기리(초밥), お粥,粥,花油(かゆ)오카유(죽), 増水,雑炊,雑炊(ぞうすい)조우스이(밥알의 형체가 보이는 죽), 煮出し汁(にだしじる)니다시지루(가다랑어포나 다시마 따위를 우려낸 맛국물), 針海苔(はりのり)하리노리(채 썬 김)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100428</learnModulSeq>
+<learnModulName>일식 찜 조리</learnModulName>
+<learnModulText>도미, 대합, 달걀, 술찜, 소스, 맛국물, 다시마, 식품 위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100429</learnModulSeq>
+<learnModulName>일식 튀김 조리</learnModulName>
+<learnModulText>고로모, 스아게, 고모로아게, 가라아게, 야꾸미</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100430</learnModulSeq>
+<learnModulName>일식 밥류조리</learnModulName>
+<learnModulText>쌀, 화력 조절, 맛국물, 오카유, 조우스이, 차밥[오챠즈게(おちゃずけ], 돈부리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100431</learnModulSeq>
+<learnModulName>일식 위생 관리</learnModulName>
+<learnModulText>개인위생, 식자재, 시설물, 위생관리, 주방기구, 주방시설, 살균, 소독, 방충, 방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100432</learnModulSeq>
+<learnModulName>일식 안전 관리</learnModulName>
+<learnModulText>안전관리 점검표, 안전문화, 현장 안전관리, 안전대책, 안전관리 시스템, 산업재해, 안전보호장 비, 구급품. 응급상황, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100433</learnModulSeq>
+<learnModulName>일식 메뉴 관리</learnModulName>
+<learnModulText>동기유발, 메뉴, 음식 디자인, 품질관리, 가격, 수익성, 평가기준, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100434</learnModulSeq>
+<learnModulName>일식 구매 관리</learnModulName>
+<learnModulText>시장조사, 구매관리, 검수관리, 생산계획, 재료 구매계획, 입출고관리, 재고관리, 선별, 검수절차, 거래명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100435</learnModulSeq>
+<learnModulName>일식 재료 관리</learnModulName>
+<learnModulText>식재료, 냉동, 냉장, 저장, 온도, 습도, 유통기한, 재고, 선입선출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100436</learnModulSeq>
+<learnModulName>일식 기초 조리 실무</learnModulName>
+<learnModulText>일식 기초 조리 실무, 기본 칼 기술, 기본 기능, 기본 조리 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100437</learnModulSeq>
+<learnModulName>일식 흰살생선 회조리</learnModulName>
+<learnModulText>쯔마, 갱, 오로시, 곤부지메, 스지메, 평썰기[히라즈쿠리(ひらずくり, 平作り)], 깎아썰기[소기즈쿠 리(そぎ作り)]</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100438</learnModulSeq>
+<learnModulName>일식 붉은살생선 회조리</learnModulName>
+<learnModulText>쯔마, 갱, 오로시, 스지메, 히라즈쿠리, 소기즈쿠리, 해동, 사후 경직</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100439</learnModulSeq>
+<learnModulName>일식 패류 회조리</learnModulName>
+<learnModulText>쯔마, 갱, 오로시, 곤부지메, 스지메, 사자나미기리, 스가타모리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100440</learnModulSeq>
+<learnModulName>일식 롤 초밥조리</learnModulName>
+<learnModulText>굵게 만 김초밥(후토마키), 김초밥(마키스시), 얇게 만 김초밥(호소마키), 참치김초밥(데카마키), 오이김초밥(갑파마키), 배합초(스시즈), 밥(고항), 참치(마구로), 박고지(간뾰), 생선오보로(오보로), 고추냉이(와사비), 생강(쇼가), 김(노리).</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200090</learnModulSeq>
+<learnModulName>일식 모둠 초밥조리</learnModulName>
+<learnModulText>참치(마구로), 도미(다이), 광어(히라메), 문어(다꼬), 새우(에비), 배합초(스시즈), 밥(고항), 고추냉 이(와사비), 생강(쇼가), 자소(시소).</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200092</learnModulSeq>
+<learnModulName>일식 알 초밥조리</learnModulName>
+<learnModulText>스시(초밥), 아와세스(배합초), 고추냉이(고추냉이), 군깡마끼(군함말이), 성게알, 연어알, 청어알, 날치알</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200094</learnModulSeq>
+<learnModulName>복어 위생 관리</learnModulName>
+<learnModulText>개인위생, 식자재, 시설물, 위생관리, 주방기구, 주방시설, 살균, 소독, 방충, 방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200097</learnModulSeq>
+<learnModulName>복어 안전 관리</learnModulName>
+<learnModulText>안전관리 점검표, 안전문화, 현장 안전관리, 안전대책, 안전관리 시스템, 산업재해, 안전보호장 비, 구급품. 응급상황, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200099</learnModulSeq>
+<learnModulName>복어 메뉴 관리</learnModulName>
+<learnModulText>동기유발, 메뉴, 음식 디자인, 품질관리, 가격, 수익성, 평가기준, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200101</learnModulSeq>
+<learnModulName>복어 구매 관리</learnModulName>
+<learnModulText>시장조사, 구매관리, 검수관리, 생산계획, 재료 구매계획, 입출고관리, 재고관리, 선별, 검수절차, 거래명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200102</learnModulSeq>
+<learnModulName>복어 재료 관리</learnModulName>
+<learnModulText>식재료, 냉동, 냉장, 저장, 온도, 습도, 유통기한, 재고, 선입선출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200103</learnModulSeq>
+<learnModulName>복어 기초 조리 실무</learnModulName>
+<learnModulText>복어, 테트로도톡신, 회칼[사시미보쵸(さしみぼうちょう)], 절단칼[데바보쵸(でばぼちょう)], 오로 시데바, 채소칼[우스바보쵸(うすばぼうちょう)], 폰즈, 야쿠미, 맛국물, 기본양념, 칼 연마, 숫돌</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200104</learnModulSeq>
+<learnModulName>복어 회 학모양조리</learnModulName>
+<learnModulText>복어, 테트로도톡신, 복어 껍질, 폰즈, 학 모양, 양념, 식품 위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200105</learnModulSeq>
+<learnModulName>복어 회 국화모양조리</learnModulName>
+<learnModulText>복어, 테트로도톡신, 복어 껍질, 폰즈, 국화모양, 야쿠미, 식품 위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200106</learnModulSeq>
+<learnModulName>복어 샤브샤브조리</learnModulName>
+<learnModulText>복어, 테트로도톡신, 복어 살, 복어 뼈, 샤브샤브, 부재료 손질, 양념 준비, 기물 선별, 식품 위생법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200107</learnModulSeq>
+<learnModulName>복어 맑은탕조리</learnModulName>
+<learnModulText>맛국물, 맑은탕(지리), 초간장(폰즈(ポン酢)), 야꾸미, 냄비(나베), 앞접시(개인접시, 도리사라)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>일식조리</ncsSubdCdnm>
+<learnModulSeq>EDU20190200108</learnModulSeq>
+<learnModulName>복어 구슬 초밥 조리</learnModulName>
+<learnModulText>테마리 스시, 샤리, 츠케지, 배합초</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>복어조리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100124</learnModulSeq>
+<learnModulName>일식 조리실무</learnModulName>
+<learnModulText>개인위생, 식품 위생법, HACCP, 교차 오염, 사고 예방, 구매, 검수, 재고 관리, 식재료, 조리 용어, 조리 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>복어조리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100125</learnModulSeq>
+<learnModulName>일식 회조리</learnModulName>
+<learnModulText>아라이(담수로 씻기), 마스카와(살짝 데치기), 곤부지메(다시마 절임), 히라츠쿠리(평썰기), 이토키리(가늘게 썰기), 우스츠꾸리(얇게 썰기), 가쿠키리(각 썰기), 유비키츠꾸리(데쳐 썰기)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>음식조리</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>복어조리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100126</learnModulSeq>
+<learnModulName>일식 초밥조리</learnModulName>
+<learnModulText>샤리(초밥), 아와세스(초밥용 초), 와사비(고추냉이), 데미즈(손을 적시는 물), 네타(초밥용 생선), 히카리모노(등 푸른 생선), 시로미(흰살 생선), 호소마키(얇게 만 김초밥), 후토마키(굵게 만 김초밥)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200052</learnModulSeq>
+<learnModulName>식음료 영업 준비</learnModulName>
+<learnModulText>메뉴, 집기 기물, 테이블 세팅, 예약현황, 린넨류, 재고 목록표, 회전율, 식자재 유통기한, 영업장 청결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200053</learnModulSeq>
+<learnModulName>식음료 영업장 예약 관리</learnModulName>
+<learnModulText>전화 예약 응대, 방문 예약 응대, 예약 장부 기록 , 고객 영접과 환송, 메뉴 설명하기, 식음료 추천하기, 추가판매(Up-selling)기법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200054</learnModulSeq>
+<learnModulName>환영 환송</learnModulName>
+<learnModulText>환영 환송 인사, 접객용어, 예약확인, 좌석배정, 좌석안내, 계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200055</learnModulSeq>
+<learnModulName>식음료 주문</learnModulName>
+<learnModulText>메뉴의 구성, 식음료 메뉴추천, 서비스 매뉴얼, 음식서비스의 형태, POS 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200056</learnModulSeq>
+<learnModulName>음료 서비스</learnModulName>
+<learnModulText>음료보관, 음료제공, 알콜성 음료, 비알콜성 음료, 와인 디캔팅, 미쟝 플라스(Mies-en-place), 고 객만족, 추가음료판매, 고객구매의사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200057</learnModulSeq>
+<learnModulName>음식 서비스</learnModulName>
+<learnModulText>서비스 매뉴얼, 미쟝 플라스(mies-en-place), 정식(table d’hote restaurant), 일품요리(a la carterestaurant), 플레이트 서비스(plate service), 프렌치 서비스(French service), 게리동 서비스,(gueridon service), 플래터 서비스(platter service), 고객테이블 응급조치, 고객 불평</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200058</learnModulSeq>
+<learnModulName>식음료 영업장 마감</learnModulName>
+<learnModulText>기물, 비품, 린넨(Linen), 영업보고서(Log book), 적정 재고량(Par stock), 영업장 매뉴얼(Manual), 재고장부(Inventory sheet), 안전수칙, 시설물 점검표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200059</learnModulSeq>
+<learnModulName>식음료 영업장 위생 안전 관리</learnModulName>
+<learnModulText>개인위생, 영업장위생, 시설위생, 안전관리, 응급상황, 공중위생, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200060</learnModulSeq>
+<learnModulName>식음료 고객 관리</learnModulName>
+<learnModulText>고객정보, 고객정보 분석, 고객의견 수렴, 영업 프로모션, 고객 불평 처리, 고객 관계 유지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>식음료접객</ncsSubdCdnm>
+<learnModulSeq>EDU20151200061</learnModulSeq>
+<learnModulName>식음료 영업장 관리</learnModulName>
+<learnModulText>근무일정, 업무분장, 직무교육, 근무평가, 트렌드 분석, 경쟁업계 분석, 매출 분석, 영업계획, 원 가관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700607</learnModulSeq>
+<learnModulName>와인 선정·구매</learnModulName>
+<learnModulText>와인 생산 국가별 와인 용어, 국가별 와인 생산 지역 명칭, 포도 품종 명칭, 와인 유형별 명칭, 숙성 도에 따른 와인 명칭, 국가별 와인 등급 명칭, 잔류 당도별 와인 명칭, 국가별 탄산 와인 명칭, 치즈 명칭, 국가별 음식 명칭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700612</learnModulSeq>
+<learnModulName>와인·와인셀러·와인장비 및 비품관리</learnModulName>
+<learnModulText>와인, 와인 셀러, 변질 와인, 와인 셀러 설치 및 관리, 재고 파악, 재고 조사표, 회전률, 와인 관리, 와인글라스, 와인 디캔터, 와인 비품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700614</learnModulSeq>
+<learnModulName>와인 추천·판매</learnModulName>
+<learnModulText>마리아주(Mariage), 고객 선호도, 와인 리스트, 와인 추천·판매, 와인 선호도, 지역에 따른 와인 추천·판매, 국가에 따른 와인 추천·판매, 음식특성에 따른 와인 추천·판매, 상황별 모임 특성에 따른 와인 추천·판매</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700616</learnModulSeq>
+<learnModulName>와인 서비스와 테이스팅</learnModulName>
+<learnModulText>소믈리에 복장, 와인 서비스 도구, 와인 서빙, 디캔팅(decanting), 와인 테이스팅, 나라별 와인 전문 용어, 와인 파지법, 와인 오픈 amp; 샴페인 오픈, 와인글라스 세팅(wine glass setting), 테이스팅 장비·비품, 와인의 외관, 와인 아로마와 부케, 와인의 강도와 밀도, 와인의 숙성 잠재력, 와인의 밸런스(balance)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700618</learnModulSeq>
+<learnModulName>포도품종과 양조방법에 따른 와인 분류</learnModulName>
+<learnModulText>화이트 와인 포도 품종, 레드 와인 포도 품종, 화이트 와인, 레드 와인, 로제 와인, 떼루아, 포도 재배, 발포성 와인, 주정 강화 와인, 스위트 와인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700619</learnModulSeq>
+<learnModulName>생산국가에 따른 와인 분류</learnModulName>
+<learnModulText>와인 생산 국가, 원산지 명칭, 와인 레이블, 품질 분류 시스템, 와인 등급, 생산 국가별 중요한 와인, 산지별 허가 포도 품종</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20150700620</learnModulSeq>
+<learnModulName>와인 영업장 경영</learnModulName>
+<learnModulText>고객 분석 관리, 업무 분장, 근무 스케줄 관리, 역량 강화, 연수, 판매 원가, 손익 분기점, 판매 가격, 매출액, 영업 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20190100456</learnModulSeq>
+<learnModulName>포도 품종·와인 양조 분류</learnModulName>
+<learnModulText>화이트 와인 포도 품종, 레드 와인 포도 품종, 화이트 와인, 레드 와인, 로제 와인, 떼루아, 발포성 와인, 주정 강화 와인, 스위트 와인, 주 발효, 후 발효, 아황산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20190100457</learnModulSeq>
+<learnModulName>구세계 국가 와인 분류</learnModulName>
+<learnModulText>AOC, AVA, 아이스 와인, VQA, 와인 라벨, 크리안자, 레제르바, 갈라시아 와인, 까딸로니아 와인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>소믈리에</ncsSubdCdnm>
+<learnModulSeq>EDU20190100458</learnModulSeq>
+<learnModulName>신세계 국가 와인 분류</learnModulName>
+<learnModulText>AVA, AOS, VQA, Reserve, Do, LIP, WO, WOS, 아이스 와인, 와인 라벨</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800188</learnModulSeq>
+<learnModulName>커피 매장 관리</learnModulName>
+<learnModulText>커피매장, 위생관리, 커피 기계/기구/기물, 포스시스템, 안전 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800189</learnModulSeq>
+<learnModulName>커피 원두 선택</learnModulName>
+<learnModulText>아라비카, 로부스타, 아라비카의 종류, 로부스타의 종류, 산지별 생두의 특징, 블렌딩, 로스팅의 정도, 향미, 향미 평가, CO₂, CO₂의 잔존량, 크레마, 에스프레소, 숙성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800190</learnModulSeq>
+<learnModulName>커피기계 운용</learnModulName>
+<learnModulText>전기, 물, 정수기, 펌프, 보일러, 그룹, 포터필터, 스팀 밸브, 세제, 급수, 배수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800191</learnModulSeq>
+<learnModulName>커피 그라인더 운용</learnModulName>
+<learnModulText>커피 그라인더의 구조, 분쇄 입자, 볶음 정도, 습도, 신선도, 탬핑, 그라인더, 호퍼, 도저, 자동 그라인더, 반자동 그라인더, 세척제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800192</learnModulSeq>
+<learnModulName>커피 추출</learnModulName>
+<learnModulText>에스프레소(espresso), 핸드드립(hand drip), 사이폰(siphon), 이브릭(ibrik), 더치(dutch), 칼리타(kalita), 메리타(melita), 고노(kono), 하리오(hario),포터필터, 페이퍼 필터, 융필터, 로드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800193</learnModulSeq>
+<learnModulName>커피음료 우유 스티밍</learnModulName>
+<learnModulText>스팀 피쳐(steam pitcher, steaming pitcher), 스팀 파이프(steam pipe), 스팀 완드(steam wand), 스팀 팁(steam tip), 스팀 노즐(steam nozzle), 스팀 밸브(steam valve), 스팀 노브(steam knob)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800194</learnModulSeq>
+<learnModulName>에스프레소 커피음료 제조</learnModulName>
+<learnModulText>에스프레소, 리스트레또, 룽고, 도피오, 크레마, 아메리카노, 카페 라떼, 카푸치노, 마끼아또, 라떼 아트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800211</learnModulSeq>
+<learnModulName>커피매장 고객 서비스</learnModulName>
+<learnModulText>고객맞이 인사, 음료 주문, 서빙, 정리정돈, 고객 불만 대응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150800212</learnModulSeq>
+<learnModulName>커피매장 경영</learnModulName>
+<learnModulText>재고 관리 대장철 작성, 발주, 바리스타 스케줄, 직원 채용 관리, 매출 일보, 영업 일지, 판매 수익 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300141</learnModulSeq>
+<learnModulName>에스프레소 커피음료 제조</learnModulName>
+<learnModulText>에스프레소, 리스트레또, 룽고, 도피오, 시럽, 소스, 파우더, 휘핑크림, 다양한 기구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20190300142</learnModulSeq>
+<learnModulName>라떼아트</learnModulName>
+<learnModulText>에스프레소, 리스트레또, 룽고, 도피오, 크레마, 아메리카노, 카페라떼, 카푸치노, 마끼아또</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100420</learnModulSeq>
+<learnModulName>커피매장 영업관리</learnModulName>
+<learnModulText>커피매장, 위생 관리, 커피 기계/기구/기물, 포스시스템, 안전 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100421</learnModulSeq>
+<learnModulName>커피기계운용</learnModulName>
+<learnModulText>에스프레소 머신((Espresso Machine) 운용하기, 커피 그라인더(Coffee Grinder) 운용하기, 소모품, 추출온도, 추출압력, 분쇄 굵기, 교체주기, 세척</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100422</learnModulSeq>
+<learnModulName>에스프레소 음료제조</learnModulName>
+<learnModulText>에스프레소(espresso), 핸드드립(hand drip), 사이폰(siphon), 이브릭(ibrik), 더치(dutch), 칼리타(kalita), 메리타(melita), 고노(kono), 하리오(hario), 포터필터(porter filter)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100423</learnModulSeq>
+<learnModulName>커피추출운용</learnModulName>
+<learnModulText>여과식, 침지식, 핸드 드립(hand drip), 케멕스(chemex), 더치 커피(dutch coffee), 사이폰(syphon), 터키식(turkish coffee), 프렌치 프레스(french press)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100424</learnModulSeq>
+<learnModulName>커피음료제조</learnModulName>
+<learnModulText>스팀 피처(steam pitcher, steaming pitcher), 스팀 막대(steam pipe), 스팀 완드(steam wand), 스팀 팁(steam tip), 스팀 노즐(steam nozzle), 스팀 밸브(steam valve), 스팀 노브(steam knob)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100425</learnModulSeq>
+<learnModulName>커피매장 운영</learnModulName>
+<learnModulText>재고 관리 대장철 작성, 발주, 바리스타 스케줄, 직원 채용 관리, 매출 일보, 영업 일지, 판매 수익 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100426</learnModulSeq>
+<learnModulName>라떼아트</learnModulName>
+<learnModulText>에스프레소(Espresso), 우유 스티밍(steaming), 라떼아트(latte art), 푸어링(pouring), 에칭(etching), 스텐실(stencil)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100427</learnModulSeq>
+<learnModulName>커피 생두 선택</learnModulName>
+<learnModulText>생두 품종별 분류, 원산지 분류, 가공별 분류, 건조 방식, 수분 함량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100428</learnModulSeq>
+<learnModulName>커피로스팅</learnModulName>
+<learnModulText>전도열(conduction), 대류열(convection), 복사열(radiation), 로스팅 단계(roasting degree), 로스팅 프로파일(roasting profile), 로스팅 기계(roasting machine), 고온 단시간(HTST, high temperature short time), 저온 장시간(LTLT, low temperature long time)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100429</learnModulSeq>
+<learnModulName>커피블렌딩</learnModulName>
+<learnModulText>커피 품종, 가공 처리 방식, 블렌딩(blending) 방법, 로스팅(roasting), 프로파일(profile), 로스팅(roasting)기계, 열원 종류, 배기, 사이클론(cyclone), 에스프레소 블렌딩(espresso blending)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100431</learnModulSeq>
+<learnModulName>커피테이스팅</learnModulName>
+<learnModulText>커피 추출, 로스팅(roasting), 에스프레소(espresso), 커피 향미(coffee flavor), 커핑(cupping)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>커피관리</ncsSubdCdnm>
+<learnModulSeq>EDU20200100432</learnModulSeq>
+<learnModulName>커피기계수리</learnModulName>
+<learnModulText>커피머신 고장증세, 커피머신 부품명칭, 커피머신분해, 커피머신분해순서, 커피머신 분해 시 주의사항, 커피머신고장증세 테스팅, 커피머신마무리청소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20150700541</learnModulSeq>
+<learnModulName>음료 특성 분석</learnModulName>
+<learnModulText>음료, 비알코올성 음료, 알코올성 음료, 발효주, 증류주, 혼성주, 테이스팅, 칵테일, 홈메이드 음료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20150700546</learnModulSeq>
+<learnModulName>메뉴 개발</learnModulName>
+<learnModulText>메뉴 개발, 기획 메뉴 개발, 주문형 메뉴 개발, 메뉴 엔지니어링, 음료 표준 레시피</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20150700547</learnModulSeq>
+<learnModulName>바(bar) 마케팅</learnModulName>
+<learnModulText>음료 소비 성향, 음료 트렌드, 바의 유형, 메뉴 분석, 메뉴 엔지니어링, 판촉 홍보물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20150700548</learnModulSeq>
+<learnModulName>바(bar) 운영</learnModulName>
+<learnModulText>바(bar) 조직, 직무, 직무평가, 원가 관리, 대차 대조표, 손익 계산서, 손익 분기점, POS 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20190100529</learnModulSeq>
+<learnModulName>위생∙음료영업장 관리</learnModulName>
+<learnModulText>개인 위생, 기물 위생, 음료 영업장 위생, 식품위생법, 위해요소 중점 관리기준(HACCP), 위생 관 리 기준서, 안전 수칙, 파스탁(Par Stock), 인벤토리(Inventory), 선입선출(FIFO)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20190100530</learnModulSeq>
+<learnModulName>고객 서비스</learnModulName>
+<learnModulText>서비스, 고객 서비스, 고객 응대, 주문 서비스, 편익 제공, 시설 관리, 칵테일 조주, 의사소통 (communication), 비즈니스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20190100531</learnModulSeq>
+<learnModulName>칵테일 기법 활용</learnModulName>
+<learnModulText>칵테일(cocktail), 레시피(recipe), 빌딩(building), 스터링(stirring), 셰이킹(shaking), 플로팅(floating), 블 랜딩(blending), 머들링(muddling)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>바텐더</ncsSubdCdnm>
+<learnModulSeq>EDU20190100532</learnModulSeq>
+<learnModulName>칵테일 조주</learnModulName>
+<learnModulText>칵테일(cocktail), 레시피(recipe), 빌딩(building), 스터링(stirring), 셰이킹(shaking), 플로팅(floating), 블랜딩(blending),머들링(muddling)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200325</learnModulSeq>
+<learnModulName>식공간 메뉴 기획</learnModulName>
+<learnModulText>식공간, 메뉴 기획, 메뉴 선정, 메뉴 브랜드, 메뉴 매뉴얼, 메뉴 플레이팅, 메뉴 평가, 메뉴 가치 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200866</learnModulSeq>
+<learnModulName>세계 식문화 조사</learnModulName>
+<learnModulText>식문화, 음식문화, 식재료, 식사도구, 식기, 향신료, 테이블 매너</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200870</learnModulSeq>
+<learnModulName>푸드스타일링</learnModulName>
+<learnModulText>푸드스타일링, 콘셉트 도출, 이미지화, 식재료 준비, 조리도구 준비, 소품 준비, 조리법 정리, 그릇 담기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200879</learnModulSeq>
+<learnModulName>동양 테이블 코디네이트</learnModulName>
+<learnModulText>한식기, 한식 상차림, 중식기, 중식 상차림, 일식기, 일식 상차림, 에스닉, 수저, 장식물, 리넨</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200880</learnModulSeq>
+<learnModulName>서양 테이블 코디네이트</learnModulName>
+<learnModulText>디너웨어, 커트러리, 글라스웨어, 리넨, 센터피스, 휴먼 스케일, 개인 식공간, 공유 식공간, 테이블 탑의 기본요소, 테이블 탑의 부가요소, 테이블 세팅, 스타일</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200881</learnModulSeq>
+<learnModulName>식공간 장식물 연출</learnModulName>
+<learnModulText>식공간 장식물, 센터피스, 피규어, 어태치먼트, 테이블 플라워, 테이블 플라워 어레인지먼트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200882</learnModulSeq>
+<learnModulName>파티 식공간 연출</learnModulName>
+<learnModulText>파티 식공간, 파티 주제, 기획서 작성, 프레젠테이션, 케이터링, 케이터링 메뉴, 핑거푸드, 뷔페, 코스요리, 한상차림</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200883</learnModulSeq>
+<learnModulName>식문화 콘텐츠 기획</learnModulName>
+<learnModulText>식문화, 콘텐츠, 기획, 기획서, 프레젠테이션, 결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>식음료서비스</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>식공간연출</ncsSubdCdnm>
+<learnModulSeq>EDU20171200884</learnModulSeq>
+<learnModulName>음식사진 촬영</learnModulName>
+<learnModulText>음식사진 앵글, 시각적 포인트, 음식사진 렌즈, 노출, 화이트밸런스, 조명, 조형성, 시즐</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200818</learnModulSeq>
+<learnModulName>외식 고객 서비스 관리</learnModulName>
+<learnModulText>매장 응대 기준표, 서비스 수준, 서비스 품질, 서비스 품질 요소, 서비스 정의, 서비스 중요성, 서비스 순서, 서비스 흐름도, 서비스 교육, 고객 유지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200819</learnModulSeq>
+<learnModulName>식자재 관리</learnModulName>
+<learnModulText>식자재, 재고 관리, 실재고, 발주, 검수, 입・출고, 저장 관리, 사용 관리, 선입선출, 식자재 저장고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200821</learnModulSeq>
+<learnModulName>메뉴 품질 관리</learnModulName>
+<learnModulText>동기유발, 메뉴, 음식 디자인, 품질 관리, 가격, 수익성, 평가 기준, 시간대별, 품목별, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200823</learnModulSeq>
+<learnModulName>매장 시간대별 업무 관리</learnModulName>
+<learnModulText>제시 영업 준비, 영업 중, 영업 마감, 오픈, 작업 순서, 설비 확인, 체크리스트, 적정 인원, 의사소통, 장비 조작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200824</learnModulSeq>
+<learnModulName>매장 인력 관리</learnModulName>
+<learnModulText>전환, 배치, 승진, 퇴직, 인력 운영 계획, 사내 모집, 사외 모집, 인력 채용, 채용 선발, 인성적성 검사, 면접</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200826</learnModulSeq>
+<learnModulName>매장 교육 관리</learnModulName>
+<learnModulText>매장 교육 계획, 교육 프로그램, 교육 자료, 교육 내용, 교육 평가, 교육 만족도, 교육 평가 개선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200828</learnModulSeq>
+<learnModulName>매장 위생 관리</learnModulName>
+<learnModulText>개인 위생, 식자재, 시설물, 위생 관리, 주방 기구, 주방 시설, 살균, 소독, 방충, 방서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200830</learnModulSeq>
+<learnModulName>매장 안전 관리</learnModulName>
+<learnModulText>안전 관리 점검표, 안전 문화, 현장 안전 관리, 안전 대책, 안전 관리 시스템, 산업 재해, 안전 보호 장비, 구급품, 응급 상황, 응급 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200832</learnModulSeq>
+<learnModulName>매장 마케팅 관리</learnModulName>
+<learnModulText>마케팅 환경, 상권, 고객 니즈, 경쟁 우위, 상권 분석, SWOT 분석, 목표 설정, 객단가, 브랜드 이미지, 감성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>13</ncsLclasCd>
+<ncsLclasCdnm>음식서비스</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>식음료조리·서비스</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>외식경영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>외식운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200835</learnModulSeq>
+<learnModulName>매장 손익 관리</learnModulName>
+<learnModulText>손익 관리, 손익계산서, 매출 분석, 객단가, 회전율, 원가 관리, 표준 원가, 로스, 기타 비용, 인력 구성</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>188</totCnt>
+</dataInfo>
+</root>

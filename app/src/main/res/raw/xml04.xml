@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200637</learnModulSeq>
+<learnModulName>평생교육 상황분석</learnModulName>
+<learnModulText>평생교육 프로그램, 상황분석, 운영기관, 경영현황, 운영현황, 사전조사, 잠재적 학습자, 잠재적학습자군, 결과보고, 효과분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200640</learnModulSeq>
+<learnModulName>평생교육 요구분석</learnModulName>
+<learnModulText>요구조사, 요구조사 기획, 요구조사도구 개발, 요구조사 결과 분석, 요구조사 결과보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200644</learnModulSeq>
+<learnModulName>평생교육 자원조사</learnModulName>
+<learnModulText>프로그램 운영, 현장관리, 학습 환경, 학습자 안전관리, 행사운영, 행사지원, 강사지원, 학습자 지원, 안점검검목록</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200647</learnModulSeq>
+<learnModulName>평생교육 프로그램설계</learnModulName>
+<learnModulText>프로그램 설계/교육목표 설정/교육내용 구성/교수·학습 방법 선정/교수매체 선정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200650</learnModulSeq>
+<learnModulName>평생교육 교수학습자료개발</learnModulName>
+<learnModulText>교재, 교수·학습 지도안, 목차, 교수·학습 보조자료, 활용 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200691</learnModulSeq>
+<learnModulName>기관 프로그램 통합관리</learnModulName>
+<learnModulText>프로그램 통합관리, 프로그램 목록, 프로그램 분류, 프로그램 운영, 프로그램 모니터링, 프로그램 개편</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200694</learnModulSeq>
+<learnModulName>평생교육 프로그램 평가</learnModulName>
+<learnModulText>프로그램 평가, 평가계획 수립, 평가도구 개발, 평가담당자 교육, 프로그램 운영과정 평가, 프로그램 운영결과 평가, 평가결과 분석, 평가결과 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 기획·개발·평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161200699</learnModulSeq>
+<learnModulName>평생학습 결과인정</learnModulName>
+<learnModulText>학습계좌제, 학점은행제, 독학학위제, 검정고시, 초·중등학력 인정, 평가인정, 표준교육과정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200652</learnModulSeq>
+<learnModulName>평생교육프로그램 홍보</learnModulName>
+<learnModulText>홍보 방법, 홍보물 제작, 홍보 매체 자원 협의, 홍보 관련 법률 이해, 홍보 계획 수립, 홍보 실시, 홍보 평가 도구 개발, 홍보 효과성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200655</learnModulSeq>
+<learnModulName>평생학습설계</learnModulName>
+<learnModulText>평생학습 설계, 성인 학습자, 학습 이력, 평생학습 상담, 학습 생애 경로, 직업 진로, 학습 촉진 요인, 학습 장애 요인, 개인 정보 보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200656</learnModulSeq>
+<learnModulName>평생교육 인적자원 관리</learnModulName>
+<learnModulText>학습자 관리하기, 교강사 관리하기, 자원봉사자 관리하기, 인력풀, 강사 평가, 강의 평가, 재참여, 선발, 운영 관리, DB 구축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200658</learnModulSeq>
+<learnModulName>평생교육 실무행정</learnModulName>
+<learnModulText>문서 작성, 문서 관리, 문서 수·발신, 제증명 관리, 회계 처리, 부서 예산 관리, 경비 지출, 경비정산, 평생교육정보망 지원, 홈페이지 운영</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200659</learnModulSeq>
+<learnModulName>평생교육 교수업무 실행</learnModulName>
+<learnModulText>교수계획서, 교육 매체, 수업 자료, 학습 도구, 동기 부여, 교수 활동, 강의 실행, 학습성취도 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200660</learnModulSeq>
+<learnModulName>학습동아리 운영</learnModulName>
+<learnModulText>학습동아리 조직, 학습동아리 유형, 학습동아리 지원, 학습동아리 컨설팅, 학습동아리 사례 분석, 학습동아리 성과 확인, 학습동아리 효과성 측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200661</learnModulSeq>
+<learnModulName>평생교육 조직운영</learnModulName>
+<learnModulText>조직 진단, 학습 조직, 구성원 역량, 조직 구조, 조직 역량, 조직 직무, 조직 내 갈등, 직무 분석, 직무 기술서, 직무 명세서, 성과 관리와 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200662</learnModulSeq>
+<learnModulName>프로그램 현장관리</learnModulName>
+<learnModulText>프로그램 운영, 현장관리, 학습환경, 학습자 안전관리, 행사운영, 행사지원, 강사지원, 학습자 지원, 안점검검목록</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200663</learnModulSeq>
+<learnModulName>평생교육 네트워크 관리</learnModulName>
+<learnModulText>평생교육 네트워크, 기관·단체 현황 파악, 교육 자원 분석, 네트워크 계획 수립, 자원 연계, 네트워크 운영, 네트워크 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>평생교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>평생교육운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평생교육프로그램 운영·상담·교수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200664</learnModulSeq>
+<learnModulName>평생교육 현장실습관리</learnModulName>
+<learnModulText>평생교육 현장실습, 현장실습 운영 협약, 실습 프로그램, 실습 결과 평가, 실습 평가서, 평생교육사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200430</learnModulSeq>
+<learnModulName>경력지도 계획수립</learnModulName>
+<learnModulText>경력지도, 경력지도 필요성, 고객요구사항 추출, 경력지도 절차 수립, 경력지도 일정계획, 소요시간 산정, 소요경비 산출, 경력지도 계획서 작성, 이해관계자 공유</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200431</learnModulSeq>
+<learnModulName>경력지도 관련정보 수집</learnModulName>
+<learnModulText>경력지도, 직업 환경 정보, 산업, 조직, 전문성, 직무, 개인 특성, 정보수집, 정보수집, 정보수집, 개인정보보호법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200432</learnModulSeq>
+<learnModulName>개인보유역량 분석</learnModulName>
+<learnModulText>개인보유역량, 성인용 직업적성검사, MBTI(Myers-Briggs type indicator), SII(Strong interest inventory), 경력 닻(career anchor), 도식 평정척도법(graphic rating scale method), 행위관찰척도법(BOS: behavioral observation scales), 목표관리법(MBO: management by objectives), 행위기준 평정척도법(BARS: behaviorally -anchored rating scale)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200433</learnModulSeq>
+<learnModulName>직업요구역량 분석</learnModulName>
+<learnModulText>직업요구역량, 역량진단, 직무분석, 역량모델링, 경력분석, 직무프로파일, 역량프로파일, 직업요구역량 핵심요소, 진단결과보고서, 국가직무능력표준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200434</learnModulSeq>
+<learnModulName>경력지도 설계 및 방법결정</learnModulName>
+<learnModulText>경력지도, 성과기준, 목표수립, 경력개발활동계획서, 경력지도 기법, 경력상담, 코칭, 멘토링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200435</learnModulSeq>
+<learnModulName>경력지도 활동수행 및 모니터링</learnModulName>
+<learnModulText>경력지도 활동, 경력지도 활동 계획, 경력지도 활동 수행, 경력지도 활동 과정 공유, 경력지도 모니터링, 경력지도 모니터링 공유, 경력지도 활동 피드백, 경력개발 활동 계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200436</learnModulSeq>
+<learnModulName>경력지도 결과보고서 작성</learnModulName>
+<learnModulText>경력지도 결과, 경력지도 결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200437</learnModulSeq>
+<learnModulName>경력지도 사후관리</learnModulName>
+<learnModulText>경력지도 사후관리, 경력지도 결과보고서, 경력지도시스템, 사후관리 평가대상과 범위, 사후관리 방향설정, 사후관리 문제점 도출, 사후관리 개선안 확정, 이해관계자 범위, 보고서 공유하기, 피드백 및 수정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경력지도</ncsSubdCdnm>
+<learnModulSeq>EDU20161200438</learnModulSeq>
+<learnModulName>경력지도 매뉴얼 관리</learnModulName>
+<learnModulText>경력지도, 경력지도 매뉴얼, 경력지도 항목, 매뉴얼 작성, 매뉴얼 평가, 매뉴얼 수정, 매뉴얼 활용, 매뉴얼 유지관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200422</learnModulSeq>
+<learnModulName>인재개발전략 수립</learnModulName>
+<learnModulText>인재개발전략 필요점 분석, 인재개발 방향성 설정, 중장기 인재개발 전략수립, 연도별 인재개발 추진계획 수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200423</learnModulSeq>
+<learnModulName>교육체계 수립</learnModulName>
+<learnModulText>교육체계, 역량, 역량차이, 교육방침, 교육목표, 교육과제, 교육업무과제, 교육체계도, 중장기 교육체계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200424</learnModulSeq>
+<learnModulName>교육과정 개발</learnModulName>
+<learnModulText>교육계획수립, 조사도구, 교육과정 설계, 교재개발, 평가도구, 과정수정 및 보완</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200425</learnModulSeq>
+<learnModulName>교육과정 운영</learnModulName>
+<learnModulText>교육과정운영계획, 교육과정준비, 교육과정진행, 결과보고서작성, SPOT, 모니터링, 교육과정홍보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200426</learnModulSeq>
+<learnModulName>교수활동 수행</learnModulName>
+<learnModulText>교수활동전략, 교수계획서작성, 교안작성, 학습자료개발, 교육내용 구조화, 교수활동 결과 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200427</learnModulSeq>
+<learnModulName>교육성과 평가</learnModulName>
+<learnModulText>교육성과 평가지표, 측정방법, 측정 도구 특성, 측정 도구 검증, 측정활동 계획 수립, 측정 결과, 교육성과 결과 작성, 교육기획에 반영</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200428</learnModulSeq>
+<learnModulName>교육 사후관리</learnModulName>
+<learnModulText>사후관리, 현업적용, 성과향상, 조직개발, 모니터링, 코칭, 워크숍, 성과측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업교육</ncsSubdCdnm>
+<learnModulSeq>EDU20161200429</learnModulSeq>
+<learnModulName>교육행정</learnModulName>
+<learnModulText>교육환경분석, 학습관리시스템, 학습자학습이력, 교수자원, 교육물적자원, 교육행정활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202964</learnModulSeq>
+<learnModulName>직무분석 목적 설정</learnModulName>
+<learnModulText>직무분석, 직무설계, 직무기술서, 직무명세서, 직무평가, 과업기반, 역량기반 직무분석, 직무순환, 직무확대, 직무충실, 직무공유</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202965</learnModulSeq>
+<learnModulName>직무분석 실행방식 수립</learnModulName>
+<learnModulText>조사 분석 방식, 직무조사, 직무분석, 직무역량, 정성조사, 정량조사, 조사 분석 목표, 직무분석로드맵, 직무핵심가치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202966</learnModulSeq>
+<learnModulName>직무분석 운영기획</learnModulName>
+<learnModulText>직무분석 예산수립, 비목별 예산 구성, 직무분석 전문가 선정, 회의 진행자 선정, 회의계획, 회의 일정 조정, 회의 공간 확보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202967</learnModulSeq>
+<learnModulName>직무분석 자료 수집</learnModulName>
+<learnModulText>직무분석, 직무분석기법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202968</learnModulSeq>
+<learnModulName>직무분류체계 설정</learnModulName>
+<learnModulText>직무중심 인사관리, 직무분류체계, 직군분류, 직무위계, 직무가치, 직무평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202969</learnModulSeq>
+<learnModulName>직무분석 실행</learnModulName>
+<learnModulText>직무분석, DACUM, CBC, FA, 직무모형, KSA, 워크숍, 퍼실리테이터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202970</learnModulSeq>
+<learnModulName>직무분석 결과 조정</learnModulName>
+<learnModulText>직무위계, 직무분류, 직무분석 수정, 사내자료 활용, 산업 군 실태자료, 벤치마킹 자료, 직무분석, 직무 역량, 직무평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202971</learnModulSeq>
+<learnModulName>직무분석 결과 정리</learnModulName>
+<learnModulText>사내자료, 산업 군 실태자료, 벤치마킹 자료, 직무기술서, 활용계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202972</learnModulSeq>
+<learnModulName>직무분석 결과 적용</learnModulName>
+<learnModulText>직무중심 인사관리, 직무분류체계, 직군분류, 직무위계, 직무가치, 직무평가, 결과활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>직업교육</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>직무분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202973</learnModulSeq>
+<learnModulName>직무분석 행정</learnModulName>
+<learnModulText>회의운영 계획, 회의물품, 장비, 회의 운영 규정, 회의 장소, 문서관리 규정, 회의실 배치도, 체크리스트, 회의 자료 준비, 회의 일정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201090</learnModulSeq>
+<learnModulName>이러닝 시스템 제안</learnModulName>
+<learnModulText>시장환경 분석, SWOT 분석, 사업타당성 분석,이러닝 시스템 학습자모드, 이러닝 시스템 관리자모드, 소프트웨어 기술자 노임단가, 견적서,이러닝 시스템 제안서, 제안서 템플릿, 사업계획서, 영업로드맵, 재무제표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201092</learnModulSeq>
+<learnModulName>이러닝 시스템 프로젝트 관리</learnModulName>
+<learnModulText>프로젝트 관리 계획서, 이해 관계자, 요구사항 리스트, 프로젝트 관리 계획서, 작업분류체계, 프로젝트 구매 관리 계획서, 프로젝트 자원 관리계획서, 프로젝트 비용 관리 계획서, 프로젝트 위험 관리 계획서, 프로젝트 관리계획서, 프로젝트 성과, 성과 메트릭스, 우선순위 메트릭스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201093</learnModulSeq>
+<learnModulName>이러닝 시스템 분석</learnModulName>
+<learnModulText>기능적 요구사항, 데이터 모델, 데이터흐름 처리모델, 프로세스 모델, 비기능적 요구사항, 프로덕트 요구사항, 프로세스 요구사항, 외부요구사항, 요구사항 명세서(SRS, Software Requirement Specification), 유즈케이스(Usecase)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201094</learnModulSeq>
+<learnModulName>이러닝 시스템 디자인</learnModulName>
+<learnModulText>학습관리시스템(LMS), 정보설계, 조직화, 네비게이션 시스템, 레이블링시스템, 기능정의서, 플로우 차트(Flow Chart), 스토리보드(Story Board), 화면설계서, 디자인 시안, 스타일가이드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201096</learnModulSeq>
+<learnModulName>이러닝 시스템 설계</learnModulName>
+<learnModulText>개체(엔티티, Entity), 관계(Relationship), 식별자 (UID, Unique Id, Identifier), 속성 (Attribute), 카디날리티(Degree/Cardinality), E-R 다이어그램(Entity-Relationship Diagram)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201098</learnModulSeq>
+<learnModulName>이러닝 시스템 구현</learnModulName>
+<learnModulText>프레임워크, 데이터베이스, 코딩, 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201101</learnModulSeq>
+<learnModulName>이러닝 시스템 테스트</learnModulName>
+<learnModulText>테스트 절차, 테스트 시나리오, 테스트 케이스, 통합 테스트, 시스템 테스트, 고객승인 테스트, 시스템 결함, 시정조치, 시스템 테스트 설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201102</learnModulSeq>
+<learnModulName>이러닝 시스템 시범운영</learnModulName>
+<learnModulText>시범운영, 사용자 만족도, 시스템 품질, 결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201103</learnModulSeq>
+<learnModulName>이러닝 시스템 이전</learnModulName>
+<learnModulText>이러닝 시스템 교육계획 수립, 이러닝 시스템 교육 자료 작성, 이러닝 시스템 사용자 교육, 이러닝 시스템 사용매뉴얼, 이러닝 시스템 이전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>이러닝시스템개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201104</learnModulSeq>
+<learnModulName>이러닝 시스템 유지관리</learnModulName>
+<learnModulText>시스템 장애 진단, 장애 처리, 시스템 개선, 장애 대응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200746</learnModulSeq>
+<learnModulName>콘텐츠 개발 목적 분석</learnModulName>
+<learnModulText>요구명세서, 인프라, 탑재 시스템, 서비스 목적, 제안요청서(RFP), 개발형태, 서비스 유형, 개발자원, 개발 프로세스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200748</learnModulSeq>
+<learnModulName>콘텐츠 설계 전략 분석</learnModulName>
+<learnModulText>스토리보드, 콘텐츠 구조, 학습흐름도, 멀티미디어, 학습도구, 인터페이스, 화면 프레임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200750</learnModulSeq>
+<learnModulName>학습자 시스템 환경 분석</learnModulName>
+<learnModulText>학습기기, 접근성, 스크린 리더, 학습관리시스템, 학습콘텐츠 관리시스템, LMS, LCMS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200753</learnModulSeq>
+<learnModulName>콘텐츠 개발 환경 분석</learnModulName>
+<learnModulText>하드웨어 환경 분석, 웹 서버, 미디어 서버, 접근성, 운영서버, 웹 언어, 소프트웨어 라이선스, 저작권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200757</learnModulSeq>
+<learnModulName>콘텐츠 개발 전략 수립</learnModulName>
+<learnModulText>콘텐츠 개발 방법, 저작권, 디자인 콘셉트, 콘텐츠 확장성, 콘텐츠 개발자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200758</learnModulSeq>
+<learnModulName>프로토타입 개발</learnModulName>
+<learnModulText>UI, UX, 디자인 전략, 미디어, 사용성 평가, 프로토타입</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200759</learnModulSeq>
+<learnModulName>단위 미디어 개발</learnModulName>
+<learnModulText>스토리보드 구현, 페이지별 디자인 요소 구현, 동영상 촬영, 동영상 편집, 캐릭터 디자인, 배경 디자인, 모션 개발, 사운드 편집, 내레이션 녹음, 내레이션 편집</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200760</learnModulSeq>
+<learnModulName>프로그래밍 통합개발 및 콘텐츠 포팅</learnModulName>
+<learnModulText>프로그래밍 언어, 학습관리시스템(LMS), 학습콘텐츠관리시스템(LCMS), 메타데이터, 패키징, 포팅, 산출물 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200761</learnModulSeq>
+<learnModulName>콘텐츠 품질관리</learnModulName>
+<learnModulText>품질관리, 품질관리 계획, 자원 품질관리, 지원기능 구현, 학습기능, 내용 품질 평가, 산출물 관리, 저작권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>이러닝콘텐츠개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200762</learnModulSeq>
+<learnModulName>콘텐츠개발 유지관리</learnModulName>
+<learnModulText>유지보수, 유지관리, 장애 유형, 장애 해결 관리, 장애 대응 매뉴얼, 장애 처리 프로세스, 모의훈련, 모니터링, 모니터링 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200728</learnModulSeq>
+<learnModulName>이러닝 과정 운영기획</learnModulName>
+<learnModulText>이러닝 운영기획, 운영요구 분석, 운영제도 분석, 운영계획 수립, 이러닝 운영계획서, 학습자 분석, 일정계획 수립, 홍보계획 수립, 평가전략 수립, 운영전략 수립, 이러닝 법제도 유형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200729</learnModulSeq>
+<learnModulName>이러닝 과정 운영준비</learnModulName>
+<learnModulText>학습 사이트, 멀티미디어 기기, 콘텐츠, 교육과정, 학사일정, 교․강사, 학습자, 수강신청, 협업부서, 감독기관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200730</learnModulSeq>
+<learnModulName>이러닝 과정 학사관리</learnModulName>
+<learnModulText>학습자, 학습자 정보, 학습관리시스템(LMS), 수강 신청 오류, 개인정보보호, 공문서 기안, 학습자 이의신청, 평가계획서, 운영계획서, 수료기준, 수료증</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200731</learnModulSeq>
+<learnModulName>이러닝 과정 교․강사 활동지원</learnModulName>
+<learnModulText>과정 운영전략, 과정 운영계획서, 교․강사 자격요건, 교․강사 선정, 교․강사 역할, 교․강사 활동 독려, 교․강사 수행활동, 교․강사 근태관리, 교․강사 불편사항, 교․강사 수행활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200732</learnModulSeq>
+<learnModulName>이러닝 과정 학습활동지원</learnModulName>
+<learnModulText>학습자, 학습환경, 학습절차, 학습촉진, 학습진도, 학습소통, 학습과정, 상호작용, 원격지원, 수강오류, 학습관리시스템(LMS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200733</learnModulSeq>
+<learnModulName>이러닝 과정 고객지원</learnModulName>
+<learnModulText>고객 유형, 고객 문제, 고객 분석, 콜센터, 고객 요구사항, 게시판 특성, 고객 요구사항, 고객 유형별 응대방법, 고객 채널 유형, 고객 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200734</learnModulSeq>
+<learnModulName>이러닝 과정 평가관리</learnModulName>
+<learnModulText>괴정만족도, 학업성취도, 과정 평가 타당성, 과정 평가 결과, 과정만족도 결과, 학업성취도 결과, 학업성취도 원인, 학업성취도 개선 방안, 이러닝 과정 결과 보고, 이러닝 과정 결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200735</learnModulSeq>
+<learnModulName>이러닝 과정 운영 성과관리</learnModulName>
+<learnModulText>이러닝 운영, 이러닝 서비스 운영 프로세스 스킬, 이러닝 서비스 운영평가, 콘텐츠 평가, 교ㆍ강사 활동, 교ㆍ강사 활동 평가, 시스템 평가, 운영활동 결과, 개선사항, 평가보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>04</ncsLclasCd>
+<ncsLclasCdnm>교육·자연·사회과학</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>직업교육</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>이러닝</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>이러닝과정(process)운영</ncsSubdCdnm>
+<learnModulSeq>EDU20161200736</learnModulSeq>
+<learnModulName>이러닝 운영 업무 협력</learnModulName>
+<learnModulText>매출, 재무회계, 손익계산서, 대차대조표, 현금영수증, 세금계산서, 매출전표, 부가세, 이러닝 사업기획, 이러닝 운영계획서, 콘텐츠 업무, 콘텐츠 요구사항, 이러닝 영업 업무, 이러닝 운영계획 수립, 운영계획 요구분석</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>74</totCnt>
+</dataInfo>
+</root>

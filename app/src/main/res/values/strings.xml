@@ -17,7 +17,8 @@
     <!-- feedback -->
     <string name="feedback_email">example@ex.com</string>
     <string name="feedback_title">feedback_title</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- string -->
+    <string name="error_msg">error</string>
 
 </resources>

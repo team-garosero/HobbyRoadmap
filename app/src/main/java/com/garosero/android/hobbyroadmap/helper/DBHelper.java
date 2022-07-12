@@ -1,16 +1,18 @@
 package com.garosero.android.hobbyroadmap.helper;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
 
 public class DBHelper extends SQLiteOpenHelper {
 
-    public DBHelper(Context context, String name, SQLiteDatabase.CursorFactory factory, int version){
-        super(context, name, factory, version);
+    public static String packageName = "newdb.db";
+    public static String dbName = "module_table";
+    public static Integer version = 1;
+
+    public DBHelper(Context context, SQLiteDatabase.CursorFactory factory, int version){
+        super(context, packageName, factory, version);
     }
 
     public boolean exists(SQLiteDatabase db){

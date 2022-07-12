@@ -83,7 +83,7 @@ public class CommunityFragment extends Fragment {
             }
         });
 
-        DBHelper helper = new DBHelper(getContext(), "newdb.db", null, 1);
+        DBHelper helper = new DBHelper(getContext(), null, 1);
         SQLiteDatabase db = helper.getReadableDatabase();
         String sql = "select * from module_table where l_class_code='"+LClassID+"' and m_class_code='"+MClassID+"' and s_class_code='"+SClassID+"' and sub_class_code='"+subClassID+"'";
         Cursor c = db.rawQuery(sql, null);

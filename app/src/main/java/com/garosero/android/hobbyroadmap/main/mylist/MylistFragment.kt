@@ -1,14 +1,12 @@
 package com.garosero.android.hobbyroadmap.main.mylist
 
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.navigation.fragment.findNavController
-import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.databinding.FragmentMylistBinding

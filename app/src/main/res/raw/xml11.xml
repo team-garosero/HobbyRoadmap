@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201105</learnModulSeq>
+<learnModulName>경비계획</learnModulName>
+<learnModulText>경비진단, 위해요소, 경비요소, 경비계획, 경비기본방향, 경비인력, 경비자원, 경비예산, 세부경비계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201106</learnModulSeq>
+<learnModulName>경비직무 교육훈련</learnModulName>
+<learnModulText>직업윤리, 범죄예방, 폭발물, 사격술, 체포호신술, 정보보호보안, 헌법, 법학개론</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201107</learnModulSeq>
+<learnModulName>경비고객관계관리</learnModulName>
+<learnModulText>민간경비, 시큐리티, 시설경비 업무, 서비스, 의뢰고객, 현장고객, 정보수집, 요구사항 대처, 고객관리, 고객만족</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201108</learnModulSeq>
+<learnModulName>경계방비</learnModulName>
+<learnModulText>경계, 방비, CCTV, 감지센서, 보안등, 조명장치, 침입차폐시설, 외곽방호시설, 침입대응, 외각방호, 침입대응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201109</learnModulSeq>
+<learnModulName>출입통제</learnModulName>
+<learnModulText>출입통제, 출입관리, 상주고객출입통제, 방문고객출입통제, VIP고객출입통제, 차량출입통제, 화물출입통제, 차량검색, 화물검색, 검색장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201110</learnModulSeq>
+<learnModulName>질서유지</learnModulName>
+<learnModulText>질서유지, 혼잡상황, 안전사고, 인력배치, 교통질서, 행사경호, 차량통제, 구호활동, 행사의전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201111</learnModulSeq>
+<learnModulName>순찰활동</learnModulName>
+<learnModulText>순찰, 순찰유형, 순찰안전점검, 안전위해요소, 우발상황, 순찰일지, 보고, 조치, 순찰결과인계, 순찰결과평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201112</learnModulSeq>
+<learnModulName>사건사고대처</learnModulName>
+<learnModulText>민간경비, 형사사건, 안전사고, 재난사고, 화재사고, 침입사고, 보안요원, 현장보존, 강도, 절도, 재물손괴, 변사, 엘리베이터 사고, 지진, 풍수해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201113</learnModulSeq>
+<learnModulName>테러리즘대응</learnModulName>
+<learnModulText>테러발생, 테러대응, 경비계획, 감시활동, 점검활동, 검측활동, 생화학테러, 폭발테러, 인질납치, 사이버 테러</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201114</learnModulSeq>
+<learnModulName>경비장비운용관리</learnModulName>
+<learnModulText>보안장비, 방범시스템, 기계경비, 분사기, 총기, 무기, 호송경비장비, K2소총, 38권총</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201115</learnModulSeq>
+<learnModulName>보안관제</learnModulName>
+<learnModulText>보안관제, 침입감지센서, 영상감시장비, 오경보, 출동업무, 감지기, CCTV, 무인경비, 외부점검, 내부점검, 개인정보보호법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161201116</learnModulSeq>
+<learnModulName>경비관련법규 현장적용</learnModulName>
+<learnModulText>경비업무, 경비업법, 청원경찰법, 경비원, 경비지도사, 경비협회, 청원경찰, 범죄, 형법, 형사소송법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200778</learnModulSeq>
+<learnModulName>경호기획</learnModulName>
+<learnModulText>경호업무준비, 경호환경조사, 경호환경분석, 위해분석, 경호계획서, 경호활동평가, 경호환경진단, 고객요구사항, 위협요소조사, 경호목표, 사정평가, 평가보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200779</learnModulSeq>
+<learnModulName>경호고객관계관리</learnModulName>
+<learnModulText>업무고객, 고객요구사항, 파악, 대응. 예방, 절차, 해결, 관리, 협의, 고객관계관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200780</learnModulSeq>
+<learnModulName>경호교육훈련</learnModulName>
+<learnModulText>기본교육훈련, 직무교육훈련, 경비원교육훈련, 신임교육, 직무교육, 교육훈련계획서, 직업윤리, 예절교육, 사격술, 통신장비, 검색장비, 총기, 분사기, 경비원휴대장비, 보좌업무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200782</learnModulSeq>
+<learnModulName>경호정보보안관리</learnModulName>
+<learnModulText>정보수집, 정보요구, 정보수집계획서, 정보분류, 정보평가, 정보분석, 정보보고서, 정보보호계획, 경호정보보안, 보안점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200784</learnModulSeq>
+<learnModulName>선발경호</learnModulName>
+<learnModulText>취약요소, 위해기도자, 비표운용, 현장답사, 검측활동, 안전확보, 경호관계관회의, 비상대책, 우발상황</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200785</learnModulSeq>
+<learnModulName>경호안전관리</learnModulName>
+<learnModulText>검색장비, 위험물, 비표, 점검리스트, 출입통제선, 점검원칙, 위험 시설물, 불완전한 환경요소, 안전유지, 상황 발생 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200787</learnModulSeq>
+<learnModulName>수행경호</learnModulName>
+<learnModulText>도보대형, 기본 도보대형, 응용 도보대형, 사주경계, 차량대형, 우발상황, 우발상황 대응, 우발상황 조치, 즉각조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200788</learnModulSeq>
+<learnModulName>경호의전</learnModulName>
+<learnModulText>일정관리, 일정계획, 경호계획, 경호대상자, 경호행사, 수행, 의전, 고객응대, 의전메뉴얼, 의전기획, 경호의전지침, 경호대상자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200789</learnModulSeq>
+<learnModulName>경호무도</learnModulName>
+<learnModulText>체력, 트레이닝, 훈련계획서, 무도, 경호무도, 수련방법, 경호계획안, 경호호신술, 체포술, 이미지 트레이닝, 이미지 트레이닝 훈련</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200790</learnModulSeq>
+<learnModulName>경호장비운영</learnModulName>
+<learnModulText>경호장비, 금속탐지기, 문형 금속탐지기, 휴대용 금속탐지기, 전자 충격기, 가스 분사기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200791</learnModulSeq>
+<learnModulName>경호응급처치</learnModulName>
+<learnModulText>응급처치, 응급상황, 심폐소생술, 자동제세동기(자동심장충격기), 인공호흡, 지혈, 쇼크, 상처, 중독, 119, 감염</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>경비</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경비·경호</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경호</ncsSubdCdnm>
+<learnModulSeq>EDU20161200792</learnModulSeq>
+<learnModulName>경호운용지원</learnModulName>
+<learnModulText>모집, 채용, 인력관리, 경호행정, 교육훈련, 고객응대, 불만처리, 현장관리, 배치신고, 배치허가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201361</learnModulSeq>
+<learnModulName>청소 현장 현황 파악</learnModulName>
+<learnModulText>청소 대상물, 건축 시설물, 청소 대상물 현황, 고객 요구, 청소 범위, 청소 품질 수준, 청소 활동 과정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201362</learnModulSeq>
+<learnModulName>청소 계획 수립</learnModulName>
+<learnModulText>청소 대상물, 마감재, 청소 현장 현황, 청소 범위, 청소 방법, 청소 일정, 투입 자원, 적정 투입 인력, 적정 투입 장비, 적정 투입 약품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201364</learnModulSeq>
+<learnModulName>청소 활동 수행</learnModulName>
+<learnModulText>건물 위생 관리, 일상 청소, 정기 청소, 특별 청소, 정리 정돈, 깊은 때 세정, 박리 작업, 카펫 청소, 광택 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201367</learnModulSeq>
+<learnModulName>비상 상황 대비 대응</learnModulName>
+<learnModulText>안전사고, 사전 진단, 안전시설, 자연재해, 매뉴얼, 비상 상황, 돌발 사고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201369</learnModulSeq>
+<learnModulName>청소 품질 검증</learnModulName>
+<learnModulText>품질 검증, 고객 불만, 청소 품질, 미비점, 고객 만족, 검증 계획, 검증 활동, 불만 사항</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201377</learnModulSeq>
+<learnModulName>청소 약품 운용</learnModulName>
+<learnModulText>약품 선정, 약품 사용, 약품 관리, 약품 대장 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201378</learnModulSeq>
+<learnModulName>청소 활동 사후 관리</learnModulName>
+<learnModulText>청소 활동 수행 결과 평가, 청소 활동 품질 수준, 청소 활동 품질 수준 분석, 청소 활동 프로세스, 사후 관리 목적, 사후 관리 계획 수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>환경미화</ncsSubdCdnm>
+<learnModulSeq>EDU20161201379</learnModulSeq>
+<learnModulName>청소 장비 운용</learnModulName>
+<learnModulText>장비 특성, 장비 용도, 청소 방법, 마감재 특성, 장비 운영 방법, 장비 응급조치, 특수 장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200876</learnModulSeq>
+<learnModulName>가사관리 및 설계</learnModulName>
+<learnModulText>직업소개, 서비스계약, 서비스모니터링, 체크리스트, 양성교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200877</learnModulSeq>
+<learnModulName>가사기본관리</learnModulName>
+<learnModulText>업무계약, 고객 상담, 업무기록, 업무점검, 정보확인, 문제상황 대처, 업무종료 전달</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200878</learnModulSeq>
+<learnModulName>방 청소</learnModulName>
+<learnModulText>청소도구, 먼지, 천연세제, 오물제거장비, 약품, 정리정돈, 가전제품, 침구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200879</learnModulSeq>
+<learnModulName>주방 청소</learnModulName>
+<learnModulText>주방상태 점검, 싱크대, 약품, 청소도구, 음식물찌꺼기, 가전제품, 주방 공간</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200880</learnModulSeq>
+<learnModulName>욕실 청소</learnModulName>
+<learnModulText>욕실 환기, 청소도구, 청소약품, 용품 정돈, 욕실 시설물, 욕실 설치물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200881</learnModulSeq>
+<learnModulName>베란다 청소</learnModulName>
+<learnModulText>가사지원, 청소 서비스, 베란다, 현관, 청소 약품, 청소도구, 메모, 세제, 환기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200882</learnModulSeq>
+<learnModulName>빨래 및 다림질</learnModulName>
+<learnModulText>빨래 구분, 세제의 종류, 세탁물 취급기호라벨, 다림질, 빨래 건조, 손빨래, 드라이클리닝, 수납</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200883</learnModulSeq>
+<learnModulName>특수 청소</learnModulName>
+<learnModulText>선반, 서랍, 바구니, 장착, 분리, 소재, 오염, 배선장치, 세척, 살균, 건조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>11</ncsLclasCd>
+<ncsLclasCdnm>경비·청소</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>청소</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>청소</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가사지원</ncsSubdCdnm>
+<learnModulSeq>EDU20161200884</learnModulSeq>
+<learnModulName>정리 수납</learnModulName>
+<learnModulText>고객요구 파악, 업무기록, 업무점검, 수납 위치 결정, 공간 확보, 정리정돈, 수납 형태, 사용 빈도, 문제 상황 대처, 업무 종료 전달</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>41</totCnt>
+</dataInfo>
+</root>

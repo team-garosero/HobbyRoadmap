@@ -1,0 +1,2431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200010</learnModulSeq>
+<learnModulName>영업 외부환경분석</learnModulName>
+<learnModulText>외부 환경 분석, 시장 트렌드 분석, 유통 구조 분석, 고객 분석, 경쟁사 분석, 외부 환경 분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200011</learnModulSeq>
+<learnModulName>영업 내부환경분석</learnModulName>
+<learnModulText>영업 분석, 영업 내부 요인, 내부 환경 분석, 영업 내부 정보, SWOT, 자사 분석, 자사 내부 역량 분석, 영업 계획 수립, 내부 환경 분석 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200012</learnModulSeq>
+<learnModulName>영업 전략수립</learnModulName>
+<learnModulText>영업 전략 방향, 영업 전략 대안, 영업 목표, 영업 고객 분석, 영업 부문별 계획, 영업 계획, 영업 운영 계획, 영업 인력 계획, 고객 관리 계획, 영업 위기 대응 방안, 고객 구매 요인과 동기, 영업 인력 수급 계획, 고객 발굴 계획, 영업 운영 예산 계획, 영업 위기 예방</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200013</learnModulSeq>
+<learnModulName>영업 고객상담</learnModulName>
+<learnModulText>영업 상담, 고객 상담, 구매 제안, 고객 설득, 고객 접촉, 고객 반응, 고객 혜택, 고객 관계, 영업 상담 일지, 고객 상담 보고서, 영업 상담 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200014</learnModulSeq>
+<learnModulName>영업 제안준비</learnModulName>
+<learnModulText>고객 유형, 고객 요구 사항, 거래 조건, 가격, 품질, 손익분기점, 제안서, 거래 요청서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200015</learnModulSeq>
+<learnModulName>영업 계약체결관리</learnModulName>
+<learnModulText>계약 조건, 고객 요구 사항, 계약 협상, 계약 체결, 계약서 작성, 계약 체결 분석, 계약 사항 통지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200016</learnModulSeq>
+<learnModulName>영업 계약이행관리</learnModulName>
+<learnModulText>공급 계약서, 계약 변경, 발주서, 납품, 포장, 출하, 운송, 수금, 거래 명세표, 세금 계산서, 대금 결제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200017</learnModulSeq>
+<learnModulName>영업 성과관리</learnModulName>
+<learnModulText>장기 지표, 단기 지표, 과정 지표, 결과 지표, 정성적 지표, 정량적 지표, 균형 성과 지표(BSC : Balanced Scorecard), 성과 사슬(Performance Chain), 목표 관리법(MBO), 성과 평가 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200018</learnModulSeq>
+<learnModulName>영업 고객불만관리</learnModulName>
+<learnModulText>고객 불만, 컴플레인, 고객의 소리(VOC), 클레임, 고객 불만 수집, 고객 불만 원인, 고객 불만 분석, 고객 불만 처리, 고객 불만 해결, 고객 불만 대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>일반영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200019</learnModulSeq>
+<learnModulName>영업 고객유지관리</learnModulName>
+<learnModulText>고객 서비스, 고객 정보 관리, 고객 데이터베이스 구축, 고객 세분화, 고객 유지 전략 수립, 고객 유지 전략 이행, 고객 유지 사례, 고객 반응 분석, 고객 만족도 조사, 고객 만족도 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201579</learnModulSeq>
+<learnModulName>해외시장 조사</learnModulName>
+<learnModulText>해외시장 조사 계획서, 해외영업 환경 분석, 해외시장 조사보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201580</learnModulSeq>
+<learnModulName>해외영업 상품 분석</learnModulName>
+<learnModulText>수출원가분석, 수출가격누증, 상품분석, 지각도, 다차원척도법, 컨조인트분석, 전략캔버스, 구매자 효용성지도, 카노분석, 사업성 분석, CVP(원가-조업도-이익) 분석, 손익분기점 분석, 상품 분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201582</learnModulSeq>
+<learnModulName>해외마케팅 전략수립</learnModulName>
+<learnModulText>목표시장 진입전략, 시장 유지전략, 경쟁전략, 영업 위기관리계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201584</learnModulSeq>
+<learnModulName>해외 잠재고객 발굴</learnModulName>
+<learnModulText>해외고객 탐색, e-Marketplace, B2B, 해외 전시회, 해외 상담회, 온‧오프라인 업체 등록</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201587</learnModulSeq>
+<learnModulName>해외거래 제안</learnModulName>
+<learnModulText>상품소개서, 인콰이어리, 청약, 수락, 거래제안서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201589</learnModulSeq>
+<learnModulName>해외고객 협상</learnModulName>
+<learnModulText>해외 협상, 협상 전략, 윈윈 협상, 해외 고객 의전, 협상안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201590</learnModulSeq>
+<learnModulName>국제계약체결</learnModulName>
+<learnModulText>무역 계약, 무역 계약서 작성, INCOTERMS 2010, 무역 용어, 무역 통신 영어, 무역 법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201593</learnModulSeq>
+<learnModulName>해외영업 계약 이행 관리</learnModulName>
+<learnModulText>수출대금, 수출보험, 환율, 환리스크, 환헤지, 수출물품, 출하, 선적, 대금결제, 계약상품, 선적서류, 계약이행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201596</learnModulSeq>
+<learnModulName>해외 클레임 처리</learnModulName>
+<learnModulText>클레임, 중재, 알선, 조정, 마켓 클레임, 계획적 클레임, 일반적 클레임, 품질 클레임, 대금 결제클레임, 클레임 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>영업</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>일반·해외영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161201598</learnModulSeq>
+<learnModulName>해외고객 관리</learnModulName>
+<learnModulText>해외 고객, 바이어, End User, 현지 시장 현황, 요구 사항, 무역 거래, 고객 사후 평가, 거래 유지, 거래 단절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202478</learnModulSeq>
+<learnModulName>01. 개발사업 현황 조사</learnModulName>
+<learnModulText>부동산 조사, 부동산 법규, 부동산 개발 절차, 개발사업 추진, 부동산 답사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202479</learnModulSeq>
+<learnModulName>02. 개발 여건 분석</learnModulName>
+<learnModulText>부동산 개발, 입지 환경, 부동산 개발 계획, 개발 환경 분석, 거시 환경, 개발 관련 법규, 계획 관련 법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202480</learnModulSeq>
+<learnModulName>03. 개발 방향 수립</learnModulName>
+<learnModulText>스왓(SWOT) 분석, 시장 분석, 시장성 분석, 현금 흐름, 민감도 분석, 위험 분석, 사업 대안, 개발 방향</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202481</learnModulSeq>
+<learnModulName>04. 개발 도입 용도 분석</learnModulName>
+<learnModulText>시장 분석, 시장성 분석, 수요ㆍ공급 분석, 경쟁 환경 분석, 가격 구조 분석, 최적 용도, 실거래가격, 적정가격, 공시지가, 공시주택 가격</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202483</learnModulSeq>
+<learnModulName>05. 개발사업 기본 계획 수립</learnModulName>
+<learnModulText>벤치마킹, 부동산, 시장 환경, 도시개발, 개발 콘셉트, 상품 계획, 도시기반시설, 트렌드 분석, 시설 용도, 건축 설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202484</learnModulSeq>
+<learnModulName>06. 개발사업 타당성 분석</learnModulName>
+<learnModulText>사업타당성 분석, 매출 계획, 시장 분석, 사업 투자 계획, 재무 분석, 사업성(수익성, 성장성) 평가, 마케팅 전략, 수요 전망, 판매 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202485</learnModulSeq>
+<learnModulName>07. 개발사업 실행 계획 수립</learnModulName>
+<learnModulText>사업 참여 주체, 사업 시행 주체, 업무 단계별 일정 계획, 자금 조달, 자금 조달 규모</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202486</learnModulSeq>
+<learnModulName>08. 개발사업 건설 관리</learnModulName>
+<learnModulText>설계 관리, 원가 관리, 품질 관리, 품질 보증 계획, 공정 관리, 건설 사업 관리(CM), 사업비 관리, 사업 관리 정보 시스템(CALS) 운용, 설계 VE, 품질 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202487</learnModulSeq>
+<learnModulName>09. 개발 마케팅 전략 수립</learnModulName>
+<learnModulText>부동산 개발 마케팅, 판매 전략, 가격 전략, 홍보 전략, 유통 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202489</learnModulSeq>
+<learnModulName>10. 개발사업 시행ㆍ관리</learnModulName>
+<learnModulText>사업비 항목, 자금 관리, 시공사 선정, 계약 체결, 계약 변경, 사업 준공, 사업 청산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201212</learnModulSeq>
+<learnModulName>01. 분양사업기획</learnModulName>
+<learnModulText>부동산, 부동산 분양, 부동산 수주, 사업성, 부동산분양대행사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201214</learnModulSeq>
+<learnModulName>02. 분양시장분석</learnModulName>
+<learnModulText>분양시장, 수요 공급, 입지적 특성, 타당성 분석, 투자분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201216</learnModulSeq>
+<learnModulName>03. 분양상품기획</learnModulName>
+<learnModulText>분양상품 트렌드, 분양상품 경쟁력, 차별화, 소비자니즈, 견본주택, 분양상품 특성, 입지분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201217</learnModulSeq>
+<learnModulName>04. 분양마케팅</learnModulName>
+<learnModulText>분양, 광고, 홍보, 마케팅, 마케팅전략, 시장환경, 시장분석, 실행계획, 분양마케팅, 부동산분양</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201218</learnModulSeq>
+<learnModulName>05. 분양인력구성</learnModulName>
+<learnModulText>분양상품, 상담요원, 분양현장, 인력배치, 분양영업 실행인원, 분양업무 적임자, 분양활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201219</learnModulSeq>
+<learnModulName>06. 분양전문인력교육</learnModulName>
+<learnModulText>건축개요, 자료의 신뢰성, 시장분석, 부동산 관련법령</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201220</learnModulSeq>
+<learnModulName>07. 분양고객관리</learnModulName>
+<learnModulText>분양계약서, 분양계약자, 수분양자, 입주계획, 분양계약해지, 소유권, 소유권이전 등기, 분양분쟁, 분양대금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201221</learnModulSeq>
+<learnModulName>08. 분양리스크관리</learnModulName>
+<learnModulText>부동산 개발, 부동산분양, 리스크 요인, 사업단계, 관리방안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산분양</ncsSubdCdnm>
+<learnModulSeq>EDU20161201222</learnModulSeq>
+<learnModulName>09. 분양협력업체관리</learnModulName>
+<learnModulText>계약의 방법, 분양업무 분담, 분양대행수수료 산정 및 지급방법, 분양대행사의 업무흐름, 분양대행관련 각종 보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201251</learnModulSeq>
+<learnModulName>01. 부동산 경·공매 신청</learnModulName>
+<learnModulText>강제경매, 담보권 실행 경매, 집행권원, 부동산 공매, 약식 감정평가, 거래 사례 비교법, 온비드, 수탁자산, 유입자산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201254</learnModulSeq>
+<learnModulName>02. 부동산 경매의 매각 절차 파악</learnModulName>
+<learnModulText>압류, 경매개시결정, 현황조사, 매각물건명세서, 감정평가서, 기일 입찰, 매각허가결정, 매각 허가 이의신청, 매각기일, 매각대금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201256</learnModulSeq>
+<learnModulName>03. 부동산 공매 진행 절차 파악</learnModulName>
+<learnModulText>체납처분, 온비드(OnBid), 공매위임관서, 한국자산관리공사(KAMCO)의 공매대행, 공매공고, 공매대행통지서, 공매통지서, 공매 재산명세서, 매각결정서, 공매대상 재산 현황조사서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201257</learnModulSeq>
+<learnModulName>04. 매각 부동산 권리 분석</learnModulName>
+<learnModulText>말소기준권리, 소멸주의, 인수주의, 등기사항증명서, 물권, 임대차, 유치권, 법정지상권, 등기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201259</learnModulSeq>
+<learnModulName>05. 매각 부동산 가치 분석</learnModulName>
+<learnModulText>부동산가격, 지역요인, 개별요인, 감정평가, 실거래가, 기준시가, 공시지가, 자본환원표, 투자분석, 입찰가산정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201260</learnModulSeq>
+<learnModulName>06. 소유권 이전 등기 절차 진행</learnModulName>
+<learnModulText>대금지급기한통지서, 등기촉탁, 매각대금완납증명원, 낙찰허가결정등본, 채권산출내역</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201262</learnModulSeq>
+<learnModulName>07. 매각 부동산 인도 절차 진행</learnModulName>
+<learnModulText>부동산인도명령제도, 인도명령신청, 승계집행문부여, 인도소송, 점유이전금지가처분</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201265</learnModulSeq>
+<learnModulName>08. 배당 분석</learnModulName>
+<learnModulText>권리신고, 배당요구, 조세채권, 순위배당, 흡수배당, 배당표, 배당액 공탁, 배당이의</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161201266</learnModulSeq>
+<learnModulName>09. 권리구제 분석</learnModulName>
+<learnModulText>경매정지, 경매취소, 즉시항고, 집행이의, 이의신청, 청구이의 소, 제3자 이의의 소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>부동산컨설팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산경·공매</ncsSubdCdnm>
+<learnModulSeq>EDU20161202820</learnModulSeq>
+<learnModulName>10. 부실채권의 활용</learnModulName>
+<learnModulText>부실채권, NPL, 근저당권부 채권, 부동산경매, 권리분석, 가치분석, 고정이하여신, 부실채권 관리업무, 부실채권 투자업무, 부실채권 입찰업무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201613</learnModulSeq>
+<learnModulName>01. 주거용 건물 유지·관리</learnModulName>
+<learnModulText>승강기, 승강기 안전점검, 하자조사, 하자담보기간, 하자종료, 주택의 종류, 설계도서, 수선, 대수선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201615</learnModulSeq>
+<learnModulName>02. 주택 급배수·냉난방·도로 유지·관리</learnModulName>
+<learnModulText>급수, 배수, 냉방, 난방, 단지, 보수, 점검, 공사 원가 계산서, 품, 인건비, 공구 손료, 내역서, 내구연한</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201616</learnModulSeq>
+<learnModulName>03. 주택 안전관리</learnModulName>
+<learnModulText>안전관리계획서, 안전점검, 안전관리자 선임, 정기점검, 정밀점검, 시설물 장수명화, 관리주체, 안전관리, 안전관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201618</learnModulSeq>
+<learnModulName>04. 주택위생·환경관리</learnModulName>
+<learnModulText>쓰레기, 폐기물, 생활쓰레기, 대형쓰레기, 건설폐기물, 쓰레기 분리, 재활용 쓰레기, 재활용품 분리배출, 재활용품 판매, 미분리수거 제재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201620</learnModulSeq>
+<learnModulName>05. 입주자 대표회의 운영</learnModulName>
+<learnModulText>관리규약, 관리비, 장기수선충당금, 만족도 평가, 공동체 활성화, 관리방식, 장기수선계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201633</learnModulSeq>
+<learnModulName>06. 주택부대·복리시설관리</learnModulName>
+<learnModulText>관리, 점검, 유지, 보수, 주민생활시설, 관리사무소, 교육, 보안, 경비, 주차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201638</learnModulSeq>
+<learnModulName>07. 주택 리모델링 검토</learnModulName>
+<learnModulText>리모델링 타당성 분석, 시공사 선정, 자금조달계획, 안전진단, 신고·허가, 실시계획, 업체정보 수집, 현장설명, 현금흐름표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201645</learnModulSeq>
+<learnModulName>08. 에너지절약형 친환경주택 관리</learnModulName>
+<learnModulText>건축물의 에너지절약 설계기준, 저전력 조명설비, 신재생에너지, 탄소배출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201646</learnModulSeq>
+<learnModulName>09. 주택 관리비 운영</learnModulName>
+<learnModulText>주택법령, 관리규약, 관리비부과내역서, 계정과목, 장기수선충당금, 관리비고지서, 조정명세서, 수정후 시산표, 재무제표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>주택관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201647</learnModulSeq>
+<learnModulName>10. 임대주택 운영</learnModulName>
+<learnModulText>임대주택 관리, 임대주택 운영, 입주자 선정, 입⋅퇴거, 임대차 계약, 갱신⋅재계약, 임대조건, 임차인 모집, 임차인 유지관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201281</learnModulSeq>
+<learnModulName>01. 상업용건물관리 계약체결</learnModulName>
+<learnModulText>상업용건물, 입지분석, 상권분석, 수익성분석, 관리방식, 관리비용, 시장동향, 위탁관리계약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201283</learnModulSeq>
+<learnModulName>02. 상업용건물관리 계획수립</learnModulName>
+<learnModulText>건물관리수입, 건물관리비용, 재무제표, 건물운영계획, 건물경영관리계획, 타당성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201284</learnModulSeq>
+<learnModulName>03. 상업용건물 유지관리</learnModulName>
+<learnModulText>정기검사, 수선보수, 경관관리, 장기수선, 협력업체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201286</learnModulSeq>
+<learnModulName>04. 상업용건물 안전관리</learnModulName>
+<learnModulText>안전관련 법규, 안전관리규정, 화재, 재난, 소방, 안전계획, 안전훈련, 안전시설물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201288</learnModulSeq>
+<learnModulName>05. 상업용건물 임대관리</learnModulName>
+<learnModulText>시장분석, 임대 마케팅, 임대차 계약, 임차인 유치, 임차인 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201290</learnModulSeq>
+<learnModulName>06. 상업용건물 고객관리</learnModulName>
+<learnModulText>방문고객 만족도, 임차인 만족도, 관리직원 교육, 고객만족경영(CSM), 만족도평가, 실행계획서, 설문조사, 불편사항관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201291</learnModulSeq>
+<learnModulName>07. 상업용건물 운영관리</learnModulName>
+<learnModulText>상업용건물 운영관리, 임대수입 관리, 지출비용 관리, 재무회계 관리, 미수금 관리, 상업용건물 회계관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201294</learnModulSeq>
+<learnModulName>08. 상업용건물 지속가능성관리</learnModulName>
+<learnModulText>오염물질, 처리방법의 특수성, 자료의 신뢰성, 현장분석, 지속가능한 유지관리, 정확한 결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>상업용건물관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201296</learnModulSeq>
+<learnModulName>09. 상업용건물 성과관리</learnModulName>
+<learnModulText>건물운영, 운영보고서, 시설물관리, 시설물관리보고서, 건물관리 운영성과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201304</learnModulSeq>
+<learnModulName>01. 부동산 입지분석</learnModulName>
+<learnModulText>경제적 환경, 물리적 환경, 지역 특성, 입지요인, 접근성, 상권, 중력모형, 현지조사법, 통계적 분석법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201305</learnModulSeq>
+<learnModulName>02. 부동산 투자분석</learnModulName>
+<learnModulText>현금흐름, 투자위험 분석, 투자기법 분석, 포트폴리오 분석, 투자전략, 자금조달</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201307</learnModulSeq>
+<learnModulName>03. 부동산 자산 수입계획수립</learnModulName>
+<learnModulText>부동산 자산수입, 관리수입, 임대수익, 보유현금관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201309</learnModulSeq>
+<learnModulName>04. 부동산 자산 지출계획수립</learnModulName>
+<learnModulText>부동산 자산 지출계획, 관리운용비용, 관리운용비용계획, 개보수방안, 중장기개보수계획 차입금상환계획, 차입전략, 상환계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201310</learnModulSeq>
+<learnModulName>05. 부동산 임대전략수립</learnModulName>
+<learnModulText>명도소송, 시설활성화, 임대기준, 임대면적, 임대시장, 임대차계약, 임차인 관리, 임차인 유치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201313</learnModulSeq>
+<learnModulName>06. 부동산 자산유지ㆍ관리</learnModulName>
+<learnModulText>부동산 자산유지ㆍ관리, 관리운용비용, 시설용역, 리모델링, 안전관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201315</learnModulSeq>
+<learnModulName>07. 부동산 자산ㆍ회계관리</learnModulName>
+<learnModulText>재무제표 분석, 회계장부 작성, 부동산 세금 계산, 부담금 파악, 재무상태표, 손익계산서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201317</learnModulSeq>
+<learnModulName>08. 부동산 처분타당성분석</learnModulName>
+<learnModulText>포트폴리오, 위험도, 수익률, NPV(순현재가치), IRR(내부수익률), 세전ㆍ세후 현금흐름, 요구수익률, 한계효용이익, 양도소득세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201319</learnModulSeq>
+<learnModulName>09. 부동산 자산매각</learnModulName>
+<learnModulText>부동산 자산매각, 매각 주간사, 우선매수협상 대상자, 매각조건, 매매계약 체결, 소유권이전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>부동산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>부동산자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201320</learnModulSeq>
+<learnModulName>10. 부동산자산 포트폴리오 운영계획 수립</learnModulName>
+<learnModulText>수익률, 포트폴리오, 매입, 투자, 미래예측, 투자환경 변화, 의사결정, 리스크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201667</learnModulSeq>
+<learnModulName>01. 부동산 시장 분석</learnModulName>
+<learnModulText>부동산 정책, 토지 정책, 주택 정책, 하우스푸어, 미분양주택, 부동산 시장, 부동산 문제, 경제 성장률, 주택 보급률, 주택 수요와 공급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201670</learnModulSeq>
+<learnModulName>02. 부동산 자료 수집·제공</learnModulName>
+<learnModulText>부동산자료, 부동산매물, 부동산 매물정보, 부동산자료수집, 부동산 매물자료 수집, 부동산자료제공, 부동산정보자료 제공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201675</learnModulSeq>
+<learnModulName>03. 부동산 중개 의뢰 계약</learnModulName>
+<learnModulText>일반 중개의뢰, 전속 중개의뢰, 공적 장부, 임장활동, 권리분석, 상담일지, 일반 중개의뢰 계약서, 전속 중개의뢰 계약서, 등기사항증명서, 토지이용계획 확인서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201678</learnModulSeq>
+<learnModulName>04. 부동산 현황 분석</learnModulName>
+<learnModulText>공적장부, 등기사항증명서, 대장, 지적도, 토지이용계획확인원, 감정평가, 부동산이용제한, 부동산거래규제, 임장활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201683</learnModulSeq>
+<learnModulName>05. 부동산 권리분석</learnModulName>
+<learnModulText>물권, 채권, 소유권, 지상권, 전세권, 저당권, 유치권, 법정지상권, 임차권, 우선변제권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201685</learnModulSeq>
+<learnModulName>06. 부동산 중개대상물 광고</learnModulName>
+<learnModulText>부동산 중개대상물 광고, 오프라인 광고, 온라인 광고, 부동산 매물 홍보, 광고기획, 부동산 중개사무소 홍보, 홍보 매체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201689</learnModulSeq>
+<learnModulName>07. 부동산 고객 협상</learnModulName>
+<learnModulText>부동산 가치 평가, 최유효이용, 부동산 시장 분석, 부동산 거래 사례, 유사 부동산, 공인중개사법령, 중개 보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201698</learnModulSeq>
+<learnModulName>08. 부동산 거래계약체결</learnModulName>
+<learnModulText>거래계약, 중개대상물확인ㆍ설명, 계약서, 계약이행, 부동산거래신고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201700</learnModulSeq>
+<learnModulName>09. 부동산 중개 부수 업무 처리</learnModulName>
+<learnModulText>공인중개사, 공인중개사법령, 경매, 매수 신청 대리인, 입찰표, 임대주택, 건축법, 에스크로, 분양, 임대관리 대행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201702</learnModulSeq>
+<learnModulName>10. 부동산 고객관리</learnModulName>
+<learnModulText>부동산 고객, 부동산 고객관리, 계약고객, 관심물건, 고객자료, 부동산 고객정보, 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산중개</ncsSubdCdnm>
+<learnModulSeq>EDU20161201707</learnModulSeq>
+<learnModulName>11. 부동산 중개사무소 관리</learnModulName>
+<learnModulText>직원 채용, 직원 평가, 업무 분장, 중개사무소, 운영계획, 재무 상태, 업무일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201323</learnModulSeq>
+<learnModulName>01. 부동산정보제공 서비스 사업기획</learnModulName>
+<learnModulText>부동산정보, 부동산정보제공, 부동산정보제공서비스, 부동산정보제공 서비스 사업기획, 부동산정보사업, 부동산 정보사이트 기획, 부동산 정보제공업, 부동산 정보 사업기획, 부동산정보 사업전략, 부동산정보 사이트 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201324</learnModulSeq>
+<learnModulName>02. 부동산정보 사이트 광고상품 기획</learnModulName>
+<learnModulText>광고상품 시장분석, 광고상품 기획서, 광고상품 사업성 분석, 광고상품 사업수지분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201325</learnModulSeq>
+<learnModulName>03. 부동산정보제공 시스템 개발</learnModulName>
+<learnModulText>정보제공시스템, 화면구성, 데이터베이스, 웹프로그램, 웹디자인, UI디자인, 웹서버</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201326</learnModulSeq>
+<learnModulName>04. 부동산정보 분석</learnModulName>
+<learnModulText>부동산정보, 부동산정보제공, 부동산정보분석, 부동산정보자료, 부동산 콘텐츠, 부동산서비스, 부동산정보서비스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201327</learnModulSeq>
+<learnModulName>05. 부동산정보 사이트 광고상품 마케팅</learnModulName>
+<learnModulText>부동산 정보, 부동산 정보제공, 마케팅, 광고상품, SNS 홍보, 소셜마케팅, SNS 마케팅, 광고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201329</learnModulSeq>
+<learnModulName>06. 부동산정보 사이트 운영</learnModulName>
+<learnModulText>부동산정보제공업체, 부동산정보제휴업체, 부동산정보사이트, 부동산 정보매체 서비스 운영, 부동산 정보사이트 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201330</learnModulSeq>
+<learnModulName>07. 부동산정보 콘텐츠 제공</learnModulName>
+<learnModulText>매물정보, 시세정보, 시장동향정보, 상권정보, 조사 목록표, 서비스 DB 구축, 허위 매물 검증, 오류 점검 및 수정, 보완</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201331</learnModulSeq>
+<learnModulName>08. 부동산 부가정보 서비스</learnModulName>
+<learnModulText>부동산 법률 정보, 법률 정보 서비스, 부동산 정책 정보 제공, 부동산 관련 부가서비스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201333</learnModulSeq>
+<learnModulName>09. 부동산정보 활용교육</learnModulName>
+<learnModulText>부동산정보, 부동산정보의 유형, 부동산정보사이트, 부동산정보교육, 부동산정보교육의 수요, 부동산정보교육 기획, 부동산정보교육 설계, SWOT분석, 부동산정보교육의 인허가, 부동산정보교육의 발표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>부동산중개</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>부동산정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201334</learnModulSeq>
+<learnModulName>10. 부동산 이용 상담서비스</learnModulName>
+<learnModulText>고객 상담, 대면 상담, 상담 기록 작성, 고객 정보 자료관리, 고객 자문, 고객 반응, 고객 사후관리, 상담 자료관리, 자문 사례집</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201422</learnModulSeq>
+<learnModulName>01. 감정평가 사전분석</learnModulName>
+<learnModulText>감정평가, 감정평가업자, 감정평가 의뢰, 대상 물건, 감정평가 목적, 권리 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201424</learnModulSeq>
+<learnModulName>02. 감정평가 계획 수립</learnModulName>
+<learnModulText>감정평가, 기본적 사항의 확정, 감정평가 절차, 감정평가 계획 수립, 감정평가 수수료, 감정평가 난이도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201425</learnModulSeq>
+<learnModulName>03. 현장 조사</learnModulName>
+<learnModulText>감정평가, 부동산 관련 공부 서류, 현장 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201427</learnModulSeq>
+<learnModulName>04. 감정평가 자료 분석</learnModulName>
+<learnModulText>감정평가, 가격공시, 관계 법령, 감정평가 방식, 유사가격권, 표준지가격, 가격비준표, 개별공시지가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201428</learnModulSeq>
+<learnModulName>05. 가치형성 요인 분석</learnModulName>
+<learnModulText>감정평가, 시장분석, 상권분석, 지역분석, 지역요인 비교, 가치형성요인, 공법적 제한사항, 인허가사항</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201429</learnModulSeq>
+<learnModulName>06. 감정평가 방법 적용</learnModulName>
+<learnModulText>감정평가, 감정평가 3방식, 비교방식, 원가방식, 수익방식, 감정평가 방법 선정, 감정평가 방법 적용, 시산가액 산정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201430</learnModulSeq>
+<learnModulName>07. 감정평가액 결정</learnModulName>
+<learnModulText>감정평가, 물건의 특수성, 자료의 신뢰성, 시장 상황, 시산가액 조정, 시산가액 가중치, 감정평가액 결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201431</learnModulSeq>
+<learnModulName>08. 감정평가서 작성</learnModulName>
+<learnModulText>감정평가, 감정평가서, 감정평가서 기재 사항, 감정평가액 산출 근거, 감정평가액 결정 의견</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201432</learnModulSeq>
+<learnModulName>09. 감정평가서 검수</learnModulName>
+<learnModulText>감정평가, 감정평가서 작성, 감정평가결과 검증, 감정평가서 발급, 감정평가서 보존</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>부동산·동산감정평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201433</learnModulSeq>
+<learnModulName>10. 감정평가 사후관리</learnModulName>
+<learnModulText>감정평가서 원본, 자료 분류, 자료 보존, 자료 전산화, 감정평가 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201435</learnModulSeq>
+<learnModulName>01. 기업가치평가 처리계획 수립</learnModulName>
+<learnModulText>기업가치평가 의뢰서, 기업가치평가 평가대상, 기업가치평가 평가 목적, 기업가치평가 평가절차, 기업가치평가 평가방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201436</learnModulSeq>
+<learnModulName>02. 기업가치평가 기초자료 수집</learnModulName>
+<learnModulText>기업가치평가, 기업가치평가 자료, 재무적 자료, 산업자료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201437</learnModulSeq>
+<learnModulName>03. 기업 현장조사</learnModulName>
+<learnModulText>기업가치평가, 현장실사, 기초수집자료, 보완자료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201438</learnModulSeq>
+<learnModulName>04. 기업가치평가 자료 분석</learnModulName>
+<learnModulText>기업가치평가, 재무상태, 기업경쟁력, 산업환경, 기업환경, 추세 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201439</learnModulSeq>
+<learnModulName>05. 기업가치평가 방법 결정</learnModulName>
+<learnModulText>기업가치평가, 수익방식, 비교방식, 원가방식, 유사기업, 결과치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201441</learnModulSeq>
+<learnModulName>06. 기업가치평가 요소 추출</learnModulName>
+<learnModulText>기업가치평가, 수익방식, 비교방식, 원가방식, 평가요소, 추출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201442</learnModulSeq>
+<learnModulName>07. 기업가치평가</learnModulName>
+<learnModulText>기업가치평가, 수익방식, 비교방식, 원가방식, 시산가격조정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201443</learnModulSeq>
+<learnModulName>08. 기업가치평가 보고서 작성</learnModulName>
+<learnModulText>기업가치평가, 기재사항, 특이사항, 보고서 심사 , 보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업가치평가</ncsSubdCdnm>
+<learnModulSeq>EDU20161201444</learnModulSeq>
+<learnModulName>09. 기업가치평가 사후관리</learnModulName>
+<learnModulText>기업가치평가, 평가자료 보관, 자료 색인, 자료 검색, 평가자료 관리, 평가품질 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201957</learnModulSeq>
+<learnModulName>01. 감정평가가격정보제공 기획</learnModulName>
+<learnModulText>감정평가가격정보, 감정평가가격정보제공 수요자, 감정평가가격정보제공 공급자, 데이터베이스, 기획안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201958</learnModulSeq>
+<learnModulName>02. 감정평가가격정보제공 절차와 법령 검토</learnModulName>
+<learnModulText>감정평가, 감정평가가격정보, 감정평가가격정보제공유형, 감정평가가격정보제공 업무, 감정평가가격정보제공 절차, 감정평가가격정보제공 관련 법령, 검토보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201960</learnModulSeq>
+<learnModulName>03. 감정평가가격정보 유용성 검토</learnModulName>
+<learnModulText>감정평가, 부동산의 종류, 감정평가목적, 감정평가조건, 가격제원칙, 가격유형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201965</learnModulSeq>
+<learnModulName>04. 감정평가가치 형성 요인 분석</learnModulName>
+<learnModulText>감정평가, 가치형성요인, 시장분석, 지역분석, 최유효이용분석, 자료수집, 자료정리, 자료분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201967</learnModulSeq>
+<learnModulName>05. 감정평가가격정보 조사·분석</learnModulName>
+<learnModulText>감정평가, 감정평가가격정보, 조사ㆍ분석, VISS(Valuation Information Service System)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161201969</learnModulSeq>
+<learnModulName>06. 감정평가가격정보 정리·가공</learnModulName>
+<learnModulText>감정평가, 가격정보, 자료의 정리 및 가공, 범위, 시스템 및 흐름분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161202071</learnModulSeq>
+<learnModulName>07. 감정평가가격정보 공간 분석</learnModulName>
+<learnModulText>부동산, 감정평가, 감정평가가격정보, 대상물건의 속성(특성), 가격정보, 공간정보, 공간분석, GIS, 데이터베이스(DATABASE)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161202073</learnModulSeq>
+<learnModulName>08. 감정평가가격정보 모형 설계</learnModulName>
+<learnModulText>감정평가모형, 감정평가 3방식, 대량감정평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161202074</learnModulSeq>
+<learnModulName>09. 감정평가가격정보제공 서비스 시스템 구축</learnModulName>
+<learnModulText>감정평가가격, 공시가격, 실거래가격, 감정평가정보체계, 공시가격정보체계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161202076</learnModulSeq>
+<learnModulName>10. 감정평가가격정보제공 서비스 수행</learnModulName>
+<learnModulText>감정평가, 감정평가가격정보제공, 감정평가서비스, 가격정보 보고서, 가격정보 추출ㆍ가공,VISS(Valuation Information Service System)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>부동산</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>감정평가</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>감정평가가격정보제공</ncsSubdCdnm>
+<learnModulSeq>EDU20161202077</learnModulSeq>
+<learnModulName>11. 감정평가가격정보제공 성과 관리</learnModulName>
+<learnModulText>감정평가, 감정평가가격정보, 정보범위, 품질관리, 리스크관리, 가격정보보고서, 통합관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200151</learnModulSeq>
+<learnModulName>통신판매 시장 환경분석</learnModulName>
+<learnModulText>시장동향, 경쟁사 분석, 통신판매법, 기회요인, 위협요인, 자사분석, 소비자보호법, 공정거래</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200152</learnModulSeq>
+<learnModulName>통신판매 상품개발기획</learnModulName>
+<learnModulText>통신판매 사업기획, 통신판매 상품설정, 통신판매 상품구성, 통신판매 가격 결정, 통신판매 상품분류, 통신판매 가격변동요인, 통신판매 고객 니즈, 통신판매 채널</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200153</learnModulSeq>
+<learnModulName>통신판매 광고 실행전략수립</learnModulName>
+<learnModulText>판매촉진 방법, 판매촉진 규모, 판매촉진 평가, 광고홍보 전략, 광고홍보 매체, 광고 예산, 광고홍보 평가 기준, 광고홍보 콘텐츠, 통신판매 실행 일정, 통신판매 전략, 돌발상황 대응전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200154</learnModulSeq>
+<learnModulName>통신판매 고객전략 수립</learnModulName>
+<learnModulText>고객 행태, 시장 특성, 목표고객, 쇼핑 행태, 구매 행태, 통신판매 방식, 고객관계관리, 로열티 향상전략, 데이터 마이닝, 맞춤형 고객서비스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200155</learnModulSeq>
+<learnModulName>통신판매 조직운영관리</learnModulName>
+<learnModulText>인적자원관리, 교육훈련, 직무분석, 인사규정, 조직, 운영계획, 목표, 평가, 보상</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200156</learnModulSeq>
+<learnModulName>통신판매 성과관리</learnModulName>
+<learnModulText>목표 설정, 업적평가, 역량평가, 성과 평가, 정성적 평가, 보상, 변수영향, 보상 피드백, 품질관리활동, 프로세스 표준화, 프로세스 개선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200157</learnModulSeq>
+<learnModulName>통신판매 고객관계관리</learnModulName>
+<learnModulText>고객의 소리(VOC), 해피콜, 우수고객 관리, 고객 충성도, 보상 프로그램, 고객정보 수집, 개인정보 보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200158</learnModulSeq>
+<learnModulName>통신판매 관리</learnModulName>
+<learnModulText>자금 관리, 판매 실적, 공급업체 정산, 상품 판매, 손익계산, 상품 검수, 상품 조달, 고객 주문 관리, 재고 관리, 배송 관리, 반품 처리, 고객 클레임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200159</learnModulSeq>
+<learnModulName>통신판매 인·아웃바운드 마케팅</learnModulName>
+<learnModulText>인바운드, 아웃바운드, 스크립트, 롤플레잉, 고객응대, 인바운드 채널, 아웃바운드 캠페인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>통신판매</ncsSubdCdnm>
+<learnModulSeq>EDU20161200160</learnModulSeq>
+<learnModulName>텔레마케팅 시스템 운영</learnModulName>
+<learnModulText>인바운드 시스템, 아웃바운드 시스템, 인입콜, 대량콜 처리시스템, 콜로드, 주문시스템, 통신시스템, 다이얼러, 시스템 대응 시나리오, 전산화면</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101792</learnModulSeq>
+<learnModulName>환경 분석</learnModulName>
+<learnModulText>전자 상거래, 모바일, SNS, E-비지니스, 시장 환경, 표적 시장, 제품 믹스, 고객 유형, 고객 니즈, 경쟁 모형, 핵심 성공 요소(CSF), 기술 로드맵(TRM)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101793</learnModulSeq>
+<learnModulName>사업 기획</learnModulName>
+<learnModulText>인터넷 마케팅, 마케팅 믹스, 시장 세분화, 4P, 6C</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101888</learnModulSeq>
+<learnModulName>사이트 기획</learnModulName>
+<learnModulText>전자상거래, e-비즈니스, 인터넷 마케팅, 모바일 비즈니스, 소셜 마케팅, 사이트 기획서, 사이트 개발 기획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101889</learnModulSeq>
+<learnModulName>사이트 구축</learnModulName>
+<learnModulText>독립형 쇼핑몰, 임대형 쇼핑몰, 오픈마켓, 디지털 콘텐츠, 웹 프로그래밍, HTML, 사용자 인터페이스, 프레임워크, 기초DB, 테스트, 형상관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101890</learnModulSeq>
+<learnModulName>사이트 운영</learnModulName>
+<learnModulText>시스템 관리, 웹 콘텐츠 운영 관리, 시스템 운영 관리, 상품 관리, 외부 시스템 연동, 사이트 유지 보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101891</learnModulSeq>
+<learnModulName>마케팅 관리</learnModulName>
+<learnModulText>뉴미디어마케팅, 마케팅 성과 측정, 콘텐츠 전략, 스토리텔링, ROI, 통합 마케팅 전략, 모바일마케팅, 디지털마케팅, KPI, 마케팅 목표 설정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101892</learnModulSeq>
+<learnModulName>판매 관리</learnModulName>
+<learnModulText>주문 처리, 주문 처리 확정, 결제 관리, 즉시 결제, 배송 관리, 배송 작업 지시, 배송 이력 관리, 교환/반품, 교환/반품 유형 분석, 재고 관리, 재고 현황, 상품 재고 계획 수립, 판매 정보 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101893</learnModulSeq>
+<learnModulName>고객 관리</learnModulName>
+<learnModulText>고객 정보, 고객정보 분류, 고객 정보 갱신, 고객 정보 분석, 웹 로그 분석, 고객 정보 활용, 고객 정보 보안 계획, 고객 정보 현황 모니터링, 고객 등급 심사, 고객 등급 평가, 고객 등급 선정, 고객 클레임, 고객 클레임 접수, 고객 클레임 해결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20160101894</learnModulSeq>
+<learnModulName>사후 관리</learnModulName>
+<learnModulText>현상조사, GAP 분석, 대책 수립, 사후 관리, 판매 후기, 고객 만족도, 설문 조사, 판매 계획, 사업 성과, 핵심성과 지표(KPI: Key Performance Indicator)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20190300090</learnModulSeq>
+<learnModulName>시장 환경 분석</learnModulName>
+<learnModulText>e-비즈니스, 전자상거래, 시장 환경, 표적 시장, 제품 믹스, 고객 유형, 고객 니즈, 경쟁 모형, 포지셔 닝, 경쟁사 분석, 경쟁 모형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20190300091</learnModulSeq>
+<learnModulName>기술 동향 분석</learnModulName>
+<learnModulText>성공 사례, 실패 사례, 핵심 성공요소(CSF: critical success factor), 전자상거래 기술 동향, 전자상거 래 신기술, 전자상거래 시스템, 전자상거래 모델, 참조 모델</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20190300092</learnModulSeq>
+<learnModulName>마케팅 관리</learnModulName>
+<learnModulText>콘텐츠 전략, 마케팅 동향, 마케팅 기법, 뉴미디어 마케팅, 통합마케팅 전략, 모바일 마케팅, 디 지털 마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>e-비지니스</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>전자상거래</ncsSubdCdnm>
+<learnModulSeq>EDU20190300093</learnModulSeq>
+<learnModulName>마케팅 성과 측정과 활용</learnModulName>
+<learnModulText>측정, 척도, 마케팅 성과, 성과 측정 도구, 마케팅 성과 측정, 마케팅 성과보고서, 마케팅 결과보 고서 분석, 분석 결과 적용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200709</learnModulSeq>
+<learnModulName>판매 기본 정보 분석</learnModulName>
+<learnModulText>매장 유형 분석, 매장 배치 구조, 상품 특성 분석, 상품 기능 숙지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200710</learnModulSeq>
+<learnModulName>매장 영업 전 판매 지원 및 준비 점검</learnModulName>
+<learnModulText>매장 청결, 안전시설, 디스플레이, 업무 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200711</learnModulSeq>
+<learnModulName>매장고객 응대</learnModulName>
+<learnModulText>매장 고객 응대 화법, 고객 가치, 지각된 편익과 지각된 비용, 환기수준, 제품의 3수준, 고객 욕구, 수요, 구매 시기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200712</learnModulSeq>
+<learnModulName>전화 고객 응대(일반/판매 상담)</learnModulName>
+<learnModulText>전화 응대, 전화 예절, 전화 응대 절차, 고객 응대 매뉴얼, 판매 상담, 고객의 욕구, 예약 관리 대장, 전화 상담 일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200713</learnModulSeq>
+<learnModulName>매장판매 상담</learnModulName>
+<learnModulText>소비자, 매장판매, 구매 욕구, 구매 상황, 가격탄력성, MOT, 서비스 청사진, 다속성모델, 휴리스틱, 관여도(고관여, 저관여), 구매 후 행동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200714</learnModulSeq>
+<learnModulName>매장상품 판매 마무리</learnModulName>
+<learnModulText>정확성, 신속성, 판매관리 시스템, 개인정보 보호법, 청소년보호법, 주세법, 배송, 청결, 포장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200715</learnModulSeq>
+<learnModulName>매장고객 관리</learnModulName>
+<learnModulText>고객 관리, 매장 방문 고객, 우수고객, 불만고객, 고객 관계 관리(CRM), 고객 관리 프로그램, 고객 불만 처리, A/S 처리, 고객의 소리(VOC), 고객만족도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200716</learnModulSeq>
+<learnModulName>매장 판매촉진 관리</learnModulName>
+<learnModulText>매장 판매촉진활동 기획, 매장경영관리 매뉴얼, 판매촉진 계획서, 판매촉진활동 유형, 판매촉진활동 실행 프로그램, 판매촉진활동 장비, 판매촉진활동 참가 혜택, 판매촉진활동 평가, 판매촉진활동 결과 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200717</learnModulSeq>
+<learnModulName>매장 영업 관리</learnModulName>
+<learnModulText>직원 교육 계획서, 판매 기본 정보 교육용 교재, 판매 서비스 교육용 교재, 거래처, 거래처 평가 기준표, 계약 체결, 영업 매출 계획서, POS, 매출 보고서, 판매 촉진 활동, 포상 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20151200718</learnModulSeq>
+<learnModulName>매장 경영 관리</learnModulName>
+<learnModulText>상품 디스플레이, 상품 판매 분석, 재고 관리, 종업원 채용, 종업원 인사, 매출 분석, 매장 손익 분석, 상권 분석, 경영 기획서 작성, 매뉴얼 개발</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20190100102</learnModulSeq>
+<learnModulName>전화고객 상담</learnModulName>
+<learnModulText>전화 응대, 전화 예절, 전화 응대 절차, 고객 응대 매뉴얼, 판매 상담, 고객의 욕구, 예약 관리 대장, 전화 상담 일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>매장판매</ncsSubdCdnm>
+<learnModulSeq>EDU20190100103</learnModulSeq>
+<learnModulName>디스플레이 관리</learnModulName>
+<learnModulText>상품 디스플레이, 디스플레이 소품, 디스플레이 용품, 디스플레이 방법, 트렌드별 디스플레이, 상품 관리, 매장 재고 관리, 디스플레이 지침서, 계절별 디스플레이</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101034</learnModulSeq>
+<learnModulName>방문판매 기획</learnModulName>
+<learnModulText>방문판매과정, 방문판매 현황, 고객유형, 상품특성, 상품지식, 방문판매 등에 관한 법률, 소비자기본법, 개인정보보호법, 소비자피해보상</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101035</learnModulSeq>
+<learnModulName>방문판매 서비스 마인드 구축</learnModulName>
+<learnModulText>영업 마인드, 서비스 마인드, 세일즈맨 쉽, 이미지 메이킹, 퍼스널 컬러, 세일즈 복장, 비즈니스 매너</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101036</learnModulSeq>
+<learnModulName>방문고객 발굴</learnModulName>
+<learnModulText>잠재고객, 고객세분화, 구매가능고객, 선별, 방문계획수립, 가망고객, 고객접근 준비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101037</learnModulSeq>
+<learnModulName>방문고객 접근</learnModulName>
+<learnModulText>SNS 마케팅, TM, DM, 산업 구조 분석, 시장 분석, 시장 개척 전략, 판매촉진 전략, 방문판매 프로세스, 고객 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101038</learnModulSeq>
+<learnModulName>방문고객 상담</learnModulName>
+<learnModulText>아이스브레이킹(icebreaking), 라포(rapport), 고객 특성, 프레젠테이션, 시연, 고객 설득, 구매 의사 제고, 거절 대응, 셀링 포인트(selling point)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101039</learnModulSeq>
+<learnModulName>방문판매 종결</learnModulName>
+<learnModulText>계약서, 수금관리, 작성체결, 판매고객, 상품출고, 결제방식, 만족도, 신규고객, 소개요청</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101040</learnModulSeq>
+<learnModulName>방문고객 사후관리</learnModulName>
+<learnModulText>고객 관계 관리, 고객 생애 가치, 업 셀링, 크로스 셀링, 해피콜, 로열티 프로그램, 기대 만족 이론, 인지 부조화 이론, 불만 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101041</learnModulSeq>
+<learnModulName>방문판매 성과관리</learnModulName>
+<learnModulText>방문 판매, 방문 판매 분석, 방문 판매 성과 관리, 영업 마인드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101042</learnModulSeq>
+<learnModulName>방문판매 조직관리</learnModulName>
+<learnModulText>인력계획, 채용후보자, 채용 프로세스, 조직비전, 조직목표, 조직육성, 조직훈련, 조직원 모집, 조직원 선발, 조직원 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20160101921</learnModulSeq>
+<learnModulName>방문판매 훈련</learnModulName>
+<learnModulText>판매 스크립트, 실전 연습, 점검 프로세스, 고객 유형, 상품 특성, 고객 상황, 동반 활동, 판매 화법, 판매 기법, 현장 활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20190100059</learnModulSeq>
+<learnModulName>방문고객 사후관리</learnModulName>
+<learnModulText>고객관계관리, 고객생애가치, 업셀링, 크로스셀링, 해피콜, 로열티 프로그램, 기대만족이론, 공평 성이론, 귀인이론, 인지부조화이론</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20190100060</learnModulSeq>
+<learnModulName>방문고객 불만대응</learnModulName>
+<learnModulText>고객불평, 불만고객대응, 불만처리 매뉴얼, 진실의 순간(MOT), VOC 활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20190100061</learnModulSeq>
+<learnModulName>방문판매 조직운영</learnModulName>
+<learnModulText>인력계획, 채용후보자, 채용 프로세스, 조직비전, 조직목표, 조직육성, 조직훈련, 조직원 모집, 조직원 선발, 조직원 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>일반판매</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방문판매</ncsSubdCdnm>
+<learnModulSeq>EDU20190100104</learnModulSeq>
+<learnModulName>방문판매 조직구성</learnModulName>
+<learnModulText>인력계획, 채용후보자, 채용 프로세스, 조직비전, 조직목표, 조직육성, 조직훈련, 조직원 모집, 조직원 선발, 조직원 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200097</learnModulSeq>
+<learnModulName>출하 관리</learnModulName>
+<learnModulText>출하 시기, 출하 물량, 출하처 교육, 지역별 출하 시기, 지역별 출하 물량, 규격별 교육, 출하 정 보, 수입 농축수산물 출하 시기, 수입 농축수산물 출하 물량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200098</learnModulSeq>
+<learnModulName>시장조사</learnModulName>
+<learnModulText>중도매인, 품질, 가격, 구매 시기, 포장, 등급, 소매시장, 유통경로, 최종소비자, 재고량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200099</learnModulSeq>
+<learnModulName>경매 준비</learnModulName>
+<learnModulText>입하 물량, 상품성 평가, 표준 규격, 등급 규격, 내정 단가, 경매 우선순위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200100</learnModulSeq>
+<learnModulName>경매 실시</learnModulName>
+<learnModulText>경매, 농수산물 경매, 경매사, 응찰, 응찰 가격, 낙찰, 유찰, 경매 가격, 전자 경매, 이미지 경매, 수지식 경매</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200101</learnModulSeq>
+<learnModulName>경매 사후관리</learnModulName>
+<learnModulText>경락내정가격, 판매원표, 등급규격, 유찰, 낙찰 가격, 입찰 가격, 경매 민원, 경매 결과, 경매 상 품, 유찰 상품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200102</learnModulSeq>
+<learnModulName>거래 참가자 관리</learnModulName>
+<learnModulText>거래 참가자, 중도매인, 매매 참가인, 보조 참가인, 중도매인 거래 한도, 중도매인 거래 한도 조 정, 민원 처리, 거래 참가자 보증금, 거래 참가자 영업 활동 지원, 농협 계통 출하</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200103</learnModulSeq>
+<learnModulName>신규 출하처 개발</learnModulName>
+<learnModulText>농축수산물, 경매, 경매 시장, 상품 중계, 신규 출하처(자), 신규 거래처(자), 신규 상품(농산물, 축산물, 수산물), 출하처(자) 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>10</ncsLclasCd>
+<ncsLclasCdnm>영업판매</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>판매</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>상품중개·경매</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>농축수산물경매</ncsSubdCdnm>
+<learnModulSeq>EDU20171200104</learnModulSeq>
+<learnModulName>정가·수의매매 관리</learnModulName>
+<learnModulText>정가 매매, 수의 매매, 정가·수의 매매, 도매 법인, 중도매인, 경매사, 산지, 출하처, 농수산 유 통, 시장 도매인</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>186</totCnt>
+</dataInfo>
+</root>
