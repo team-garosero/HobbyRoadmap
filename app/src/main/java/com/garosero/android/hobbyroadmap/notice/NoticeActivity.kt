@@ -27,13 +27,11 @@ class NoticeActivity : AppCompatActivity() {
 
         // recycler view
         binding.apply {
-            // todo : add dates
             dataset.apply {
                 if (isEmpty()){
                     val today = LocalDate.now()
-                    for (a in 1..20){
-                        add(NoticeItem(title = "알림 내용${a}", date = today.minusDays(a.toLong())))
-                    }
+                    add(NoticeItem(title = "3일 동안 접속하지 않았습니다.", date = today.minusDays(3)))
+                    add(NoticeItem(title = "로드맵에 새로운 글이 등록되었습니다.", date = today.minusDays(5)))
                 }
             }
             noticeAdapter = NoticeAdapter(dataset)
