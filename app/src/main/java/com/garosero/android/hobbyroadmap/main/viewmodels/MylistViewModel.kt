@@ -1,9 +1,13 @@
 package com.garosero.android.hobbyroadmap.main.viewmodels
 
+import android.content.Context
+import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.main.helper.CastHelper
+import com.garosero.android.hobbyroadmap.main.helper.SQLiteSearchHelper
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest
 import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest
@@ -15,20 +19,23 @@ open class MylistViewModel : ViewModel() {
 
     var myClass = MutableLiveData<MutableMap<String, ArrayList<MyClass>>>()
 
-    init {
+    fun subscribeUserData(context: Context){
+        AppApplication.requestSubscribeUser()
+
         NetworkFactory.request(ReadUserRequest(), object : RequestListener(){
             override fun onRequestSuccess(data: Any) {
                 val _myClass = mutableMapOf<String, ArrayList<MyClass>>()
 
                 (data as? UserResponse)?.myClass?.forEach {
-                    val classItem = CastHelper.myClassResponseToMyClass(it.value)
+                    val classItem = CastHelper.myClassResponseToMyClass(it.value, context)
+                    val keyString = createKey(classItem)
 
-                    if(_myClass[classItem.SClassId] == null){
-                        _myClass[classItem.SClassId] = ArrayList()
+                    if(_myClass[keyString] == null){
+                        _myClass[keyString] = ArrayList()
 
                     } // end if
 
-                    _myClass[classItem.SClassId]?.add(classItem)
+                    _myClass[keyString]?.add(classItem)
                 }
 
                 myClass.value = _myClass
@@ -36,14 +43,23 @@ open class MylistViewModel : ViewModel() {
         })
     }
 
-    fun getMyClass(mClassID : String) : ArrayList<MyClass> {
-        return myClass.value?.get(mClassID) ?: ArrayList()
+    private fun createKey(classItem : MyClass) : String  = "${classItem.LClassId} ${classItem.MClassId}"
+    fun parsingKey(key : String) : ArrayList<String>{
+        val parsingAnswer = java.util.ArrayList(key.split(" "))
+
+        try {
+            if (parsingAnswer.size != 2){
+                throw IllegalAccessError()
+            }
+        } catch (e : IllegalAccessError){
+            Log.e(TAG, e.stackTraceToString())
+        }
+
+        return parsingAnswer
     }
 
-    fun getMClassName(mClassID : String) : String {
-        // fixme
-        //return ApiRequest.lClass.getmClassMap()[mClassID]?.name ?: ""
-        return "name"
+    fun getMyClass(keyString : String) : ArrayList<MyClass> {
+        return myClass.value?.get(keyString) ?: ArrayList()
     }
 
 }

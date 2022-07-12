@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.main.helper
 
+import android.content.Context
 import android.util.Log
 import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.data.TilItem
@@ -11,6 +12,7 @@ class CastHelper {
     companion object{
         val TAG = "CastHelper"
 
+        //======================================= TIL ==============================================
         fun tilresponseToTilitem(tilResponse: TilResponse) : TilItem{
             val tilItem = TilItem()
 
@@ -56,7 +58,9 @@ class CastHelper {
             return response
         }
 
-        fun myClassResponseToMyClass(myClassResponse: MyClassResponse) : MyClass{
+        //======================================= MyClass ==========================================
+        private var sqliteSearchHelper : SQLiteSearchHelper? = null
+        fun myClassResponseToMyClass(myClassResponse: MyClassResponse, mContext : Context) : MyClass{
             val myClass = MyClass()
 
             with(myClass){
@@ -74,6 +78,11 @@ class CastHelper {
                 } catch (e : Exception){
                     Log.e(TAG, e.stackTraceToString())
                 }
+
+                // sqlite helper를 여러번 생성하지 않도록 하기 위해 아래처럼 선언해둠
+                // 추후에 dagger 등으로 프로젝트 내에서 중복 생성을 막도록 처리해야 함.
+                if (sqliteSearchHelper == null) sqliteSearchHelper = SQLiteSearchHelper(mContext)
+                subClassName = sqliteSearchHelper!!.getSubClassName(LClassId, MClassId, SClassId, subClassId) ?: ""
 
             }
 

@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.main.mylist
 
+import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -7,6 +8,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.databinding.RecyclerMylistChildBinding
+import com.garosero.android.hobbyroadmap.main.helper.SQLiteSearchHelper
 import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity
 
 /**
@@ -30,24 +32,42 @@ class MylistChildAdapter(var dataset : MutableList<MyClass>)
 
     inner class ViewHolder(private val binding : RecyclerMylistChildBinding)
         : RecyclerView.ViewHolder(binding.root){
+        private val sQLiteHelper = SQLiteSearchHelper(itemView.context)
 
         fun bind(item : MyClass){
             binding.apply {
-                // todo fill
-                //tvTitle.text = item.
+                tvTitle.text = item.subClassName
                 tvDate.text = item.lastAccess
-                //tvPercentage.text = "${item.}%"
+                tvPercentage.text = "${getPercentage(item, sQLiteHelper)}%"
                 layout.setOnClickListener {
-                    // goto SyllabusActivity
-                    val intent = Intent(itemView.context, SyllabusActivity::class.java)
-                    val arrList = ArrayList(item.classPath.split(" "))
-                    intent.putExtra("classCd", arrList)
-                    itemView.context.startActivity(intent)
+                    goSyllabusActivity(
+                        mContext = itemView.context,
+                        classPathList = ArrayList(item.classPath.split(" ")))
                 }
 
                 ivRoadmap.setImageResource(getImageSrc(item.LClassId))
             }
         }
+    }
+
+    private fun goSyllabusActivity(mContext : Context, classPathList : ArrayList<String>){
+        val intent = Intent(mContext, SyllabusActivity::class.java)
+        intent.putExtra("classCd", classPathList)
+        mContext.startActivity(intent)
+    }
+
+
+    // ===================================== get item resource =====================================
+    private fun getPercentage(item: MyClass, sqLiteSearchHelper: SQLiteSearchHelper): Int{
+        val subClassSize = sqLiteSearchHelper.getSubClassSize(item.LClassId, item.MClassId, item.MClassId, item.subClassId)
+
+        if (subClassSize == 0){
+            // todo throw error
+            return 0
+        }
+
+        val percentage = (item.modules.size * 100) / subClassSize
+        return percentage
     }
 
     private fun getImageSrc(lClassID : String) : Int{

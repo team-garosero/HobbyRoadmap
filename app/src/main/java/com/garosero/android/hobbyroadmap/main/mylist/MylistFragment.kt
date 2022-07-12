@@ -24,8 +24,7 @@ class MylistFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         binding = FragmentMylistBinding.inflate(inflater, container, false)
-
-        AppApplication.requestSubscribeUser()
+        model.subscribeUserData(requireContext())
         initView()
         registerObserver()
 
@@ -39,8 +38,6 @@ class MylistFragment : Fragment() {
                 keys.add(it)
             }
             adapter.submitData(keys)
-            Log.e("Mylist", keys.toString())
-            Log.e("Mylist", adapter.itemCount.toString())
         }
         model.myClass.observe(viewLifecycleOwner, observer)
     }
@@ -68,7 +65,7 @@ class MylistFragment : Fragment() {
             }
         )*/
         binding!!.emptyView.setOnClickListener {
-            Log.e("EMPTY", "click")
+            //Log.e("EMPTY", "click")
             findNavController().navigate(R.id.item_home)
         }
     }

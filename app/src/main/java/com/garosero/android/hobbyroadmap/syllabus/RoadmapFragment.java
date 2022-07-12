@@ -145,7 +145,7 @@ public class RoadmapFragment extends Fragment {
             public void onChanged(UserResponse userResponse) {
                 int percentage = 0;
                 for (String key : userResponse.getMyClass().keySet()){
-                    MyClass item = CastHelper.Companion.myClassResponseToMyClass(Objects.requireNonNull(userResponse.getMyClass().get(key)));
+                    MyClass item = CastHelper.Companion.myClassResponseToMyClass(Objects.requireNonNull(userResponse.getMyClass().get(key)), getContext());
                     // filter
                     if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
                             item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassID)) {
