@@ -81,7 +81,6 @@ public class RoadmapFragment extends Fragment {
         int subClassSize = c.getCount();
         c.moveToNext();
         tv_title.setText(c.getString(c.getColumnIndex("sub_class_name")));
-//        Log.d("Roadmap",c.getCount()+c.getString(c.getColumnIndex("sub_class_name")));
 
         int moduleOrder = 0;
         HashMap<String, ModuleClassItem> moduleClassMap = new HashMap<>();
@@ -95,11 +94,21 @@ public class RoadmapFragment extends Fragment {
 
         initRecyclerView(moduleClassMap);
 
-       // todo 1. 유저데이터 접근 2. %계산
-//        if (AppApplication.Companion.getUserData().getValue() == null) AppApplication.Companion.requestSubscribeUser();
-//        UserResponse userResponse = AppApplication.Companion.getUserData().getValue();
-//        int percentage = userResponse.getMyClass().size() / subClassSize;
-//        tv_percentage.setText(percentage+"%");
+        if (AppApplication.Companion.getUserData().getValue() == null) AppApplication.Companion.requestSubscribeUser();
+        UserResponse userResponse = AppApplication.Companion.getUserData().getValue();
+
+        int percentage = 0;
+        for (String key : userResponse.getMyClass().keySet()){
+            MyClass item = CastHelper.Companion.myClassResponseToMyClass(Objects.requireNonNull(userResponse.getMyClass().get(key)));
+            // filter
+            if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
+                    item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassID)) {
+                percentage = (int) Math.round((double) item.getModules().size() / subClassSize * 100.0);
+                break;
+            } // end if
+        }
+
+        tv_percentage.setText(percentage+"%");
 
         bt_community.setOnClickListener(view -> {
             replaceFragment(new CommunityFragment(this.classCd));
@@ -121,7 +130,6 @@ public class RoadmapFragment extends Fragment {
     private void initRecyclerView(HashMap<String, ModuleClassItem> moduleClassMap){
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
 
-        // fixme 제대로 연결되었는지 확인
         SyllabusChildAdapter syllabusChildAdapter = new SyllabusChildAdapter(classCd, moduleClassMap);
         recyclerView.setAdapter(syllabusChildAdapter);
 
