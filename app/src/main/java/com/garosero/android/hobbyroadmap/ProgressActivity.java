@@ -41,6 +41,7 @@ public class ProgressActivity extends AppCompatActivity {
 
         // fetch api data
         if(helper.exists(db)){
+            Log.d("ProgressActivity","DB already exists");
             startActivity(new Intent(this, MainActivity.class));
             db.close();
             finish();
@@ -48,6 +49,7 @@ public class ProgressActivity extends AppCompatActivity {
         } else {
 //            helper.onCreate(db);
             helper.onUpgrade(db,1,1);
+            Log.d("ProgressActivity","create DB");
             new Thread(() -> {
                 try {
 //                long before = System.currentTimeMillis();
