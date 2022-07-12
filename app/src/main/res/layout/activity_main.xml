@@ -33,7 +33,8 @@
                     android:textSize="18sp"
                     android:textStyle="bold"
                     android:text="@string/app_name"
-                    android:letterSpacing="0.5"/>
+                    android:letterSpacing="0.5"
+                    android:fontFamily="@font/gothambold"/>
 
             </androidx.appcompat.widget.Toolbar>
 
