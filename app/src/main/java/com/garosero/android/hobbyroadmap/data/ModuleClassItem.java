@@ -8,6 +8,8 @@ public class ModuleClassItem{
         this.text = text;
     }
 
+    public ModuleClassItem(){}
+
     @Override
     public String toString() {
         return "ModuleClass{" +
