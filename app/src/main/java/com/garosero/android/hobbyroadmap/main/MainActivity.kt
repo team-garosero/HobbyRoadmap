@@ -2,12 +2,10 @@ package com.garosero.android.hobbyroadmap.main
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.findNavController
-import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupWithNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.ActivityMainBinding
@@ -52,6 +50,7 @@ class MainActivity : AppCompatActivity() {
             }
             R.id.item_setting -> {
                 val intent = Intent(this, SettingsActivity::class.java)
+
                 startActivity(intent)
             }
         }
