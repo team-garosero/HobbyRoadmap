@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.helper;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -14,7 +15,16 @@ public class DBHelper extends SQLiteOpenHelper {
 
     public boolean exists(SQLiteDatabase db){
         Cursor c = db.rawQuery("SELECT name FROM sqlite_master WHERE type='table' AND name='module_table'", null);
-        return c.getCount() == 1; // exists if 1
+        if(c.getCount() == 0) {
+            c.close();
+            return false;
+        }
+
+        c = db.rawQuery("select l_class_code from module_table", null);
+        boolean res = c.getCount() != 0;
+        c.close();
+
+        return res;
     }
 
     @Override

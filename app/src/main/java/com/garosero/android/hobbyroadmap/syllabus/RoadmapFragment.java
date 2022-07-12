@@ -88,27 +88,15 @@ public class RoadmapFragment extends Fragment {
             ModuleClassItem mc = new ModuleClassItem(c.getString(c.getColumnIndex("module_num")), c.getString(c.getColumnIndex("module_name")), c.getString(c.getColumnIndex("module_text")));
             moduleClassMap.put(String.valueOf(moduleOrder++), mc);
         }while(c.moveToNext());
-
+        c.close();
         db.close();
+
         tv_count.setText("학습모듈 "+subClassSize+"개");
 
+        AppApplication.Companion.requestSubscribeUser();
+        registerObserver(subClassSize);
+
         initRecyclerView(moduleClassMap);
-
-        if (AppApplication.Companion.getUserData().getValue() == null) AppApplication.Companion.requestSubscribeUser();
-        UserResponse userResponse = AppApplication.Companion.getUserData().getValue();
-
-        int percentage = 0;
-        for (String key : userResponse.getMyClass().keySet()){
-            MyClass item = CastHelper.Companion.myClassResponseToMyClass(Objects.requireNonNull(userResponse.getMyClass().get(key)));
-            // filter
-            if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
-                    item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassID)) {
-                percentage = (int) Math.round((double) item.getModules().size() / subClassSize * 100.0);
-                break;
-            } // end if
-        }
-
-        tv_percentage.setText(percentage+"%");
 
         bt_community.setOnClickListener(view -> {
             replaceFragment(new CommunityFragment(this.classCd));
@@ -151,6 +139,26 @@ public class RoadmapFragment extends Fragment {
         AppApplication.Companion.getTilData().observe(getViewLifecycleOwner(), tilObserver);
     }
 
+    private void registerObserver(int subClassSize){
+        Observer<UserResponse> userObserver = new Observer<UserResponse>() {
+            @Override
+            public void onChanged(UserResponse userResponse) {
+                int percentage = 0;
+                for (String key : userResponse.getMyClass().keySet()){
+                    MyClass item = CastHelper.Companion.myClassResponseToMyClass(Objects.requireNonNull(userResponse.getMyClass().get(key)));
+                    // filter
+                    if (item.getLClassId().equals(LClassID) && item.getMClassId().equals(MClassID) &&
+                            item.getSClassId().equals(SClassID) && item.getSubClassId().equals(subClassID)) {
+                        percentage = (int) Math.round((double) item.getModules().size() / subClassSize * 100.0);
+                        break;
+                    } // end if
+                }
+                Log.d("roadmapobserver","thoss");
+                tv_percentage.setText(percentage+"%");
+            }
+        };
+        AppApplication.Companion.getUserData().observe(getViewLifecycleOwner(), userObserver);
+    }
 
     public void replaceFragment(Fragment fragment){
         FragmentTransaction fragmentTransaction = getActivity().getSupportFragmentManager().beginTransaction();

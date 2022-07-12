@@ -21,6 +21,7 @@ import com.garosero.android.hobbyroadmap.network.response.TilResponse;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 
@@ -72,7 +73,15 @@ public class CommunityAdapter extends RecyclerView.Adapter<CommunityAdapter.View
         public void bind(TilItem item, int position){
             tv_title.setText(item.getModuleName());
             tv_content.setText(item.getContent());
-            tv_nickname.setText(item.getUid()); // todo : tiltitem에 nickanme을 포함하든가, 닉네임을 찾는 과정이 필요
+//            tv_nickname.setText(item.getUid());
+
+            //hard codded nickname
+            final List<String> nicknames = Arrays.asList("강아지","고양이","토끼","개구리","고구마","감자","선크림","키위맛치약","완득이");
+            try{
+                tv_nickname.setText(nicknames.get(position)); // todo : tiltitem에 nickanme을 포함하든가, 닉네임을 찾는 과정이 필요
+            }catch (ArrayIndexOutOfBoundsException e) {
+                tv_nickname.setText(nicknames.get(0));
+            }
 
             cardView.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -80,7 +89,7 @@ public class CommunityAdapter extends RecyclerView.Adapter<CommunityAdapter.View
                     Intent intent = new Intent(view.getContext(), CommunityDetailActivity.class);
                     intent.putExtra("content",item.getContent());
                     intent.putExtra("moduleName",item.getModuleName());
-                    intent.putExtra("nickname",item.getUid());
+                    intent.putExtra("nickname",tv_nickname.getText());
 
                     view.getContext().startActivity(intent);
                 }
