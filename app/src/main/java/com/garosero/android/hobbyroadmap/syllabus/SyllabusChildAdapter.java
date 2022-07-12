@@ -2,6 +2,7 @@ package com.garosero.android.hobbyroadmap.syllabus;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.os.Build;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
+import androidx.annotation.RequiresApi;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -17,6 +19,7 @@ import com.garosero.android.hobbyroadmap.R;
 import com.garosero.android.hobbyroadmap.data.ModuleClassItem;
 import com.garosero.android.hobbyroadmap.data.TilItem;
 import com.garosero.android.hobbyroadmap.main.helper.CastHelper;
+import com.garosero.android.hobbyroadmap.main.til.TilItemFragment;
 import com.garosero.android.hobbyroadmap.main.til.TilWriteActivity;
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
 import com.garosero.android.hobbyroadmap.network.response.TilResponse;
@@ -71,8 +74,10 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
         }
 
         holder.recycler_cardView.setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View view) {
+
                 // go to til write
                 Intent intent = new Intent(holder.itemView.getContext(), TilWriteActivity.class);
                 intent.putExtra(TilWriteActivity.Companion.getLCLASSID(), LClassID);
@@ -81,6 +86,7 @@ public class SyllabusChildAdapter extends RecyclerView.Adapter<SyllabusChildAdap
                 intent.putExtra(TilWriteActivity.Companion.getSUBCLASSID(), subClassId);
                 intent.putExtra(TilWriteActivity.Companion.getMODULENAME(), moduleClassMap.get(String.valueOf(position)).getName());
                 intent.putExtra(TilWriteActivity.Companion.getMODULEDESC(), moduleClassMap.get(String.valueOf(position)).getText()); //desc?
+                intent.putExtra(TilWriteActivity.Companion.getMODULENUM(), moduleClassMap.get(String.valueOf(position)).getModuleNum());
 
                 holder.itemView.getContext().startActivity(intent);
                 Log.e("syllabusChildAdapter", "click card view");

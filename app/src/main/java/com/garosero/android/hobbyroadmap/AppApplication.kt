@@ -1,10 +1,8 @@
 package com.garosero.android.hobbyroadmap
 
 import android.app.Application
-import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import com.garosero.android.hobbyroadmap.network.NetworkFactory
-import com.garosero.android.hobbyroadmap.network.NetworkFactory.Companion.request
 import com.garosero.android.hobbyroadmap.network.request.ReadTilRequest
 import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest
 import com.garosero.android.hobbyroadmap.network.request.RequestListener

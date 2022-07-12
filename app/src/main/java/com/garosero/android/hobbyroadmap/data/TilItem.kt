@@ -7,5 +7,6 @@ class TilItem(
     var MClassId : String = "",
     var SClassId : String = "",
     var subClassId : String = "",
+    var moduleNum : String = "", // update 데이터에서는 사용되지 않는다.
 ) : TilResponse() {
 }

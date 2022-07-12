@@ -2,13 +2,11 @@ package com.garosero.android.hobbyroadmap.main.til
 
 import android.os.Build
 import android.os.Bundle
-import android.view.MenuItem
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.TilItem
-import com.garosero.android.hobbyroadmap.databinding.ActivityTilWriteBinding
 import com.garosero.android.hobbyroadmap.main.helper.DateHelper
 import com.google.firebase.auth.FirebaseAuth
 
@@ -17,7 +15,6 @@ class TilWriteActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_til_write)
-        val binding = ActivityTilWriteBinding.inflate(layoutInflater)
 
         // fragment
         val tilItem = TilItem()
@@ -32,8 +29,9 @@ class TilWriteActivity : AppCompatActivity() {
             modulePath = "${LClassId} ${MClassId} ${SClassId} ${subClassId}"
             moduleName = getIntentData(MODULENAME)
             moduleDesc = getIntentData(MODULEDESC)
-        }
+            moduleNum = getIntentData(MODULENUM)
 
+        }
         changeFragment(TilItemFragment(TilItemFragment.TilWriteMode.CREATE, tilItem))
 
     }
@@ -54,6 +52,7 @@ class TilWriteActivity : AppCompatActivity() {
         val SCLASSID = "SCLASSID"
         val SUBCLASSID = "SUBCLASSID"
 
+        val MODULENUM = "MODULENUM"
         val MODULENAME = "MODULENAME"
         val MODULEDESC = "MODULEDESC"
     }

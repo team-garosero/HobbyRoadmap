@@ -6,7 +6,7 @@ import com.google.firebase.database.FirebaseDatabase
 class DeleteTilRequest(
     val id : String
 ) : BaseRequest() {
-    override val TAG: String = "UpdateTilRequest"
+    override val TAG: String = "DeleteTilRequest"
     private val DATA_PATH = "TIL"
 
     override fun request() {

@@ -7,5 +7,6 @@ class MyClass(
     var MClassId : String = "",
     var SClassId : String = "",
     var subClassId : String = "",
-) : MyClassResponse() {
+    var subClassName : String = "",
+) : MyClassResponse(){
 }
