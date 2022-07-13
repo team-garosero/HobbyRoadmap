@@ -47,128 +47,133 @@ public class ProgressActivity extends AppCompatActivity {
         // fetch api data
         if(helper.exists(db)){
             Log.d(TAG,"DB already exists");
+            db.close();
+            startActivity(new Intent(this, MainActivity.class));
+            finish();
         }
 
-        helper.onUpgrade(db,1,1);
-        Log.d(TAG,"create DB");
-        new Thread(() -> {
-            try {
+        else {
+            helper.onUpgrade(db, 1, 1);
+            Log.d(TAG, "create DB");
+            new Thread(() -> {
+                try {
 //                long before = System.currentTimeMillis();
-                for (int i = 0; i < resourceList.size(); i++) {
-                    Log.d(TAG, i+"");
-                    sendMsg(i+1);
+                    for (int i = 0; i < resourceList.size(); i++) {
+                        Log.d(TAG, i + "");
+                        sendMsg(i + 1);
 
-                    try {
+                        try {
 
-                        //String lClassCd = i < 10 ? "0" + i : i + "";
-                        //String queryUrl = "https://apis.data.go.kr/B490007/ncsStudyModule/openapi21?serviceKey=" + API_KEY+ "&numOfRows=5&pageNo=1&returnType=xml&ncsLclasCd=" + lClassCd;
-                        //URL url = new URL(queryUrl);
-                        //InputStream is = url.openStream();
+                            //String lClassCd = i < 10 ? "0" + i : i + "";
+                            //String queryUrl = "https://apis.data.go.kr/B490007/ncsStudyModule/openapi21?serviceKey=" + API_KEY+ "&numOfRows=5&pageNo=1&returnType=xml&ncsLclasCd=" + lClassCd;
+                            //URL url = new URL(queryUrl);
+                            //InputStream is = url.openStream();
 
-                        InputStream is = getResources().openRawResource(resourceList.get(i));
+                            InputStream is = getResources().openRawResource(resourceList.get(i));
 
-                        // xml parsing
-                        XmlPullParserFactory factory = XmlPullParserFactory.newInstance();
-                        XmlPullParser xpp = factory.newPullParser();
-                        xpp.setInput(new InputStreamReader(is, "UTF-8")); //inputstream 으로부터 xml 입력받기
+                            // xml parsing
+                            XmlPullParserFactory factory = XmlPullParserFactory.newInstance();
+                            XmlPullParser xpp = factory.newPullParser();
+                            xpp.setInput(new InputStreamReader(is, "UTF-8")); //inputstream 으로부터 xml 입력받기
 
-                        String tag = "";
-                        xpp.next();
-                        int eventType = xpp.getEventType();
+                            String tag = "";
+                            xpp.next();
+                            int eventType = xpp.getEventType();
 
-                        ContentValues values = new ContentValues();
+                            ContentValues values = new ContentValues();
 
-                        while (eventType != XmlPullParser.END_DOCUMENT) {
-                            switch (eventType) {
-                                case XmlPullParser.START_DOCUMENT:
-                                    break;
+                            while (eventType != XmlPullParser.END_DOCUMENT) {
+                                switch (eventType) {
+                                    case XmlPullParser.START_DOCUMENT:
+                                        break;
 
-                                case XmlPullParser.START_TAG:
-                                    tag = xpp.getName();//get tag name
-                                    try {
-                                        switch (tag) {
-                                            case "row":
-                                                values = new ContentValues();
-                                                break;
-                                            case "ncsLclasCd":  // 대분류코드
-                                                xpp.next();
-                                                values.put(SqlCol.l_class_code.name(), xpp.getText());
-                                                break;
-                                            case "ncsLclasCdnm":  // 중분류코드명
-                                                xpp.next();
-                                                values.put(SqlCol.l_class_name.name(), xpp.getText());
-                                                break;
-                                            case "ncsMclasCd":  // 중분류코드
-                                                xpp.next();
-                                                values.put(SqlCol.m_class_code.name(), xpp.getText());
-                                                break;
-                                            case "ncsMclasCdnm":  // 중분류코드명
-                                                xpp.next();
-                                                values.put(SqlCol.m_class_name.name(), xpp.getText());
-                                                break;
-                                            case "ncsSclasCd":  // 소분류코드
-                                                xpp.next();
-                                                values.put(SqlCol.s_class_code.name(), xpp.getText());
-                                                break;
-                                            case "ncsSclasCdnm":  // 소분류코드명
-                                                xpp.next();
-                                                values.put(SqlCol.s_class_name.name(), xpp.getText());
-                                                break;
-                                            case "ncsSubdCd":  // 세분류코드
-                                                xpp.next();
-                                                values.put(SqlCol.sub_class_code.name(), xpp.getText());
-                                                break;
-                                            case "ncsSubdCdnm":  // 세분류코드명
-                                                xpp.next();
-                                                values.put(SqlCol.sub_class_name.name(), xpp.getText());
-                                                break;
-                                            case "learnModulSeq":  // 학습모듈번호
-                                                xpp.next();
-                                                values.put(SqlCol.module_num.name(), xpp.getText());
-                                                break;
-                                            case "learnModulName":  // 학습모듈명
-                                                xpp.next();
-                                                values.put(SqlCol.module_name.name(), xpp.getText());
-                                                break;
-                                            case "learnModulText":  // 학습모듈내용
-                                                xpp.next();
-                                                values.put(SqlCol.module_text.name(), xpp.getText());
-                                                break;
+                                    case XmlPullParser.START_TAG:
+                                        tag = xpp.getName();//get tag name
+                                        try {
+                                            switch (tag) {
+                                                case "row":
+                                                    values = new ContentValues();
+                                                    break;
+                                                case "ncsLclasCd":  // 대분류코드
+                                                    xpp.next();
+                                                    values.put(SqlCol.l_class_code.name(), xpp.getText());
+                                                    break;
+                                                case "ncsLclasCdnm":  // 중분류코드명
+                                                    xpp.next();
+                                                    values.put(SqlCol.l_class_name.name(), xpp.getText());
+                                                    break;
+                                                case "ncsMclasCd":  // 중분류코드
+                                                    xpp.next();
+                                                    values.put(SqlCol.m_class_code.name(), xpp.getText());
+                                                    break;
+                                                case "ncsMclasCdnm":  // 중분류코드명
+                                                    xpp.next();
+                                                    values.put(SqlCol.m_class_name.name(), xpp.getText());
+                                                    break;
+                                                case "ncsSclasCd":  // 소분류코드
+                                                    xpp.next();
+                                                    values.put(SqlCol.s_class_code.name(), xpp.getText());
+                                                    break;
+                                                case "ncsSclasCdnm":  // 소분류코드명
+                                                    xpp.next();
+                                                    values.put(SqlCol.s_class_name.name(), xpp.getText());
+                                                    break;
+                                                case "ncsSubdCd":  // 세분류코드
+                                                    xpp.next();
+                                                    values.put(SqlCol.sub_class_code.name(), xpp.getText());
+                                                    break;
+                                                case "ncsSubdCdnm":  // 세분류코드명
+                                                    xpp.next();
+                                                    values.put(SqlCol.sub_class_name.name(), xpp.getText());
+                                                    break;
+                                                case "learnModulSeq":  // 학습모듈번호
+                                                    xpp.next();
+                                                    values.put(SqlCol.module_num.name(), xpp.getText());
+                                                    break;
+                                                case "learnModulName":  // 학습모듈명
+                                                    xpp.next();
+                                                    values.put(SqlCol.module_name.name(), xpp.getText());
+                                                    break;
+                                                case "learnModulText":  // 학습모듈내용
+                                                    xpp.next();
+                                                    values.put(SqlCol.module_text.name(), xpp.getText());
+                                                    break;
+                                            }
+                                        } catch (Exception e) {
+                                            Log.d(TAG, Log.getStackTraceString(e));
                                         }
-                                    } catch (Exception e){
-                                        Log.d(TAG, Log.getStackTraceString(e));
-                                    }
-                                    break;
+                                        break;
 
-                                case XmlPullParser.TEXT:
-                                    break;
+                                    case XmlPullParser.TEXT:
+                                        break;
 
-                                case XmlPullParser.END_TAG:
-                                    tag = xpp.getName();
+                                    case XmlPullParser.END_TAG:
+                                        tag = xpp.getName();
 
-                                    if (tag.equals("row") && !values.isEmpty()) {
-                                        db.insertWithOnConflict("module_table", null, values, SQLiteDatabase.CONFLICT_REPLACE);
-                                    }
-                                    break;
+                                        if (tag.equals("row") && !values.isEmpty()) {
+                                            db.insertWithOnConflict("module_table", null, values, SQLiteDatabase.CONFLICT_REPLACE);
+                                        }
+                                        break;
+                                }
+                                eventType = xpp.next();
                             }
-                            eventType = xpp.next();
+                        } catch (Exception e) {
+                            Log.d(TAG, Log.getStackTraceString(e));
                         }
-                    } catch (Exception e){
-                        Log.d(TAG, Log.getStackTraceString(e));
+
                     }
 
+                } catch (Exception e) {
+                    Log.d(TAG, Log.getStackTraceString(e));
+
+                } finally {
+                    db.close();
+                    startActivity(new Intent(this, MainActivity.class));
+                    finish();
+
                 }
-
-            } catch (Exception e) {
-                Log.d(TAG, Log.getStackTraceString(e));
-
-            } finally {
-                db.close();
-                startActivity(new Intent(this, MainActivity.class));
-                finish();
-
-            }
-        }).start();
+            }).start();
+        }
     }
 
     private void initResourceList(){

@@ -25,6 +25,7 @@ import com.garosero.android.hobbyroadmap.data.MyClass;
 import com.garosero.android.hobbyroadmap.helper.DBHelper;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
 import com.garosero.android.hobbyroadmap.main.helper.CastHelper;
+import com.garosero.android.hobbyroadmap.main.helper.SQLiteSearchHelper;
 import com.garosero.android.hobbyroadmap.network.response.TilResponse;
 import com.garosero.android.hobbyroadmap.network.response.UserResponse;
 
@@ -52,6 +53,7 @@ public class RoadmapFragment extends Fragment {
             e.fillInStackTrace();
         }
 
+        Log.e("RoadmapFrgamnet", LClassID+" "+MClassID+" "+SClassID+" "+subClassID);
         this.classCd = classCd;
     }
 
@@ -68,13 +70,17 @@ public class RoadmapFragment extends Fragment {
         bt_myRoadmap = root.findViewById(R.id.bt_my_roadmap);
         bt_community = root.findViewById(R.id.bt_community);
 
+        SQLiteSearchHelper searchHelper = new SQLiteSearchHelper(requireContext());
         DBHelper helper = new DBHelper(getContext(), null, 1);
         SQLiteDatabase db = helper.getReadableDatabase();
         String sql = "select * from module_table where l_class_code='"+LClassID+"' and m_class_code='"+MClassID+"' and s_class_code='"+SClassID+"' and sub_class_code='"+subClassID+"'";
         Cursor c = db.rawQuery(sql, null);
-        int subClassSize = c.getCount();
+        //int subClassSize = c.getCount();
+
+        int subClassSize = searchHelper.getSubClassSize(LClassID, MClassID, SClassID, subClassID);
         c.moveToNext();
-        tv_title.setText(c.getString(c.getColumnIndex("sub_class_name")));
+        //tv_title.setText(c.getString(c.getColumnIndex("sub_class_name")));
+        tv_title.setText(searchHelper.getSubClassName(LClassID, MClassID, SClassID, subClassID));
 
         int moduleOrder = 0;
         HashMap<String, ModuleClassItem> moduleClassMap = new HashMap<>();

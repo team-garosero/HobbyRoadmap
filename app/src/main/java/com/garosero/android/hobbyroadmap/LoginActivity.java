@@ -64,6 +64,12 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         firebaseAuth =  FirebaseAuth.getInstance();
         ref = FirebaseDatabase.getInstance().getReference();
 
+        if (firebaseAuth.getUid() != null){
+            Intent intent = new Intent(this, MainActivity.class);
+            startActivity(intent);
+            finish();
+        }
+
         //버튼 등록하기
         btn_signup = findViewById(R.id.btn_signup);
         btn_login = findViewById(R.id.btn_login);

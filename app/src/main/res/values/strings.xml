@@ -20,5 +20,9 @@
 
     <!-- string -->
     <string name="error_msg">error</string>
+    <string name="l_class">대분류</string>
+    <string name="m_class">중분류</string>
+    <string name="s_class">소분류</string>
+    <string name="sub_class">세분류</string>
 
 </resources>
