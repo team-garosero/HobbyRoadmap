@@ -52,6 +52,8 @@
                 android:textColor="#2E45B9"
                 android:textStyle="bold"
                 android:textSize="@dimen/textSize_18"
+                android:ellipsize="end"
+                android:maxLines="1"
                 android:background="@drawable/til_act_button_border"/>
         </LinearLayout>
 

@@ -1,0 +1,4030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200327</learnModulSeq>
+<learnModulName>방사 생산준비</learnModulName>
+<learnModulText>판매계획, 생산재고, 생산량, 생산계획서, 생산조건, 운전조건표, 품질조건, 작업표준서, 작업지시서, 안전수칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200328</learnModulSeq>
+<learnModulName>방사 설비준비</learnModulName>
+<learnModulText>방사부품 종류, 부품조립 방법, 계전설비 종류, 운전조건표, 조건DATA 입력, 설비 매뉴얼, 기계설비 종류, 설비 시운전, 설비이상 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200329</learnModulSeq>
+<learnModulName>방사 압출</learnModulName>
+<learnModulText>폴리머, 스크루, 압출기, 구금, 팩, 기어펌프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200330</learnModulSeq>
+<learnModulName>방사 냉각</learnModulName>
+<learnModulText>폴리머, 다이 스웰, 냉각, 온도, 습도, 풍속, 고화, 번들, 부산물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200331</learnModulSeq>
+<learnModulName>방사 연신</learnModulName>
+<learnModulText>유리전이온도, 결정화 온도, 연신, 열고정, 사주행, 육안검사, 장력, 작업표준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200332</learnModulSeq>
+<learnModulName>방사 권취</learnModulName>
+<learnModulText>원료의 종류, 원료 건조, 운전조건표, 작업지시서, 권취설비, 와인더, 실걸이 치구, 실걸이 방법, 품질관리기준, 정비매뉴얼, 설비이상 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200333</learnModulSeq>
+<learnModulName>방사 원사 품질관리</learnModulName>
+<learnModulText>관리대상 선정, 물리적 특성 검사, 분석평가 관리, 화학적 특성 검사, 외관 검사, 품질관리 기법, 관리기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160200334</learnModulSeq>
+<learnModulName>방사 제품보관</learnModulName>
+<learnModulText>제품 특성, 상대습도, 부자재, 선입선출, 포장, 작업표준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160500004</learnModulSeq>
+<learnModulName>방사 설비보전</learnModulName>
+<learnModulText>작업표준서, 부품관리. 부품교체주기, 유틸리티 설비, 압축공기, 설비보전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20160500005</learnModulSeq>
+<learnModulName>방사 위험요소 관리</learnModulName>
+<learnModulText>방사설비, 안전관리, 안전관리 지침서, 체크리스트, 이음, 진동, 소음, 설비점검, 설비관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20190200054</learnModulSeq>
+<learnModulName>방사 테이크업</learnModulName>
+<learnModulText>원료 건조, 운전조건표, 작업지시서, 오일, 연신롤러, 권취, 실걸이, 도핑, 제품의 등급, 정비매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20190200055</learnModulSeq>
+<learnModulName>방사 생산준비</learnModulName>
+<learnModulText>판매계획, 생산재고, 생산량, 생산계획서, 생산조건, 운전조건표, 품질조건, 작업표준서, 작업지시서, 안전수칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>방사</ncsSubdCdnm>
+<learnModulSeq>EDU20190200056</learnModulSeq>
+<learnModulName>방사 원료준비</learnModulName>
+<learnModulText>생산계획, 중합 주원료, 중합 부원료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160200060</learnModulSeq>
+<learnModulName>소면</learnModulName>
+<learnModulText>카딩, 카딩기, 카딩기 작동, 카딩기 보전, (소면, 소면기, 소면기 작동, 소면기 보전)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160200061</learnModulSeq>
+<learnModulName>연조</learnModulName>
+<learnModulText>소면, 연조, 슬라이버, 더블링, 드래프트, 균제도, 톱 롤러, 보텀 롤러, 크릴, 캔</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160200062</learnModulSeq>
+<learnModulName>조방</learnModulName>
+<learnModulText>연조, 조방, 슬라이버, 로빙, 드래프트, 꼬임, 스핀들, 플라이어, 톱 롤러, 보텀 롤러, 크릴, 보전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160200063</learnModulSeq>
+<learnModulName>정방</learnModulName>
+<learnModulText>정방기, 링 정방, 로터 정방, 에어 제트 정방, 마찰 정방, 콤팩트 정방, 링, 트래블러, 꼬임 부여</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160200067</learnModulSeq>
+<learnModulName>혼타면</learnModulName>
+<learnModulText>혼타면기, 개섬, 정섬, 혼섬, 낙면량, 파이버 터프트(fiber tuft), 플록(flock)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160200068</learnModulSeq>
+<learnModulName>정소면</learnModulName>
+<learnModulText>코밍, 피싱, 디태칭, 피딩, 보전매뉴얼, 노일, 배출닥트, 랩, 슬라이버, 캔스, 스풀</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160300023</learnModulSeq>
+<learnModulName>방적 원료분석</learnModulName>
+<learnModulText>섬유장, 섬도, 강신도, 균제도, 방적성, 혼용율, 원료의 등급, 원면, 넵, HVI, AFIS, 작업지시서, 표본 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160300024</learnModulSeq>
+<learnModulName>방적 생산준비</learnModulName>
+<learnModulText>내용원면의 등급, 섬도, 섬유장, 균제도지수, 강도, 신도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160300046</learnModulSeq>
+<learnModulName>방적 권사</learnModulName>
+<learnModulText>매뉴얼, VOS, 유닛, 얀클리어러, 스프라이서, CBF, 파일 로트 램프, 컨트롤 판넬, 오토 도퍼, 페그, 불 로우 클리너, 왁싱, 정장, 번수, 정량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160300048</learnModulSeq>
+<learnModulName>방적 원사품질검사</learnModulName>
+<learnModulText>방적원사 외관검사, 품질검사, 번수, 꼬임수, 수분율, 강신도, 균제도, 혼용률, 파레토도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20160500021</learnModulSeq>
+<learnModulName>세팅</learnModulName>
+<learnModulText>안전밸브, 진공펌프와 냉각시스템, 마그네틱 레벨 게이지, 트롤리, 차징 시스템, 커버 시스템, 센서, 리밋스위치, 오일펌프, 컨트롤 시스템, 유량계, 강연사, 약연사, 스날(snarl)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100620</learnModulSeq>
+<learnModulName>방적 원료 분석</learnModulName>
+<learnModulText>섬유장, 섬도, 강신도, 균제도, 방적성, 혼용율, 원료의 등급, 원면, 넵, HVI, AFIS, 작업지시서, 표본 검사, 특성치별 단위사용(SI Unit)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100622</learnModulSeq>
+<learnModulName>방적 원가관리</learnModulName>
+<learnModulText>방적원가, 표준원가, 사전원가, 사후원가, 조정원가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100623</learnModulSeq>
+<learnModulName>방적 생산 준비</learnModulName>
+<learnModulText>작업지시서, 생산지시서, 원재료, 개표, 원료 컨디셔닝, 원료 배열, 원료 개표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100625</learnModulSeq>
+<learnModulName>소모방</learnModulName>
+<learnModulText>울톱, 슬라이버, 섬도, 섬유장, 잔지율, 넵, 협잡물, 버, 유색모, 켐프, 길박스, 리코밍공정, 코밍 기, 보빈 드로잉 박스, 드로잉공정, 보비너, 부산물, 카딩기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100626</learnModulSeq>
+<learnModulName>링정방</learnModulName>
+<learnModulText>링정방기, 조사(로빙), 꼬임, 링, 스핀들, 트래블러, 성형 운동, 콥, 정방사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100627</learnModulSeq>
+<learnModulName>혁신정방</learnModulName>
+<learnModulText>혁신 정방기, 링 정방, 로터 정방, 에어 제트 정방, 마찰 정방, 콤팩트 정방, 링, 트래블러, 꼬임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100628</learnModulSeq>
+<learnModulName>방적 원사 품질검사</learnModulName>
+<learnModulText>방적 원사 품질 검사, 외관 검사, 중량, 번수, 꼬임 수, 수분율, 강신도, 균제도, 잔털양, 혼용률, 파레토도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>방적</ncsSubdCdnm>
+<learnModulSeq>EDU20190100629</learnModulSeq>
+<learnModulName>방적 물류 관리</learnModulName>
+<learnModulText>원자재, 부자재, 발주서, 납기, 생산 품종, 생산량 계산, 공정 특성, 저장 방식, 공급system, 재고 량 조사, 불량 선별, 저장품 이력 조사표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200130</learnModulSeq>
+<learnModulName>제직 권사</learnModulName>
+<learnModulText>권사, 사염사 권사, 권사량, 권사장, 권사설비, 작업조건설정, 권사패키지, 불량원인, 검사, 점검, 분석조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200131</learnModulSeq>
+<learnModulName>연사</learnModulName>
+<learnModulText>연사기, 열고정, 원사물성, 와인더, 패키지, 꼬임, 불량원인, 스핀들, 장력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200132</learnModulSeq>
+<learnModulName>정경</learnModulName>
+<learnModulText>정경기, 부분정경, 직접정경, 정경 크릴, 정경 드럼, 경사 빔, 모슴수, 바디 밀도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200162</learnModulSeq>
+<learnModulName>호부</learnModulName>
+<learnModulText>호부(사이징), 호제, 유제, 조제, 필라멘트사, 단사, 호부착량, 크릴, 비밍, 작업지시서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200206</learnModulSeq>
+<learnModulName>통경</learnModulName>
+<learnModulText>통경, 성통, 종광, 바디, 드로퍼, 틀걸이, 연경</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200207</learnModulSeq>
+<learnModulName>직물제조</learnModulName>
+<learnModulText>직물설계표, 작업지시서, 직물제조, 직물의 규격, 직기의 구조, 직물의 형성운동, 직기의 주 운동, 부 운동, 보조 운동, 개구 장치, 위입 장치, 바디침 장치, 송출 장치, 권취 장치, 직기의 운전, 검사, 결점 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200281</learnModulSeq>
+<learnModulName>제직 품질관리</learnModulName>
+<learnModulText>단말, 검사, 생지, 완제품, 검사보고서, 검단기, 점검표, 직기, 직기운전, 검사항목, 불량, 등급, 정기점검표, 정기보수, 유지관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400029</learnModulSeq>
+<learnModulName>직물분해설계</learnModulName>
+<learnModulText>직물분해, 원사감별, 경사 인통, 직물규격, 직물조직, 직물설계, 중량, 소요량, 원가계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400033</learnModulSeq>
+<learnModulName>직물조직도 작성</learnModulName>
+<learnModulText>의장지, 완전조직, 경사, 위사, 위로(up), 아래로(down), 삼원조직, 교차점, 평직, 능직, 주자직, 변화조직, 중조직, 타펫, 도비, 자카드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>제직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400034</learnModulSeq>
+<learnModulName>제직 작업지시서 작성</learnModulName>
+<learnModulText>원사소요량, 준비기, 제직기, 원사종류, 원사명칭, 준비공정, 제직공정, 원사발주서, 작업지시서, 생산지시서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160200361</learnModulSeq>
+<learnModulName>위편성물 분해설계</learnModulName>
+<learnModulText>편조직, 편물 분해, 조직도, 조직설계, 생산계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400041</learnModulSeq>
+<learnModulName>편직 작업지시서 작성</learnModulName>
+<learnModulText>게이지, 직경, 소재선정, 트렌드, 피이더, 루프밀도, 루프장, 작업지시서, 원사 혼용율, 편성 생산량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400202</learnModulSeq>
+<learnModulName>원사관리</learnModulName>
+<learnModulText>원사 개념, 원사의 종류, 물리적 특성, 화학적 특성, 원사의 기능성, 섬도, 원사 오염, 변색</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400221</learnModulSeq>
+<learnModulName>위편 준비</learnModulName>
+<learnModulText>편직 작업지시서, 조직도, 자카드 조직, 편성요소, 편성인자, 편성조건, 편성방법, 설계표, 큰 코빠짐(오동포), 편환장, 단위중량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400223</learnModulSeq>
+<learnModulName>경편 준비</learnModulName>
+<learnModulText>경편 원사, 원사 보빈, 정경 작업, 통경 작업, 원사 설치, 크릴 설치, 번수, 보빈 풀기, 배열 정리, 빔에 감기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160400224</learnModulSeq>
+<learnModulName>위편성 작업</learnModulName>
+<learnModulText>편성 작업지시서, 방적사, 합성섬유, 패턴디자인, 조직도, 편성인자, 선침운동, 편환장, 자동정지장치, 권취장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160500001</learnModulSeq>
+<learnModulName>경편성 작업</learnModulName>
+<learnModulText>경편 원사, 원사 보빈, 정경 작업, 통경 작업, 원사 설치, 크릴 설치, 보빈 풀기, 배열 정리, 시편작업, 경편작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160500002</learnModulSeq>
+<learnModulName>편성물 검단</learnModulName>
+<learnModulText>편성물, 검단 준비, 원단 불량, 검단, 검단 보고서, 편성 조직</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20160500003</learnModulSeq>
+<learnModulName>위편직 설비 유지보수</learnModulName>
+<learnModulText>일상점검, 구동 장치, 편성요소, 침상, 기어박스, 캠, 싱커, 권취 장치, 콘 캐리어, 송사 장치, 급사 장치, 검침기, 급유 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20190100592</learnModulSeq>
+<learnModulName>경편성물 분해 설계</learnModulName>
+<learnModulText>경편 원사, 원사 종류, 경편 조직, 경편성 분석, 경편성 분해, 경편성 설계, 경편성 생산 계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20190100593</learnModulSeq>
+<learnModulName>위편성 견본 작업</learnModulName>
+<learnModulText>작업지시서, 공정 순서, 조직도, 원사 소요량, 자카드 조직, 편성 요소, 편성 인자, 편성 조건, 편성 방법, 설계표, 큰 코빠짐(오동포), 편환장, 장력, 단위 중량, 편환 밀도, 웨일, 코스, 권취 장력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20190100594</learnModulSeq>
+<learnModulName>경편성 견본 작업</learnModulName>
+<learnModulText>경편성 견본, 경편성 원사, 경편성 분해, 편성 요소, 설계표, 가공, 생산 속도, 생산 계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20190100597</learnModulSeq>
+<learnModulName>위편성 작업 준비</learnModulName>
+<learnModulText>번수, 데니어, 편환(loop), 가이드(guide), 편침(needle), 디자인, 조직도, 편성 요소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20190100598</learnModulSeq>
+<learnModulName>경편성 작업 준비</learnModulName>
+<learnModulText>경편성 원사, 원사 보빈, 정경 작업, 통경 작업, 원사 설치, 크릴 설치, 번 수, 보빈 풀기, 배열정리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>편직</ncsSubdCdnm>
+<learnModulSeq>EDU20190100600</learnModulSeq>
+<learnModulName>경편직 설비 유지 보수</learnModulName>
+<learnModulText>경편성기, 경편용 원사, 원사 보빈, 정경 작업, 통경 작업, 원사 설치, 크릴 설치, 번 수, 보빈 풀기, 배열 정리, 빔에 감기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200795</learnModulSeq>
+<learnModulName>부직포 생산준비</learnModulName>
+<learnModulText>부직포, 작업 지시서, 생산준비, 제조 조건표, 원·부자재, 표준샘플, 원료혼합, 원료투입</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200797</learnModulSeq>
+<learnModulName>카드 웹 생산</learnModulName>
+<learnModulText>카드기, 카딩, 플랫 카드, 롤러 카드, 웹, 작업표준서, 파이버, 침포, 게이지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200798</learnModulSeq>
+<learnModulName>에어레이 웹 생산</learnModulName>
+<learnModulText>에어레이드, 에어레이, 에어레이드 웹, 에어레이기, 포밍, 펄프, 숏컷 파이버, 플러프 펄프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200799</learnModulSeq>
+<learnModulName>습식 웹 생산</learnModulName>
+<learnModulText>습식 웹, 환망식 습식 웹 장치, 장망식 습식 웹 장치, 물리적 특성, 해리기, 분산성, 헤드박스, 제트-와이어 속도비, 관리계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200800</learnModulSeq>
+<learnModulName>스펀본드 생산</learnModulName>
+<learnModulText>폴리머, 필라멘트, 냉각(quenching), 연신(drawing), 개섬, 열적 결합(thermal bonding), 니들펀칭(needle punching), 권취</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200801</learnModulSeq>
+<learnModulName>멜트블로운 생산</learnModulName>
+<learnModulText>작업표준서, 교반기, 호퍼, 압출기, 스크린 메시 필터, 기어펌프, 스핀 빔, 스핀 팩, 방사노즐, 정전설비, 포밍 테이블, 와인더</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200802</learnModulSeq>
+<learnModulName>니들펀칭 생산</learnModulName>
+<learnModulText>니들 바브, 니들 블레이드, 스트리퍼 플레이트, 베드 플레이트, 섬유 웹, 베드 플레이트, 니들 보드, 킥업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200803</learnModulSeq>
+<learnModulName>케미컬 본드 생산</learnModulName>
+<learnModulText>케미컬 부직포, 작업지시서, 작업조건표, 원·부자재, 작업준비, 원료투입, 도포기, 건조기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200804</learnModulSeq>
+<learnModulName>써멀 본드 생산</learnModulName>
+<learnModulText>써멀 본드 부직포, 작업지시서, 작업조건표, 원·부자재, 써멀 본드기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200806</learnModulSeq>
+<learnModulName>스펀레이스 생산</learnModulName>
+<learnModulText>카드기, 리딩기포, 압력 게이지, 제트 인젝터, 노즐, 제트 스트립, 필터링, 건조기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200807</learnModulSeq>
+<learnModulName>부직포 권취</learnModulName>
+<learnModulText>권취기, 권취량, 생산 폭, 권취 압력(텐션), 미세 조정, 일차 검사, 이상 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200809</learnModulSeq>
+<learnModulName>부직포 품질관리</learnModulName>
+<learnModulText>판매계획 및 생산계획, 원료, 생산 기계·설비, 작업조건표, 작업지시서, 공정능력지수, 품질관리, 외관검사, 관리도, 시험분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>부직포</ncsSubdCdnm>
+<learnModulSeq>EDU20161200813</learnModulSeq>
+<learnModulName>부직포 분해 설계</learnModulName>
+<learnModulText>부직포 후가공, 구조 분해 및 설계, 웹 형성, 웹 결합, 시험분석, 제품규격서, 부직포 설계표, 제조원가, 판매원가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200064</learnModulSeq>
+<learnModulName>사가공 조건설정</learnModulName>
+<learnModulText>소재원사, POY, SDY, 사가공기 운전, 조건설정, DTY, ATY, ITY, 물성분석, 시험분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200065</learnModulSeq>
+<learnModulName>사가공 운전</learnModulName>
+<learnModulText>소재원사, 크릴, 원사 이음, 원사 연결, 원사 실걸이, 사도, 가공사 품질검사, 가공사 도핑, 소재원사 이력, 가공사 물성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200089</learnModulSeq>
+<learnModulName>사가공 검사포장</learnModulName>
+<learnModulText>제편기, 제편포(검사포), 기준사, 염색, 이상사, 검사, 선별, 포장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160500022</learnModulSeq>
+<learnModulName>사가공 계획수립</learnModulName>
+<learnModulText>원사선정, 생산원가, 바이어, 실의 종류, 원사물성, 적합성, 생산량, 가동효율, 판매관리비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190900001</learnModulSeq>
+<learnModulName>사가공 원사준비</learnModulName>
+<learnModulText>원사이력, 제품 규격표, 제품 명세서, 생산조건서, 원사투입, 지관, 사가공 부자재, 권취, 크릴, 가연, 해연, 해사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190900002</learnModulSeq>
+<learnModulName>사가공 준비</learnModulName>
+<learnModulText>원사종류, 원사 불량, 회전 구동체, 롤러, 사도(絲道), 실걸이, 원사표면, 해사, 투입원사, 사가공시운전, 생산조건서, 작업표준, 연신배율, 사속</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190900003</learnModulSeq>
+<learnModulName>사가공 설비보전</learnModulName>
+<learnModulText>설비보전 대장, 설비보전 매뉴얼, 설비보전, 설비 제원, 설비 설계도면, 기계 부품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>섬유생산</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>사가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190900004</learnModulSeq>
+<learnModulName>사가공 안전관리</learnModulName>
+<learnModulText>사가공, 안전관리, 개인보호구, 화재예방, 안전사고예방, 산업안전보건법, 안전보건관리규정, 안전보건관리교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200049</learnModulSeq>
+<learnModulName>염색가공 생산 준비</learnModulName>
+<learnModulText>입고, 출고, 검사, 보관, 로트, 재고, 표리, 연포, 사행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200050</learnModulSeq>
+<learnModulName>염색가공 전처리</learnModulName>
+<learnModulText>전처리, 조제, 호발, 정련, 표백, 머서화, 감량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200051</learnModulSeq>
+<learnModulName>염색가공 실험실테스트</learnModulName>
+<learnModulText>실험실테스트(Beaker Test, B/T), 염료, 조제, 섬유소재, 염색법, 컴퓨터컬러매칭(Computer Color Matching, CCM), 컴퓨터컬러키친(Computer Color Kitchen, CCK), 시험용 염색기, 표준광원, 표준작업지시서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200052</learnModulSeq>
+<learnModulName>침염</learnModulName>
+<learnModulText>작업지시서, 침염준비, 염색공정, 염색기운전, 색상판정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200053</learnModulSeq>
+<learnModulName>프린팅</learnModulName>
+<learnModulText>날염, 디지털 프린팅, 잉크젯 프린터, 전처리, 호제, 염료, 안료, 증열, 발색도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200054</learnModulSeq>
+<learnModulName>가공</learnModulName>
+<learnModulText>섬유가공, 물리적 가공, 화학적 가공, 섬유조제, 섬유가공기계, 수세, 탈수, 건조, 함침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200055</learnModulSeq>
+<learnModulName>염색가공 시험평가</learnModulName>
+<learnModulText>작업지시서, 시험 항목, 시험 규격, 시험편, 시험결과, 등급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200056</learnModulSeq>
+<learnModulName>염색가공 품질관리</learnModulName>
+<learnModulText>생산공정, 원가, 품질보증, 품질관리, 검사, 검사메뉴얼, 완제품, 부적합, 불량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200057</learnModulSeq>
+<learnModulName>염색가공 생산안전관리</learnModulName>
+<learnModulText>안전보건, 산업안전관리, 작업환경, 기계안전, 화학물질관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>섬유가공</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>염색가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160200058</learnModulSeq>
+<learnModulName>염색가공 환경관리</learnModulName>
+<learnModulText>염색폐수, 배출시설, 방지시설, 수질오염물질, 대기오염물질, 폐기물관리, 화학물질 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200144</learnModulSeq>
+<learnModulName>납기관리</learnModulName>
+<learnModulText>원․부자재, 입고, 출고, 납기, 조달, 발주, 수주, 작업계획서, 생산일정계획, 자재명세서, 작업전표, 간트 챠트, 진도상자, ERP(enterprise resource planning)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200145</learnModulSeq>
+<learnModulName>재고관리</learnModulName>
+<learnModulText>재고조사, 안전재고, 불량재고, 적정재고, 완제품, 재공품, 리드타임, 저장특성, 매뉴얼, ABS 시스템, ERP(enterprise resource planning), RFID(radio frequency identification), Bar코드, QR(quick response)코드, Two Bin시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200362</learnModulSeq>
+<learnModulName>원가관리</learnModulName>
+<learnModulText>원가, 사전원가, 사후원가, 조정원가, 표준원가, 실제원가, 예정원가, 제조원가, 총원가, 원가기획, 원가통제, 노무비, 직접비, 간접비, 변동비, 고정비, 재료비, 감가상각비, 경비, 영업비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200363</learnModulSeq>
+<learnModulName>외주공정 관리</learnModulName>
+<learnModulText>발주서, 작업지시서, 임가공, 반제품, 완제품, 아웃소싱, 공정, 품질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200364</learnModulSeq>
+<learnModulName>품질관리</learnModulName>
+<learnModulText>품질매뉴얼, 품질경영, 품질관리, 품질지침서, 외관검사, 협력업체, 이화학검사, 부적합품, 통계적 품질관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160500027</learnModulSeq>
+<learnModulName>생산기획</learnModulName>
+<learnModulText>원·부자재, 거래조건, 품질분석, 상품설계, 시작품, 생산 계획서, 제조원가, 원가절감, 경제성 검토</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160500028</learnModulSeq>
+<learnModulName>원·부자재 구매 환경조사</learnModulName>
+<learnModulText>원자재, 부자재, 시장분석, 물류환경, 금융환경, 공급기업, 품질기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160500029</learnModulSeq>
+<learnModulName>원·부자재 선정</learnModulName>
+<learnModulText>원자재, 부자재, 고객요구, 물성시험, 구매선정, 구매적합성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매생산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160500030</learnModulSeq>
+<learnModulName>생산인프라구축</learnModulName>
+<learnModulText>생산업체, 제품공급, 품질, 생산능력, 가격, 임가공, 아웃소싱, 생산매뉴얼, 생산교육시스템, 생산교육, 성과분석, 생산지도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200066</learnModulSeq>
+<learnModulName>방적 생산현장관리</learnModulName>
+<learnModulText>방적, 혼타면, 소면, 정소면, 연조, 조방, 정방, 방적설비, 공조설비, 방적보조설비, 원면, 방적사, 방적사 시험, HVI(high volume instrument)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200176</learnModulSeq>
+<learnModulName>방사 생산현장관리</learnModulName>
+<learnModulText>방사, 습식방사, 건식방사, 용융방사, 전기방사, 복합방사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200365</learnModulSeq>
+<learnModulName>제직 생산현장관리</learnModulName>
+<learnModulText>정경 사절수, 가호율(size pick up %), 풀의 점도와 농도, 직기의 타이밍(timing), 제직 사절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200366</learnModulSeq>
+<learnModulName>편직 생산현장관리</learnModulName>
+<learnModulText>편직기, 편직, 편직 소모품, 편직 보조설비, 원사, 편성물, 원사 품질검사, 입출고, 소요량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160200367</learnModulSeq>
+<learnModulName>사가공 생산현장관리</learnModulName>
+<learnModulText>원사, 가연, 루프가공, 인터레이스, DTY(Draw textured yarn), ATY(Air textured yarn), ITY(Interlace textured yarn), 품질관리, 사가공기 관리, 생산관리, 현장관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160300001</learnModulSeq>
+<learnModulName>염색 생산현장관리</learnModulName>
+<learnModulText>염색준비기, 염색기, 피염물, 염색물, 전처리공정, 염색공정, 날염공정, 염료, 조제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160300002</learnModulSeq>
+<learnModulName>가공 생산현장관리</learnModulName>
+<learnModulText>가공, 보전, 장비이력카드, 유지보수 매뉴얼, 피가공물, 가공공정, 품질분석, 관리카드, 가공약제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160500025</learnModulSeq>
+<learnModulName>생산공정관리</learnModulName>
+<learnModulText>작업지시서, 생산공정, 생산 레이아웃, 생산목표, 기술개발방침, 특허, 작업표준, 제품품질기준, 검사기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>섬유제조</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>섬유생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>생산현장관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160500026</learnModulSeq>
+<learnModulName>생산경영관리</learnModulName>
+<learnModulText>생산경영, 인력관리, 인사규정, 원가관리, 공정분석, 생산성, 생산목표관리, 납기관리, 안전관리, 안전교육, 환경관리, 품질관리, 품질경영시스템, 환경경영시스템, 품질관리도구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101806</learnModulSeq>
+<learnModulName>패션시장 현황분석</learnModulName>
+<learnModulText>트렌드 분석, 컬러기획, 소재기획, 스타일기획, 소비자 조사, 라이프스타일 조사, 소비자 구매패턴 조사, 자사 분석, 경쟁사 현황 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101808</learnModulSeq>
+<learnModulName>패션상품 판매분석</learnModulName>
+<learnModulText>판매실적, 판매현황, 전년도 실적, 시즌분석, 경쟁사 분석, 손익분석, 물량계획, 인기상품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101809</learnModulSeq>
+<learnModulName>패션브랜드 전략기획</learnModulName>
+<learnModulText>SWOT 분석, 내부환경, 외부환경, 표적시장, 포지셔닝 맵, 4P 전략, 콘셉트기획, 물량기획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101810</learnModulSeq>
+<learnModulName>패션상품 예산기획</learnModulName>
+<learnModulText>매출분석, 손익분석, 연간매출액, 시즌분석, 손익계획, 물량계획, 손익계산서, 판매분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101811</learnModulSeq>
+<learnModulName>시즌전략수립</learnModulName>
+<learnModulText>업무일정, 시즌 콘셉트, 패션테마, 패션트렌드 감성 분류, 콘셉트 보드, 컬러 보드, 소재 보드, 스타일 보드, 컬러 팔레트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101813</learnModulSeq>
+<learnModulName>패션상품기획</learnModulName>
+<learnModulText>소재기획, 소재 발주, 소재 입출고 관리, 아이템기획, 전략상품기획, 원가, 마크업, 배수, 판매가, 가격선 결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101814</learnModulSeq>
+<learnModulName>패션상품품평</learnModulName>
+<learnModulText>품평회, 품평회 일정 계획, 품평대상 제품리스트, 품평회 장소, 품평회 평가단, 차기 시즌 스타일, 스타일별 물량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101816</learnModulSeq>
+<learnModulName>패션상품 생산기획</learnModulName>
+<learnModulText>생산기획, 생산업체, 아웃소싱 업체, 원부자재 발주, 원부자재 입출고, 완제품 입출고, 완제품 품질관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101817</learnModulSeq>
+<learnModulName>패션상품 영업기획</learnModulName>
+<learnModulText>유통 경로, 유통망, 매장관리, 비주얼머천다이징, 상품관리, 물량기획, 재고물량 소진전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>패션기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160101819</learnModulSeq>
+<learnModulName>패션상품 판매관리</learnModulName>
+<learnModulText>고객관리, 판매사원 관리, 판매촉진전략, 제품판매 서비스, 고객 불만족 회복 서비스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101054</learnModulSeq>
+<learnModulName>패션디자인 자료수집</learnModulName>
+<learnModulText>패션 트렌드, 메가 트렌드, 소비자 트렌드, 패션 트렌드 기획, 디자인 아이디어, 패션 디자인, 패션 트렌드 정보, 패션 시장 정보 수집</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101055</learnModulSeq>
+<learnModulName>패션디자인 기획</learnModulName>
+<learnModulText>시즌 콘셉트, 패션 디자인 테마, 이미지, 컬러, 소재, 스타일, 아트워크, 시즌 콘셉트 맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101056</learnModulSeq>
+<learnModulName>패션디자인 개발</learnModulName>
+<learnModulText>패션 디자인 요소, 패션 드로잉, 패션 도식화, 아이디어 발상, 패션 디자인 CAD, 아이디어 시각화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101057</learnModulSeq>
+<learnModulName>패션상품 시제품 개발기획</learnModulName>
+<learnModulText>시제품, 시제품작업의뢰서, 패션 도식화, 시제품 진행 상황 맵, 시제품 디자인, 패션 트렌드, 도식화, 컬러, 소재, 부자재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101058</learnModulSeq>
+<learnModulName>패션상품 시제품 개발</learnModulName>
+<learnModulText>가봉, 본봉, 부자재, 시제품, 소재, 시제품 개발, 시제품 생산 품질 확인서, 시제품 작업의뢰서, 패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101059</learnModulSeq>
+<learnModulName>패션상품 시제품 품평</learnModulName>
+<learnModulText>품평, 품평 일정, 품평 대상 제품 리스트, 시즌 디자인 기획, 아이템 코디네이션, 시제품, 브랜드 콘셉트, 시즌 트렌드, 디자인 테마</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101060</learnModulSeq>
+<learnModulName>패션상품 생산 준비</learnModulName>
+<learnModulText>본작업의뢰서, 원부자재, 원부자재 발주서, 원사·원단 염색 테스트(BT), 원단 외관 검사, 원단 이화학 검사, 도식화, 품번</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101061</learnModulSeq>
+<learnModulName>패션상품 생산 투입</learnModulName>
+<learnModulText>생산 품질 확인(QC), 생산 품질 확인서, 원부자재 리스트, 초두 생산 제품, 본작업의뢰서, QC 시제품, 생산업체, PP 시제품, PD 시제품, 원부자재 품질 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101062</learnModulSeq>
+<learnModulName>패션디자인 커뮤니케이션 전략 지원</learnModulName>
+<learnModulText>상품 설명회, 상품 설명서, 상품 코디네이션, 시즌 디자인 기획, 광고, 카탈로그, 상품 교육, 패션쇼, 패션 디자인, 커뮤니케이션 전략 지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160101063</learnModulSeq>
+<learnModulName>패션디자인 보완상품 개발</learnModulName>
+<learnModulText>디자인 개발, 리오더, 보완 상품, 상품 기획, 생산 결정, 생산 투입, 스팟 상품, 판매 정보 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100759</learnModulSeq>
+<learnModulName>패션 디자인 기획</learnModulName>
+<learnModulText>소재 기획, 소재 맵, 아트워크 기획, 아트워크 맵, 패션 디자인 기획, 패션 코디네이션, 컬러 기획, 컬러 맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100760</learnModulSeq>
+<learnModulName>패션 상품 개발 구상</learnModulName>
+<learnModulText>스타일 기획, 스타일 맵, 시즌 콘셉트, 아이템 기획, 콘셉트 맵, 패션 디자인 일정, 패션 디자인 테마, 패션 상품 구성, 패션 이미지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100761</learnModulSeq>
+<learnModulName>패션 상품 테크니컬 디자인</learnModulName>
+<learnModulText>테크니컬 디자인(technical design), 테크니컬 패키지(technical package), 프로토 샘플(proto sample), 핏 샘플(fit sample), PP 샘플(pre-production sample), 사이즈 스펙(size spec), 핏 코멘트(fit comment), 봉제 디테일 시트(construction detail sheet), 그레이딩 스펙 시트(grading spec sheet)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>패션디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20200100370</learnModulSeq>
+<learnModulName>글로벌 패션디자인 소싱</learnModulName>
+<learnModulText>국가별 사회·문화 경향, 해외 시장조사, 디자인 협의상담, 시제품 제작 의뢰, 글로벌 패션디자 인 기획, 패션 기초무역용어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600074</learnModulSeq>
+<learnModulName>핏 경향 분석</learnModulName>
+<learnModulText>핏, 실루엣 경향, 사이즈 경향, 패턴, 사이즈</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600075</learnModulSeq>
+<learnModulName>샘플작업지시서 분석</learnModulName>
+<learnModulText>샘플작업지시서, 도식화, 디자인 의도, 스와치, 샘플 원단, 디자이너 코멘트, 솔기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600076</learnModulSeq>
+<learnModulName>샘플패턴 제작</learnModulName>
+<learnModulText>인체 치수 측정 도구, 인체 치수 측정 항목, 평면패턴, 패턴 제도 기호, 패턴 제도 약자, 패턴 제도 용구, 기본 원형, 노치, 샘플패턴, 가봉용 의복</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600078</learnModulSeq>
+<learnModulName>메인패턴 제작</learnModulName>
+<learnModulText>디자인 변경, 사이즈 변경, 원부자재 변경, 메인패턴, 안감패턴, 심지패턴, 부속패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600079</learnModulSeq>
+<learnModulName>봉제사양서 작성</learnModulName>
+<learnModulText>봉제사양서, 부자재, 심지, 패드, 슬리브헤딩, 안감, 재봉사, 봉제 방법, 바늘, 땀수, 스티치, 솔 기, 단추, 손봉제, 자동화기기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600080</learnModulSeq>
+<learnModulName>생산 기술 지도</learnModulName>
+<learnModulText>어태치먼트, 테이프 접착, 심지 접착, 재봉사, 다림질, 제사 처리, 인대 착장 상태, 검사 항목, 검사 방법, 자체 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600081</learnModulSeq>
+<learnModulName>그레이딩</learnModulName>
+<learnModulText>사이즈 호칭, 그레이딩 편차, 그레이딩 사이즈 스펙, 패턴 입력, 패턴 보정, 절개 방식 그레이딩, 포인트 방식 그레이딩, 수작업 그레이딩, 시접 코너, 시접 노치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600082</learnModulSeq>
+<learnModulName>원부자재 소요량 산출</learnModulName>
+<learnModulText>가용 폭, 연단 방법, 마킹, 전체 일방향, 사이즈별 일방향(피스별 일방향, 피스 한방향), 좌우 이 색, 흐름 이색, 싱글 연단, 더블 연단, 롤별 마킹, 근접 마카</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20150600083</learnModulSeq>
+<learnModulName>QC 샘플 검사 및 품질 관리</learnModulName>
+<learnModulText>QC 샘플, 완제품, 품질 관리, 치수, 부위별 치수, 부속 치수, 허용 치수, 허용치 범위, 착장 상 태, 여유량, 활동성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20190100560</learnModulSeq>
+<learnModulName>샘플패턴 제작 준비</learnModulName>
+<learnModulText>사이즈 설정, 인체 치수, 복종별 완제품 사이즈, 제품치수, 인체 측정, 패턴 제작 방법, 기본원 형, 패턴 응용 방법, 평면 패턴, 입체 패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20190100561</learnModulSeq>
+<learnModulName>샘플패턴 제작</learnModulName>
+<learnModulText>샘플패턴, 겉감패턴, 기본원형, 장촌식 패턴제도, 단촌식 패턴제도, 페턴 부호, 패턴 기호, 패턴 결선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20200100412</learnModulSeq>
+<learnModulName>샘플패턴 수정</learnModulName>
+<learnModulText>샘플패턴, 가봉용 의복, 1차 피팅, 맞음새, 안단패턴, 안감패턴, 심지패턴, 주머니패턴, 가요척</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20200100413</learnModulSeq>
+<learnModulName>여성복 샘플패턴 제작</learnModulName>
+<learnModulText>사이즈 설정, 인체 치수, 복종별 완제품 사이즈, 제품치수, 인체 측정, 패턴 제작 방법, 기본원 형, 패턴 응용 방법, 평면 패턴, 입체 패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>패턴</ncsSubdCdnm>
+<learnModulSeq>EDU20200100414</learnModulSeq>
+<learnModulName>남성복 샘플패턴 제작</learnModulName>
+<learnModulText>남성복 패턴제작, 샘플 사이즈, 샘플겉감패턴, 인체치수, 피트성, 드롭, 제품 치수, 스펙, 호칭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101827</learnModulSeq>
+<learnModulName>비주얼머천다이징 트렌드분석</learnModulName>
+<learnModulText>1차 자료, 2차 자료, 거시적 환경 트렌드 유형, 패션 트렌드, 산업디자인 트렌드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101839</learnModulSeq>
+<learnModulName>패션브랜드분석</learnModulName>
+<learnModulText>패션브랜드, 브랜드 아이덴티티, 표적고객, STP 전략, 전략상품, 표적고객, 패션시장 조사, 브랜드 콘셉트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101840</learnModulSeq>
+<learnModulName>비주얼머천다이징 전략수립</learnModulName>
+<learnModulText>매장 아이덴티티, 브랜드 콘셉트, 비주얼머천다이징 구성 요소, 비주얼머천다이징 연간 계획, 예산 수립, 이벤트 플랜</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101841</learnModulSeq>
+<learnModulName>비주얼머천다이징 콘셉트설정</learnModulName>
+<learnModulText>시즌 테마, 프레젠테이션, 이미지 맵, 아이디어 스케치, 콘셉트 설정, 비주얼머천다이징, 시안 작성, 디자인기획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101842</learnModulSeq>
+<learnModulName>비주얼머천다이징 실행</learnModulName>
+<learnModulText>시즌 테마, 프레젠테이션, 비주얼머천다이징, 시안 작성, 시안 제작, 디자인 베리에이션, 제작도면, 상세도면, 견적 산출, 현장연출, 시공감리, 샘플 제작, 협력업체 선정, 계약하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101843</learnModulSeq>
+<learnModulName>비주얼머천다이징 매뉴얼제작</learnModulName>
+<learnModulText>매뉴얼, 브랜드 아이덴티티, 콘셉트, 상품 전개, 매장 레이아웃, 주력상품, 연출, 진열, ISP, 비주얼머천다이징 교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101844</learnModulSeq>
+<learnModulName>패션매장구성전개</learnModulName>
+<learnModulText>집기, 연출 도구, 마네킹, 외부 환경, 파사드, POP, 조명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101845</learnModulSeq>
+<learnModulName>패션상품전개</learnModulName>
+<learnModulText>테마, 연출, 진열, 상품 분류, 상품 배치, 페이싱 플랜, 페이스 아웃, 슬리브 아웃, 폴디드, 폴디드 페이스 아웃</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101878</learnModulSeq>
+<learnModulName>패션상품디스플레이</learnModulName>
+<learnModulText>연출, 진열, 코디네이션, 쇼윈도, 색채 배열, SKU, 스포트라이트, POP, 쇼카드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>패션제품기획</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>비주얼머천다이징</ncsSubdCdnm>
+<learnModulSeq>EDU20160101879</learnModulSeq>
+<learnModulName>패션매장유지관리</learnModulName>
+<learnModulText>매장 환경 평가, 매장 점검 리스트, 비주얼머천다이징 실행평가서, 판매사원 교육, 협력업체 관리, 비주얼머천다이징 교육, 패션매장 유지하기, 패션매장 관리하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101857</learnModulSeq>
+<learnModulName>제직의류 생산의뢰서 분석</learnModulName>
+<learnModulText>도식화, 생산의뢰서, QC 샘플, 원부자재 발주서, 원부자재 소요량, 원부자재 규격, QC 의뢰사항, 본사 원부자재 매칭차트, 생산 현장 원부자재 매칭차트, 표리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101858</learnModulSeq>
+<learnModulName>제직의류 생산 설계</learnModulName>
+<learnModulText>PP 샘플, 생산 공정도, 생산 공정 난이도, 작업자 기능분석표, 공정편성표, 제품 공정 분석도, 생산 설비, 작업 매뉴얼, PP 샘플 품평회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101859</learnModulSeq>
+<learnModulName>제직의류 생산효율 관리</learnModulName>
+<learnModulText>일차별 생산목표량, 손익분기점(BEP), 생산일보, 임가공 단가, 설비관리대장, 기계 예방보전계획, 생산성 통계 관리, 가동률 관리, 근태 통계 관리, 불량률 통계 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101860</learnModulSeq>
+<learnModulName>제직의류 원부자재 검수</learnModulName>
+<learnModulText>원부자재 검수, 원부자재 규격, 원부자재 수량, 원부자재 품질, 원단 불량, 부자재 불량, 원부자재 치수변화율, 자연방축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101861</learnModulSeq>
+<learnModulName>제직의류 재단</learnModulName>
+<learnModulText>재단 계획, 생산보조용 패턴, 마킹, 연단, 연단기, 재단, 재단기, 재단일지, CAD, CAM</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101862</learnModulSeq>
+<learnModulName>제직의류 재단 후 작업</learnModulName>
+<learnModulText>재단물 분류, 넘버링(번호 작업), 번들링(묶음 작업), 심지 접착, 접착 조건, 프레스기, 다림질, 특수 작업, 본 공장, 외주 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101863</learnModulSeq>
+<learnModulName>제직의류 봉제</learnModulName>
+<learnModulText>부속 봉제 준비, 부속 봉제, 부속 부착 위치, 부속 부착, 부분 봉제, 주요 부위 연결, 합복 공정, 합복 마무리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101864</learnModulSeq>
+<learnModulName>제직의류 완성기계 작업</learnModulName>
+<learnModulText>다림질, 다림질 보조도구, 프레스, 다리미, 특종기기, 특수 재봉기, 검침기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101865</learnModulSeq>
+<learnModulName>제직의류 완성기타 작업</learnModulName>
+<learnModulText>제직의류 제품 완성, 완성 기타작업, 마무리 손바느질, 손바느질 공정, 제사 처리, 제품 분류, 태그 부착, 포장 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101866</learnModulSeq>
+<learnModulName>제직의류 품질 검사</learnModulName>
+<learnModulText>품질검사, 재단물 검사, 검사일보, 생산라인 검사, 초도품 검사, 라인 중간검사, 완성품 검사, 불량요소 제거, 완성검사보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100538</learnModulSeq>
+<learnModulName>제직의류 재단 준비작업</learnModulName>
+<learnModulText>생산의뢰서, 생산보조용 패턴, 아소트(assortment), 생산 수량 비율, 원단 소요량, 재단 차수, 마킹 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100539</learnModulSeq>
+<learnModulName>제직의류 재단 본작업</learnModulName>
+<learnModulText>마킹, 요척, 아소트, CAD, 연단, 연단기, 연단 보조기구, 재단, 재단기, CAM, 재단일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100540</learnModulSeq>
+<learnModulName>제직의류 부속 봉제</learnModulName>
+<learnModulText>부속 봉제 준비, 봉제기기, 개별 부속 봉제, 부속 부착 위치, 부속 부착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100541</learnModulSeq>
+<learnModulName>제직의류 합복 봉제</learnModulName>
+<learnModulText>제직의류 합복 봉제, 앞뒤판 연결, 부속 부착, 부속 부착 위치, 주요 부위 연결, 솔기 처리, 봉제 공정도, 합복 공정, 합복 마무리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>제직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20200100405</learnModulSeq>
+<learnModulName>제직의류 스마트 생산 관리</learnModulName>
+<learnModulText>스마트 생산, 원부자재 디지털 검수, 스마트 재단공정, 재단물 불량판별시스템, 스마트 봉제공 정, 봉제물 불량판별시스템, 스마트 완성공정, 생산 빅데이터, 생산정보화시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101829</learnModulSeq>
+<learnModulName>편직의류 제품개발</learnModulName>
+<learnModulText>패션 정보, 원사, 게이지, 편직기, 편조직, 시제품 제작의뢰서, 원가 산정, 품평, 생산 공정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101830</learnModulSeq>
+<learnModulName>편직의류 생산기획</learnModulName>
+<learnModulText>제품 원가, 판매 자료 데이터, 판매 수량 예측, 판매율, 품종별 생산 금액 예산, 마크업(지수 혹은 배수), 품종별 납품 일정 및 생산 소요일, 발주서, 도식화, 제품 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101831</learnModulSeq>
+<learnModulName>편직의류 원부자재관리</learnModulName>
+<learnModulText>원부자재, 원부자재B/T의뢰서, 원부자재 이화학 시험 의뢰, 이화학시험신청서, 이화학시험결과서, 편직의류 치수 측정, 메인생산 샘플 QC</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101832</learnModulSeq>
+<learnModulName>편직의류 염색</learnModulName>
+<learnModulText>염료, 안료, 원면 염색, 톱 염색(top dyeing), 타래 염색(hank dyeing), 치즈 염색(chees dyeing), 스페이스 염색(space dyeing), 선염, 후염, B/T, 로트, 발주서, 입고 전표, 거래 명세표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101833</learnModulSeq>
+<learnModulName>편직의류 편직</learnModulName>
+<learnModulText>편직의류 생산 방식, 편직의류 편직 방법, 편직의류 게이지 산출, 편직프로그램, 편직기, 편직의류 외관, 편직의류 치수 측정, 편직의류 중량 계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101834</learnModulSeq>
+<learnModulName>편직의류 후가공</learnModulName>
+<learnModulText>열 고정, 후가공, 날염, 이화학 시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101835</learnModulSeq>
+<learnModulName>편직의류 패턴제작</learnModulName>
+<learnModulText>편직의류 패턴, 사이즈 스펙, 그레이딩, 시접, 편타, 룰 값, 연단, 마킹, 효율, 재단</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101836</learnModulSeq>
+<learnModulName>편직의류 봉제</learnModulName>
+<learnModulText>편직의류 봉제, 슈퍼 링킹기, 사시 링킹기, 게이지, 파사(버림사), 특수 재봉기, 완성 형틀</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101837</learnModulSeq>
+<learnModulName>편직의류 품질검사</learnModulName>
+<learnModulText>물세탁, 드라이클리닝, 표준 규격, 염색견뢰도, 세탁 치수 변화율, 유해 물질 검사, 포름알데히드, 아릴아민, pH 수치, 전수 검사, 샘플링 검사, 검침 검사, 검사보고서, 외관 불량, 제품 치수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101838</learnModulSeq>
+<learnModulName>편직의류 포장</learnModulName>
+<learnModulText>브랜드 태그, 가격 태그, 태그 핀, 바코드, 색상명, 색상 코드, 호칭, 폴리 백, 박스(carton box), 입고 전표, 패킹 리스트(packing list)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100617</learnModulSeq>
+<learnModulName>위편직 의류 편직</learnModulName>
+<learnModulText>생산의뢰서, 위편, 공정순서, 원사특성, 편직기계, 도목, 게이지, 편성요소, 편직 방법, 편성프로그램, 편직조건 설정, 편직물의 수정·보완, 완성물의 외관 상태 확인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100618</learnModulSeq>
+<learnModulName>경편직 의류 편직</learnModulName>
+<learnModulText>경편 조건, 경편직 편성 방법, 경편 작업, 경편기의 편성 요소, 경편 작업, 시편 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100619</learnModulSeq>
+<learnModulName>편직의류 후가공</learnModulName>
+<learnModulText>위편성, 경편성, 편성 작업 조건, 열 고정, 세탁, 전처리, 후처리, 염색 가공, 특수 가공, 이화학 시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100621</learnModulSeq>
+<learnModulName>편직의류 성형봉제</learnModulName>
+<learnModulText>사시 링킹기, 슈퍼 링킹기, 게이지, 링킹 게이지, 성형 편직, 코줄임(헤라시), 코늘림(후야시), 사시사, 파사(버림사), 완성형틀(철가다)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편직의류생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100624</learnModulSeq>
+<learnModulName>편직제 재단봉제</learnModulName>
+<learnModulText>부속 제작, 부속 봉제, 부속 부착 위치, 부자재, 부분 봉제, 주요 부위 연결, 봉제 방법, 스티치, 합복 공정, 합복 마무리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700408</learnModulSeq>
+<learnModulName>원피 수집</learnModulName>
+<learnModulText>스킨(skin), 하이드(hide), 동물 품종, 동물 학명, 국제 멸종 위기종, 원피 원산지, 원피 전처리, 원피 관리, 원피 보관, 원피 등급, CITES, OA, HS 코드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700409</learnModulSeq>
+<learnModulName>유성</learnModulName>
+<learnModulText>나피, 염장 처리, 수분 보조제, 섬유상단백질, 콜라겐, 작업 계획서, 수적, 탈모, 탈지, 탈회, 효해, 침산, 유성 작업, 청혁, 플레싱(fleshing), 스플리팅(splitting)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700410</learnModulSeq>
+<learnModulName>염색</learnModulName>
+<learnModulText>재유성, 중화, 염색, 가지, 염색 가죽(dyed leather), 가죽 원단(crust leather), 방수 및 발수 약품, 합성 신탄(syntan), 염료(dyestuff), 가지제(fatliquor), 염색 견뢰도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700411</learnModulSeq>
+<learnModulName>도장</learnModulName>
+<learnModulText>조습(wetting-back), 밀링(milling), 판장(toggling), 색상 조절(color matching), 분무(spraying), 덧칠(padding), 롤코팅(roll coating), 바인더(binder)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700412</learnModulSeq>
+<learnModulName>원단 완성</learnModulName>
+<learnModulText>사포, 가죽·모피 원단의 두께, 버핑, 가죽·모피 원단의 등급, 가죽·모피 원단의 불량, 계평, 포장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700413</learnModulSeq>
+<learnModulName>디자인 기획</learnModulName>
+<learnModulText>트렌드 정보, 마케팅 환경, 이미지 맵, 도식화, 스타일 맵, 사이즈 스펙(size spec), 샘플 제작, QC 보고서, 생산지시서, 매칭 차트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700414</learnModulSeq>
+<learnModulName>패턴 제작</learnModulName>
+<learnModulText>패턴 메이킹(pattern making), 생산지시서, 수축 분량, 맞음새 평가, 샘플, 제품 치수, 허용 오차 범위, 패턴 수정, 메인생산용 패턴, 그레이딩, 그레이딩 편차, 사이즈 전개</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700415</learnModulSeq>
+<learnModulName>성형 재단</learnModulName>
+<learnModulText>원단 소요량, 메인 생산 패턴, 성형, 판장, 선별, 낱장 재단, 번호 작업, 심지 접착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700416</learnModulSeq>
+<learnModulName>봉제</learnModulName>
+<learnModulText>가죽, 모피, 봉제, 바느질, 생산지시서, 재봉기, 봉사, 작업 공정, 원단, 안감, 부속품, 조립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700417</learnModulSeq>
+<learnModulName>완성 가공</learnModulName>
+<learnModulText>프레스, 손바느질, 손다림질, 라벨, 태그, 재봉기, 손다리미</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700418</learnModulSeq>
+<learnModulName>완제품 검사</learnModulName>
+<learnModulText>검침 검사, 매칭 차트, 검사 매뉴얼, 외관 불량, 치수 측정, 치수 허용 편차, 봉제 불량, 검사필, 검사 보고서, 배분표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100552</learnModulSeq>
+<learnModulName>가죽·모피 의류 부속 봉제</learnModulName>
+<learnModulText>가죽·모피 의류 부속 봉제, 생산의뢰서, 봉제공정도, 부속 제작, 개별 부속, 부속 부착위치, 박음선 위치표시, 후물용 재봉기, 모피용 봉조기, 스냅 부착기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100554</learnModulSeq>
+<learnModulName>가죽·모피 의류 합복 봉제</learnModulName>
+<learnModulText>가죽·모피 의류 부속 봉제, 생산의뢰서, 봉제공정도, 연결 봉제, 앞·뒤판 합복, 부속물 부착, 부분 봉제, 주요 부위 연결, 솔기 처리, 합복 공정, 후물용 재봉기, 모피용 봉조기, 스냅 부착기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700774</learnModulSeq>
+<learnModulName>패션 소품 개발 환경 분석</learnModulName>
+<learnModulText>거시적 환경 분석, 시장 환경 조사, 국내외 패션 경향, 생산 기술, 패션 소품 아이템 구성, 상품 라인, 제품 수명 주기, 중점 상품, 전략 상품, 보완 상품, 베이식 상품, 트렌디 상품, 시즌 아이템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700777</learnModulSeq>
+<learnModulName>패션 소품 디자인 개발</learnModulName>
+<learnModulText>시즌 디자인 콘셉트, 이미지 맵, 디자인 요소, 디자인 원리, 디자인 구상, 아이디어 스케치, 원･부자재 조사, 원･부자재 선정, 샘플 작업 의뢰서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700780</learnModulSeq>
+<learnModulName>원부자재 개발</learnModulName>
+<learnModulText>원자재, 부자재, 원･부자재 특수 가공, 원･부자재 개발 의뢰서, 가죽, 면, 모, 합성 섬유, 보강재, 트렌드, 판매 자료, 양산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700781</learnModulSeq>
+<learnModulName>샘플 제작</learnModulName>
+<learnModulText>샘플 제작, 샘플 작업 의뢰서, 패턴 제작, 요척, 마카, 재단, 봉제, 제사, 다림질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700782</learnModulSeq>
+<learnModulName>원가 계산 및 양산 모델·판매 가격 결정</learnModulName>
+<learnModulText>직접 제조 원가, 간접 제조 원가, 일반 경비, 제품 원가, 품평회, 요척, 임가공, 일반 관리비, 원가 계산서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700783</learnModulSeq>
+<learnModulName>본 작업 생산 기획</learnModulName>
+<learnModulText>예산, 작업 지시서, 원･부자재 스케줄(발주, 생산, 입고 등), 제품 생산 계획, 발주서, 포장 부자재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700786</learnModulSeq>
+<learnModulName>원부자재 발주</learnModulName>
+<learnModulText>원･부자재 발주서, 이화학 검사, 물성 변화, 감성 평가, 입고 확인, 전수 검품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700805</learnModulSeq>
+<learnModulName>양산 계획</learnModulName>
+<learnModulText>생산 공정, 시제품, 완제품, 품질 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700807</learnModulSeq>
+<learnModulName>양산 제조 준비</learnModulName>
+<learnModulText>패턴 제작, 설비 점검, 설비 조율, 원･부자재 수령 확인, 원･부자재의 공정별 분류, 본작업용 시제품 제작, 품질 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700809</learnModulSeq>
+<learnModulName>양산 제조</learnModulName>
+<learnModulText>본생산 작업 지시서, 시직 의뢰서, 시편 의뢰서, 날염 의뢰서, 봉제 지시서, 생산 패턴 배치, 특수 가공, 후가공, 조립, 봉제, 합봉, 마무리 작업, 포장, 태그, 보조물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700812</learnModulSeq>
+<learnModulName>완제품 검사 1</learnModulName>
+<learnModulText>외관 검사, 핏 검사, 사이즈 검사, 완제품 검사, 기능 검사 시험 의뢰</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100630</learnModulSeq>
+<learnModulName>패션소품 샘플 패턴 제작</learnModulName>
+<learnModulText>패션소품, 샘플 패턴, 패턴 제작, 디자인 의도, 의장 패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100631</learnModulSeq>
+<learnModulName>패션소품 샘플 봉제</learnModulName>
+<learnModulText>샘플 제작, 샘플 작업 의뢰서, 패턴 제작, 요척, 마카, 재단, 봉제, 제사, 다림질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100632</learnModulSeq>
+<learnModulName>패션소품 양산 패턴 제작</learnModulName>
+<learnModulText>생산 패턴, 의장, 원단, 재단</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100633</learnModulSeq>
+<learnModulName>패션소품 봉제</learnModulName>
+<learnModulText>특수 가공, 양산 조립, 양산 봉제, 마무리 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700157</learnModulSeq>
+<learnModulName>한복 시장 동향 분석</learnModulName>
+<learnModulText>한복의 역사, 한복 산업 현황, 패션 마케팅, 패션 상품 기획, 시장 조사 방법론</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700158</learnModulSeq>
+<learnModulName>한복 디자인 기획</learnModulName>
+<learnModulText>한국 복식 문화사, 한복 구성, 패션 디자인, 서양 의복 구성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700159</learnModulSeq>
+<learnModulName>한복 소재 가공</learnModulName>
+<learnModulText>피복 재료학, 의류 소재, 한국 전통 직물, 한국 전통 무늬</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700160</learnModulSeq>
+<learnModulName>한복 견본 제작</learnModulName>
+<learnModulText>시장 동향 분석, 디자인 기획, 소재 가공, 한국 복식 구성, 한국 복식사, 한국 전통 직물사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700161</learnModulSeq>
+<learnModulName>한복 작업 공정 계획</learnModulName>
+<learnModulText>디자인 기획, 소재 기획, 한복 구성, 한국 복식사, 생산 관리, 봉제 과학</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700162</learnModulSeq>
+<learnModulName>한복 옷본 제작</learnModulName>
+<learnModulText>시장 동향 파악, 디자인 기획, 한복 구성의 원리, 한국인 신체 치수의 이해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700163</learnModulSeq>
+<learnModulName>한복 마름질</learnModulName>
+<learnModulText>옷본 그리기, 옷본 수정하기, 식서 방향 표시하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700164</learnModulSeq>
+<learnModulName>부분 바느질</learnModulName>
+<learnModulText>작업 공정 계획, 옷본 제작, 마름질, 한복 구성의 원리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700165</learnModulSeq>
+<learnModulName>한복 완성 바느질</learnModulName>
+<learnModulText>복식 공예, 작업 공정 계획, 견본 제작, 옷본 제작, 마름질, 부분 바느질, 한복 구성의 원리, 기초 손바느질, 다림질 지식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700166</learnModulSeq>
+<learnModulName>한복 품질 검사</learnModulName>
+<learnModulText>봉제 공정, 품질 검사, 소재 가공, 품질 관리, 마름질, 부분 바느질, 완성 바느질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100634</learnModulSeq>
+<learnModulName>한복 겉·안감 부분 봉제</learnModulName>
+<learnModulText>봉제 도구, 봉제 기기, 손바느질, 본봉 바느질, 겉감, 안감, 물겹치마, 깨끼치마, 사폭바지, 풍차바지, 물겹저고리, 깨끼저고리, 당의, 오방장, 시접, 다림질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>패션제품생산</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>한복생산</ncsSubdCdnm>
+<learnModulSeq>EDU20190100635</learnModulSeq>
+<learnModulName>한복 겉·안감 합봉</learnModulName>
+<learnModulText>시침, 2겹 합봉, 4겹 합봉, 뒤집기, 물겹치마, 깨끼치마, 사폭바지, 풍차바지, 물겹저고리, 깨끼저고리, 당의, 오방장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101096</learnModulSeq>
+<learnModulName>의류유통 환경분석</learnModulName>
+<learnModulText>거시적 환경, 경제적 환경, 정치적․법률적 환경, 패션트렌드 조사, 패션정보원, 경쟁자 조사, 소비자 조사, SWOT 분석, 점포형 유통경로, 무점포형 유통경로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101098</learnModulSeq>
+<learnModulName>의류유통 전략수립</learnModulName>
+<learnModulText>소비자, 시장세분화, 포지셔닝, 유통경로, 상권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101101</learnModulSeq>
+<learnModulName>의류유통 상품기획</learnModulName>
+<learnModulText>상품 동향, 물량 계획, 사입, 마크업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101102</learnModulSeq>
+<learnModulName>의류 가격전략수립</learnModulName>
+<learnModulText>가격, 손익분기점 산출, 판매상품 분석, 판매량 증가, 판매부진 상품, 할인율, 판매율, 원가, 이익률, 원가회수율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101116</learnModulSeq>
+<learnModulName>의류유통 커뮤니케이션관리</learnModulName>
+<learnModulText>커뮤니케이션 목표, 매출 목표, 커뮤니케이션 과정, 커뮤니케이션 예산, 커뮤니케이션 방법, 광고와 홍보, 매체 선정, 고객 분석 원리, 고객 관계 관리, 고객 제안 유형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101117</learnModulSeq>
+<learnModulName>의류 판매촉진관리</learnModulName>
+<learnModulText>판매실적, 전략상품, 판매촉진, 촉진 주체, 광고, 판매촉진 성과 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101118</learnModulSeq>
+<learnModulName>의류 상품운영</learnModulName>
+<learnModulText>입출고 관리, 물량배분, 검품, 상품성과 분석, 물량회전, 재주문</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101119</learnModulSeq>
+<learnModulName>의류 영업관리</learnModulName>
+<learnModulText>매출 목표 수립, 매장별 매출 목표 수립, 판매사원 모집과 선발, 판매사원 교육, 판매사원 평가, 판매사원 보상, POS시스템, 결산서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101120</learnModulSeq>
+<learnModulName>의류 매장관리</learnModulName>
+<learnModulText>월별 매출 목표 수립, 고객 데이터베이스, CRM, 불평 고객 관리, 상품의 회전, 반품, VMD, 무점포 유통</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>의류유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101126</learnModulSeq>
+<learnModulName>의류 재고상품관리</learnModulName>
+<learnModulText>재고상품, 판매 실적, 재고 수량, 회전율, 소진경로, 물량 배분, 상품 매각, 해외매각</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700362</learnModulSeq>
+<learnModulName>상권 분석</learnModulName>
+<learnModulText>상권, 상권 조사, 상권 분석, 입지, 입지 검토, 매장 환경 조사, 매장 임대</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700363</learnModulSeq>
+<learnModulName>시장 조사</learnModulName>
+<learnModulText>트렌드 정보 분석, 가죽·모피 패션 정보, 원피, 패션 정보 분석, 동물보호협회, 동물보호법, 고객 경기 동향 지수, 기후 변화, 일기 변화, 원산지, 모피, 밍크, 여우, 소가죽, 돼지가죽, 염소 가죽, 뱀피 가죽, 악어가죽, 인조 가죽, 경쟁사 조사, 유통 분석, 서비스 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700364</learnModulSeq>
+<learnModulName>유통 경로 기획</learnModulName>
+<learnModulText>유통 경로, 백화점, 직영점, 아웃렛, 편집 매장, 홈 쇼핑, 온라인 쇼핑</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700365</learnModulSeq>
+<learnModulName>사입 관리</learnModulName>
+<learnModulText>사입 전략, 상품 구색 계획, 물량 계획, 가격 전략, 품질 전략, 사입 업체 평가, 납품 일정 관리, 운송 관리, 통관 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700366</learnModulSeq>
+<learnModulName>가격 결정</learnModulName>
+<learnModulText>가격, 가격 정책, 가죽·모피 원자재, 손익 계산서, 손익 분기점, 경쟁 브랜드의 중심 가격</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700367</learnModulSeq>
+<learnModulName>판매 기획</learnModulName>
+<learnModulText>연간 스케줄, 판매 동향, 사회적 쟁점, 분석 보고서, 매출 현황 보고서, 수요 예측, 판매 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700368</learnModulSeq>
+<learnModulName>상품 관리</learnModulName>
+<learnModulText>상품 입고, 상품 출고, 반품, 보관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700369</learnModulSeq>
+<learnModulName>판매원 관리</learnModulName>
+<learnModulText>판매원, 판매원 선발, 판매원 교육, 판매원 평가, 판매원 보상, 코디네이션, 매장 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700370</learnModulSeq>
+<learnModulName>촉진 관리</learnModulName>
+<learnModulText>광고, 광고 매체, 홍보, 판촉 이벤트, VMD, 디스플레이</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>가죽·모피유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700371</learnModulSeq>
+<learnModulName>구매 후 관리</learnModulName>
+<learnModulText>고객 관리, 수선(리폼) 서비스, 수선(리폼) 의뢰서, 제품 분석, 수선(리폼) 비용 계산, 수선(리폼) 서비스 안내, 고객 응대, 수선(리폼) 접수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700014</learnModulSeq>
+<learnModulName>신발 상품 기획</learnModulName>
+<learnModulText>신발 산업, 신발 제조 공정 과정, 마케팅 기본 지식, 통계학 및 SPSS, 정보 분석 및 시장 조사 방법, 신발 상품 지식, 원가 산출 방법, 거래 법규, 생산처 정보, 유통 채널</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700015</learnModulSeq>
+<learnModulName>신발 유통망 관리</learnModulName>
+<learnModulText>신발 패션 산업, 유통 산업, 유통 경로 및 구조, 유통 경영, 유통 관리, 상권 개념 및 상권 구조, 입지, 출점, 창업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700017</learnModulSeq>
+<learnModulName>신발 광고‧홍보 관리</learnModulName>
+<learnModulText>상권 분석, 시장 조사, 유통 경로 기획, 상품 기획, 매출 관리, 유통 채널, 상품 수명, 판매 기획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700018</learnModulSeq>
+<learnModulName>신발 매장 환경 관리</learnModulName>
+<learnModulText>신발 상품 기획, 패션 정보 분석, 신발 유통망 관리, 포토숍, 일러스트레이터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700021</learnModulSeq>
+<learnModulName>신발 영업 기획</learnModulName>
+<learnModulText>시장조사, 유통 경로 기획, 상품 기획, 재고 관리, 상품 관리, 매출 관리, 유통 채널, 상품 수명, 판매 기획, 소매 점포 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700022</learnModulSeq>
+<learnModulName>신발 판매처 재무 관리</learnModulName>
+<learnModulText>재무제표, 손익계산서, 대차대조표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700023</learnModulSeq>
+<learnModulName>신발 영업 관리</learnModulName>
+<learnModulText>신발 관련 용어, 신발 매출 계획, 숍마스터의 개념 및 역할, 해외 영업 관련 용어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700024</learnModulSeq>
+<learnModulName>신발 판매 관리</learnModulName>
+<learnModulText>신발의 구조, 라스트의 구조, 신발의 종류, 신발의 제법, 소비자 행동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700025</learnModulSeq>
+<learnModulName>신발 물류·재고 관리</learnModulName>
+<learnModulText>마케팅 전략, 유통 관리, 소매 점포 관리, 입ㆍ출고 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신발유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700027</learnModulSeq>
+<learnModulName>신발 협력업체 관리</learnModulName>
+<learnModulText>신발 상품 기획, 신발 제조 공정, 신발 시장 정보, 원가 및 마진율 설정, 아웃소싱, 생산 관리, 거래 법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600394</learnModulSeq>
+<learnModulName>상권 분석</learnModulName>
+<learnModulText>시장조사, 마케팅, 소비자 행동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600395</learnModulSeq>
+<learnModulName>시장조사</learnModulName>
+<learnModulText>패션 마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600396</learnModulSeq>
+<learnModulName>유통 전략 수립</learnModulName>
+<learnModulText>시장조사, 상권 분석, 가격 결정, 사입 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600397</learnModulSeq>
+<learnModulName>상품 기획</learnModulName>
+<learnModulText>패션 트렌드, 소비자 조사, 경쟁사 조사, 사입 관리, 판매 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600398</learnModulSeq>
+<learnModulName>점별 영업 계획</learnModulName>
+<learnModulText>상품 기획, 판매 관리, 판매 프로모션(sales promotion)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600399</learnModulSeq>
+<learnModulName>사입 관리</learnModulName>
+<learnModulText>가격 전략, 상품 기획, 생산 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600400</learnModulSeq>
+<learnModulName>가격 결정</learnModulName>
+<learnModulText>상품 기획, 시장 조사, 소비자 행동, 마케팅 4P' Mix</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600401</learnModulSeq>
+<learnModulName>상품 입출고 관리</learnModulName>
+<learnModulText>시장조사, 유통 전략 수립, 사입 관리, 점별 영업 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600402</learnModulSeq>
+<learnModulName>촉진 관리</learnModulName>
+<learnModulText>시장조사, 판매 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>패션제품유통</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>패션소품유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150600403</learnModulSeq>
+<learnModulName>판매 관리</learnModulName>
+<learnModulText>상품 입출고 관리, 점포 영업 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700498</learnModulSeq>
+<learnModulName>신발생산계획</learnModulName>
+<learnModulText>제품 규격서, 생산계획서, 가용 설비, 가용 인력, 장비 일정, 자재 일정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700499</learnModulSeq>
+<learnModulName>규격ㆍ채산</learnModulName>
+<learnModulText>확정 견본, 제품 규격서, 작업공정, 작업 규격서, 자재 규격서, 신발 원가, 채산서, 생산계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700500</learnModulSeq>
+<learnModulName>신발패턴 제작</learnModulName>
+<learnModulText>작업 규격서, 갑피(Upper), 반게이지, 그레이딩(grading), 갑피 치공구, 재단 발형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700501</learnModulSeq>
+<learnModulName>신발금형</learnModulName>
+<learnModulText>창(sole), 제품 게이지, 파이론, 모델링, 사출 금형, CAD/CAM, 머시닝 센터, 방전 가공기, 치공구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700502</learnModulSeq>
+<learnModulName>원부자재준비</learnModulName>
+<learnModulText>원․부자재, 규격⋅채산, 자재 납기, 자재 발주, 자재 검사, 자재 소요량, 자재 원가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700503</learnModulSeq>
+<learnModulName>재단재봉</learnModulName>
+<learnModulText>재단, 가죽 재료, 재봉기, 재봉 공정, 부품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700504</learnModulSeq>
+<learnModulName>창가공 · 조립</learnModulName>
+<learnModulText>제품 규격서, 밑창, 중창, 안창, 배합, 프레스, 트리밍, 버핑, 선처리, 접착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700505</learnModulSeq>
+<learnModulName>제화작업</learnModulName>
+<learnModulText>작업 규격서, 갑피(upper), 창(sole), 용제, 접착제, 신골(last), 선처리, 게이지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700506</learnModulSeq>
+<learnModulName>시험과 분석</learnModulName>
+<learnModulText>한국산업규격, 신발 갑피, 신발창, 신발 완제품, 제조자 시험 규격, 각종 공학 단위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>신발생산</ncsSubdCdnm>
+<learnModulSeq>EDU20150700507</learnModulSeq>
+<learnModulName>신발품질관리</learnModulName>
+<learnModulText>검사, 마무리 작업, 포장, 품질관리, 검침 장비, 제품 불량, 포장 박스, 제품 및 작업 규격서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200533</learnModulSeq>
+<learnModulName>신발개발기획</learnModulName>
+<learnModulText>스타일, 컬러, 소재, 표적시장, 소비자, 라이프스타일, 상품 구성, STP, SWOT, 포지셔닝</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200535</learnModulSeq>
+<learnModulName>신발소재, 부품개발</learnModulName>
+<learnModulText>신발 갑피 자재, 신발 창 소재, 신발 부품, 품질 테스트, 물성 테스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200538</learnModulSeq>
+<learnModulName>신발디자인</learnModulName>
+<learnModulText>신발 디자인, 디자인 콘셉트, 브랜드, 트렌드, 드로잉, 일러스트레이터, 포토샵, 맵핑, 작업 지시서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200543</learnModulSeq>
+<learnModulName>신발견본관리</learnModulName>
+<learnModulText>견본, 제품 요청서, 금형, 규격서, 장비, 설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200546</learnModulSeq>
+<learnModulName>신발장비, 설비개발</learnModulName>
+<learnModulText>견본 제품 요청서, 투자 수준, 생산 적합성, 신공법, 신공정, 공정 개량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200555</learnModulSeq>
+<learnModulName>라스트개발</learnModulName>
+<learnModulText>코 모양, 뒷굽 높이, 라스트, 라스트 기획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200557</learnModulSeq>
+<learnModulName>신발패턴개발</learnModulName>
+<learnModulText>콘셉트, 견본 규격서, 반게이지, 갑피, 패턴, 발형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200560</learnModulSeq>
+<learnModulName>신발금형개발</learnModulName>
+<learnModulText>신발 제품 규격서, 수축률, 신발 금형의 분류, 역설계, 신발 게이지, 금형 설계, 금형 제작 채산서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200574</learnModulSeq>
+<learnModulName>신발견본자재관리</learnModulName>
+<learnModulText>신발 갑피 자재, 신발 창 소재, 신발 부품, 품질 테스트, 물성 테스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200601</learnModulSeq>
+<learnModulName>신발견본제작</learnModulName>
+<learnModulText>견본, 갑피, 창, 금형, 사상 작업, 최종 견본</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200605</learnModulSeq>
+<learnModulName>신발개발규격, 원가작성</learnModulName>
+<learnModulText>공정분석, 임가공비, 패턴, 소요량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>패션</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>신발개발·생산</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>신발개발</ncsSubdCdnm>
+<learnModulSeq>EDU20171200607</learnModulSeq>
+<learnModulName>신발작업공정도작성</learnModulName>
+<learnModulText>갑피 제작, 창 가공, 창 조립, 제화 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200863</learnModulSeq>
+<learnModulName>세탁물 접수·점검</learnModulName>
+<learnModulText>세탁물 접수, 세탁물 점검, 고객 상담, 고객 만족, 고객 감동 서비스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200864</learnModulSeq>
+<learnModulName>세탁 안전·환경</learnModulName>
+<learnModulText>세탁 약품, 산과 알칼리, 계면활성제, pH(수소이온지수), 리트머스시험지, 산화제 및 환원제, 표백제, 유기용제, 용제 관리, 자동화 시스템, 기계 안전, 전기 안전, 열 안전, 수질오염, 대기오염, 폐기물 오염, 오염물의 인체 영향, 오염 피해 사례</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200865</learnModulSeq>
+<learnModulName>섬유 감별</learnModulName>
+<learnModulText>조성 섬유, 연소법, 현미경법, 용해법, 셀룰로스 섬유, 단백질 섬유, 인조섬유</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200866</learnModulSeq>
+<learnModulName>세탁 방법 선택</learnModulName>
+<learnModulText>품질 표시 라벨, 취급 주의 표시, 직물, 편성물, 내의, 외의, 백색 세탁물, 유색 세탁물, 일반가공, 특수 가공, 부자재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200867</learnModulSeq>
+<learnModulName>드라이클리닝</learnModulName>
+<learnModulText>전 처리, 드라이소프, 드라이클리닝, 유기용제, 계면활성제, 가용화, 차지법, 수용성, 지(유)용성, 오구(오점), 본세, 건조, 탈액</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200868</learnModulSeq>
+<learnModulName>론드리</learnModulName>
+<learnModulText>론드리, 예비 세탁, 본 세탁, 탈수, 건조, 불림, 헹굼, 산욕, 풀먹임, CMC</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200869</learnModulSeq>
+<learnModulName>웨트클리닝</learnModulName>
+<learnModulText>유용성 오점, 수용성 오점, 전 처리, 얼룩빼기, 웨트클리닝, 손세탁, 론드리, 드라이클리닝, 세제, 유기용제, 탈액, 건조 기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200870</learnModulSeq>
+<learnModulName>특수제품 세탁</learnModulName>
+<learnModulText>가죽, 신발, 모피, 가지제, 광택제, 염료, 안료, 보색, 침구, 카펫</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200871</learnModulSeq>
+<learnModulName>오점 분석∙제거</learnModulName>
+<learnModulText>유용성 오점, 수용성 오점, 얼룩 빼기, 면, 마, 모, 견, 드라이 소프, 유기용제, 석유계 용제, 퍼클로로에틸렌, 스파팅 머신</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200872</learnModulSeq>
+<learnModulName>재가공</learnModulName>
+<learnModulText>표백, 풀감, 후가공, 보색, 염료, 산화표백제, 환원표백제, 가공제, 섬유, 풀 먹이기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200873</learnModulSeq>
+<learnModulName>다림질</learnModulName>
+<learnModulText>유용성 오점, 수용성 오점, 전 처리, 얼룩 빼기, 드라이클리닝, 세제, 유기용제, 탈액, 건조 기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200874</learnModulSeq>
+<learnModulName>세탁물 마무리 검사</learnModulName>
+<learnModulText>외관 관찰, 변퇴색, 이염, 역오염, 형광 물질, 세탁물 표백, 염색 견뢰도, 형태 변화, 외관 변화, 치수 변화, 손상 평가, 장식품, 포장·보관, 부속 재료, 산화가스, 승화, 황변</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>세탁</ncsSubdCdnm>
+<learnModulSeq>EDU20161200875</learnModulSeq>
+<learnModulName>세탁 운영 관리</learnModulName>
+<learnModulText>경영 계획, 영업 관리, 작업장 관리, 클레임, 경영 계획표, 실적 관리, 경영 목표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202256</learnModulSeq>
+<learnModulName>수선 상담</learnModulName>
+<learnModulText>고객 상담, 수선 방법, 접수, 견적 산출, 분쟁 방지, 소재 파악, 작업 시 유의 사항, 봉제 방법 선택, 봉제 도구 부자재 준비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202257</learnModulSeq>
+<learnModulName>착장·보정</learnModulName>
+<learnModulText>수선 의뢰 의복, 시착, 체형, 보정, 실루엣, 둘레 항목, 길이 항목, 분해 순서, 패턴 활용, 패턴 수정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202258</learnModulSeq>
+<learnModulName>수선 봉제</learnModulName>
+<learnModulText>수선 의복 촬영, 봉제 방법 분석, 의복 분해, 재단 라인 보정, 시접 처리, 박음질 방법 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202263</learnModulSeq>
+<learnModulName>둘레·길이부분 수선</learnModulName>
+<learnModulText>둘레 수선, 길이 수선, 밑단, 옆선, 프린세스 패널(사이바), 시접 분량, 다림질, 겉감, 안감, 수정선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202264</learnModulSeq>
+<learnModulName>어깨부분 수선</learnModulName>
+<learnModulText>어깨 길이, 어깨 경사도, 어깨 연관 부위, 소매산 높이, 소매산 위치, 소매 연관 부위, 진동 둘레 길이, 진동 깊이, 진동 둘레 연관 부위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202267</learnModulSeq>
+<learnModulName>리폼</learnModulName>
+<learnModulText>디자인 변경, 아이템 변경, 소재 변경, 리폼 상담, 디자인 제안, 지퍼, 단추, 스냅, 가죽</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202269</learnModulSeq>
+<learnModulName>특수복 수선</learnModulName>
+<learnModulText>아웃도어, 심 실링, 웰딩, 오도롬프, 핸드메이드, 원단 보수, 가죽, 모피</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202271</learnModulSeq>
+<learnModulName>부자재 교체</learnModulName>
+<learnModulText>일반 지퍼 수선, 콘실 지퍼 수선, 오픈 지퍼 수선, 장식 지퍼 교체, 플라켓 길이 수선, 부자재 교체, 안감 교체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202274</learnModulSeq>
+<learnModulName>부분 디자인 수선</learnModulName>
+<learnModulText>네크라인, 칼라, 포켓, 트임, 턱, 개더, 레이싱, 슬릿, 인터록, 블라인드 햄스티치, 와펜</learnModulText>
+</row>
+<row>
+<ncsLclasCd>18</ncsLclasCd>
+<ncsLclasCdnm>섬유·의복</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>의복관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>세탁·수선</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수선</ncsSubdCdnm>
+<learnModulSeq>EDU20161202277</learnModulSeq>
+<learnModulName>끝마무리·수선 완성품 검사</learnModulName>
+<learnModulText>손바느질, 밑단 처리, 다림질, 실밥 제거, 사이즈 검사, 외관 검사, 동작 적합성 검사</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>309</totCnt>
+</dataInfo>
+</root>

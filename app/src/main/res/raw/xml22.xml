@@ -1,0 +1,4394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100195</learnModulSeq>
+<learnModulName>출판목표 계획 수립</learnModulName>
+<learnModulText>출판물, 출판문화산업, 출판 분야, 출판 트렌드, 사업 목표, 출판기획안, 필자 발굴, 저작권 확보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100197</learnModulSeq>
+<learnModulName>출판 아이디어 창출</learnModulName>
+<learnModulText>아이디어, 틈새시장, 기획 콘셉트, 포지셔닝, 출판물 구성, 출판물 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100198</learnModulSeq>
+<learnModulName>출판 목표시장 분석</learnModulName>
+<learnModulText>출판시장, 자료조사, 독자 욕구, 목표시장, 시장 세분화, SWOT, 멀티 유즈, 콘텐츠, 국제도서전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100200</learnModulSeq>
+<learnModulName>출판 저작권 확보</learnModulName>
+<learnModulText>출판권 설정, 저작권법, 재산권 침해, 원고료, 2차 저작권, 전자출판물, 저작권포괄 계약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100201</learnModulSeq>
+<learnModulName>필자 개발 관리</learnModulName>
+<learnModulText>필자, 샘플 원고, 완전 원고, 원고 청탁, 원고 읽기, 교정, 일정 관리, 인세, 저작권료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100203</learnModulSeq>
+<learnModulName>출판 진행 커뮤니케이션</learnModulName>
+<learnModulText>출판기획, 문서작성 응용프로그램, 디자인 담당자, 제작담당자, 시장조사, 의사진행방법, 출판편집, 출판디자인, 출판제작공정, 출판마케팅, 필자 발굴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100204</learnModulSeq>
+<learnModulName>출판마케팅 계획 수립</learnModulName>
+<learnModulText>출판물, 출판문화산업, 콘셉트, 출판 이벤트, 가격, 유통경로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100206</learnModulSeq>
+<learnModulName>출판물 홍보</learnModulName>
+<learnModulText>출판홍보, 홍보문안, 광고단가, 시장분석, 대상독자, 보도자료, 광고매체 선정, 판매 동향, 홍보방안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100208</learnModulSeq>
+<learnModulName>전자출판물 계획 수립</learnModulName>
+<learnModulText>전자출판물 발간 현황, 전자출판물 인증 현황, 전자출판물의 유통 플랫폼, 디지털북, 앱북, 디지털교과서, 독서경향</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>출판기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100210</learnModulSeq>
+<learnModulName>출판 사후 관리</learnModulName>
+<learnModulText>출판물, 서점, 독자, 출판기획, 구매독자, 잠재독자, 출판 트렌드, 시장분석, 인터넷 서점</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200463</learnModulSeq>
+<learnModulName>편집디자인 고객 요구 분석</learnModulName>
+<learnModulText>출판 시스템, 저작권 계약, 원고진행상황표, 편집디자인 의뢰서, 고객요구, 독자, 향유자, 레이아웃, 일러스트, 북디자인, 편집디자이너</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200464</learnModulSeq>
+<learnModulName>편집디자인 계획 수립</learnModulName>
+<learnModulText>편집 프로세스, 구성요소, 진행 일정표, 편집 형식, 편집디자인 소프트웨어, 콘셉트 표현, 아이디 어 구상, 출판 매체, 외주 디자이너</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200466</learnModulSeq>
+<learnModulName>편집디자인 자료 조사 분석</learnModulName>
+<learnModulText>추세에 맞는 편집디자인, 편집디자인 정보, 편집디자인 구성요소, 플래닝, 레이아웃, 타이포그래피, 이미지, 콘셉트, 이미지, 일러스트레이션, 글자 이미지, 창의적 이미지, 트렌드 분석, 마케팅 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200468</learnModulSeq>
+<learnModulName>편집디자인 관련 저작권 적용</learnModulName>
+<learnModulText>저작권, 이미지, 판면권, 초상권, 퍼블리시티권, 저작권 침해, 오마주, 패러디, 표절, 사진저작물, 미술저작물, 도형저작물, 복제권과 배포권, 서체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200469</learnModulSeq>
+<learnModulName>편집디자인 작업 실행</learnModulName>
+<learnModulText>판형, 판면, 판면 명칭, 그리드, 레이아웃, 편집디자인 소프트웨어, 그래픽디자인 소프트웨어, 디자인 구성 요소, 타이포그래피, 이미지, 캘리그래피, 색, 색상, CMYK</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200472</learnModulSeq>
+<learnModulName>편집디자인 소프트웨어 활용</learnModulName>
+<learnModulText>편집디자인, 레이아웃, 일러스트레이션, 타이포그래피, 가독성, 도련, 포맷</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200473</learnModulSeq>
+<learnModulName>완성 편집디자인 교정 작업</learnModulName>
+<learnModulText>미디어, 출판, e-book, 사진, 삽화, 서체, 레이아웃, 그리드, 컬러, 별색, 교정, 인쇄</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200474</learnModulSeq>
+<learnModulName>편집디자인 인쇄 감리</learnModulName>
+<learnModulText>PDF, CTP, 인쇄기 종류, 인쇄방법, 인쇄감리, 인쇄제작, 인쇄물 후가공 방법, 라미네이팅, 박가공, 톰슨가공, 접지방법, 대첩, 제책/제본</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20151200475</learnModulSeq>
+<learnModulName>편집디자인 사후 관리</learnModulName>
+<learnModulText>제지사, 종이 단가, 인쇄단가, 필름출력 단가, CTP단가, 후가공 단가, 정산서, 원가계산, 평가 방법, 데이터 저장, 데이터 보관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100163</learnModulSeq>
+<learnModulName>편집디자인 자료 관리</learnModulName>
+<learnModulText>정보 수집, 자료 분석, 이미지 제작, 타이포그래피, 파일 형식, 이미지 데이터화, 저작권, 보호 기간, 복제권, 배포권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100164</learnModulSeq>
+<learnModulName>편집디자인 시안 제작</learnModulName>
+<learnModulText>편집디자인, 레이아웃, 타이포그래피, 콘셉트, 이미지, 가독성, 출판물 기획, 디자인 기법, 디자 인 요소, 표현기법, 디자인 시안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100165</learnModulSeq>
+<learnModulName>편집디자인 소프트웨어 활용</learnModulName>
+<learnModulText>출판물 규격, 레이아웃, 그리드, 타이포그래피, 이미지, 색상, 유실 서체, 가독성, 해상도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100166</learnModulSeq>
+<learnModulName>사진 이미지 편집디자인</learnModulName>
+<learnModulText>이미지 편집, 디자인, 출판물, 사진, 콘셉트, 디지털 자료, 이미지 편집 소프트웨어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>편집디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100167</learnModulSeq>
+<learnModulName>드로잉 이미지 편집 디자인</learnModulName>
+<learnModulText>콘셉트 설정, 드로잉 이미지, 디지털 자료, 드로잉 소프트웨어, 해상도, 출력용 파일 형식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100184</learnModulSeq>
+<learnModulName>출판 원고 분석</learnModulName>
+<learnModulText>출판 원고, 저작자, 편집자, 원고 검토, 원고 수정, 원고 보완, 원고 확정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100185</learnModulSeq>
+<learnModulName>출판 편집기획 수립</learnModulName>
+<learnModulText>출판 편집기획, 출판물의 특성, 편집 콘셉트, 출판물의 편집형식, 출판물의 외형, 편집 예산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100186</learnModulSeq>
+<learnModulName>편집 자료 활용</learnModulName>
+<learnModulText>출판 편집, 편집 자료, 편집 자료 수집, 편집 자료 분석, 편집 자료 활용, 원고, 내용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100187</learnModulSeq>
+<learnModulName>편집 진행 관리</learnModulName>
+<learnModulText>저자, 출판계약서, 인세정산, 일정 관리, 편집 비용, 외주 관리, 조판, 제책, 후가공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100188</learnModulSeq>
+<learnModulName>편집 레이아웃 작업</learnModulName>
+<learnModulText>판형, 레이아웃, 본문, 출판 부속물, 서체, 제본, 용지, 여백, 판면</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100189</learnModulSeq>
+<learnModulName>교열 교정 작업</learnModulName>
+<learnModulText>교열, 교정, 문장 부호, 문장 수정, 어문 규정, 편집 요소, 문법, 문맥, 교정 부호, 교정 원칙, 한자 교정, 외국어 교정, 편집 체재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100191</learnModulSeq>
+<learnModulName>편집용 애플리케이션 활용</learnModulName>
+<learnModulText>레이아웃, 그래픽, 벡터, 비트맵, 트루타입, 해상도, 픽셀, 썸네일, 명도, 대비, 마스터페이지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100192</learnModulSeq>
+<learnModulName>출판물 이용 관리</learnModulName>
+<learnModulText>저작권, 배타적발행권, 한국도서번호, 출판예정도서목록, 납본, 도서안내자료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20160100193</learnModulSeq>
+<learnModulName>출판 관련 법규 관리</learnModulName>
+<learnModulText>저작권, 상표권, 초상권, 퍼블리시티권, 편집자료, 출판문화산업진흥법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100156</learnModulSeq>
+<learnModulName>편집 콘셉트 설정</learnModulName>
+<learnModulText>편집, 디자인, 콘셉트, 마케팅, 독자 분석, 벤치마킹, 편집 기획, 시장 조사, 통계 분석, 장르, 독자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100157</learnModulSeq>
+<learnModulName>출판물 구성요소 결정</learnModulName>
+<learnModulText>편집 기획, 편집 형식, 구성요소 배열, 가편집, 편집 예산, 정가 책정, 예산 집행, 손익 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100158</learnModulSeq>
+<learnModulName>원고 정리</learnModulName>
+<learnModulText>교열 원칙, 분량 조정, 문장 구성 검토, 문법, 윤문, 외래어 표기법, 제목안, 목차, 문장 교열, 감 수, 감역</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100159</learnModulSeq>
+<learnModulName>원고 교정</learnModulName>
+<learnModulText>교열, 교정, 어문규정, 교정 부호, 번호 체계, 한자 교정, 외국어 교정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100160</learnModulSeq>
+<learnModulName>편집 교정</learnModulName>
+<learnModulText>편집 콘셉트, 편집 체제, 편집 구성요소, 편집 레이아웃, 출판물, 편집 기획, 교정, 교열, 교정 원고, 편집 교정지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100161</learnModulSeq>
+<learnModulName>제작 공정 관리</learnModulName>
+<learnModulText>입찰, 출판 기획, 인쇄 발주서, 견적, 교정, 납기, 견적서, 계약서, 산출, 예산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>편집</ncsSubdCdnm>
+<learnModulSeq>EDU20190100162</learnModulSeq>
+<learnModulName>전자출판물 제작</learnModulName>
+<learnModulText>단말기 변환, 제작 도구, 독자 사용성, 유통 경로, 백업, 업데이트, 저작권, PDF, ePub</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200483</learnModulSeq>
+<learnModulName>제작내용협의</learnModulName>
+<learnModulText>기획의도, 판형, 유통, 보급, 광고체계, 제작소요시간, 제판, 인쇄, 후가공방식, 제작단가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200484</learnModulSeq>
+<learnModulName>출력데이터관리</learnModulName>
+<learnModulText>화선부 및 비화선부. 재단선. 해상도. 터잡기. 출력시스템. 컬러교정.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200486</learnModulSeq>
+<learnModulName>제작공정관리</learnModulName>
+<learnModulText>CTP, CTF, 포스트스크립트, LPI, DPI, 색분해, 인쇄대수, 판형, 절수, 오프셋인쇄, 스트린인쇄, 플렉소그래피, 그라비어인쇄, 정합, 책등, 중철제책, 무선철제책, 양장제책, 모글루 빌더, studio4ux, Tooping book solution, QuarkPress, 저작권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100225</learnModulSeq>
+<learnModulName>제작계획수립</learnModulName>
+<learnModulText>제작의뢰서, 출력, 인쇄, 오프셋인쇄기, 후가공, 제책, CTP 출력기, CTF 출력기, 출판제작자, 편집 배열표, 디지털 인쇄, 양장, 반양장, 무선철, 인쇄실 작업환경, 코팅, 라미네이팅, 금은박 인쇄, 귀돌이</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100227</learnModulSeq>
+<learnModulName>원부자재조달</learnModulName>
+<learnModulText>안료, 무기안료, 유기안료, 비이클, 틱소트로피(thixotropy), 항복값, 평량, 종이결, 시즈닝, 투기도, 평활도, 트래핑성, 자외선잉크, 자성잉크, 발표잉크, 액정잉크, 캐스트 코팅지, 바라이터지, 코든지, 전수검사, 유독물질, MSDS, 원가계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100229</learnModulSeq>
+<learnModulName>협력업체 선정</learnModulName>
+<learnModulText>지업사, 제지회사, 출력 업체, CTP 출력기, CTF 출력기, CEPS 토탈스캐너, 인쇄 업체, 오프셋 인쇄기, 후가공 업체 라미네이팅, 박 찍기, 금속박 찍기, 색박 찍기, 잉크 찍기, 제책 업체, 품질관리 스케일, 공장등록증, ISO 9001, 산업재산권, FSC 인증서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100231</learnModulSeq>
+<learnModulName>품질평가관리</learnModulName>
+<learnModulText>품질, 품질기준서, 품질관리실시시스템, 품질검사장비, 오차범위, 부적합품, 품질유지, 원인규명, 책임부여</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100257</learnModulSeq>
+<learnModulName>고객관리</learnModulName>
+<learnModulText>시장, 수주, 견적, 크레임, 커뮤니케이션, 사후관리, 기존고객, 신규고객, 내부고객, 외부고객, 작업지시, 고객 만족, 신뢰</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100258</learnModulSeq>
+<learnModulName>완제품 납품관리</learnModulName>
+<learnModulText>차량배차, 포장, 출하, 차량배차관리시스템, 적재관리시스템,</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>출판</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>출판물제작·공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100261</learnModulSeq>
+<learnModulName>제작원가산출</learnModulName>
+<learnModulText>표준원가, 작업요소, 원가산정, 원가계산, 목표관리, 실적관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100696</learnModulSeq>
+<learnModulName>고객 요구 파악</learnModulName>
+<learnModulText>인쇄출판물, 고객의 요구, 원고, 레이아웃, 편집용 소프트웨어, 레이아웃 확인, 프리플라이트, 크로스미디어 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100697</learnModulSeq>
+<learnModulName>출력 데이터 가공</learnModulName>
+<learnModulText>입력 장치, 포스트스크립트(PostScript), 출력 데이터, 편집 데이터, 파일 포맷, CMYK(Cyan, Magenta, Yellow, Black), RGB(Red, Green, Blue), 컬러 포맷, 데이터 리터치, 레이아웃, PDF (Portable Document Format) 파일</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100698</learnModulSeq>
+<learnModulName>프리프레스 공정 설계</learnModulName>
+<learnModulText>프리프레스, 작업 지시서, 공정 설계, 워크플로우, 응용 소프트웨어, PDF 파일, 편집 디자인 요소, 인쇄 원고, CTP 출력, 교정, 프리프레스 공정 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100699</learnModulSeq>
+<learnModulName>컬러 관리 시스템 적용</learnModulName>
+<learnModulText>모니터 캘리브레이션, 프린터 캘리브레이션, ICC 프로파일, RGB, CMYK, 잉크젯 프린터, 토너기반 레이저 프린터, 오프셋 인쇄기, 모니터 감마, 잉크젯 프린터 헤드, CTP(Computer to Plate), CTF(Computer to Film)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100700</learnModulSeq>
+<learnModulName>워크플로우 설정</learnModulName>
+<learnModulText>CTP, CTF, 해상도, 선수, 인쇄의 종류, PS, PDF, RIP, CMS, 프로파일, 워크플로우</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100701</learnModulSeq>
+<learnModulName>터잡기(Imposition)</learnModulName>
+<learnModulText>CTP, CTF, 맞춤표, 재단선, 접지선, 터잡기, 오프셋, 윤전, 중철, 무선철, 양장, 목형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100702</learnModulSeq>
+<learnModulName>계측 장비를 활용한 교정 인쇄</learnModulName>
+<learnModulText>계측 장비, 교정 인쇄, 교정 장비 캘리브레이션, 워크플로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100703</learnModulSeq>
+<learnModulName>인쇄용 원판 제작</learnModulName>
+<learnModulText>원판, 현상기, 감광 재료, 일반 PS 판재, 망점, 특성 곡선, 농도계, CTP 판재, 립(RIP)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100704</learnModulSeq>
+<learnModulName>크로스미디어 제작</learnModulName>
+<learnModulText>크로스미디어, 크로스미디어 데이터 관리, 출력용 데이터 변환, 크로스미디어 제작 계획, 전자 서적 출판, 크로스미디어 오프라인 출판, 크로스미디어 온라인 출판, 크로스미디어 보안 설정, PDF 보안, 디지털 퍼블리싱</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20160100705</learnModulSeq>
+<learnModulName>프리프레스 품질 관리</learnModulName>
+<learnModulText>ISO 국제 표준, PDF, 입력 출력 장치, ICC 프로파일, 워크플로우, CIP3amp;amp;CIP4, 교정 인쇄, 본인쇄, 컬러 재현, 디지털 데이터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100590</learnModulSeq>
+<learnModulName>출력 원고 확인</learnModulName>
+<learnModulText>편집 디자인용 소프트웨어, 서체, 레이아웃, 레이아웃 요소, 프리플라이트, 출력 원고, PDF, 파일 형식, 색상 프로파일, 워크플로우</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100591</learnModulSeq>
+<learnModulName>프리프레스 공정 설계</learnModulName>
+<learnModulText>프리프레스, 생산 계획 수립, 공정 설계, 작업 계획 수립, 작업 실행 계획 수립, 작업지시서, 작업 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100595</learnModulSeq>
+<learnModulName>장치 캘리브레이션</learnModulName>
+<learnModulText>모니터 특성, 모니터 캘리브레이션, 프린터 캘리브레이션, CTP 출력기, CTF 출력기, 출력기 캘리브레이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100596</learnModulSeq>
+<learnModulName>주변장치 프로파일 제작</learnModulName>
+<learnModulText>주변광, 모니터 캘리브레이션, 프린터 캘리브레이션, ICC 프로파일, RGB, CMYK, 잉크젯 프린터, 토너 기반 레이저 프린터, 모니터 밝기, 평판 인쇄</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100599</learnModulSeq>
+<learnModulName>인쇄용 프로파일 제작과 장치 프로파일 적용</learnModulName>
+<learnModulText>모니터 캘리브레이션, 프린터 캘리브레이션, ICC 프로파일, RGB, CMYK, 잉크젯 프린터, 토너 기반 레이저 프린터, 오프셋 인쇄기, 모니터 감마, 잉크젯 프린터 헤드, CTP(Computer to Plate), CTF(Computer to Film)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100601</learnModulSeq>
+<learnModulName>워크플로우 설정</learnModulName>
+<learnModulText>CTP, CTF, 해상도, 선수, 인쇄의 종류, PS, PDF, RIP, CMS, 프로파일, 워크플로우</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100603</learnModulSeq>
+<learnModulName>필름 CTP 원판 제작</learnModulName>
+<learnModulText>CTF, CTP, G/A Film, CTP Plate, Digital Control wedge</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100605</learnModulSeq>
+<learnModulName>크로스미디어 제작</learnModulName>
+<learnModulText>크로스미디어, 전자 서적, 전자 출판, 온라인 출판, 출력용 데이터 변환, 콘텐츠 관리, 전자 서적 출판, 크로스미디어 온라인 출판, 크로스미디어 보안, PDF 보안, 디지털 퍼블리싱</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>프리프레스</ncsSubdCdnm>
+<learnModulSeq>EDU20190100607</learnModulSeq>
+<learnModulName>프리프레스 품질 관리</learnModulName>
+<learnModulText>품질 경영, 품질 관리 계획서, 필름, PS 판, RIP, 워크플로, 측정 장비, 현상액, 정착액, 터잡기, 체크리스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100803</learnModulSeq>
+<learnModulName>인쇄물 생산 계획 수립</learnModulName>
+<learnModulText>작업지시서, 납기일, 프리프레스, 프레스, 포스트프레스, 프리셋팅, 공수 여력, 부하 계획, 할당 법, 실동 공수, 유실 공수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100804</learnModulSeq>
+<learnModulName>인쇄물 생산 재료 준비</learnModulName>
+<learnModulText>평판인쇄, 인쇄재료, 인쇄판, 피인쇄체, 인쇄용지, 잉크, 축임물, 부재료, 블랭킷, 롤러, 인쇄물 품질, 인쇄기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100805</learnModulSeq>
+<learnModulName>낱장 인쇄기계의 조작</learnModulName>
+<learnModulText>급지부, 연속 급지, 급지부 헤드, 흡입․송출바람, 인쇄부, 통 꾸밈, 그리퍼, 닙(nip), 캘리브레이션, 배지바(bar), 파우더, 전도도, 첨가제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100806</learnModulSeq>
+<learnModulName>윤전 인쇄기계의 조작</learnModulName>
+<learnModulText>윤전 인쇄, 댄서 롤러(dancer roller), 축임물, 히트 세트 잉크(heat set ink), 방향 전환 막대(턴바, turn bar), 삼각판(포머, former), 적지대(스태커, stacker)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100807</learnModulSeq>
+<learnModulName>주변기계 조작</learnModulName>
+<learnModulText>인쇄판, 펀칭기, 판 꺾기, CIP 서버, 잉크 공급 장치, 축임물 공급 장치, 롤러, 용지 반전기, 운반기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100808</learnModulSeq>
+<learnModulName>인쇄 생산</learnModulName>
+<learnModulText>인쇄 환경, 평판 인쇄기, 인쇄 규격, 가늠 맞춤, 색 맞춤, 조색, 본 인쇄</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100809</learnModulSeq>
+<learnModulName>인쇄 색 관리</learnModulName>
+<learnModulText>CIP3 데이터, 인쇄기계 캘리브레이션, 국제 표준 색, 국제 표준 농도, 측색 장비, 색 공간, 프로파일, CMS, 색차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100810</learnModulSeq>
+<learnModulName>평판인쇄 품질 관리</learnModulName>
+<learnModulText>ISO 9001, 그라데이션 스케일, 컬러 패치, 도트 게인 스케일, 스타 타깃, 시그널 스트립, 컬러 컨트롤 스크립, 트래핑, 콘트라스트, 그레이 밸런스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100811</learnModulSeq>
+<learnModulName>인쇄물 사후 관리</learnModulName>
+<learnModulText>히스토그램(낙도형, 이빠진형, 쌍봉우리형, 절벽형), 관리도, 교정 인쇄물, 롤러, 색얼룩, 주기성, P관리도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100812</learnModulSeq>
+<learnModulName>인쇄 안전 관리</learnModulName>
+<learnModulText>작업장 안전 교육, 안전 표시, 3정 5S, 안정용품, 위험물, 안전 점검, 보호구, 경고 표지, MSDS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100685</learnModulSeq>
+<learnModulName>낱장 인쇄기계의 급·배지부 조작</learnModulName>
+<learnModulText>낱장 인쇄기계. 급지부. 배지부. 급지 장치. 배지 장치. 급지 방식. 종이 쌓기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100686</learnModulSeq>
+<learnModulName>낱장 인쇄기계의 인쇄부 조작</learnModulName>
+<learnModulText>인쇄부, 인쇄통, 판통, 고무통, 압통, 축임물 장치, 잉크, 잉크 장치, 종이 전달 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100687</learnModulSeq>
+<learnModulName>윤전 인쇄기의 급·접지부 조작</learnModulName>
+<learnModulText>급지부(infeed), 댄서 롤러(dancer roller), 완전 공정, 윤전 인쇄기계, 접지부, 건조 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100688</learnModulSeq>
+<learnModulName>윤전 인쇄기계의 인쇄부 조작</learnModulName>
+<learnModulText>윤전 인쇄기계, 잉크키 영점(0) 조정, 캘리브레이션, 통꾸밈, 측색계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100689</learnModulSeq>
+<learnModulName>인쇄 작업</learnModulName>
+<learnModulText>인쇄기 캘리브레이션, 시험 인쇄, 작업 규격, 본인쇄, 조색</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100690</learnModulSeq>
+<learnModulName>CIP 조작</learnModulName>
+<learnModulText>CIP3, CIP4, PPF, JDF, 잉크키, 후가공 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100691</learnModulSeq>
+<learnModulName>인쇄 색 관리</learnModulName>
+<learnModulText>국제 표준 규격, 측색 장비, CMS, 계측 장비 캘리브레이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100692</learnModulSeq>
+<learnModulName>인쇄기계 캘리브레이션</learnModulName>
+<learnModulText>캘리브레이션, 인쇄기계, 솔리드 잉크 농도, 캘리브레이션 타깃</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>평판인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100693</learnModulSeq>
+<learnModulName>평판 인쇄기계 일상 관리</learnModulName>
+<learnModulText>물질 안전 보건 자료, 3정 5S, 안전수칙, 이력 관리 표, 레지스트, 원점 조정, 감청 효과, 방청 효과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100959</learnModulSeq>
+<learnModulName>작업장 안전유지</learnModulName>
+<learnModulText>공조, 항온·항습, 정전기, 산업 안전, 소방, 위험물 취급, 배전반, 폐기물, 집진, MSDS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100960</learnModulSeq>
+<learnModulName>작업지시서 작성</learnModulName>
+<learnModulText>제작 발주서, 피인쇄체, 인쇄 방식, 인쇄 재료, 생산 설비, 생산 능력, 작업 지시서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100961</learnModulSeq>
+<learnModulName>특수인쇄용 원고 제작</learnModulName>
+<learnModulText>레이아웃, 데이터 포맷, PDF, 타이포그래피, 판형, CTP, 캘리브레이션, 현상액, 농도계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100962</learnModulSeq>
+<learnModulName>스크린 제판 작업</learnModulName>
+<learnModulText>스크린 인쇄판, 망사(메시, mesh), 견장기, 감광 유제, 버킷, 텐션, 스크린 제판, 오프닝</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100963</learnModulSeq>
+<learnModulName>그라비어 제판 작업</learnModulName>
+<learnModulText>그라비어인쇄, 컨벤셔널 제판법, 전자 조각 제판법, 백선 스크린, 철 판통, 동도금, 크롬 도금, 니켈 도금, 실린더 연마, 헬리오 그래쇼그래프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100964</learnModulSeq>
+<learnModulName>플렉소그래피 제판 작업</learnModulName>
+<learnModulText>감광성 수지판, 생판(raw plate), 빛쬠, 네거티브 필름(negative film), 빛쬠기, 스크린 선수(screen ruling), 자외선(UV), 농도(density), 망점(dot)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100965</learnModulSeq>
+<learnModulName>특수인쇄 재료 확인</learnModulName>
+<learnModulText>계면(界面, interface), 표면 장력(表面張力, surface tension), 젖음(wetting), 친수성(親水性, hydrophilicity), 친유성(親油性, hydrophobic property), 접촉각(接觸角, contact angle), 표면조도(表面粗度, 표면 거칠기, surface roughness)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100966</learnModulSeq>
+<learnModulName>스크린관련 설비 조작 관리</learnModulName>
+<learnModulText>작업지시서, 스크린 인쇄기, 피인쇄체(제품), 인쇄 판, 건조대, 장력, 핀트, 이격 거리, 스퀴지, 스 크레이퍼(scraper), 지그(jig), 잉크, 점도계, 전자저울, 습도계, 잉크 혼합기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100967</learnModulSeq>
+<learnModulName>그라비어관련 설비 조작 관리</learnModulName>
+<learnModulText>오목점(ink cell), 닥터 블레이드(doctor blade), 인쇄압, 장력(張力, tension), 잉크의 점도, 리와인더(rewinder), 언와인더(unwinder), 잉크 피막, 두루마리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100968</learnModulSeq>
+<learnModulName>플렉소그래피 설비 조작 관리</learnModulName>
+<learnModulText>스택형(Stack Press), 센트럴 임프레션형(Central Impression Press), 라인형(Line Press), 아닐록스 롤(Anilox Roll), 잉크 전이량, 마운팅, 수지판, 판통, 압통</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100969</learnModulSeq>
+<learnModulName>특수인쇄 후가공 작업</learnModulName>
+<learnModulText>코팅(coating), 라미네이팅(laminating), 금박(金箔), 은박(銀箔), 색박(色箔), 타발기(톰슨, 도무송), 홀 펀칭, 합지(合紙, lamination), 고주파 접합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20160100970</learnModulSeq>
+<learnModulName>특수인쇄 품질 관리</learnModulName>
+<learnModulText>특수 인쇄, 인쇄 품질, 검사 장비, 검사 환경, 검사 성적서, 품질 분석 방법, 불량 한도 기준, 불량 통계 처리, 불량 원인 분석, 불량 개선 대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100694</learnModulSeq>
+<learnModulName>피인쇄체 준비작업</learnModulName>
+<learnModulText>두루마리(web, 卷取紙, 권취지), 낱장(sheet, 枚葉, 매엽), 계면(界面, interface), 표면 장력(表面張 力, surface tension), 젖음(wetting), 친수성(親水性, hydrophilicity), 친유성(親油性, hydrophobic property), 접촉각(接觸角, contact angle), 표면조도(表面粗度, 표면 거칠기, surface roughness)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100695</learnModulSeq>
+<learnModulName>특수 인쇄용 잉크 준비작업</learnModulName>
+<learnModulText>계면(界面, interface), 표면 장력(表面張力, surface tension), 젖음(wetting), 친수성(親水性, hydrophilicity), 친유성(親油性, hydrophobic property), 접촉각(接觸角, contact angle), 표면 조도(表 面粗度, 표면 거칠기, surface roughness)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100696</learnModulSeq>
+<learnModulName>특수 인쇄용 원판 준비작업</learnModulName>
+<learnModulText>PDF(portable document format), CTP(computer to plate), 터잡기, 후가공, 농도계, 온습도, 아닐록 스 롤러, 감광성 수지판, 루페(loupe), 3차원 측정, 컨트롤 스트립(control strip)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100697</learnModulSeq>
+<learnModulName>특수 인쇄기계 유지</learnModulName>
+<learnModulText>유지 보수, 인쇄 장비, 이력 관리, 드라이아이스 블라스팅(dry ice blasting), 아닐록스 롤러, 폐기 물, 이력관리, 인쇄기, 정리 정돈, 부품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100698</learnModulSeq>
+<learnModulName>특수인쇄 기본 후가공</learnModulName>
+<learnModulText>코팅(coating), 래미네이팅(laminating), 금박(金箔), 은박(銀箔), 색 박(色箔), 타발기(톰슨, 도무송), 홀 펀칭, 합지(合紙, lamination), 고주파 접합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100699</learnModulSeq>
+<learnModulName>특수인쇄 복합 후가공</learnModulName>
+<learnModulText>홀 펀칭, 합지(合紙, lamination), 고주파 접합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100700</learnModulSeq>
+<learnModulName>특수인쇄 품질 검사</learnModulName>
+<learnModulText>특수 인쇄, 인쇄 품질, 검사 장비, 검사 환경, 검사 성적서, 품질 분석 방법, 불량 한도 기준, 불 량 통계 처리, 불량 원인 분석, 불량 개선 대책, 점도계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>특수인쇄</ncsSubdCdnm>
+<learnModulSeq>EDU20190100701</learnModulSeq>
+<learnModulName>특수인쇄 품질 관리</learnModulName>
+<learnModulText>특수인쇄, 인쇄 품질, 검사 장비, 검사 환경, 검사 성적서, 품질 분석 방법, 불량 한도 기준, 불 량 통계 처리, 불량 원인 분석, 불량 개선 대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101409</learnModulSeq>
+<learnModulName>후가공의 작업장 조성 및 작업지시서의 계획 수립</learnModulName>
+<learnModulText>인쇄, 제책, 공조 시설, 후가공 공정, 산업 안전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101410</learnModulSeq>
+<learnModulName>인쇄물 표면 가공</learnModulName>
+<learnModulText>작업 지시서, 표면 가공, 금박, 은박, 라미네이팅, 코팅, 톰슨, UV 코팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101411</learnModulSeq>
+<learnModulName>인쇄물 작업별 재단</learnModulName>
+<learnModulText>작업 지시서, 제책별 구성 요소, 재단선, 재단기, 추림기, 리프트, 슬라이드 에어 테이블, 적재기, 후가공, 규격별 재단</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101413</learnModulSeq>
+<learnModulName>인쇄물 작업별 접지</learnModulName>
+<learnModulText>제책, 접지, 사양, 종이 특성, 터잡기, 쪽 순서, 오프셋 매엽, 오프셋 윤전, 종이 특성, 접지기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101414</learnModulSeq>
+<learnModulName>접지물 정합</learnModulName>
+<learnModulText>작업 지시서, 제책 사양, 정합기, 로터리형, 중철 공정, 무선철 공정, 가접지물, 제작 사양서, 시방서, 캐더링 체인, 버티컬 피더, gripper, 플랫 파일 피더, 풀붙이기, 풀통</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101416</learnModulSeq>
+<learnModulName>중철 제책</learnModulName>
+<learnModulText>중철 제책, 역방향 중철 제책, 중철 터잡기, 정합, 재단</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101417</learnModulSeq>
+<learnModulName>무선철 제책</learnModulName>
+<learnModulText>제책, 무선철 책의 구조, 무선철 제책, 아지로 제책, PUR 제책, 광개본 제책, 핫멜트 접착제, 무선철 제책기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101418</learnModulSeq>
+<learnModulName>양장 제책</learnModulName>
+<learnModulText>평철, 중철, 무선철, 실매기, 접착 제책, 표준 작업, 엠보싱, 갱판지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101419</learnModulSeq>
+<learnModulName>특수 제책 가공</learnModulName>
+<learnModulText>간이 제책, 펀칭 제책, 링 제책, 트윈 링, 라미네이팅, 북인북(book in book), 브로슈어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>인쇄후가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160101420</learnModulSeq>
+<learnModulName>후가공 마무리 재단 및 제품의 납품</learnModulName>
+<learnModulText>재단기, 재단기 기계 조작, 작업 지시서, 제책 사양, 포장기, 품질 확인, 사고와 대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200068</learnModulSeq>
+<learnModulName>간판 제작·설치 환경 분석</learnModulName>
+<learnModulText>간판, 도시 경관, 광고 효과, 광고물 법규, 광고 디자인, 건축물, 구조물, 안전 관리, 계약서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200289</learnModulSeq>
+<learnModulName>간판 디자인 기획</learnModulName>
+<learnModulText>간판, 디자인 기획, 그래픽 디자인, 광고, 커뮤니케이션, 자료 조사, 콘셉트, 이미지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200290</learnModulSeq>
+<learnModulName>간판 디자인 개발</learnModulName>
+<learnModulText>간판 타이포그래피, 로고타이프, 컬러 적용, 레이아웃 적합성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200291</learnModulSeq>
+<learnModulName>간판 제작도면 설계</learnModulName>
+<learnModulText>간판, 설계, 제작도면, 시방서, 제작 설명서, 축척, 재료, 마감, 설치 상세, 제작 상세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200292</learnModulSeq>
+<learnModulName>간판 재료 준비</learnModulName>
+<learnModulText>제작도면, 간판 재료, 물량 산출표, 적산, 자재 물량 집계표, 단가, 금속 재료, 도장, 목재, 석재, 원단, 타일, 플라스틱, 스카시, 시트지, 전광판, 채널</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200293</learnModulSeq>
+<learnModulName>간판 재료 가공</learnModulName>
+<learnModulText>제작도면, 작업 지시서, 작업 계획서, 공정, 간판 재료, 재단, 절곡, 칠, 용접, 제어, 색상, 외주 가 공, 안전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200294</learnModulSeq>
+<learnModulName>간판 가공물 조립</learnModulName>
+<learnModulText>조명, 광속, 광도, 조도, 배선, 스위치, 과전류 차단기, 용접, 볼트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200295</learnModulSeq>
+<learnModulName>간판 설치 준비</learnModulName>
+<learnModulText>기술 인력 구성, 예산 산정, 안전 교육, 직무 교육, 장비 확보, 장비 투입, 작업 반경 확보, 작업 환경 구축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200296</learnModulSeq>
+<learnModulName>간판 설치</learnModulName>
+<learnModulText>현장 안전, 간판 제거, 간판 설치, 간판 부착 및 고정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>인쇄·출판</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인쇄</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>간판디자인·제작·설치</ncsSubdCdnm>
+<learnModulSeq>EDU20171200297</learnModulSeq>
+<learnModulName>간판 점검</learnModulName>
+<learnModulText>전기 설비, 전기 배선, 간판 부착, 안전 점검, 유지 보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201813</learnModulSeq>
+<learnModulName>칠공예 제품 기획 및 디자인</learnModulName>
+<learnModulText>주문서 작성, 제품 제안서 작성, 견적서 작성, 칠공예품 개발 기획, 계약서 작성, 계약 체결, 디자인 수집, 아이디어 스케치, 설계 도면, 시방서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201816</learnModulSeq>
+<learnModulName>칠공예 기물 및 작업 준비</learnModulName>
+<learnModulText>기물 주문하기, 기물 제작 주문서 작성, 시방서 파악, 칠정제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201819</learnModulSeq>
+<learnModulName>칠공예 소지조정</learnModulName>
+<learnModulText>면고르기, 칠메기기, 흠집 메우기, 곡수, 사포 작업, 토회칠, 나뭇결 메우기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201822</learnModulSeq>
+<learnModulName>칠공예 밑작업</learnModulName>
+<learnModulText>호칠, 탄호칠, 토회칠, 면고르기, 눈메우기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201824</learnModulSeq>
+<learnModulName>칠공예 초칠</learnModulName>
+<learnModulText>초벌칠하기, 초칠하기, 초칠 물갈기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201825</learnModulSeq>
+<learnModulName>칠공예 중칠</learnModulName>
+<learnModulText>중칠하기, 중칠 물갈기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201828</learnModulSeq>
+<learnModulName>칠공예 상칠</learnModulName>
+<learnModulText>옻칠, 상칠, 상칠 만들기, 상칠 제조, 상칠 경화 칠장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201831</learnModulSeq>
+<learnModulName>칠공예 마무리작업</learnModulName>
+<learnModulText>접칠하기, 광내기, 장석달기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201837</learnModulSeq>
+<learnModulName>칠공예 검수·관리 및 작업 안전 관리</learnModulName>
+<learnModulText>칠공예 검수하기, 칠공예 제품 관리, 칠공예 안전 관리, 칠공예 공구 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20181200003</learnModulSeq>
+<learnModulName>칠공예 베 바르기</learnModulName>
+<learnModulText>호칠, 토회칠, 베 바르기, 면 고르기, 베눈 메우기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20181200004</learnModulSeq>
+<learnModulName>칠공예 종이 바르기</learnModulName>
+<learnModulText>호칠, 찹쌀풀, 옻칠, 한지, 생칠, 기물 치수측정, 찹쌀가루, 칠주걱</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>칠공예</ncsSubdCdnm>
+<learnModulSeq>EDU20181200005</learnModulSeq>
+<learnModulName>칠공예 토회 바르기</learnModulName>
+<learnModulText>토회칠, 생칠, 토분, 칠주걱, 골회, 숫돌, 토회칠면 갈아내기, 토회칠 보관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100781</learnModulSeq>
+<learnModulName>도자제품 방향설정</learnModulName>
+<learnModulText>도자기의 종류, 도자디자인 계획, 도자기의 특징, 도자기의 제작과 장식, 토기, 옹기, 청자, 백자, 분청사기, 건축도자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100782</learnModulSeq>
+<learnModulName>도자제품기획</learnModulName>
+<learnModulText>시장 조사, 제품분석, 아이디어 전개, 제품설계, 컴퓨터 설계 프로그램, 모형 제작, 석고제형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100783</learnModulSeq>
+<learnModulName>도자소지조합</learnModulName>
+<learnModulText>화학 분석, 화학 조성, 조합, 분쇄, 수비, 여과, 소지, 반죽, 가소성, 입도, 색도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100793</learnModulSeq>
+<learnModulName>석고제형</learnModulName>
+<learnModulText>이형선, 이형제, 경첩, 이장, 해교제, 정형, 가압성형, 제형물레</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100795</learnModulSeq>
+<learnModulName>물레성형</learnModulName>
+<learnModulText>물레성형도구, 꼬박밀기, 중심잡기, 기벽 만들기, 기형 만들기, 굽깎기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100796</learnModulSeq>
+<learnModulName>손성형</learnModulName>
+<learnModulText>손성형, 흙줄 말아 쌓기, 판성형, 핀칭, 속파기, 손성형 도구, 소지, 점토, 반건조, 자름줄, 자름칼, 도면</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100797</learnModulSeq>
+<learnModulName>도자건조</learnModulName>
+<learnModulText>온도, 습도, 가소성, 수축, 기공, 수분, 입자, 속도, 형태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100798</learnModulSeq>
+<learnModulName>도자장식</learnModulName>
+<learnModulText>화장토, 안료상회, 전사지, 음각, 양각, 압인기법, 압인도장 음각칼, 양각칼, 투각칼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100800</learnModulSeq>
+<learnModulName>도자소성</learnModulName>
+<learnModulText>소성방법, 가마재임, 초벌소성, 재벌소성, 상회소성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100801</learnModulSeq>
+<learnModulName>도자제품관리</learnModulName>
+<learnModulText>고객가치분석, 고객의 분류, 경쟁사 분석, 품질의 분류, 품질지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100802</learnModulSeq>
+<learnModulName>도자공예 작업안전관리</learnModulName>
+<learnModulText>3정 5S, 산업폐기물, 성형실, 소성실, 제토실</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100422</learnModulSeq>
+<learnModulName>이장 주입 성형</learnModulName>
+<learnModulText>이장, 해교제, 사용형 틀, 석고 건조기, 탈형, 이형선, 주입</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100423</learnModulSeq>
+<learnModulName>제형 물레</learnModulName>
+<learnModulText>도면, 일러스트 석고, 이장, 해교제, 정형, 제형 물레</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100424</learnModulSeq>
+<learnModulName>물레정형</learnModulName>
+<learnModulText>물레 정형 도구, 굽, 굽깎기, 굽칼, 굽통, 안굽, 바깥굽, 반건조, 건조 상태 파악</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100425</learnModulSeq>
+<learnModulName>유약제조</learnModulName>
+<learnModulText>유약, 화학 조성, 조합, 분쇄, 슬립, 제조 방식에 따른 유약, 주 사용 원료에 따른 유약, 제품의 종류에 따른 유약, 소성 온도에 따른 유약, 외관에 따른 유약, 제겔식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100426</learnModulSeq>
+<learnModulName>시유</learnModulName>
+<learnModulText>시유, 시유 방법, 시유 도구, 담금법, 분무법, 솔질법, 유도법, 휘발법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>도자공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100427</learnModulSeq>
+<learnModulName>가마재임</learnModulName>
+<learnModulText>소성 방법, 가마 재임, 초벌 소성, 재벌 소성, 상회 소성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201921</learnModulSeq>
+<learnModulName>석재 주문상담</learnModulName>
+<learnModulText>조각, 원석 명칭, 원석 특성, 조경 시설물, 조형물, 종교 조각, 미술 장식품, 계약서, 견적서, 석조물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201922</learnModulSeq>
+<learnModulName>석재제품 설계</learnModulName>
+<learnModulText>창작품, 지적 재산권, 도면, 툴, 도면 설계, 일러스트레이터, 스케치, 3D Max, 재질, 렌더링, 시제품, 설명서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201923</learnModulSeq>
+<learnModulName>석재 원형제작용 모형제작</learnModulName>
+<learnModulText>소조, 심봉, 석고, FRP, 형틀, 소조 도구, 전개도, CURA, 입체 프린트, 3D Max</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201927</learnModulSeq>
+<learnModulName>석재가공 기계작업</learnModulName>
+<learnModulText>문형 절삭기, 단두식 절삭기, 다협식 절삭기, 다날 재단기, 외날 재단기, 화강암, 대리석, F20.25 에어 툴, 4인치 그라인더, 8인치 그라인더</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201928</learnModulSeq>
+<learnModulName>석재가공 수작업</learnModulName>
+<learnModulText>할석, 원석 결, 쐐기, 착암기, 그라인더, 망치, 정, 날메, 화강암, 사암, 대리석, 천공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201930</learnModulSeq>
+<learnModulName>석조각기법 작업</learnModulName>
+<learnModulText>정관, 붓, 스프레이건, 정, F-20, 25 에어 조각기, 수동 연마기, 4인치 핸드 그라인더, 8인치 핸드 그라인더</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20161201931</learnModulSeq>
+<learnModulName>석재제품 검사와 설치</learnModulName>
+<learnModulText>직각자, 모형, 석제품 설치, 착시 현상, 크레인, 석재 시공, 건식 시공, 습식 시공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100348</learnModulSeq>
+<learnModulName>석재주문상담 및 채석과 안전</learnModulName>
+<learnModulText>견적서, 계약서, 직접 생산 증명, 석공예, 장비 제원, 미술 작품 공모, 채석 장비, 자재표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100349</learnModulSeq>
+<learnModulName>석재모각기법</learnModulName>
+<learnModulText>망치, 정, 에어 툴, 그라인더, 핸드 밀러, 포인팅 머신기, 거치대, 조임쇠, 핸드 드릴, 라스파, 직각자, 연필</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100350</learnModulSeq>
+<learnModulName>석재 기초제도와 드로잉</learnModulName>
+<learnModulText>기초 제도, 제용구, 제도규격, 도면, 척도, 평면작도법, 투상도법, 기초 소묘, 석고 소묘, 인체 소묘</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100351</learnModulSeq>
+<learnModulName>전통 석조물의 분석과 시공</learnModulName>
+<learnModulText>석등, 석탑, 부도탑, 당초 문양, 에폭시, 경계석, 석재 앵글, 석조물, 습식 시공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100352</learnModulSeq>
+<learnModulName>석재용 자연물 부조 소조와 석재용 인체의 부조 소조</learnModulName>
+<learnModulText>저부조, 중부조, 고부조, 점토, 유토, 소조 헤라, 받침대, 스케치, 부조판, 흙, 해부학, 조각, 동세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100353</learnModulSeq>
+<learnModulName>석재 3D그래픽 모델링과 소조</learnModulName>
+<learnModulText>3D MAX, 3D 프로그램, 3D 출력, 기하형체, 인물 소조, 석고소조, 모델링, 입체, 투상도, 렌더링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100354</learnModulSeq>
+<learnModulName>석재 공구와 제품 관리 및 설치</learnModulName>
+<learnModulText>망치, 정, 에어 툴, 그라인더, 먹통, 수평자, 앵커, 도면, 밧줄, 안전 보호구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>석공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100355</learnModulSeq>
+<learnModulName>석재 마감기법과 석재 각자기법</learnModulName>
+<learnModulText>도장, 도료, 연마, 전통 연마 기법, 창작 마감 기법, 각자 기법, 샌드블라스터 각자법, 에어툴, 수공구 사용법, 고무판</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100824</learnModulSeq>
+<learnModulName>목공예품 제품기획</learnModulName>
+<learnModulText>시장 자료조사, 목공예품 트렌드, 주문 상담서, 제품 제안서, 목공예품 발상, 목공예품 렌더링, 목공예품 모델링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100825</learnModulSeq>
+<learnModulName>목공예품 도면그리기</learnModulName>
+<learnModulText>도면, 상세도, 시방서, 투상법, 제도규격, 척도, 도면의 종류, 도면의 양식, 품질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100826</learnModulSeq>
+<learnModulName>목공예 컴퓨터활용 작업</learnModulName>
+<learnModulText>AutoCAD, 2D 그래픽, 3D 그래픽, 렌더링(rendering), 모델링(modeling), 3D Studio MAX, 애니메이션(Animation), 포토샵(Photoshop), 일러스트(Illustrator), 컴퓨터 기초 드로잉(Computer Base Drawing)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100827</learnModulSeq>
+<learnModulName>목공예 작업계획수립</learnModulName>
+<learnModulText>시제품, 도면 분석, 보고서 작성, 작업공정 계획, 작업공정표, 세부공정표, 이상 발생, 목업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100828</learnModulSeq>
+<learnModulName>목공예 재료수립</learnModulName>
+<learnModulText>제재, 연륜, 목리, 나무갗, 할렬(갈라짐), 함수율, 집성재, 경첩, 고주파 건조, 진공 건조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100829</learnModulSeq>
+<learnModulName>목공예 공구준비</learnModulName>
+<learnModulText>전동기계. 수공구, 날물, 연마, 조각칼, 날물기계, 교정, 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100830</learnModulSeq>
+<learnModulName>목공예 세공작업</learnModulName>
+<learnModulText>도면, 몰딩, 루터, 보링기계, 접착제, 지그, CNC, 레이저</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100831</learnModulSeq>
+<learnModulName>목공예 조각작업</learnModulName>
+<learnModulText>도면, 부조, 음각, 명암, 목재, 소묘, 조각, 조형요소, 수공구, 전동공구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100832</learnModulSeq>
+<learnModulName>목공예 상감작업</learnModulName>
+<learnModulText>상감, 모따기, 홈파기, 상감부재, 문양, 목재, 조각칼, 대패</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100833</learnModulSeq>
+<learnModulName>목재 맞춤작업</learnModulName>
+<learnModulText>도면, 목재의 구분, 목재의 종류, 각재, 판재, 곧은결, 무늬결, 장부맞춤, 사개맞춤, 주먹장맞춤</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100834</learnModulSeq>
+<learnModulName>목재 접합 작업</learnModulName>
+<learnModulText>목재종류, 이음접합기계, 이음작업, 접착제, 목재 연결물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100835</learnModulSeq>
+<learnModulName>목공예 연마작업</learnModulName>
+<learnModulText>흠집, 갈라짐, 눈메움, 목분, 나무가루, 우드필러, 연마지, 사포, 연마도구, 연마기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100836</learnModulSeq>
+<learnModulName>목공예품 도장작업</learnModulName>
+<learnModulText>도장, 도료, 착색, 천연도료, 화학도료, 안료, 용제, 도막, 건조, 도장기법, 도장용구, 투명도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100837</learnModulSeq>
+<learnModulName>목공예품 제품관리</learnModulName>
+<learnModulText>제품검사, 검수, 검사기준서, 포장, 포장재료, 골판지, 완충재, 배송, 반품 및 교환, 취급, 보관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100838</learnModulSeq>
+<learnModulName>목공예품 전시판매</learnModulName>
+<learnModulText>전시 판매, 소비자, 판매전략, 고객관리, 커뮤니케이션, 전자상거래, 소비자 보호법, 고객응대, 동선, 상품 진열</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100251</learnModulSeq>
+<learnModulName>목공예 CAD작업</learnModulName>
+<learnModulText>AutoCAD, 도면, 투상도, 도면 치수, 도면 표현, 도면 응용, CAD 데이터 활용, 도면 출력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100252</learnModulSeq>
+<learnModulName>목공예 3D프로그램 사용</learnModulName>
+<learnModulText>3D프로그램, 3D그래픽, 렌더링(rendering), 3D모델링(modeling), 3D Studio MAX, 애니메이션 (Animation), 스케치업 프로그램, 3차원 가상공간, 맵핑</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100253</learnModulSeq>
+<learnModulName>목공예 2D프로그램 사용</learnModulName>
+<learnModulText>2D 프로그램, 프레젠테이션, 렌더링, 편집 디자인 소프트웨어, 그래픽 디자인 소프트웨어, 컴퓨터 기초 드로잉, 색상</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100254</learnModulSeq>
+<learnModulName>목공예 세공작업</learnModulName>
+<learnModulText>성형, 보링, 세공, 재단, 둥근톱, 횡절기, 띠톱, 실톱, 라우터, 루터, 트리머, 목선반, 드릴, 도미노</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100255</learnModulSeq>
+<learnModulName>부조작업</learnModulName>
+<learnModulText>도면, 부조, 음각, 명암, 목재, 소묘, 조각, 조형요소, 수공구, 전동공구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100256</learnModulSeq>
+<learnModulName>환조작업</learnModulName>
+<learnModulText>도면, 스케치, 명암, 끌, 조각칼, 실톱기계, 띠톱기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100257</learnModulSeq>
+<learnModulName>투조작업</learnModulName>
+<learnModulText>도면, 부조, 음각, 명암, 목재, 소묘, 조각, 조형요소, 수공구, 전동공구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100258</learnModulSeq>
+<learnModulName>목공예 상감 작업</learnModulName>
+<learnModulText>도면, 직선상감, 곡선상감, 상감재, 실톱기계, 트리머, 조각칼, 대패, 모따기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100259</learnModulSeq>
+<learnModulName>목공예 각재 맞춤작업</learnModulName>
+<learnModulText>도면, 목재의 종류, 목재의 구분, 각재, 판재, 수공구, 목공기계, 곧은결, 무늬결, 장부맞춤, 각재 맞춤</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>목공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100260</learnModulSeq>
+<learnModulName>목공예 판재 맞춤작업</learnModulName>
+<learnModulText>도면, 목재의 구분, 수공구, 목공기계, 판재, 사개맞춤, 주먹장맞춤, 연귀맞춤</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100842</learnModulSeq>
+<learnModulName>금속공예 제품상담 및 기획</learnModulName>
+<learnModulText>자료 조사, 콘셉트 설정, 모형 제작, 제작 계획서, 작업 지시서, 주문자 피드백, 공임 산출, 견적서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100843</learnModulSeq>
+<learnModulName>금속공예 3D 컴퓨터 활용작업</learnModulName>
+<learnModulText>디자인 도면, 2D 모델링, 3D 모델링, 3D 프린터, 캠, 캐드(CAD), 렌더링, 레이아웃</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100844</learnModulSeq>
+<learnModulName>금속공예 작업장안전관리</learnModulName>
+<learnModulText>기계설비, 전동기구, 화학약품, 안전설비, 안전조치, 유해물질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100845</learnModulSeq>
+<learnModulName>금속공예 기초가공</learnModulName>
+<learnModulText>절단, 톱질, 줄질, 땜, 접합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100846</learnModulSeq>
+<learnModulName>금속공예 평면가공</learnModulName>
+<learnModulText>금속 무늬, 금속 무늬 가공, 성형 망치, 망치, 압연기, 전동식 압연기, 스탬핑, 스탬핑 정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100847</learnModulSeq>
+<learnModulName>금속공예 입체가공</learnModulName>
+<learnModulText>금속 단조 성형, 금속 판금 성형, 금속 기계성형, 압연기 성형, 내리기 기법, 돋아올리기 기법, 말아붙이기 기법, 스피닝, 선반기법, 전해주조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100848</learnModulSeq>
+<learnModulName>금속공예 칠보기법</learnModulName>
+<learnModulText>칠보 재료, 유약, 바탕 재료, 올리기, 디자인, 표면 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100849</learnModulSeq>
+<learnModulName>금속공예 주조기법</learnModulName>
+<learnModulText>주조, 왁스 모델링, 석고소성, 진공주조, 고무주형, 실리콘주형, 사출하기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100850</learnModulSeq>
+<learnModulName>금속공예 표면마감 및 착색</learnModulName>
+<learnModulText>표면 처리, 연마하기, 광내기, 질감 내기, 열처리. 화학 처리, 전기 도금, 애노다이징, 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100851</learnModulSeq>
+<learnModulName>금속공예 제품관리 및 디스플레이</learnModulName>
+<learnModulText>제품검품, 품질보증, 포장, 출고, 설치환경 분석, 설계, 설치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100356</learnModulSeq>
+<learnModulName>금속공예 재료수립</learnModulName>
+<learnModulText>용해공구, 벼림공구, 톱질 공구, 줄질 공구, 측정공구, 수동식 공구, 전동식 공구, 금속재료, 철, 동과 동합금, 귀금속, 화학약품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>금속공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100357</learnModulSeq>
+<learnModulName>금속공예 기초가공</learnModulName>
+<learnModulText>톱질, 직선가공, 곡선 가공, 투각 가공, 줄 질 가공, 각접기 가공, 땜 가공, 콜드 조인트 가공, 끼 우기 가공, 접착 가공</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200031</learnModulSeq>
+<learnModulName>가구제작 제품기획</learnModulName>
+<learnModulText>시장 조사, 가구 제품 동향, 콘셉트, 이미지 맵, 아이디어 스케치, 투시도, 스케일 도면, 모형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200032</learnModulSeq>
+<learnModulName>가구 설계</learnModulName>
+<learnModulText>제도, 도면, 투상법, 척도, 부자재, 제품 시방서, 2D 설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200033</learnModulSeq>
+<learnModulName>가구 렌더링 작업</learnModulName>
+<learnModulText>2D 프로그램, 3D 프로그램, 프레젠테이션, 렌더링, 모델링, 편집 디자인 소프트웨어, 그래픽 디자인 소프트웨어, 컴퓨터 기초 드로잉, 색상</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200034</learnModulSeq>
+<learnModulName>가구제작 작업준비</learnModulName>
+<learnModulText>원자재, 부자재, 자재 소요량, 자재 관리, 유지 관리, 날물, 수공구, 측정 공구, 전동 공구, 목공 기계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200035</learnModulSeq>
+<learnModulName>가구제작 작업계획 수립</learnModulName>
+<learnModulText>제조 원가, 제품가, 소비자가, 작업 순서, 작업 공정, 작업 시간, 작업 인원, 생산 공정, 견적서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200036</learnModulSeq>
+<learnModulName>짜임과 이음작업</learnModulName>
+<learnModulText>사개, 주먹장, 연귀, 장부, 이음, 쪽매, 도면, 맞춤</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200038</learnModulSeq>
+<learnModulName>가구 가공작업 및 안전 관리</learnModulName>
+<learnModulText>가공, 재단, 연마, 면취, 라우터, 루터, 보링, 에지 밴더, 날물, 작업장 안전 관리, 작업자 안전 관리, 공구 관리, 안전 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200045</learnModulSeq>
+<learnModulName>가구 세공작업</learnModulName>
+<learnModulText>도면, 목상감, 조각, 접합, 패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161200050</learnModulSeq>
+<learnModulName>CNC 가공작업</learnModulName>
+<learnModulText>CNC, CAD/CAM, CNC 가공, CNC 보링기, CNC 재단기, CNC 세공기, 목재 가공, 대량 생산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161201657</learnModulSeq>
+<learnModulName>가구 조립작업</learnModulName>
+<learnModulText>하드웨어, 연결 철물, K. D, 조립도, 분해. 조립, 접착제, 접착, 유지 보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161201660</learnModulSeq>
+<learnModulName>가구 도장작업</learnModulName>
+<learnModulText>도료, 사포, 나뭇결, 건조, 상도, 중도, 하도, 도장 솔, 공기 압축기(air compressor), 스프레이건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20161201662</learnModulSeq>
+<learnModulName>가구 제품관리</learnModulName>
+<learnModulText>고객, 마케팅, 소비자, 제품 관리, 제품 적재, 제품 운반</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100243</learnModulSeq>
+<learnModulName>가구제작 제품기획</learnModulName>
+<learnModulText>시장조사, 국내외 시장, 경쟁사 조사, 콘셉트,이미지 맵, 색채</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100244</learnModulSeq>
+<learnModulName>가구 아이디어 구체화</learnModulName>
+<learnModulText>아이디어 스케치, 투시도, 렌더링, 도면, 투시도, 투상법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100245</learnModulSeq>
+<learnModulName>가구 모델링 작업</learnModulName>
+<learnModulText>아이디어스케치, 제도, 도면, 스케일 도면, 모형, 투상법, 척도, 모형재료, 모형도구, 모델링, 편집 디 자인 소프트웨어, 그래픽 디자인 소프트웨어, 컴퓨터 기초 드로잉, 색상, 일러스트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100246</learnModulSeq>
+<learnModulName>가구제작 가구 렌더링 작업</learnModulName>
+<learnModulText>3D프로그램, 렌더링, 모델링, 편집 디자인 소프트웨어, 그래픽 디자인 소프트웨어, 컴퓨터 기초 드 로잉, 색상, 맵핑</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100247</learnModulSeq>
+<learnModulName>가구재료 수립</learnModulName>
+<learnModulText>심재, 변재, 횡단면, 방사단면, 접선단면, 목리, 문양, 침엽수재, 활엽수재, 비중, 할렬, 함유수분, 옹이, 합판, 단판, 섬유판, 럼버코어, 집성재, 부자재, 날물, 미니픽스, 라픽스, 연결철물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100248</learnModulSeq>
+<learnModulName>가구 연마작업</learnModulName>
+<learnModulText>눈메움, 면취, 연마지, 연마도구, 연마기계, 날물, 결점, 보수, 갈라짐, 목분(나뭇가루)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100249</learnModulSeq>
+<learnModulName>가구 하드웨어 작업</learnModulName>
+<learnModulText>하드웨어, 경첩, 수대, 서랍런너, 미니픽스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>가구제작</ncsSubdCdnm>
+<learnModulSeq>EDU20190100250</learnModulSeq>
+<learnModulName>가구 조립작업</learnModulName>
+<learnModulText>가구구조, 재료별 구조, 기능별 구조, 가구조립, 가구조립도구, 접착제, 가구조립구조</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100898</learnModulSeq>
+<learnModulName>섬유공예 제품기획 및 개발</learnModulName>
+<learnModulText>제품제안서 작성, 제품의 컨셉트 설정, 제품기획서 작성, 계약서 작성, 생산 계획 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100899</learnModulSeq>
+<learnModulName>염색작업</learnModulName>
+<learnModulText>섬유감별법, 섬유의 분류, 염료 선택, 홀치기법, 바느질법, 판재염, 묘염법, 납 방염법, 고착처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100900</learnModulSeq>
+<learnModulName>봉제작업</learnModulName>
+<learnModulText>봉제, 재봉, 손바느질, 누비, 규방, 조각보, 패턴, 재단, 재봉틀, 노루발, 단추, 지퍼, 본</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100901</learnModulSeq>
+<learnModulName>자수작업</learnModulName>
+<learnModulText>자수디자인, 자수 작업용구, 디자인 옮기기, 수틀 메우기, 수실, 자수기법, 수놓기, 김쐬기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100902</learnModulSeq>
+<learnModulName>매듭작업</learnModulName>
+<learnModulText>다회, 매듭, 술, 끈목, 동다회, 광다회, 연봉, 도래, 잠자리, 국화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100903</learnModulSeq>
+<learnModulName>편물작업</learnModulName>
+<learnModulText>실, 수편기, 캐리지, 게이지, 코바늘 뜨기, 대바늘 뜨기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100904</learnModulSeq>
+<learnModulName>직물작업</learnModulName>
+<learnModulText>평직, 능직, 수자직, 직기, 경사, 정경, 그라데이션, 실 걸기, 직물설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100905</learnModulSeq>
+<learnModulName>펠트작업</learnModulName>
+<learnModulText>양모의 물성, 수제펠트, 물펠트, 니들펠트, 캐스팅펠트, 혼합펠트, 양모 색상표, 양모 색상 혼합표, 섬유소, 수공예</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100906</learnModulSeq>
+<learnModulName>종이작업</learnModulName>
+<learnModulText>종이 뜨기, 부조틀, 부조, 오리기, 접기, 꼬기, 외올, 겹올, 전지공예, 지승공예</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20160100907</learnModulSeq>
+<learnModulName>섬유공예 품질관리 및 마케팅</learnModulName>
+<learnModulText>제품 리스트, 검품서 작성, 제품 포장, 라벨(labeling), 품질관리, 전시 공간 연출, 판매, 홍보, 고객관리 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100358</learnModulSeq>
+<learnModulName>퀼트작업</learnModulName>
+<learnModulText>바느질법, 디자인구상, 배색, 원단 선택, 재단, 패치워크, 아플리케, 시침질, 퀼팅, 바이어스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100359</learnModulSeq>
+<learnModulName>자연염색</learnModulName>
+<learnModulText>섬유감별법, 섬유의 분류, 섬유와 염료의 상관관계, 자연염료의 종류, 자연염료 추출, 자연염색 법, 매염제의 종류, 매염법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100360</learnModulSeq>
+<learnModulName>염색가공</learnModulName>
+<learnModulText>염료 선택, 침염법, 조제약품, 홀치기, 바느질염, 접기염, 묘염, 방염, 고착처리, 후처리법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100361</learnModulSeq>
+<learnModulName>직기작업</learnModulName>
+<learnModulText>평직, 능직, 수직, 이중직, 직기, 경사, 정경, 실 걸기, 직물설계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>섬유공예</ncsSubdCdnm>
+<learnModulSeq>EDU20190100362</learnModulSeq>
+<learnModulName>수직기작업</learnModulName>
+<learnModulText>평직, 경사, 실 걸기, 수직, 위사, 수직틀, 밑그림, 합사, 직물의 구조, 슬리트, 태피스트리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201570</learnModulSeq>
+<learnModulName>나전칠기 제품기획</learnModulName>
+<learnModulText>시장 자료 조사, 시장 조사 방법, 나전칠기 제품 트렌드, 결과 보고서, 자료 수집, 자료 분석, 제작 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201577</learnModulSeq>
+<learnModulName>백골디자인</learnModulName>
+<learnModulText>발상과 표현, 아이디어 스케치, 백골 재료, CAD 도면, 모형, 가구 백골, 갈이 백골, 소품 백골</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201581</learnModulSeq>
+<learnModulName>자개문양작업</learnModulName>
+<learnModulText>문양, 자개, 문양 구성, 문양 작업, 문양 뜨기, 켄트지, 유산지, 진주 패류, 전복 패류, 소라 패류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201585</learnModulSeq>
+<learnModulName>나전칠기 작업준비</learnModulName>
+<learnModulText>옻칠, 정제 칠, 칠 재료, 나전 재료, 부재료, 자개, 패, 희석제, 연마제, 광택제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201591</learnModulSeq>
+<learnModulName>나전칠기 도구제작</learnModulName>
+<learnModulText>태장대, 조각칼, 상사칼, 칠주걱, 귀얄, 작업 정반, 연마, 나전 작업, 칠 작업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201609</learnModulSeq>
+<learnModulName>나전칠기 밑작업</learnModulName>
+<learnModulText>흠집, 생칠, 백골, 토회칠, 눈메움, 베 바르기, 호칠, 한지 바르기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201687</learnModulSeq>
+<learnModulName>나전칠기 칠작업</learnModulName>
+<learnModulText>토회칠, 사포, 여과지, 초칠, 중칠, 상칠, 물갈기, 사포, 연마, 건조장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201710</learnModulSeq>
+<learnModulName>나전작업</learnModulName>
+<learnModulText>자개 선별, 주름질, 끊음질, 붙임질, 지짐질, 조각, 할패, 자개 부착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201722</learnModulSeq>
+<learnModulName>나전칠기 마무리작업</learnModulName>
+<learnModulText>칠 긁기칼, 자개 위 칠 긁기, 칠 가루, 연마, 흠 메움, 광내기, 장석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201728</learnModulSeq>
+<learnModulName>나전칠기 제품관리</learnModulName>
+<learnModulText>도면, 흠집 검사, 검수, 검사 기준서, 포장, 포장 재료, 골판지, 완충재, 보관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>공예</ncsSclasCdnm>
+<ncsSubdCd>08</ncsSubdCd>
+<ncsSubdCdnm>나전칠기</ncsSubdCdnm>
+<learnModulSeq>EDU20161201733</learnModulSeq>
+<learnModulName>나전칠기 작업안전관리</learnModulName>
+<learnModulText>옻오름, 옻액, 옻칠, 생칠, 중칠, 상칠, 연삭기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100676</learnModulSeq>
+<learnModulName>귀금속 제품 생산 기획 및 출고관리</learnModulName>
+<learnModulText>귀금속 생산, 귀금속 원가 계산, 귀금속 디자인 요소, 귀금속 가공 공정, 귀금속 생산 방법, 귀금속 검품, 귀금속 생산 제품 관리, 귀금속 재고 관리, 귀금속 출고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100677</learnModulSeq>
+<learnModulName>귀금속 세공</learnModulName>
+<learnModulText>귀금속 세공 보석집, 귀금속 세공 합금, 귀금속 세공 단조 작업, 귀금속 세공 난발, 귀금속 재단, 난집, 귀금속 원형 생산, 귀금속 세공 완제품 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100678</learnModulSeq>
+<learnModulName>귀금속 왁스카빙</learnModulName>
+<learnModulText>귀금속 왁스 카빙 공구, 귀금속 왁스 재단, 보석 난집과 난발 제작, 왁스 표면 질감 처리, 귀금속 왁스 중량, 하드 왁스, 소프트 왁스, 블록 왁스, 판 왁스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100679</learnModulSeq>
+<learnModulName>주얼리 3D CAD 모델링</learnModulName>
+<learnModulText>RP(Rapid Prototyping), CAD 모델링, 3D 출력 장비, 데이터 관리, 광경화성 수지, 출력물 후 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100680</learnModulSeq>
+<learnModulName>귀금속 주조</learnModulName>
+<learnModulText>귀금속 고무 주형, 왁스 사출, 금속 소요량 산출, 귀금속 탈랍, 귀금속 주조 매몰재 배합, 귀금속 소성, 귀금속 주조, 고무 주형에 대한 왁스의 수축률, 금속의 비중, 금속의 융점</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100681</learnModulSeq>
+<learnModulName>귀금속 조립 가공</learnModulName>
+<learnModulText>산세척, 귀금속 조립, 보석 세팅 공구, 보석 세팅 활용, 보석 세팅 파악, 세공 제품 검사, 귀금속품위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100682</learnModulSeq>
+<learnModulName>귀금속 조각</learnModulName>
+<learnModulText>귀금속 조각, 조각정, 감탕, 문양 조각, 조각 세팅, 귀금속 품위, 루페, 파베 세팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100683</learnModulSeq>
+<learnModulName>귀금속 연마</learnModulName>
+<learnModulText>귀금속 표면 연마, 세부 광택, 광택 연마, 귀금속 표면 광택, 질감 표현, 버프 연마, 귀금속 표면세척</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100684</learnModulSeq>
+<learnModulName>귀금속 도금</learnModulName>
+<learnModulText>귀금속 도금, 귀금속 로듐 도금, 귀금속 블랙 도금, 귀금속 핑크 도금, 귀금속 14K 도금, 귀금속 표면 처리, 귀금속 컬러 도금, 귀금속 다색 도금, 귀금속 콤비 도금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160100685</learnModulSeq>
+<learnModulName>귀금속 가공안전관리</learnModulName>
+<learnModulText>귀금속 가공 안전 관리, 인화 물질 관리, 화공 약품 관리, 감전 예방, 화재 예방, 귀금속 가공 공구 안전, 귀금속 가공 기계 안전, 귀금속 가공 작업장 정리 정돈</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100363</learnModulSeq>
+<learnModulName>귀금속 펜던트 세공</learnModulName>
+<learnModulText>귀금속 세공, 펜던트, 귀금속 도면, 용해, 귀금속 합금, 단조, 보석 세팅, 보석집, 질감 표현</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100364</learnModulSeq>
+<learnModulName>귀금속 반지 세공</learnModulName>
+<learnModulText>보석집, 보석발, 난발, 난집, 프롱 세팅, 베젤 세팅, 금합금, 보석 커팅, 캐보션, 라운드 브릴리언 트, 파이프 세팅, 금의 중량, 반지 조립, 반지 땜, 표면연마</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100365</learnModulSeq>
+<learnModulName>귀금속 브로치 세공</learnModulName>
+<learnModulText>귀금속 세공, 보석집, 보석 가공 형태, 보석 세팅, 브로치 부속품, 브로치 부속 장식, 브로치 완 제품 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100366</learnModulSeq>
+<learnModulName>주얼리 CAD 기초</learnModulName>
+<learnModulText>3D 모델링, 주얼리 도면, 보석집 모델링, 보석 세팅 방법, 부품 모델링, 반지 모델링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100367</learnModulSeq>
+<learnModulName>주얼리 CAD 원형</learnModulName>
+<learnModulText>3D 프린터, 3D 모델링 소프트웨어, 데이터 관리, 광경화성 수지, 출력물 후처리, 3D 스캐너, CNC</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100368</learnModulSeq>
+<learnModulName>귀금속 사출과 주조</learnModulName>
+<learnModulText>고무 몰드, 사출, 왁스트리, 주형틀, 절개, 탈랍, 매몰재, 소성, 금속의 비중</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100369</learnModulSeq>
+<learnModulName>귀금속 기초 조각과 원형 조각</learnModulName>
+<learnModulText>귀금속 조각, 조각정, 문양 조각, 감탕, 조각 표면처리, 조각 세팅, 세팅 방법, 파베 세팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20190100370</learnModulSeq>
+<learnModulName>귀금속 버프 솔 랩 연마</learnModulName>
+<learnModulText>솔 버프 연마, 핸드피스 가공, 표면 광택 내기, 질감 처리, 랩 장비 가공, 직선 랩 가공, 곡선 랩 가공, 세척 작업, 중량 확인, 세부 광택</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>귀금속가공</ncsSubdCdnm>
+<learnModulSeq>EDU20201200173</learnModulSeq>
+<learnModulName>주얼리 CAD 출력</learnModulName>
+<learnModulText>RP(rapid prototyping) 3D 출력 장비, CAD 모델링 소프트웨어, 데이터 관리, 광경화성 수지, 출력물 후처리, 3D 스캐너, CNC(Computer Numerical Control)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201776</learnModulSeq>
+<learnModulName>귀금속품위감정 접수</learnModulName>
+<learnModulText>접수절차, 귀금속재료의 특성, 귀금속 품위, 귀금속감정, 감정수수료 요율표, 귀금속 제품 종류, 귀금속 제품 특성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201778</learnModulSeq>
+<learnModulName>귀금속품위감정 계획 수립</learnModulName>
+<learnModulText>귀금속, 감정방법, 귀금속품위, 측정 장비, 귀금속재료, 외관검사, 장비 사용방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201782</learnModulSeq>
+<learnModulName>귀금속품위감정 장비 운용</learnModulName>
+<learnModulText>시금석, 회취법(큐펠), 유도결합플라즈마 방출 분광법, 전위차 적정법, 마이크로 에너지분산형 X선 형광분석기(ED-XRF), 정화장치, 흄후드, 폐산처리, 환경설비, 시약, 초자류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201783</learnModulSeq>
+<learnModulName>귀금속품위감정 화학약품 관리</learnModulName>
+<learnModulText>화학약품의 안전관리, 실험실 안전관리, 배기와 환기, 화학약품 관리, 화학약품의 폐기, MSDS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201784</learnModulSeq>
+<learnModulName>귀금속품위 보조감정</learnModulName>
+<learnModulText>시금법, 시금석, 시금봉, 왕수, 비중, 정수법, X-Ray형광 분석기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201786</learnModulSeq>
+<learnModulName>귀금속 회취법 검사</learnModulName>
+<learnModulText>금 회취, 금 합금 시료, 금 시료 채취, 압연작업, 분금작업, 금 함유량, 금 보정값</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201787</learnModulSeq>
+<learnModulName>귀금속 전위차 적정법 검사</learnModulName>
+<learnModulText>은 합금 시료, 은 합금 시료 전처리, 시약적정, 은 합금 분석, 음 함량, 은 함유량, 종말점, 은 함유량 산출, 분석값</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201789</learnModulSeq>
+<learnModulName>귀금속 유도결합플라즈마 검사</learnModulName>
+<learnModulText>귀금속 분석 유도결합 플라즈마 원자방출분광법, 귀금속 시료의 분석 전처리, 귀금속 분석용 표준용액, 귀금속 분석시료의 검정곡선, 귀금속 분석시료의 표준용액, 귀금속 분석용 시약, 귀금속 분석 용해 질산, 귀금속 분석 용해 염산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201791</learnModulSeq>
+<learnModulName>귀금속품위감정 결과분석 성적서 작성</learnModulName>
+<learnModulText>귀금석 분석 회취법, 귀금속 보조감정, 전위차 적정법, 귀금속 유도결합플라즈마 검사, 측정불확도, 시험결과의 데이터 분석, 데이터 오차분석 및 허용오차, 분석결과 보정, 재감정, 검토 및 승인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>귀금속품위감정</ncsSubdCdnm>
+<learnModulSeq>EDU20161201792</learnModulSeq>
+<learnModulName>귀금속품위감정 성적서 발급 출고</learnModulName>
+<learnModulText>귀금속 재료, 귀금속 품위, 귀금속 제품, 귀금속 함량표시, 각인기, 품위 성적서, 출고대장, 접수대장, 신분증의 종류, 위임장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102081</learnModulSeq>
+<learnModulName>보석 가공 계획 수립</learnModulName>
+<learnModulText>보석 연마, 보석 가공 작업 지시서, 보석 가공 작업 계획서, 보석 연마 작업 지시서, 보석 연마 작업 계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102082</learnModulSeq>
+<learnModulName>보석 원석 상태 확인</learnModulName>
+<learnModulText>보석 가공, 계획 수립, 보석 패싯 연마, 보석 자유형 연마, 모스 경도, 보석 원석, 무기물 보석, 유기물 보석, 천연 보석, 보석 연마재, 보석 광택제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102083</learnModulSeq>
+<learnModulName>보석 원석 가공</learnModulName>
+<learnModulText>크랙, 벽개성, 특수 효과, 마킹, 소요량, 내포물, 보석 가공, 보석 패싯 연마, 모스 경도, 보석 원석, 무기물 보석, 유기물 보석, 천연 보석, 보석 연마재, 보석 광택제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102084</learnModulSeq>
+<learnModulName>보석 패싯 연마</learnModulName>
+<learnModulText>인덱스기어, 돕스틱, 수평형 연마기, 수직형 연마기, 라운드형, 표준 브릴리언트, 팬시형, 혼합형, 유색보석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102085</learnModulSeq>
+<learnModulName>보석 가공 디자인</learnModulName>
+<learnModulText>보석 가공, 디자인 커팅, 라운드 브릴리언트, 인덱스 번호, 커팅 디자인, 보석 가공 제안서, 수평형 연마기, 유색 보석, 핸드피스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102086</learnModulSeq>
+<learnModulName>보석 완제품 인도</learnModulName>
+<learnModulText>완제품 인도, 보석 세척 방법, 도면 검사, 작업 지시서, 납품 보증서, 납품 절차, 검사 기준서, 제품 품질 보증서, 위험물 관리, 장비 관리, 재고 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102562</learnModulSeq>
+<learnModulName>보석 모형 연마</learnModulName>
+<learnModulText>크랙, 벽개성, 특수 효과, 마킹, 소요량, 내포물, 보석 가공, 보석 패싯 연마, 모스 경도, 보석 원석, 무기물 보석, 유기물 보석, 천연 보석, 보석 연마재, 보석 광택제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102563</learnModulSeq>
+<learnModulName>보석 캐보션 연마</learnModulName>
+<learnModulText>캐보션 연마, 이중 캐보션 연마, 복합 캐보션 연마, 보석 광택기, 광축 방향, 캐보션의 상하 비율, 광택제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102564</learnModulSeq>
+<learnModulName>다이아몬드 연마</learnModulName>
+<learnModulText>다이아몬드 원석 검사, 다이아몬드 절단, 다이아몬드 브루팅 잡기, 다이아몬드 연마, 다이아몬드 흠 제거</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102565</learnModulSeq>
+<learnModulName>보석 자유형 연마</learnModulName>
+<learnModulText>텀블러, 초음파 가공기, 가락지 가공기, 탁상 드릴, 광택기, 연마제, 광택제, 다이아몬드 코어 드릴, 혼(horn)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보석가공</ncsSubdCdnm>
+<learnModulSeq>EDU20160102566</learnModulSeq>
+<learnModulName>보석 조각</learnModulName>
+<learnModulText>디자인, 마킹, 콘셉트, 조각 도구, 핸드피스, 절단기, 연마기, 광택제, 연마재, 숫돌, 다이아몬드 바</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100666</learnModulSeq>
+<learnModulName>보석 감별감정 준비</learnModulName>
+<learnModulText>개인 정보 보호, 보석 감별 감정 의뢰서, 보석 감별 감정 접수증, 보석의 외관, 보석의 투명도, 보석의 연마 형태, 보석의 중량, 보석의 사이즈, 보석 세척, 보석의 종과 변종</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100667</learnModulSeq>
+<learnModulName>보석 외관 검사</learnModulName>
+<learnModulText>외관 검사, 색의 3요소, 보석의 발색 원인, 색의 표준용어, 표준광원. 색 표기방법, 보석의 투명도, 반사광, 투과광, 보석의 특수효과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100668</learnModulSeq>
+<learnModulName>광학특성 검사</learnModulName>
+<learnModulText>편광성, 광학상, 굴절률, 복굴절률, 연마 형태, 분광성, 투명도, 다색성, 형광성, 컬러 필터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100669</learnModulSeq>
+<learnModulName>물리특성 검사</learnModulName>
+<learnModulText>비중, 정수법, 중액법, 경도, 조흔색, 열반응 검사, 열전도성 검사, 전기전도성 검사, 자성검사, 산 반응 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100670</learnModulSeq>
+<learnModulName>확대 검사</learnModulName>
+<learnModulText>현미경, 내포물, 인클루전, 천연석, 합성석, 처리석, 모조석, 침적, 접합석, 릴리프</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100671</learnModulSeq>
+<learnModulName>정밀분석 검사</learnModulName>
+<learnModulText>분석 기기 선정, 보석 시료 측정, 액세서리 세팅, 분석기기 관리, DB 분석, 보석 분석, 보석의 처리 방법, 보석의 합성 방법, 분광학적 특성, 보석 분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100672</learnModulSeq>
+<learnModulName>다이아몬드 컬러 등급 구분</learnModulName>
+<learnModulText>다이아몬드, 클래리티, 컬러, 커트, 캐럿 중량, 등급 구분, 인클루전, 블레미시, 프로포션, 피니시</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100673</learnModulSeq>
+<learnModulName>유색보석 등급 구분</learnModulName>
+<learnModulText>유색 보석, 클래리티, 컬러 등급 구분, 중량 측정, 내포물, 산지 판별, 마스터 스톤, 표준 광원, 페이스 업, 에지 업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100674</learnModulSeq>
+<learnModulName>진주 품질 평가</learnModulName>
+<learnModulText>진주 평가, 진주 발색, 진주 컬러, 진주 양식, 진주 형태, 진주 표면, 진주층, 진주 광택, 진주 크기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100675</learnModulSeq>
+<learnModulName>보석 감별감정 결과 결정</learnModulName>
+<learnModulText>보석 감별감정, 감별·감정서, 다이아몬드 4C, 외관 검사, 광학특성 검사, 물리특성 검사, 확대 검 사, 다이아몬드 등급 구분.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100222</learnModulSeq>
+<learnModulName>유색보석 특성 정립</learnModulName>
+<learnModulText>보석학, 보석의 분류, 보석종, 변종, 보석명, 보석의 조건, 결정, 무기질, 유기질 보석. 다색성, 전자기 스펙트럼 빛의 선택적 흡수, 편광, 자색원소, 타색원소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100223</learnModulSeq>
+<learnModulName>다이아몬드 특성 정립</learnModulName>
+<learnModulText>다이아몬드 채광, 다이아몬드 시장, 처리 다이아몬드, 합성 다이아몬드, 유사 다이아몬드, 결정 구조, 광학적 특성, 물리적 성질, 다이아몬드 등급 요소, 감별서, 감정서, 평가서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100224</learnModulSeq>
+<learnModulName>보석 감별·감정 기구 사용법</learnModulName>
+<learnModulText>외관 검사, 레버리지 게이지, 펜라이트, 젬 클로스, 트위저, 치수 측정, 트레이, 루페, 홀 게이지, 모 게이지, 스크루 마이크로미터, 세비스.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100225</learnModulSeq>
+<learnModulName>다이아몬드 클래리티 등급 구분</learnModulName>
+<learnModulText>클래리티, 루페, 트리플릿, 등급 결정, 암시야 두상광, 확대경, 배율, 젬 클로스, 페이스 업, 페이 스 다운, 에지 업, 4C</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>보석감정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100226</learnModulSeq>
+<learnModulName>다이아몬드 커트 등급 구분</learnModulName>
+<learnModulText>다이아몬드, 클래리티, 컬러, 커트, 캐럿 중량, 등급 구분, 인클루전, 블레미시, 프로포션, 피니시</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102097</learnModulSeq>
+<learnModulName>보석디자인 기획</learnModulName>
+<learnModulText>디자인 기획, 트렌드, 콘셉트, 정보 수집 및 분석, 리서치, 디자인 분석, 소비자 대상, 브랜드 타깃</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102098</learnModulSeq>
+<learnModulName>보석디자인 컴퓨터 모델링</learnModulName>
+<learnModulText>보석 디자인, 주얼리 디자인, 3D CAD, 3D 프린터, 3D 스캐너, 3D 프린터 조형 원리, 정밀 주조, 일러스트레이터, 도면 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102100</learnModulSeq>
+<learnModulName>보석디자인 품평</learnModulName>
+<learnModulText>디자인 프레젠테이션, 품평 기술서, 디자인 수정, 디자인 검토 의견서, 프레젠테이션 기획, 프레젠테이션 종류와 스킬</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102101</learnModulSeq>
+<learnModulName>보석디자인 샘플링</learnModulName>
+<learnModulText>보석 디자인, 주얼리 디자인, 주얼리 원형, 3D 프린터, 보석 디자인 샘플 작업, 고무 주형, 정밀 주조, 왁스 사출, 왁스 트리, 3D CAD</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102102</learnModulSeq>
+<learnModulName>보석 디자인 제품 관리</learnModulName>
+<learnModulText>품질 표준화, 지적 재산권, 디자인 등록, 상표 등록, 자료 관리, 데이터베이스 관리 시스템, 분류 색인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102567</learnModulSeq>
+<learnModulName>보석 디자인 재료 조사</learnModulName>
+<learnModulText>108종 보석, 감별, 감정, 금, 은, 백금, 신소재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102568</learnModulSeq>
+<learnModulName>보석디자인 개발</learnModulName>
+<learnModulText>트렌드, 디자인, 욕구, 유행, 아이디어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160102569</learnModulSeq>
+<learnModulName>보석디자인 상품화 전략</learnModulName>
+<learnModulText>생산 공정, 판매 가격 산정, 마케팅, 주얼리 디스플레이, 사진 촬영, 주얼리 머천다이징</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160300049</learnModulSeq>
+<learnModulName>보석디자인 렌더링</learnModulName>
+<learnModulText>1점 투시도, 2점 투시도, 3점 투시도, 음영, 명암, 하이라이트, 반사광, 명암의 대비, 다이아몬드 컷, 유색 보석 컷, 캐보션 컷, 스페셜 컷, 투명, 반투명, 불투명, 황색 계열, 백회색 계열, 난발 세팅(Prong Setting), 베즐 세팅(Bezel Setting), 조각 세팅(Pave Setting), 채널 세팅(Channel Setting), 인비저블 세팅(Invisible Setting)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20160300050</learnModulSeq>
+<learnModulName>보석디자인 도면 작업</learnModulName>
+<learnModulText>홀더, 심갈이, 지우개 판, 운형자, 템플릿, 캘리퍼스, 1점 투시도, 2점 투시도, 3점 투시도, 반지 호수, 피어싱 장식, 클립 장식, 후프 장식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100403</learnModulSeq>
+<learnModulName>보석 디자인 기초</learnModulName>
+<learnModulText>투시도, 렌더링, 주얼리 스케지, 주얼리 작도, 3점 투시, 제3각법, 3면도, 핸드 스케치, 연필 렌 더링, 렌더링 기초, 명암, 보석 작도, 보석 표현, 귀금속 표현, 금속표면마감</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100404</learnModulSeq>
+<learnModulName>보석 디자인 렌더링</learnModulName>
+<learnModulText>금속, 귀금속, 채색, 밀도, 질감, 색채, 금(Gold), 옐로 골드(Yellow Gold), 화이트 골드(White Gold), 백금(Platinum), 은(Silver), 보석, 불투명, 반투명, 투명, 캐보션, 반지, 목걸이, 펜던트, 귀 걸이, 브로치, 팔찌</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>보석디자인</ncsSubdCdnm>
+<learnModulSeq>EDU20190100405</learnModulSeq>
+<learnModulName>보석 디자인 컴퓨터 모델링과 3D 프린팅</learnModulName>
+<learnModulText>보석 디자인, 주얼리 디자인, 3D CAD, 3D 프린터, 3D 스캐너, 3D 프린터 조형 원리, 정밀 주 조, 일러스트레이터, 도면 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201793</learnModulSeq>
+<learnModulName>주얼리 시장조사</learnModulName>
+<learnModulText>주얼리시장 정보 조사, 귀금속시세 파악, 다이아몬드 국제시세표 분석, 소비자 구매행동, 소비자 라이프스타일 분석, 주얼리 트렌드 분석, 제품수명주기 파악, 판매실적 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201794</learnModulSeq>
+<learnModulName>주얼리 점포관리</learnModulName>
+<learnModulText>점포관리, 디스플레이, 집기비품, 보안관리, 감성마케팅, 도난방지, 재고관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201795</learnModulSeq>
+<learnModulName>주얼리 고객관리</learnModulName>
+<learnModulText>고객관리, 재구매, 맞춤형 서비스, 고객데이터관리, 방문예약, 고객응대, 고객불만</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201796</learnModulSeq>
+<learnModulName>주얼리 제품 기획관리</learnModulName>
+<learnModulText>주얼리 제품 기획관리, 주얼리 산업 환경 분석, 주얼리기업 SWOT 분석, 소비자 구매행동, STP 전략수립, 주얼리제품 확인, 주얼리제품 관리, 주얼리 제품 재고관리, 주얼리 제품 A/S관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201797</learnModulSeq>
+<learnModulName>주얼리 판매관리</learnModulName>
+<learnModulText>분석표, 시세표, 루페, 시금석, 시금액, 장물품표, 장물대장, 감별서, 감정서, 보증서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201798</learnModulSeq>
+<learnModulName>주얼리 온라인마케팅</learnModulName>
+<learnModulText>인터넷 마케팅, 바이럴 마케팅, 키워드 검색 광고, SNS 미디어, 홈쇼핑 시장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201799</learnModulSeq>
+<learnModulName>주얼리 글로벌마케팅</learnModulName>
+<learnModulText>수입통관, 주얼리 제품 파악, 가격협상, 구매계약, 수요예측, 수출, 온라인 수출 계약 체결, 전시마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201800</learnModulSeq>
+<learnModulName>주얼리 프로모션</learnModulName>
+<learnModulText>주얼리, 광고홍보, VMD, 콜라보레이션, 세일즈프로모션, 마케팅, 브랜드관리, 시장조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20161201802</learnModulSeq>
+<learnModulName>주얼리 브랜드관리</learnModulName>
+<learnModulText>브랜드 컨셉, 브랜드 네임, 브랜드 제품전략, 브랜드 가격전략, 브랜드 이미지, 브랜드 커뮤니티, 브랜딩 믹스 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20190100343</learnModulSeq>
+<learnModulName>주얼리 제품 기획</learnModulName>
+<learnModulText>주얼리 제품 기획관리, 주얼리 산업 환경 분석, 주얼리 기업 SWOT 분석, 소비자 구매행동, STP 전략 수립, 주얼리 제품 확인, 주얼리 신제품 기획, 주얼리 신제품 아이디어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20190100344</learnModulSeq>
+<learnModulName>주얼리 제품 관리</learnModulName>
+<learnModulText>주얼리 제품 확인, 주얼리 제품 관리, 주얼리 제품 패키깅 관리, 주얼리 제품원가계산, 주얼리 제품 재고관리, 주얼리 제품 A/S관리, 주얼리 제품 특성, 주얼리 제품 시세표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20190100345</learnModulSeq>
+<learnModulName>주얼리 비주얼 머천다이징</learnModulName>
+<learnModulText>비주얼 머천다이징, 비주얼 머천다이징 콘셉트, 비주얼 머천다이징 실행, 비주얼 머천다이징 매 뉴얼, 비주얼 머천다이징 계획, 주얼리 제품 진열, 주얼리 매장 연출, 주얼리 제품 연출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20190100346</learnModulSeq>
+<learnModulName>주얼리 프로모션</learnModulName>
+<learnModulText>주얼리 세일즈프로모션, 세일즈프로모션 대응전략, 세일즈프로모션 데이터 수집, 촉진, 판매촉진, 판촉도구, 인적 판매, 통합적 마케팅 커뮤니케이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>22</ncsLclasCd>
+<ncsLclasCdnm>인쇄·목재·가구·공예</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>공예</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>귀금속·보석</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>주얼리마케팅</ncsSubdCdnm>
+<learnModulSeq>EDU20190100347</learnModulSeq>
+<learnModulName>주얼리 광고홍보</learnModulName>
+<learnModulText>주얼리 광고홍보, 광고홍보 계획, 광고홍보 실행, 광고홍보 평가, 광고홍보 매체, 주얼리 광고홍 보 효과, 광고홍보 도구, 주얼리 광고 제작, 광고홍보 트렌드</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>337</totCnt>
+</dataInfo>
+</root>

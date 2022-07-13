@@ -1,0 +1,4862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200124</learnModulSeq>
+<learnModulName>입지급 거래</learnModulName>
+<learnModulText>예금 거래, 실명확인, 공동명의예금, 예금해지, 입금, 출금, 무통장입금, 예금 인출, 수표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200126</learnModulSeq>
+<learnModulName>예금상품 세일즈</learnModulName>
+<learnModulText>입출식예금상품, 적립식예금상품, 거치식예금상품, 금융실명거래 및 비밀보장에 관한 법률, 원천징수제도, 비과세종합저축, 예금거래 기본약관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200128</learnModulSeq>
+<learnModulName>제신고 처리</learnModulName>
+<learnModulText>제신고 처리, 제변경, 재발행, 증명서 발급, 상속, 양도, 질권설정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200130</learnModulSeq>
+<learnModulName>출납관리</learnModulName>
+<learnModulText>실물시재, 전산시재, 금고시재, 현수송, 자동화기기, 중요증서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200134</learnModulSeq>
+<learnModulName>외국환거래</learnModulName>
+<learnModulText>외국환, 환전, 환율, 위폐감별, 해외송금, 외화예금, 지정거래외국환은행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200135</learnModulSeq>
+<learnModulName>전자금융 서비스</learnModulName>
+<learnModulText>전자금융 거래, 전자금융 서비스, 인터넷뱅킹, 모바일뱅킹, 텔레뱅킹</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200136</learnModulSeq>
+<learnModulName>개인대출 세일즈</learnModulName>
+<learnModulText>자금용도, 신용대출, 담보대출, 은행여신거래기본약관, 대출거래약정서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200137</learnModulSeq>
+<learnModulName>펀드 세일즈</learnModulName>
+<learnModulText>펀드, 집합투자기구, 표준투자권유준칙, 투자자 정보, 투자자 정보 확인서, 투자성향, 투자권유</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200141</learnModulSeq>
+<learnModulName>신용카드 세일즈</learnModulName>
+<learnModulText>개인카드, 법인(기업)카드, 가맹점 업무, 신규발급, 재발급, 제신고 업무 처리, 여신전문금융업법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200145</learnModulSeq>
+<learnModulName>부수업무 처리</learnModulName>
+<learnModulText>주식납입금, 지로제도, 국고업무, 대여금고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20151200147</learnModulSeq>
+<learnModulName>금융소비자 보호</learnModulName>
+<learnModulText>금융소비자보호, 개인정보보호법, 민원, 약관, 고객알기제도, 자금세탁방지제도, 고액현금보고 제도, 혐의거래보고제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200016</learnModulSeq>
+<learnModulName>방카슈랑스 세일즈</learnModulName>
+<learnModulText>방카슈랑스, 방카슈랑스 세일즈, 보험, 은행, 고객관리, 고객니즈 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>창구사무</ncsSubdCdnm>
+<learnModulSeq>EDU20190300021</learnModulSeq>
+<learnModulName>예금 관리</learnModulName>
+<learnModulText>실명확인, 예금신규, 예금해지, 원천징수, 공동명의예금, 법인예금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200445</learnModulSeq>
+<learnModulName>가망기업 고객 발굴</learnModulName>
+<learnModulText>가망기업, 기업고객, 고객발굴, 정보수집, 고객명세, 정보 업데이트, 신용평가, CRM, 마케팅, 분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200446</learnModulSeq>
+<learnModulName>대상기업분석</learnModulName>
+<learnModulText>재무비율분석, 재무제표분석, 현금흐름분석, 기업의 사회적 책임, 신용분석, 경영분석, 기업부실예측, 산업환경분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200448</learnModulSeq>
+<learnModulName>기업고객 상담</learnModulName>
+<learnModulText>기업고객, 고객상담, 공감적 경청, 사업계획, 자금용도, 소요자금, 방문영업, 대인관계, 비대면 수단, 인터넷뱅킹, 모바일뱅킹</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200449</learnModulSeq>
+<learnModulName>기업고객니즈 파악·분석</learnModulName>
+<learnModulText>기업고객, 환경변화, 고객이슈, 니즈 리스트, 니즈 파악, 니즈 분석, 산업분석, 재무분석, SWOT 분석 방안 도출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200450</learnModulSeq>
+<learnModulName>거래 제안·협상</learnModulName>
+<learnModulText>제안서, 전략, EVA, 프레젠테이션, 시나리오, 협상, 금융관련 지침·법률, 앵커링, 레버리지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200451</learnModulSeq>
+<learnModulName>거래신청 심사⦁승인</learnModulName>
+<learnModulText>심사, 승인, 거래조건, 수익성, 특약사항, 승인권자, 승인조건, 채권보전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200452</learnModulSeq>
+<learnModulName>거래약정</learnModulName>
+<learnModulText>여신거래기본약관, 채권보전 절차, 근저당권설정, 근질권설정, 특정근담보(특정근보증), 한정근담보(한정근보증), 피담보채무, 신용보증서, 결산기, 조기경보 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161200453</learnModulSeq>
+<learnModulName>기업 거래심화</learnModulName>
+<learnModulText>의사결정권자, 관계마케팅, 기업고객, 협력업체, 관계심화, 교차판매, 여신상품, 수신상품, 성과관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161203000</learnModulSeq>
+<learnModulName>기업고객관리</learnModulName>
+<learnModulText>기업고객 모니터링, 지속성장가능성, 부실징후, 승인조건, 기업고객 컨설팅, 연계영업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업영업</ncsSubdCdnm>
+<learnModulSeq>EDU20161203232</learnModulSeq>
+<learnModulName>고객접촉활동·관계형성</learnModulName>
+<learnModulText>재무분석, 비재무분석, 관계형성, 관계마케팅, 고객관계관리, 상품정보, 지원체계, 영업전략, 내부마케팅, 감성마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100373</learnModulSeq>
+<learnModulName>고객창출</learnModulName>
+<learnModulText>고객관계관리, 고객관계 관리시스템, 잠재고객, 신규고객, 기존고객, 핵심고객, 이탈고객</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100381</learnModulSeq>
+<learnModulName>고객상담</learnModulName>
+<learnModulText>상담, 상담화법, 개방형 질문, 폐쇄형 질문, 상담계획서, 공감대 형성, 니즈 파악, 상담일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100385</learnModulSeq>
+<learnModulName>고객정보수집·분석</learnModulName>
+<learnModulText>고객정보, 재무 목표, 투자성향, 재무정보, 비재무적 정보, 자산상태표, 현금흐름표, 재무상태평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100386</learnModulSeq>
+<learnModulName>금융자산 투자설계</learnModulName>
+<learnModulText>경제 환경, 금융시장, 투자위험, 자산배분, 보험적 자산배분전략, 전술적 자산배분전략, 전략적 자산배분전략, 금융상품, 포트폴리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100387</learnModulSeq>
+<learnModulName>비금융자산 상담·자문</learnModulName>
+<learnModulText>부동산권리, 부동산시장, 세무상담, 생애주기, 금융교육, 은퇴설계, 위험관리, 상속설계, 실물자산 투자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100388</learnModulSeq>
+<learnModulName>고객제안·실행</learnModulName>
+<learnModulText>투자제안서, 투자 목표, 투자성향, 전략적 자산배분, 포트폴리오 구성, 상품 설명서, 제안서 조정 및 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100389</learnModulSeq>
+<learnModulName>투자 사후관리</learnModulName>
+<learnModulText>경제 동향, 경기 예측, 투자성과, 투자목적, 수익률, 위험, 자산배분, 포트폴리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100390</learnModulSeq>
+<learnModulName>고객관리</learnModulName>
+<learnModulText>고객관리, 고객정보, 고객관리시스템, 고객정보 보호, 고객만족, 고객 불편 사항, 고객 커뮤니케이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>PB영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160100391</learnModulSeq>
+<learnModulName>PB컴플라이언스</learnModulName>
+<learnModulText>PB컴플라이언스, 고객정보보호, 불완전판매, 불건전 영업행위, 고객권익보호, 금융소비자보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102088</learnModulSeq>
+<learnModulName>개인영업</learnModulName>
+<learnModulText>모집인, 정도영업, 프로모션, 증원, 위촉/해촉, 수수료, 정착</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102089</learnModulSeq>
+<learnModulName>기업영업</learnModulName>
+<learnModulText>기업회원, 기업카드. 기업 공용카드, 사용자 지정카드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102090</learnModulSeq>
+<learnModulName>제휴영업</learnModulName>
+<learnModulText>제휴처 발굴, 영업, 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102091</learnModulSeq>
+<learnModulName>회원마케팅</learnModulName>
+<learnModulText>회원마케팅, 마케팅 채널, 인구통계학, 감독규정, 통계프로그램, 마케팅 상세 운영 안, 대상 고객군 추출, 마케팅 실행방법, 마케팅 오퍼, 정산 시스템, 마케팅 성과 측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102092</learnModulSeq>
+<learnModulName>가맹점마케팅</learnModulName>
+<learnModulText>실행방법 제안, 행사계약 체결, 영업, 관리, 결과 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102093</learnModulSeq>
+<learnModulName>심사발급관리</learnModulName>
+<learnModulText>개인회원, 기업회원, 본인회원, 가족회원, 실명확인, 근로소득자, 사업소득자, 법인사업자, 자영업자, 기업신용도, 신용평가, 발급자재, 발급기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102094</learnModulSeq>
+<learnModulName>정산관리</learnModulName>
+<learnModulText>매출, 대금지급, 청구, 입금, 국제정산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102095</learnModulSeq>
+<learnModulName>신용리스크관리</learnModulName>
+<learnModulText>신용평점, 신용등급, 거래정지(B/L), 한도, 신용평가 모형, 숙성도 분석, 정상입금율, 신용정보, 신용평가기관, 연체율, 법조치, 위·변조, 분실·도난, 명의도용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20160102096</learnModulSeq>
+<learnModulName>고객상담</learnModulName>
+<learnModulText>고객 만족도, 고객 상담 업무, ARS, 상담 센터, 상담 그룹</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20190200058</learnModulSeq>
+<learnModulName>심사 관리</learnModulName>
+<learnModulText>심사관리, 개인회원, 법인회원, 본인회원, 가족회원, 개인신용등급, 신용카드 발급심사, 근로소득 자, 사업소득자, 법인사업자, 자영업자, 기업신용도, 신용평가, 한도기준, 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20190200060</learnModulSeq>
+<learnModulName>발급 관리</learnModulName>
+<learnModulText>개인회원, 기업회원, 발급자재, IC칩, RF칩, 마그네틱 스트라이프, 발급기, 검수기, 케리어, 분류 기, 특송, 배송원, 배송사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20190200062</learnModulSeq>
+<learnModulName>국내 정산관리</learnModulName>
+<learnModulText>매출, 대금지급, 청구, 입금, 회원 정산 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드영업</ncsSubdCdnm>
+<learnModulSeq>EDU20190200063</learnModulSeq>
+<learnModulName>국제 정산관리</learnModulName>
+<learnModulText>매출, 대금지급, 청구, 입금, 국제정산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200311</learnModulSeq>
+<learnModulName>설비금융영업</learnModulName>
+<learnModulText>설비금융, 설비리스, 내구재 할부, 동산담보대출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200312</learnModulSeq>
+<learnModulName>자동차 리스영업</learnModulName>
+<learnModulText>금융리스, 운용리스, 리스회사, 차량보증금, 월리스료, 리스기간, 보험료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200313</learnModulSeq>
+<learnModulName>자동차 할부대출영업</learnModulName>
+<learnModulText>시장구조, 오토론, 시장 점유율(Market share), 국산차, 수입차, 대출 모집인, 제휴점, 영업 채널관리, 복리, 여신 거래 기본 약관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200314</learnModulSeq>
+<learnModulName>기업여신영업</learnModulName>
+<learnModulText>기업대출, 신용대출, 담보대출, 사채인수, 팩터링, PF(Project Finance), 구조화 금융, IB(Investment Banking), 구조화 금융, 인수금융</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200316</learnModulSeq>
+<learnModulName>여신전문금융 심사</learnModulName>
+<learnModulText>재무제표, 현금흐름, 자금 용도, 채무관계인, 물적․인적담보, 운전자금, 시설자금, 리스(Lease), 할부금융</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200317</learnModulSeq>
+<learnModulName>여신전문금융 회계</learnModulName>
+<learnModulText>국제회계기준(IFRS), 한국채택국제회계기준(K-IFRS), 금융리스, 운용리스, 사용권자산, 금융자산, 대손충당금, 과세표준, 세액 산출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200318</learnModulSeq>
+<learnModulName>여신전문금융 컴플라이언스</learnModulName>
+<learnModulText>「여신전문금융업법」, 「자금세탁방지법」, 「금융소비자 보호에 관한 법률」, 「대부업등의 등록 및 금융이용자 보호에 관한 법률」, 준법감시인, 내부통제, 설명의무, 개인신용정보, 대면·비대면 거래</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200319</learnModulSeq>
+<learnModulName>여신전문금융 사후관리</learnModulName>
+<learnModulText>청구입금, 계약유지, 계약종결 관리, 승계, 계약승계, 청구명세서 작성, 여신관리 시스템, 자동차 금융, 자동이체 프로세스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200320</learnModulSeq>
+<learnModulName>여신전문금융 채널관리</learnModulName>
+<learnModulText>여신전문금융, 여전사, 채널관리, 제휴 채널, 벤더, 캡티브, 영업 채널, 신규 제휴 채널 발굴, 신규 벤더 발굴, 신규 캡티브 발굴, 대출모집인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>금융영업</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>여신전문금융영업</ncsSubdCdnm>
+<learnModulSeq>EDU20201200321</learnModulSeq>
+<learnModulName>여신전문금융 채권관리</learnModulName>
+<learnModulText>연체부실채권관리, 여신대상물건 회수, 상환 절차 수립, 권리관계 이해, 법적 조치 수립 및 진행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202299</learnModulSeq>
+<learnModulName>시장기회 탐색</learnModulName>
+<learnModulText>외부 환경 정보, 아이디어 수렴 기법, 소매 금융, 규모의 경제, 카노(kano) 모형, 친화도, 매력 니즈, 리스, 리스크 관리 역량, 틈새시장 침투 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202300</learnModulSeq>
+<learnModulName>여수신상품개발 타당성 검토</learnModulName>
+<learnModulText>시장 수명 주기, 경쟁 시장, SWOT 분석, 핵심 역량, 시장 세분화, 표적 집단, 포지셔닝, 감독 규정, 금융 행정 지도, 제도 영향 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202301</learnModulSeq>
+<learnModulName>여신상품 기획</learnModulName>
+<learnModulText>리스크, 수익, 비용, 손익 분석, 사업 계획, 집합 평가, 개별 평가, 대손 충당금, 대손 상각비, 부도율(PD) 부도 시 손실률(LGD), 예상 손실(EL), 스토리 라인, IRR, NPV, ROA, KPI, BEP</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202302</learnModulSeq>
+<learnModulName>수신상품 기획</learnModulName>
+<learnModulText>유동성 리스크, 법률 리스크, 손익 분석, 시계열 분석, 회귀 분석, ELD(equity linked deposit), 상품성 개선, 상품 판매 관련 의결 기구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202303</learnModulSeq>
+<learnModulName>수신상품 설계</learnModulName>
+<learnModulText>예대마진, 유동성, 한시 판매, 정기 판매, 상품 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202304</learnModulSeq>
+<learnModulName>컴플라이언스</learnModulName>
+<learnModulText>약관, 계약서, 공시, 고지 의무, 대면·비대면 거래, 이자 제한, 담보(보증), 자금 세탁 방지, 신용 정보(개인 정보), 내부 통제, 감사(준법 감시인)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202305</learnModulSeq>
+<learnModulName>전산개발 지원</learnModulName>
+<learnModulText>프로세스, 업무 흐름도, 요건 정의서, 분석, 설계, 전산 개발 모듈, 테스트, 테스트 결과 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202306</learnModulSeq>
+<learnModulName>여수신상품 마케팅</learnModulName>
+<learnModulText>광고, 홍보, 채널, 프로모션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202307</learnModulSeq>
+<learnModulName>여신상품 설계</learnModulName>
+<learnModulText>현금 흐름, IRR, 프로세스 맵, 리스크 분석, 신용 분석, 마케팅 전략, 벤치마킹, 상환 구조, 불입 방식, 여신 심사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여수신상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202308</learnModulSeq>
+<learnModulName>여수신상품 사후관리</learnModulName>
+<learnModulText>핵심 성과 지표(KPI), 고객 정보, 성과 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201649</learnModulSeq>
+<learnModulName>투자 상품 기획</learnModulName>
+<learnModulText>투자 상품, 내부 역량, SWOT 분석, 포지셔닝(positioning), 시장 세분화, 목표 시장, 경쟁 상품, 대체 상품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201703</learnModulSeq>
+<learnModulName>전통상품 설계</learnModulName>
+<learnModulText>주식형, 채권형, 혼합형, 포트폴리오, 시장 위험, 신용 위험, 유동성 위험, 운영 위험, 전통상품, 금융, 자산운용, 운용 전략, 리스크(risk)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201760</learnModulSeq>
+<learnModulName>파생내재상품 설계</learnModulName>
+<learnModulText>파생내재상품, 파생상품, 가격 결정, 민감도, 위험값</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201777</learnModulSeq>
+<learnModulName>대체상품 설계</learnModulName>
+<learnModulText>대체 투자, 인프라, 사모펀드, 헤지(hedge)펀드, 유동성, 공모, 사모, 인프라 자산(Infrastructure), 유동화 증권(ABS, Asset Backed Securities), 부동산 펀드, 집합투자기구, 부동산 투자 회사(리츠), 프로젝트 파이낸스(Project Finance), PE(Private Equity), 공매도, 레버리지, 차익 거래, 거래 사례비교법, 원가법, 수익환원법, 자본환원율, 할인율, 시장 리스크(market risk), 신용 리스크(credit risk), 유동성 리스크(liquidity risk), 운영 리스크(operational risk)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201785</learnModulSeq>
+<learnModulName>마케팅전략 수립</learnModulName>
+<learnModulText>투자 상품 , 시스템, 시뮬레이션, 모의실험, 오류 분석, 데이터 관리 시스템, 규약, 투자 설명서, 상품 제안서, 판매 채널, 목표 채널, 상품 라인업, 홍보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201801</learnModulSeq>
+<learnModulName>투자상품 위험관리</learnModulName>
+<learnModulText>투자 상품, 펀드, 장외파생상품, 시장 리스크, 신용 리스크, 유동성 리스크, 펀드런, 불완전판매, 해외 투자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>투자상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161201808</learnModulSeq>
+<learnModulName>투자상품 사후관리</learnModulName>
+<learnModulText>운용 성과, 성과 분석, 성과 평가 시스템, 운용 프로세스, 운용 시스템, 운용 전략, 투자 성향 분석, 사후 관리, 운용 결과 보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202288</learnModulSeq>
+<learnModulName>연금시장 분석</learnModulName>
+<learnModulText>다층 노후 소득 보장 제도, 공적 연금, 사적 연금, 금융 환경, 금융 정책, 자산 배분, 소비자 보호, 노동 시장 구조 변화, 인구 구조 변화, 노후 필요 자금, 연금 시장 분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202289</learnModulSeq>
+<learnModulName>연금관련 제도분석</learnModulName>
+<learnModulText>「근로자 퇴직급여 보장법」, 「자본시장과 금융투자업에 관한 법률」, 「보험업법」, 미국 「종업원 퇴직 소득 보장법(Employee Retirement Income Security Act)」, 연금 제도 과세 체계, 「소득세법」, SWOT 분석, 세제 적격 연금, 세제 비적격 연금, 사례 분석, 연금 상품 개발 계획안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202290</learnModulSeq>
+<learnModulName>연금고객 수요분석</learnModulName>
+<learnModulText>퇴직 연금 마케팅, 환경 분석, 설문지 작성, 고객 세분화, 고객 타기팅(targeting), 고객 포지셔닝, 통계적 방법론, 고객 분석, 수익성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202291</learnModulSeq>
+<learnModulName>연금상품 판매인프라 구축</learnModulName>
+<learnModulText>운용 관리 계약서, 자산 관리 계약서, 적합성 투자 정보 확인서, 운용 방법, 배분 비율, 기준 급여, 추계액, 퇴직 연금 규약, 업무 기능 정의, 업무 흐름도, 비즈니스 모델, 판매 채널, 직판</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202292</learnModulSeq>
+<learnModulName>연금 컨설팅</learnModulName>
+<learnModulText>연금 컨설팅, 제도 컨설팅, 연금 제도 설계, 연금 재무 분석, 자산 운용 컨설팅, 임직원 커뮤니케이션, 「근로자 퇴직급여 보장법」, 퇴직 연금 사업자 선정, 퇴직 연금 규약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202293</learnModulSeq>
+<learnModulName>연금상품 설계</learnModulName>
+<learnModulText>연금 저축 보험, 연금 저축 펀드, 연금 저축 신탁, 확정 급여(DB)형 퇴직 연금 제도, 확정 기여(DC)형 퇴직 연금 제도, 개인형 퇴직 연금 제도(IRP), 연금 재원, 연금 납부액, 연금 수령 시기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202294</learnModulSeq>
+<learnModulName>연금계리</learnModulName>
+<learnModulText>재정 검증, 연금 재정 방식, 예측 단위 적립 방식(PUC), 확정 급여 채무, 기타 장기 종업원 급여, 종업원 급여, 보험 수리적 손익, 연금 계리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202295</learnModulSeq>
+<learnModulName>연금자산관리 및 연금상품 사후관리</learnModulName>
+<learnModulText>연금 제도, 퇴직 연금, 개인연금, 포트폴리오, 연금 자산 운용, 연금 상품, 투자 관리, 성과 관리, 은퇴 설계, 인출 전략, 연금 세금, 연금 펀드, 원리금 보장 상품, 주식, 채권, 자산 배분</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>연금상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202296</learnModulSeq>
+<learnModulName>연금제도 운영</learnModulName>
+<learnModulText>적립금 운용, 표준 부담금, 보충 부담금, 특별 부담금, 재정 검증, 과거 근로 기간, 매수·매도 일정, 운용 지시, 운용 방법 변경, 수급 요건, 적립 비율, 제도 전환, 전·출입, 분사, 합병</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202309</learnModulSeq>
+<learnModulName>카드상품 기회발견</learnModulName>
+<learnModulText>신용카드, 마케팅 조사, 고객 조사, 시장 분석, 경쟁자 분석, 수요 예측, 소비자 행동, SWOT</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202310</learnModulSeq>
+<learnModulName>카드상품개발 타당성 검토</learnModulName>
+<learnModulText>고객군 세분화, 타깃고객, 시장성장성, 상품 포트폴리오, 포지셔닝, 포지셔닝 맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202311</learnModulSeq>
+<learnModulName>카드상품 설계</learnModulName>
+<learnModulText>서비스 구성, 사전 수익성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202312</learnModulSeq>
+<learnModulName>브랜드 기획</learnModulName>
+<learnModulText>카드브랜드, 브랜드 아이덴티티, 브랜드네이밍, 상표 저작권, 카드디자인, 선호도 설문 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202313</learnModulSeq>
+<learnModulName>카드상품 구성</learnModulName>
+<learnModulText>수익성, 서비스 제휴, 상품개발 확정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202314</learnModulSeq>
+<learnModulName>카드상품 마케팅 전략수립</learnModulName>
+<learnModulText>광고홍보, 매체, 상품홍보, 프로모션, 비용계획, 모집채널, 모집목표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202315</learnModulSeq>
+<learnModulName>카드상품 출시준비</learnModulName>
+<learnModulText>상품 운영 프로세스별 체크리스트, 매뉴얼, 상품 약관, 영업제작물, 교육자료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202316</learnModulSeq>
+<learnModulName>카드상품 출시마케팅</learnModulName>
+<learnModulText>광고, 홍보, 채널, 프로모션, 비용, 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202317</learnModulSeq>
+<learnModulName>카드상품 모니터링</learnModulName>
+<learnModulText>소비자 민원, 민원 유형, 소비자보호 관련 법규</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>금융상품개발</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>카드상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161202318</learnModulSeq>
+<learnModulName>컴플라이언스</learnModulName>
+<learnModulText>민원, 소비자보호 관련 법규, 여신전문금융업법, 약관법, 공정거래법, 약관심사, 신용정보의이용및보호에관한법률, 개인정보보호법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200250</learnModulSeq>
+<learnModulName>고객상담</learnModulName>
+<learnModulText>고객 상담, 고객 응대매뉴얼, 신청 경로, 서류징구, 여신신청, 개인정보 활용, 개인정보보호법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200251</learnModulSeq>
+<learnModulName>정보수집</learnModulName>
+<learnModulText>고객정보, 재무정보, 비재무정보, 자산, 부채, 소득, 지출, 정보입력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200252</learnModulSeq>
+<learnModulName>재무정보 분석</learnModulName>
+<learnModulText>재무정보, 실물자산, 금융자산, 부채, 소득, 지출, 가용소득자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200253</learnModulSeq>
+<learnModulName>비재무정보 분석</learnModulName>
+<learnModulText>비재무정보, 개인 및 개인사업자, 사업현황 분석, 공적 금융자료, 사적 금융자료, 감독당국 규제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200254</learnModulSeq>
+<learnModulName>신용등급의 개발</learnModulName>
+<learnModulText>신용등급, 신용정보, 신용평가, 신용평가등급 가중치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200260</learnModulSeq>
+<learnModulName>신용등급의 운용</learnModulName>
+<learnModulText>심사전략, 대출승인, 한도전략, 금리전략, 기일관리전략, 여신심사과정, 여심심사보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200262</learnModulSeq>
+<learnModulName>신용등급 사후관리</learnModulName>
+<learnModulText>외부 정보, 여신실무 매뉴얼, 데이터분석방법론, 내부 정보, 부실징후, 여신사후관리지침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200263</learnModulSeq>
+<learnModulName>신용정보 집중관리</learnModulName>
+<learnModulText>개인·신용정보, 개인·신용정보 매뉴얼, 신용등급, 개인·신용정보의 수집·활용 프로세스, 개인·신용정보 관리/분석, 개인정보보호법, 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200264</learnModulSeq>
+<learnModulName>개인정보관리</learnModulName>
+<learnModulText>개인정보보호법, 금융실명법, 개인정보의 적절성, 개인정보의 관리, 개인정보의 위탁, 개인정보 폐기, 개인정보 유출 대응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>개인신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161200265</learnModulSeq>
+<learnModulName>개인신용 분석·응용</learnModulName>
+<learnModulText>만기도래 채권, 연체 고객, 채권회수전략, 신용전략, 신용평점, 신용등급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202355</learnModulSeq>
+<learnModulName>기업신용분석 관련 정보수집</learnModulName>
+<learnModulText>기업 신용분석, 기업 재무정보, 신용조사, 감사보고서, 거시경제정보, 자료 수집, 기업체 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202359</learnModulSeq>
+<learnModulName>산업위험 분석</learnModulName>
+<learnModulText>산업분석, 산업구조, 수급, 제품 수명주기, 포지셔닝, 기술전략, 산업 경쟁 요소, 경쟁우위, 사회적 책임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202369</learnModulSeq>
+<learnModulName>경영 위험·영업 위험분석</learnModulName>
+<learnModulText>경영 비전, 경영 위험, 지배구조, 우발채무, 구매 및 조달 위험, 판매 및 회수 위험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202374</learnModulSeq>
+<learnModulName>재무상태분석</learnModulName>
+<learnModulText>재무제표, 재무상태표·포괄손익계산서, 현금흐름표, 자본변동표, 표준비율, 유동성, 레버리지, 활동성, 자본자산구성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202377</learnModulSeq>
+<learnModulName>경영성과 분석</learnModulName>
+<learnModulText>매출액총이익률, 총자산이익률, 부가가치율, 매출액성장률, 손익분기점, 영업레버리지, 재무레버리지, 결합레버리지, 자본조달분기점</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202378</learnModulSeq>
+<learnModulName>현금흐름분석</learnModulName>
+<learnModulText>영업활동 현금흐름, 현금흐름표, 직접법, 간접법, 적정차입금, 투자·재무활동 현금흐름, 내부금융, 외부금융, 재무제표 분식, 과대표시</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202379</learnModulSeq>
+<learnModulName>사업성 검토· 기업가치 평가</learnModulName>
+<learnModulText>사업성 분석, 공정가치, 시장가치, 잉여현금흐름(FCF), 가중평균자기자본비용(WACC), 주가수익비율(PER), 주가현금흐름비율(PCR), EV/EBITDA비율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>기업신용분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202380</learnModulSeq>
+<learnModulName>기업신용등급 결정</learnModulName>
+<learnModulText>신용평가, 단기지급 능력, 장기지급 능력, 기업신용분석 보고서, 재무위험, 비재무위험, 지급 능력, 현금흐름, 자금조달</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203325</learnModulSeq>
+<learnModulName>여신상담</learnModulName>
+<learnModulText>여신상담, 기업 고객, 여신 승인, 여신 거절, 여신 기본 서류, 신용평가 서류, 담보 관련 서류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203326</learnModulSeq>
+<learnModulName>채무관계인 분석</learnModulName>
+<learnModulText>채무관계인, 자연인, 법인, 조합, 권리 능력 없는 사단·재단, 권리 능력, 행위 능력, 여신, 신용 공여, 기한의 이익, 신용 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203327</learnModulSeq>
+<learnModulName>자금용도 검토</learnModulName>
+<learnModulText>운전자금, 시설자금, 용도 외 유용, 사업 타당성 검토, 원리금 상환능력, 운전자금 지원 한도, 1회전 기간, 연간 추정 매출액, 감가상각비, 여신 비율, 비유동장기적합률, 비유동부채, 비유동자산, 신용 공여 기간, 거치 기간, 내용연수, 기성고 확인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203328</learnModulSeq>
+<learnModulName>상환가능성 평가</learnModulName>
+<learnModulText>1차 상환재원, 2차 상환재원, 상환능력, 차입금 적정성, 매출채권, 현금흐름표, 현금수지분석표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203329</learnModulSeq>
+<learnModulName>채권 보전 검토</learnModulName>
+<learnModulText>본인 확인, 공적 장부, 등기 제도, 담보 취득 금지 물건, 담보 취득 제한 물건, 특수 물건, 담보물의 가치평가, 감정평가서, 연대보증인, 권리 능력과 행위 능력, 보증서, 담보권, 우선 특권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203330</learnModulSeq>
+<learnModulName>여신조건 결정</learnModulName>
+<learnModulText>여신금리 재조정(repricing), 특별약정(special covenants), 저당금지조항(negative pledge clause), 기준금리(reference rate), 변동금리, 고정금리, 신용위험 비용, 위험조정수익(RAR), 위험자본(CaR), 위험조정성과평가(RAPM: Risk Adjusted Performance Measurement), 자금수지표, 이자보상배율, 부채 상환계수, EBIT, EBITDA, 영업활동현금흐름</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203331</learnModulSeq>
+<learnModulName>여신 심사보고서 작성</learnModulName>
+<learnModulText>신청 여신, 채무관계인, 평가 요소, 리스크 요인(위험 요인), 경영 위험, 산업 위험, 영업 위험, 담보 분석, 상환 재원, 채무상환 능력 평가, SWOT 분석, 채권 보전, 위험 경감 요인, 심사 의견 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203332</learnModulSeq>
+<learnModulName>여신 실행</learnModulName>
+<learnModulText>대출 종류별 필요 서류, 채무관계인, 여신거래기본약관, 여신거래약정서 작성, 연대보증 약정, 화재보험 증서, 대출 종류별 지급 방법, 이자 및 수수료 징수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203333</learnModulSeq>
+<learnModulName>여신사후관리</learnModulName>
+<learnModulText>여신사후관리, 여신 승인 조건, 여신 거래 약정, 자금 유용, 약정 불이행, 신용위험 변동성, 채무관계인, 신용평가 등급 조정, 대출금리 조정, 업무 원가, 담보물 가치 변동, 상환능력 변동성, 채권 보전, 여신감리, 여신심사의 적정성, 자산건전성 분류, 대손충당금 적립 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>신용분석</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>여신심사</ncsSubdCdnm>
+<learnModulSeq>EDU20161203334</learnModulSeq>
+<learnModulName>문제여신 관리</learnModulName>
+<learnModulText>문제여신, 부실 징후, 기업 신용위험 평가, EWS(조기경보 시스템), 기업구조조정촉진법, 기업 신용위험 평가, 워크아웃, 패스트 트랙, 채권은행협의회, 기업 회생절차(법정관리), 자율 협약, 매각, 상각, 유동화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202091</learnModulSeq>
+<learnModulName>펀드 기획</learnModulName>
+<learnModulText>펀드, 집합투자기구, 뮤추얼펀드, 위험성향, 증권신고서, 일괄신고서, 실적배당형상품, 금융상품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202092</learnModulSeq>
+<learnModulName>펀드 자산배분</learnModulName>
+<learnModulText>경제 분석, 무위험이자율, 위험 프리미엄, 자산, 리스크, 목표수익률, 허용위험 한도, 전략적 자산배분, 전술적 자산배분, 소극적 투자관리, 적극적 투자관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202094</learnModulSeq>
+<learnModulName>산업별 개별투자대상 분석</learnModulName>
+<learnModulText>산업 분석, 기업 분석, 경기사이클, 투자매력도, 리스크, 재무제표, 기업탐방, 기업가치, 계량지표, 가격추세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202193</learnModulSeq>
+<learnModulName>포트폴리오 운용</learnModulName>
+<learnModulText>모델포트폴리오, 운용포트폴리오, 벤치마크, 위험조정수익률, 액티브(active) 전략, 패시브(passive) 전략, 추적오차, 포트폴리오 리밸런싱(rebalancing)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202229</learnModulSeq>
+<learnModulName>위탁운용사 자문사 관리</learnModulName>
+<learnModulText>재간접펀드, 위탁운용사, 자문사, 벤치마크, 기대수익률, 허용위험, 포트폴리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202231</learnModulSeq>
+<learnModulName>주문</learnModulName>
+<learnModulText>증권시장, 수급상황, 유동성, 주문제도, 기술적 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202240</learnModulSeq>
+<learnModulName>펀드 컴플라이언스</learnModulName>
+<learnModulText>펀드 운용 법규, 운용사 법규, 펀드별 법규, 준법감시, 내부통제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202248</learnModulSeq>
+<learnModulName>펀드 리스크 관리</learnModulName>
+<learnModulText>펀드 리스크, 시장 리스크와 VaR, 리스크 관리 시스템, 리스크 요인(Risk factor), 사전적 리스크 관리, 사후적 리스크 관리, 한도 관리, 위기상황 분석, 위험대비 성과지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202255</learnModulSeq>
+<learnModulName>펀드 성과분석</learnModulName>
+<learnModulText>펀드, 유형, 벤치마크, 투자설명서, 시간가중수익률, 금액가중수익률, 위험지표, 성과지표, 성과요인분해, 국제투자성과기준(GIPS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202260</learnModulSeq>
+<learnModulName>펀드 회계</learnModulName>
+<learnModulText>운용지시 회계처리, 펀드 운용 결과 기표, 펀드 기준가, 집합투자재산 회계처리, 법적요구보고서, 신규 자산 회계처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>펀드운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202268</learnModulSeq>
+<learnModulName>펀드 수탁관리</learnModulName>
+<learnModulText>수탁, 운용지시, 실물결제, 자산보관, 기준가격, 집중예탁, 펀드넷(fund-net), STP(straight through processing), DVP(delivery versus payment: 증권대금동시결제), 운용지침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202381</learnModulSeq>
+<learnModulName>주식·채권 투자목표 수립</learnModulName>
+<learnModulText>수익률, 변동성, 기대수익률, 허용위험, 자본시장법, 신용등급, 유동성, 투자성향, 벤치마크, 투자지침서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202382</learnModulSeq>
+<learnModulName>거시경제분석</learnModulName>
+<learnModulText>경제동향, GDP 성장률, 환율, 이자율, 원자재 가격, 물가, 통화량, 경기종합지수, 경기변동, 경제정책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202383</learnModulSeq>
+<learnModulName>산업분석</learnModulName>
+<learnModulText>산업분석, 산업구조, 수요공급, 경쟁강도, 부가가치, 진입장벽, 대체기술, 산업사이클, 산업정책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202384</learnModulSeq>
+<learnModulName>계량모형분석</learnModulName>
+<learnModulText>금융데이터, 데이터 수집, 데이터 분류, 모델 개발, 주식가치 평가, 채권가치 평가, 스타일 분석, 민감도 분석, 투자자산 가치변화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202385</learnModulSeq>
+<learnModulName>기업분석</learnModulName>
+<learnModulText>재무제표, 재무비율, 핵심역량, 경쟁력, 시장점유율, 이익, 지배구조, 신용위험, 신용상태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202386</learnModulSeq>
+<learnModulName>주식가치평가</learnModulName>
+<learnModulText>현금흐름,내재가치,청산가치,부가가치,상대가치,주가배율,가치평가모형적합성,목표주가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202387</learnModulSeq>
+<learnModulName>채권가치평가</learnModulName>
+<learnModulText>정책금리, 통화정책, 거시 경제, 기간 스프레드, 정책금리, 신용 스프레드, 회사채, 발행정보, 시가평가, 시장 유동성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202388</learnModulSeq>
+<learnModulName>주식투자전략 수립</learnModulName>
+<learnModulText>투자지침서, 투자원칙, 스타일 운용, 역투자전략, 모멘텀전략, 이벤트전략, 액티브전략, 패시브전략, 롱숏(long/short)전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202389</learnModulSeq>
+<learnModulName>채권투자전략 수립</learnModulName>
+<learnModulText>투자원칙, 투자목표, IPS, 투자지침서, 액티브 투자전략, 패시브 투자전략, 채권투자전략, 채권운용전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202390</learnModulSeq>
+<learnModulName>주식·채권 포트폴리오 구성</learnModulName>
+<learnModulText>포트폴리오 구성, 유니버스, 섹터 배분, 스타일 배분, 포트폴리오 리밸런싱, 모델 포트폴리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202391</learnModulSeq>
+<learnModulName>주식·채권 리스크 관리</learnModulName>
+<learnModulText>평균과 분산, 포트폴리오의 위험분산효과, 공분산과 상관계수, 베타(), 체계적 위험과 비체계적 위험, 자본자산가격결정모형(CAPM),듀레이션과 컴벡서티, 주식과 채권의 포트폴리오VaR</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>주식·채권운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202392</learnModulSeq>
+<learnModulName>주식·채권 운용성과 분석</learnModulName>
+<learnModulText>성과 평가, 벤치마크, 투자 설명서, 시간가중 수익률, 금액가중 수익률, 위험 지표, 성과 지표, 성과요인 분해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202500</learnModulSeq>
+<learnModulName>파생상품 운용목표 수립</learnModulName>
+<learnModulText>파생 상품 수익 목표, 파생 상품 운용 전략, 파생 상품 시장 동향 분석, 리스크 목표, 시장 리스크, 유동성 리스크, 신용 리스크, 법률 리스크, 운영 리스크, 리스크 관리 지표 한도, 관리, 성과 평가 지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20161202501</learnModulSeq>
+<learnModulName>파생상품 운용시스템 개발</learnModulName>
+<learnModulText>금융･보험, 금융, 자산 운용, 파생 상품, 운용 시스템, 프로그래밍, 금융 공학, 시스템 최적화, 모의 운용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100038</learnModulSeq>
+<learnModulName>파생상품 시장분석</learnModulName>
+<learnModulText>파생 상품 시장, 금융 시장, 통화 정책, 거시 경제 분석, 기술적 분석, 거래 동향 분석, 경제 지표, 기술적 지표, 자산 배분</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100039</learnModulSeq>
+<learnModulName>파생상품분석</learnModulName>
+<learnModulText>기초 자산, 선물, 옵션, 스와프, 선도, 매입(매도) 포지션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100040</learnModulSeq>
+<learnModulName>파생상품 운용전략 수립</learnModulName>
+<learnModulText>금융․보험, 금융, 자산 운용, 파생 상품, 운용 전략, 프로그래밍, 금융 공학, 시스템, 최적화, 모의 운용, 리스크, 민감도, 시나리오</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100041</learnModulSeq>
+<learnModulName>파생상품 매매실행</learnModulName>
+<learnModulText>파생 상품, 매매 시스템, 호가 제시(pricing), 착오 주문, 주문 실행, 계약서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100042</learnModulSeq>
+<learnModulName>파생상품 매매관리</learnModulName>
+<learnModulText>민감도(sensitivity), 가계약서(term sheet), 거래 확인서(confirmation), 북(book)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100043</learnModulSeq>
+<learnModulName>파생상품 리스크관리</learnModulName>
+<learnModulText>시장 리스크, 신용(거래 상대방) 리스크, 유동성 리스크, VaR(Value at Risk), 신용 등급, 신용 평가, 리스크(위험) 자본 한도, 위험 자본 배분, 스트레스 테스트, 역위기 상황 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100044</learnModulSeq>
+<learnModulName>파생상품 컴플라이언스</learnModulName>
+<learnModulText>규정 준수 / 법규 준수 / 컴플라이언스, 한도 관리, 파생 상품, ISDA(장외 파생 상품 계약서), 계약서 검토, 법률 검토, 투자자 보호 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>파생상품운용</ncsSubdCdnm>
+<learnModulSeq>EDU20170100045</learnModulSeq>
+<learnModulName>파생상품 성과평가</learnModulName>
+<learnModulText>투자 수익률, 투자 위험, 위험 조정 성과 지표, 성과 요인 분석, 경영진 보고, 파생 상품 모범 규준, GIPS 회계 처리 규칙, 성과 요인 분석, 경영진 보고, 운용 성과 피드백, 운용 전략의 재조정, 성과 공시 및 발표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202202</learnModulSeq>
+<learnModulName>투자시장 분석</learnModulName>
+<learnModulText>통화, 금리, 환율, 경제성장률, 인플레이션, 통계, 산업분석, 집합투자기구, 리스크, 수요공급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202203</learnModulSeq>
+<learnModulName>투자전략 수립</learnModulName>
+<learnModulText>대체투자, 투자정책, 자산배분전략, 요구수익률, 의사결정, 법규, 네트워크, 투자성향, 투자기구, 인적네트워크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202204</learnModulSeq>
+<learnModulName>투자자금 모집</learnModulName>
+<learnModulText>투자 구조, 투자 의사 결정 구조, 자본 시장과 금융 투자업에 관한 법률,</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202205</learnModulSeq>
+<learnModulName>투자 발굴 실사</learnModulName>
+<learnModulText>대체 투자, 전통 투자, 부동산, SOC, PEF, 헤지 펀드, 정보 수집</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202209</learnModulSeq>
+<learnModulName>투자실행</learnModulName>
+<learnModulText>텀 시트(term sheet), 배타적 협상권, 스타트업(start-up), 판매 회사, 수탁 회사, 자산 운용사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202211</learnModulSeq>
+<learnModulName>투자자산 관리</learnModulName>
+<learnModulText>모니터링, 투자 자산 성과 분석, 투자 자산 관리 현황, 상시적 리스크 관리, 위험 요소, 체크리스트, 가치 증대, 리모델링, 리스트럭처링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202212</learnModulSeq>
+<learnModulName>투자회수</learnModulName>
+<learnModulText>금융보험, 금융, 자산운용, 대체투자, 투자회수, 자산평가, 회수가치, 회수실행, 공정가치, 투자계약서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202214</learnModulSeq>
+<learnModulName>투자 사무관리</learnModulName>
+<learnModulText>부동산투자, 자산평가, 재무회계, 세무회계, 회계보고서, 운용보고서, 공정가치평가, 리스크관리, 자본시장법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202217</learnModulSeq>
+<learnModulName>투자 성과평가</learnModulName>
+<learnModulText>기준가격, 공정가치, 신탁회계 프로그램, 기준수익률, 성과평가 방법, 투자자산의 결산 및 청산, 사후관리, 투자 결과 보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>대체투자</ncsSubdCdnm>
+<learnModulSeq>EDU20161202219</learnModulSeq>
+<learnModulName>투자 리스크관리</learnModulName>
+<learnModulText>컴플라이언스, 적합성, 윤리성, 적법성, 이해 상충, 부실자산의 이해관계인ㆍ회수ㆍ관리, 자산 가치 하락 대처, 리스크 지표 설정ㆍ관리, 리스크 파악ㆍ해소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202221</learnModulSeq>
+<learnModulName>신탁상품 기획</learnModulName>
+<learnModulText>금융소비자보호모범규준, 금융시장, 마케팅, 고객 세분화, 신탁법, 신탁상품 손익분석, 신탁상품 원가분석, 신탁상품 인허가 절차, CRM(고객관계관리) 분석, 신탁상품 개발 프로세스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202222</learnModulSeq>
+<learnModulName>신탁자산관리 기획</learnModulName>
+<learnModulText>신탁 관련 감독규정, 필요예산, 신탁완전판매, 교육계획 및 마케팅계획, 핵심성과지표, 성과평가 및 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202223</learnModulSeq>
+<learnModulName>금전신탁관리</learnModulName>
+<learnModulText>신탁 관계 법령, 신탁 재산 인수, 신탁 계약 체결, 신탁 계약서, 계약 필요 서류, 운용 지시 가능 자산󰚯운용 지시 방법, 투자 자산 매입 실행󰚯처분, 신탁 이익 계산, 신탁 수익 지급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202224</learnModulSeq>
+<learnModulName>금전채권신탁관리</learnModulName>
+<learnModulText>금전 채권, 수탁 자산, 신탁 재산, 신탁 계약서, 수익권 증서, 권리 분석, 신탁 업무 위탁, 신탁 사무, 채권 추심, 신탁 수익 보고서,</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202225</learnModulSeq>
+<learnModulName>신탁부동산개발</learnModulName>
+<learnModulText>부동산 개발, 부동산 신탁, 사업성 분석, 자금조달, 분양업무, 공정 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202226</learnModulSeq>
+<learnModulName>실물자산 신탁관리</learnModulName>
+<learnModulText>실물 자산, 실물 자산 신탁, 실물 자산 관리, 실물 자산 관리 보고서, 실물 자산 매매 계약서, 실물 자산 매각 등기, 실물 자산 수익의 정산, 실물 잔여 자산의 귀속</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202227</learnModulSeq>
+<learnModulName>증권신탁관리</learnModulName>
+<learnModulText>유가증권, 주식, 채권, 어음, 수표, 증권관리신탁, 증권처분신탁, 증권운용신탁, 권리행사, 수익금, 금전운용, 증권처분, 수익지급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202228</learnModulSeq>
+<learnModulName>신탁회계</learnModulName>
+<learnModulText>신탁재산, 신탁이익, 이익보전, 보전이익률, 신탁겸영 금융기관. 부동산신탁업자.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202233</learnModulSeq>
+<learnModulName>신탁리스크관리</learnModulName>
+<learnModulText>신용리스크, 금리리스크, 주가변동 리스크, 시장리스크, 운영리스크, 종합리스크관리, 시장리스크, 리스크 한도관리, 리스크 측정방안, 유형별 리스크관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>04</ncsSclasCd>
+<ncsSclasCdnm>자산운용</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>신탁자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161202237</learnModulSeq>
+<learnModulName>신탁자산 보관결제</learnModulName>
+<learnModulText>신탁 자산 결제, 신탁 자산 관리, 산탁 자금 목록화, 신탁 자금 일일 마감, 신탁 자금 권리 행사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100888</learnModulSeq>
+<learnModulName>결제 기획</learnModulName>
+<learnModulText>결제계획, 지급결제업무, 지급결제시스템, 금융시장인프라, 소액결제시스템, 거액결제시스템, 증권결제시스템, 외환결제시스템, 지급결제관련 법률</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100889</learnModulSeq>
+<learnModulName>금융 거래 확인</learnModulName>
+<learnModulText>거래 내용, 지급, 매매 체결, 청산, 결제, 매매 확인, 착오 매매, 결제 금액 확정, 동시 결제, 차감, 집중 거래 상대방</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100890</learnModulSeq>
+<learnModulName>결제방법 결정</learnModulName>
+<learnModulText>금융 거래 유형, 증권결제제도, 지급수단, 지급결제시스템, 결제채널, 결제계획, 결제시기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100891</learnModulSeq>
+<learnModulName>소액 결제</learnModulName>
+<learnModulText>차액 결제, 자금 조정, 어음교환, 지로 제도, 자동이체, 대량지급, 인터넷 지로, 금융공동망, 신용카드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100892</learnModulSeq>
+<learnModulName>거액 결제</learnModulName>
+<learnModulText>거액 결제, 총액 결제, 한은금융망, 결제 유동성, 대기제도, 결제전용예금계좌, 수취인지정 자금이체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100893</learnModulSeq>
+<learnModulName>증권 결제</learnModulName>
+<learnModulText>증권 시장, 증권 결제 제도, 금융시스템, 청산, 결제, 주식시장, 채권시장, 예탁결제제도, 외화증권, 장외파생상품, 집합투자기구, 결제 기관, 파생상품, 기관결제제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100894</learnModulSeq>
+<learnModulName>외환 결제</learnModulName>
+<learnModulText>외환결제, 한은금융망, 외화 콜거래, 내국신용장어음교환 차액결제, 환거래은행, 외환결제리스크, 외환동시결제, CLS은행(CLS Bank International), SWIFT(Society for Wolrdwide Interbank Financial Telecommunication)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100895</learnModulSeq>
+<learnModulName>결제 보고</learnModulName>
+<learnModulText>금융 거래 지식, 금융 회사의 내부 통제 규정, 외부 관련 보고 기관에 대한 지식, 결제 보고서, 금융 거래 분류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100896</learnModulSeq>
+<learnModulName>결제 마감</learnModulName>
+<learnModulText>금융 결제, 금융 결제 처리 결과, 결제 마감 오류 여부 파악, 잔고 이상 재발 방지책, 금융 결제 서류 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>결제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100897</learnModulSeq>
+<learnModulName>결제 위험 관리</learnModulName>
+<learnModulText>결제 권한, 내부 통제 규정, 리스크 관리, 신용 평가, 재무 상태표, 한도 관리, 결제 불이행, 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101895</learnModulSeq>
+<learnModulName>채권추심 사전관리</learnModulName>
+<learnModulText>신용조사, 신용조사 결과표, 대여거래, 외상매출거래, 담보물권, 가치평가, 담보확보, 여신거래 규정, 계약 용어, 계약서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101896</learnModulSeq>
+<learnModulName>채무자 재산조사</learnModulName>
+<learnModulText>동산, 법인등기부등본, 부동산, 부동산등기부등본, 임대차, 사업자등록증, 사해행위, 재무상태표, 주민등록초본, 탐문 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101897</learnModulSeq>
+<learnModulName>채무자 부실징후 파악</learnModulName>
+<learnModulText>당월 회전일, 변제각서, 상담, 신용변동, 연체 주기, 입금 주기, 채무상환, 채무상환계획서, 채무상환 능력, 채무자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101898</learnModulSeq>
+<learnModulName>채무자 신용조사</learnModulName>
+<learnModulText>재무제표, 제3채무자, 가압류, 내용증명, 연대보증인, 재산변동 파악, 부동산 시세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101899</learnModulSeq>
+<learnModulName>담보분석</learnModulName>
+<learnModulText>담보, 담보상태, 보증보험, 부동산등기부, 수표, 양도담보, 어음, 연대보증인, 자동차등록원부, 채권양도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101900</learnModulSeq>
+<learnModulName>채권 회수전략 수립</learnModulName>
+<learnModulText>연체 채권, 연체 개월, 영업일, 월말 기준, 결제일 기준, 회전일, 회수기간, 회수모형, 배분전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101901</learnModulSeq>
+<learnModulName>채권회수 활동</learnModulName>
+<learnModulText>담보재산, 담보권 실행, 대환대출, 독촉, 신용구제채권, 임의처분, 채권 상담, 채권 위임, 채권추심, 채권회수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101902</learnModulSeq>
+<learnModulName>채권 보전조치</learnModulName>
+<learnModulText>채권 보전조치, 가압류/가처분 종류와 절차, 가압류/가처분 신청, 보전처분 집행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101903</learnModulSeq>
+<learnModulName>추심 소송</learnModulName>
+<learnModulText>지급명령신청서, 소장, 준비서면, 답변서, 재산명시신청, 재산조회신청, 채무불이행자신청, 가압류, 채권압류, 추심명령</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>채권추심</ncsSubdCdnm>
+<learnModulSeq>EDU20160101904</learnModulSeq>
+<learnModulName>강제집행</learnModulName>
+<learnModulText>강제집행, 부동산 강제경매, 매각절차, 배당절차, 유체동산 강제집행, 보전처분, 재산명시신청, 채무불이행자명부 등재신청, 재산조회신청, 대손처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101024</learnModulSeq>
+<learnModulName>리스크관리 기획</learnModulName>
+<learnModulText>리스크관리, 리스크목표, 리스크관리 계획, 리스크예산, 리스크관리위원회, BIS 자기자본규제, 규제자본(RC), 경제적 자본(EC),예상손실(EL), 비예상손실(UL), 리스크조정자본수익률(RAROC)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101025</learnModulSeq>
+<learnModulName>리스크 식별</learnModulName>
+<learnModulText>리스크 식별 채널, 식별 방법, 식별 내용 체계화, 리스크 대응, 식별 리스크 진단, 내부통제, 리스크관리 문화, 모니터링 지표, 관리 기준, 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101026</learnModulSeq>
+<learnModulName>리스크 평가</learnModulName>
+<learnModulText>채무불이행 위험, 신용위험, 신용 평가 방법론, 신용 평가 모형, 기업 분석, 산업 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101027</learnModulSeq>
+<learnModulName>리스크 측정</learnModulName>
+<learnModulText>금리개정갭,듀레이션갭,유동성갭.순이자수익(NII:Net Interest Income), 순자산가치(NPV: Net Present Value),순이자수익 변동액(EaR: Earning at Risk),순자산가치 변동액(VaR:Value at Risk), 시가평가(Mark-to-Market),분산-공분산법, 역사적 시뮬레이션법, 몬테카를로 시뮬레이션법, 운영리스크손실분포</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101028</learnModulSeq>
+<learnModulName>자산 건전성 관리</learnModulName>
+<learnModulText>자산건전성, 대손충당금, 대손준비금, 예상손실(EL), 발생손실(IL), 신자산건전성 분류제도(FLC), 채무상환능력, 회수예상가액, 여신감리, 손상식별기간(LIP)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101029</learnModulSeq>
+<learnModulName>신용 포트폴리오 관리</learnModulName>
+<learnModulText>신용 포트폴리오, 예상 손실, 미예상 손실, 최적화, 자본 배분, 대응 방안, 대출금리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101030</learnModulSeq>
+<learnModulName>적정성 관리</learnModulName>
+<learnModulText>자본 적정성, 자본비율, 위험예산, 한도관리, 한도소진율, 준법감시, 적합성 검증, 사후검증(Back Test), 조기경보, 상시감시, 핵심위험지표(KRI)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101031</learnModulSeq>
+<learnModulName>위기상황 분석</learnModulName>
+<learnModulText>위기상황분석, 역위기상황분석, 민감도 분석, 시나리오 분석, 위기상황 대응 계획, 통합시나리오, 위기상황 시나리오, 핵심위험지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101032</learnModulSeq>
+<learnModulName>리스크관리 모니터링</learnModulName>
+<learnModulText>자본 적정성, 자본비율, 위험예산, 한도관리, 한도소진율, 준법감시, 적합성 검증, 사후검증(Back Test), 조기경보, 상시감시, 핵심위험지표(KRI)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>05</ncsSclasCd>
+<ncsSclasCdnm>금융영업지원</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>리스크관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160101033</learnModulSeq>
+<learnModulName>위험조정 성과평가</learnModulName>
+<learnModulText>성과평가, 위험조정자본이익률, RAROC, 경제적 부가가치, EVA, 위험 기여도, 위험자본한도배분, 여신금리산정, 위험자본, 위험조정성과지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100357</learnModulSeq>
+<learnModulName>증권거래 고객마케팅</learnModulName>
+<learnModulText>금융서비스, 고객관계관리(CRM), 표준투자권유준칙, 고객접촉, 방문영업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100358</learnModulSeq>
+<learnModulName>증권거래 투자상담</learnModulName>
+<learnModulText>투자유형, 투자성향, 투자자정보 확인, 적합성 방식, 금융투자상품, 과세, 부가서비스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100359</learnModulSeq>
+<learnModulName>증권거래 조사분석</learnModulName>
+<learnModulText>증권시장, 경제 분석, 산업 분석, 기업 분석, 종목 분석, 재무제표 분석, 기본적 분석, 기술적 분석, 리서치서비스, 기업탐방보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100360</learnModulSeq>
+<learnModulName>국내 증권관리</learnModulName>
+<learnModulText>주식분석보고서, 투자상담, 신용공여, 대차대여</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100361</learnModulSeq>
+<learnModulName>해외 증권관리</learnModulName>
+<learnModulText>해외 주식, 해외 채권, 환율, 주식 분석보고서, 투자 상담, 양도소득세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100362</learnModulSeq>
+<learnModulName>금융상품 투자중개</learnModulName>
+<learnModulText>자산배분, 리밸런싱, 경제지표, 적립식펀드, ELS / DLS, 신탁, WRAP, 상장지수펀드(ETF), REITs, 변액보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100363</learnModulSeq>
+<learnModulName>고객자산 포트폴리오 제공</learnModulName>
+<learnModulText>재무 설계, 자산부채상태표, 현금흐름표, 재무 목표, 자산배분, 포트폴리오, 분산투자, 수익률, 위험조정수익률, 리밸런싱</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100364</learnModulSeq>
+<learnModulName>증권거래 컴플라이언스</learnModulName>
+<learnModulText>투자자보호, 소비자보호, 민원, 미스터리 쇼핑제도, 불완전판매, 완전판매 모니터링, 과당매매, 적합성의 원칙, 적정성의 원칙, 설명의 의무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100365</learnModulSeq>
+<learnModulName>증권거래업무 지원</learnModulName>
+<learnModulText>금융상품, 자산배분전략, 모델포트폴리오, 투자성향분석, 고객재무설계, 고객재산 포트폴리오, 고객한도 리스크 관리, 증권거래업무, 맞춤상품개발, 성과보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>증권거래업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100366</learnModulSeq>
+<learnModulName>증권계좌관리</learnModulName>
+<learnModulText>계좌 개폐, 고객 유형 분류, 금융실명제법, 증권 매매로 인한 제반 업무, 고객의 권리 및 세금 관련 업무, 투자자의 금융상품별 만기, 증권 종류별 결제업무, 증거금과 만기 관리를 통한 결제 이행 보증</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100297</learnModulSeq>
+<learnModulName>외환·파생 고객관리</learnModulName>
+<learnModulText>위험, 위험관리, 고객 재무상태, 표준투자권유준칙, 외국환거래법, 은행업법, 자본시장과 금융투자업에 관한 법률, 위험도 분류, 상품(선물환, FX스왑, 구조화 통화 옵션, 금리스왑, 구조화상품)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100298</learnModulSeq>
+<learnModulName>외국환 확인업무</learnModulName>
+<learnModulText>외국환거래법, 외국환거래법시행령, 외국환거래규정, 보고제도, 외국환거래법규 위반자에 대한 제재규정, 경상거래, 자본거래, 사전신고, 신고항목, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100299</learnModulSeq>
+<learnModulName>외국환 창구업무</learnModulName>
+<learnModulText>시장평균환율(MAR: market average rate), 교차환율(cross rate), 우대환율, Tow-way Quote, 외환포지션(position), 환노출(exposure), 거주자, 비거주자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100300</learnModulSeq>
+<learnModulName>외환·파생 상품설계 제안</learnModulName>
+<learnModulText>표준투자권유준칙, 외국환거래법, 은행업법, 자본시장과 금융투자업에 관한 법률, 위험도 분류, 상품(선물환, FX스왑, 구조화 통화 옵션, 금리스왑, 구조화상품)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100301</learnModulSeq>
+<learnModulName>은행간거래 관리</learnModulName>
+<learnModulText>환율, 환율표시방법, 은행간 외환시장, 파생상품, 선물환, 외환스왑, 통화선물, 통화스왑, 금리선물, 이자율스왑, Bootstrapping, 옵션, 가격민감도, 듀레이션, 델타, 경제지표, 기술적 분석, 차트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100302</learnModulSeq>
+<learnModulName>대고객거래 관리</learnModulName>
+<learnModulText>표준투자권유준칙, 외국환거래법, 은행업법, 자본시장과 금융투자업에 관한 법률, 파생상품 업무처리 모범규준, 선물환, FX스왑, 통화 옵션, 금리스왑, 통화스왑</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100304</learnModulSeq>
+<learnModulName>외환·파생 리스크관리</learnModulName>
+<learnModulText>한도관리, 손익관리, 거래가격 적정성, 파생상품 가치평가, Value at Risk(VaR)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100305</learnModulSeq>
+<learnModulName>외환·파생 후선업무</learnModulName>
+<learnModulText>장외파생상품, 국제스왑파생상품협회(ISDA: international swaps and derivatives association), 거래계약서, 거래확인서, 평가내역서, 기일관리, 한국은행 지급준비금 계정이체, 외화동시결제시스템, 예치환거래은행, 국제 은행 간 통신협회(SWIFT: society for worldwide interbank financial telecommunication)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100307</learnModulSeq>
+<learnModulName>외환·파생 조사분석</learnModulName>
+<learnModulText>거시경제분석, 경제성장, 경기싸이클, 산업분석, 기업분석, 기업 재무분석, 거래동향, 금융상품, 금융시장, 조사분석업무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100308</learnModulSeq>
+<learnModulName>외환·파생 업무지원</learnModulName>
+<learnModulText>표준투자권유준칙, 외국환거래법, 은행업법, 자본시장과 금융투자업에 관한 법률, 상품설명서(선물환, FX스왑, 구조화 통화 옵션, 금리스왑, 상품 파생), 거래시스템, 외환거래, 장내파생상품, 장외파생상품, 약관, 내규, 제정, 개정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>외환·파생업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100310</learnModulSeq>
+<learnModulName>외환·파생 컴플라이언스</learnModulName>
+<learnModulText>ISDA, 외환거래, 장내파생상품, 장외파생상품, 약관, 계약서, 부속합의서, CSA, 장외파생상품거래 기본계약서, 민원, 부당권유, 민감도, 분쟁, 내부통제, 컴플라이언스, 감사, 준법감시, 일임매매, 임의매매, 부당권유, 불완전판매, 장외파생상품설명서, 장내파생상품설명서, 투자광고, 공시, 감사, 일반투자자확인서, 리스크관리, 위험관리, 준법감시인, 최고감사책임자, CAE</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100315</learnModulSeq>
+<learnModulName>자금조달 제안</learnModulName>
+<learnModulText>기업분석, 산업분석, 재무분석, 자본시장 이해, 경영권 방어, 자금조달비용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100317</learnModulSeq>
+<learnModulName>인수 대상회사 실사</learnModulName>
+<learnModulText>실사체크리스트, 요청자료목록, 발행회사 위험요인 분석, 산업과 경제 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100318</learnModulSeq>
+<learnModulName>유동화증권 기초자산 검토</learnModulName>
+<learnModulText>자산보유자, 유동화전문회사, 자산관리자, 대체자산관리자, 업무수탁자, 신용보강기관, 신용평가회사, 법무법인, 회계법인 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100319</learnModulSeq>
+<learnModulName>증권신고서 작성 제출</learnModulName>
+<learnModulText>증권신고서, 기업공시, 전자공시시스템, 기업공시서식, 인수계약, 공모, 주관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100323</learnModulSeq>
+<learnModulName>유동화증권신고서 작성 제출</learnModulName>
+<learnModulText>발행회사, 연결보고서, 실사체크리스트, 실사이행결과보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100327</learnModulSeq>
+<learnModulName>주식 가격 결정</learnModulName>
+<learnModulText>주식 가격 결정, 투자설명서, 기업공시, 자본시장과 금융투자업의 관한 법률, 투자설명회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100328</learnModulSeq>
+<learnModulName>채권 가격 결정</learnModulName>
+<learnModulText>채권, 회사채, 금리(이자율), 수요예측, 유효수요, 기관투자자, 발행가격, IR, 공모, 신용평가, 신용등급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100330</learnModulSeq>
+<learnModulName>주식연계증권 가격 결정</learnModulName>
+<learnModulText>전환사채 전환가, 교환사채 교환가, 신주인수권부사채 행사가, 사모 주식연계증권 가격 결정,공모 주식연계증권 가격 결정, 인수계약, 추가상장, 신주인수권(옵션) 가치(공모발행)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100331</learnModulSeq>
+<learnModulName>증권발행</learnModulName>
+<learnModulText>증권발행, 청약, 배정, 납입, 상장, 유상증자, 주주배정증자, 일반공모증자, 무보증사채인수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100332</learnModulSeq>
+<learnModulName>유동화증권 투자자 모집</learnModulName>
+<learnModulText>유동화증권, 유동화시장, 공모/사모, 기관투자자/개인투자자, 요구수익률, 투자운용기간</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20181200013</learnModulSeq>
+<learnModulName>인수대상 회사 본 실사</learnModulName>
+<learnModulText>발행회사, 연결보고서, 실사체크리스트, 실사이행결과보고서, 내부통제절차, 발행회사 위험요인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>인수업무</ncsSubdCdnm>
+<learnModulSeq>EDU20181200018</learnModulSeq>
+<learnModulName>인수대상회사 사전 실사</learnModulName>
+<learnModulText>증권신고서, 기업공시, 전자공시시스템, 기업공시서식, 인수계약, 공모, 주관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100337</learnModulSeq>
+<learnModulName>상장대상기업 발굴</learnModulName>
+<learnModulText>제안서, 코스닥시장 상장규정, 유가증권시장 상장규정, 대표주관계약서, 주식인수의뢰서, PER, EV/EBITDA, 상대가치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100338</learnModulSeq>
+<learnModulName>상장전략 수립</learnModulName>
+<learnModulText>대표주관회사, 상장, 기업실사, 사업계획서, 내부통제, 공모구조, 주주, 제안서, 심사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100339</learnModulSeq>
+<learnModulName>기업가치 평가</learnModulName>
+<learnModulText>기업가치평가, 재무제표 분석, 공모가, 비교기업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100340</learnModulSeq>
+<learnModulName>상장심사</learnModulName>
+<learnModulText>거래소, 상장예비심사청구서, 상장대상기업, 상장요건, 공모, 상장심사, 보호예수, 예탁결제원, 우리사주조합, 명의개서대행기관, 통일규격증권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100341</learnModulSeq>
+<learnModulName>증권신고서 작성 제출</learnModulName>
+<learnModulText>지분증권, 증권신고서 작성, 증권신고서 제출 및 공시, 증권신고서 수리 대응, 전자공시, 효력발생, DART, 전송파일, 금융감독원, 금융위원회, IPO</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100342</learnModulSeq>
+<learnModulName>수요예측(Book Building)</learnModulName>
+<learnModulText>R, 기관투자자, 애널리스트, 외국인투자자, 기업설명회, 해외로드쇼, 기자간담회, 수요예측, 의무보유확약, 공모가 밴드, 최종공모가 결정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100343</learnModulSeq>
+<learnModulName>공모상장</learnModulName>
+<learnModulText>투자설명서, 청약업무, 청약프로그램, 청약공고, 청약증거금, 납입, 환불, 상장신청, 공모주상장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100344</learnModulSeq>
+<learnModulName>SPAC상장</learnModulName>
+<learnModulText>SPAC, 특수목적인수회사, 상장규정, 자본시장과 금융투자업에 관한 법률, 상장심사, 기업가치평가, 합병, 합병상장 예비심사청구서, 합병신고서, 합병주주총회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100345</learnModulSeq>
+<learnModulName>코넥스상장</learnModulName>
+<learnModulText>코넥스시장, 중소기업, 벤처기업, 상장규정, 공시규정, 공시시스템, 지정자문인, 자본(자금)조달, 기업현황보고서, 투자유치, 사모, 공모</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>증권상장업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100346</learnModulSeq>
+<learnModulName>상장폐지</learnModulName>
+<learnModulText>상장폐지기준, 공개매수신고서, 공개매수설명서, 공개매수절차, 공개매수결과보고서, 주식대량보유상황보고서, 상장폐지신청, 정리매매</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100862</learnModulSeq>
+<learnModulName>조달 전략 수립</learnModulName>
+<learnModulText>외화조달, 채권, 통화정책, 금리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100863</learnModulSeq>
+<learnModulName>조달 프로그램 관리</learnModulName>
+<learnModulText>실사, 조달 프로그램, 사채발행의향서(offering circular)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100864</learnModulSeq>
+<learnModulName>투자자 관리</learnModulName>
+<learnModulText>IR, 투자자 설명회, 신용등급, 외화채권, 신용평가사, 로드쇼, 프리젠테이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100865</learnModulSeq>
+<learnModulName>채권 발행</learnModulName>
+<learnModulText>주간사, 발행자, 투자자, 발행제안서, 마케팅, 발행금리, 블룸버그, 인출선행조건서류, 실사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100866</learnModulSeq>
+<learnModulName>신디케이트론 차입</learnModulName>
+<learnModulText>주간사(mandated lead arranger), 참여은행(participating bank), 총액인수방식(fully underwritten basis), 인출선행조건(conditions precedent), 제안요청서(request for proposal), 기채의뢰서(mandate), 대주단(syndication), 총 비용(all in cost), 차입계약서, 서약조항(covenant), 투자설명서(information memorandum), 인출(draw down)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100867</learnModulSeq>
+<learnModulName>단기유동성 관리</learnModulName>
+<learnModulText>단기외화자금, 유동성과부족, 유동성비율, 단기자금조달·운용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100868</learnModulSeq>
+<learnModulName>조달 사후관리</learnModulName>
+<learnModulText>유동성비율, 기일관리, 결제 방식, 대차대조표 이해, 파생회계, 위험회피회계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100869</learnModulSeq>
+<learnModulName>여신준비</learnModulName>
+<learnModulText>운전자금, 시설자금, 신용등급, 외화지급보증, refund guarantee, performance bond, negative pledge, pari passu, financial covenants, 저당권, 정규담보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100870</learnModulSeq>
+<learnModulName>여신심사약정</learnModulName>
+<learnModulText>선박금융, 항공기금융, 프로젝트 파이넨싱, 차관단대출, RFP(request for proposal), 사업타당성 분석, bilateral loan, 주간사은행, agent, 수출신용기구(export credit agency), tax lease, participation agreement, mandate, information memorandum, 약정수수료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>외화조달·외화대출업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100871</learnModulSeq>
+<learnModulName>여신실행 사후관리</learnModulName>
+<learnModulText>서명식, 인출통지서, 인출선행조건, 법률의견서, majority lender, 송달대리인, SWIFT, LIBOR, 법률자문기관, 정관, 상업등기부등본</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100284</learnModulSeq>
+<learnModulName>수출신용장 통지</learnModulName>
+<learnModulText>신용장, UCP 600, 환거래은행, SWIFT, 확인신용장, 통지 절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100285</learnModulSeq>
+<learnModulName>수출신용장 양도</learnModulName>
+<learnModulText>신용장양도 의의, 양도사유, 양도은행, 양도신청인, 양도신청 서류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100286</learnModulSeq>
+<learnModulName>신용장방식 수출환어음 매임추심</learnModulName>
+<learnModulText>수출 거래 형태, 여신약정서류, 신용장통일규칙(UCP), 국제표준은행관행(ISBP), 은행 간 대금상환에 관한 통일규칙(URR), 추심에 관한 통일규칙(URC), 재매입(renego)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100287</learnModulSeq>
+<learnModulName>무신용장방식 수출환어음 매입추심</learnModulName>
+<learnModulText>D/P(documents against payment), D/A(documents against acceptance), O/A(open account), URC(uniform rules for collections), 추심전 매입, 추심후 지급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100288</learnModulSeq>
+<learnModulName>수출 사후관리</learnModulName>
+<learnModulText>수출 사후관리, 미회수채권, 매입/추심, 하자 및 부도, 미입금/미인수, 입금지연이자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100289</learnModulSeq>
+<learnModulName>수입신용장 개설</learnModulName>
+<learnModulText>수입 거래 형태, 기업의 신용 상태, 채권보전 조치, 여신한도 산출, 내부 승인 절차, 여신약정서류, 수입신용장 개설 신청서류 및 내용, 신용장통일규칙, 상환방식, 신용장 조건변경</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100290</learnModulSeq>
+<learnModulName>수입선적서류 인수결제</learnModulName>
+<learnModulText>선적서류, 하자(discrepancy), 선하증권(B/L), 인수, 결제, 대지급, 수입화물선취보증서(L/G), 수입 화물대도(T/R), 일람불(At Sight) 및 기한부(Usance), 송금 방식, 상환 방식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100291</learnModulSeq>
+<learnModulName>외화지급보증 개설</learnModulName>
+<learnModulText>외국환거래법, 청구보증통일규칙(URDG 758), 보증신용장통일규칙(ISP 98), 신용장통일규칙(UCP 600), 제시(presentation), 청구(demand), 보강진술서(statement), 구상보증(counter guarantee)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100292</learnModulSeq>
+<learnModulName>외화지급보증 지급관리</learnModulName>
+<learnModulText>지급보증 이해청구 접수, 지급보증 서류심사, 지급보증 지급거절, 지급보증 위험관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>금융</ncsMclasCdnm>
+<ncsSclasCd>06</ncsSclasCd>
+<ncsSclasCdnm>증권·외환</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>무역금융업무</ncsSubdCdnm>
+<learnModulSeq>EDU20160100293</learnModulSeq>
+<learnModulName>한국은행 무역금융 취급</learnModulName>
+<learnModulText>한국은행 자금중개지원 무역금융, 중소기업, 구매승인서, 내국신용장(local)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202710</learnModulSeq>
+<learnModulName>거시 경제 분석</learnModulName>
+<learnModulText>국내 실질총생산(Gross Domestic Product), 경제성장률, 실물경제, 물가상승률, 가계소득</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202711</learnModulSeq>
+<learnModulName>금융 산업 현황 분석</learnModulName>
+<learnModulText>이자율, 금융시장, 금융기관, 금융상품, 금융산업, 금융세제, 금융규제, 채권</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202712</learnModulSeq>
+<learnModulName>보험 소비자 수요 분석</learnModulName>
+<learnModulText>보험 소비자, 보험 수요, 보험시장, 보험 지속 가능성, 인구 구조, 라이프 스타일, 고객관계 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202713</learnModulSeq>
+<learnModulName>국내외 보험 시장 현황 분석</learnModulName>
+<learnModulText>보험 동향, 보험상품, 신규 상품, 시장 현황, 상품 아이디어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202714</learnModulSeq>
+<learnModulName>보험 상품 시장성 분석</learnModulName>
+<learnModulText>생명보험, 손해보험, 보험 계약, 보험사업, 보험 판매 채널, 보험시장, 보험상품, 보험 가격, 신상품, 시장 예측</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202715</learnModulSeq>
+<learnModulName>상품 개발 전 리스크 분석</learnModulName>
+<learnModulText>언더라이팅 리스크, 지급 심사, 법률 규제 리스크, 영업 행위 리스크, 보험 사기 영향 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202716</learnModulSeq>
+<learnModulName>재보험 활용 전략 수립</learnModulName>
+<learnModulText>특약 재보험(treaty reinsurance), 임의 재보험(faculatative reinsurance), 비례 적재 보험(proportional reinsurance), 비비례 적재 보험(non-proportional reinsurnace), 위험 보험료식 재보험, 공동 보험식 재보험, 지급 여력 비율(solvency margin ratio), 보유(retention), RBC(Risk Based Capital)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202717</learnModulSeq>
+<learnModulName>보험 상품 마케팅 전략 수립</learnModulName>
+<learnModulText>보험상품, 마케팅, 판매 채널, 포지셔닝, 광고, 홍보, 영업 지원, 전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202718</learnModulSeq>
+<learnModulName>보험 상품 개발 제안서 작성</learnModulName>
+<learnModulText>신상품, 기초 서류, 상품 안내장, 상품 공시실, 사업 방법서, 가입 설계서, 보험상품명, 상품 손익</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험동향분석</ncsSubdCdnm>
+<learnModulSeq>EDU20161202719</learnModulSeq>
+<learnModulName>상품관련 보험회사의 사회적 책임 전략 수립</learnModulName>
+<learnModulText>공공성, 사회적 책임, 사회 보장 사업, 사회 공헌 사업, 사회 환원량, 소비자 인식, 보험상품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200456</learnModulSeq>
+<learnModulName>보험상품개발 전략 수립</learnModulName>
+<learnModulText>상품개발전략, 판매채널, 판매현황, 산업전망, 개발동향, 상품경쟁력, 시장점유율, 월납초회보험료, 상품수익성, 책임준비금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200457</learnModulSeq>
+<learnModulName>시장니즈 분석</learnModulName>
+<learnModulText>재보험사, SOA, 상품공시, 비교공시, FGI(Focus Group Interview), 심층면접법, 경쟁력비교표, 이슈트리(로직트리), 판매채널</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200458</learnModulSeq>
+<learnModulName>보험상품 디자인</learnModulName>
+<learnModulText>보험상품 종류, 보험관련 법령(법/시행령/감독규정/시행세칙), 보험금 지급 기준표, 계약의 소멸/면책 사유, 시산보험료, 책임준비금, 최적기초율, 적립(예정)이율, EV, PM</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200460</learnModulSeq>
+<learnModulName>보험 위험률 개발</learnModulName>
+<learnModulText>경험통계, 참조순보험요율, 경과계약건수, 관찰연도방식, 연앙방식, 보정, 보외, 위험률리스크, 안정할증, 신뢰도기법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200462</learnModulSeq>
+<learnModulName>상품 개발안 설정</learnModulName>
+<learnModulText>EV, 현금흐금, 최적기초율, 민감도, 손익관리, 판매 전략, 매출계획, 수익성 분석, 수익성 지표,보험료분석보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200463</learnModulSeq>
+<learnModulName>보험상품 인가</learnModulName>
+<learnModulText>기초서류, 사업방법서, 보험약관, 보험료 및 책임준비금 산출방법서, 보험료 분석보고서, 확인의뢰서, 선임계리사, 공시확인계리사, 계리법인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200464</learnModulSeq>
+<learnModulName>보험 판매 준비</learnModulName>
+<learnModulText>기초서류, 상품설명서, 상품요약서, 가입설계서, 안내장, 해지환급금, 공시이율, 최저보증이율, 보험료, 보험기간, 납입기간</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험상품개발</ncsSubdCdnm>
+<learnModulSeq>EDU20161200466</learnModulSeq>
+<learnModulName>상품 모니터링</learnModulName>
+<learnModulText>보험판매채널, 보험상품군, 수입보험료, 초회보험료, 계속보험료, 위험보험료, 지급보험금, 위험률차손익, 사업비차손익, 수익성 분석, Profit Margin</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200717</learnModulSeq>
+<learnModulName>보험통계 관리</learnModulName>
+<learnModulText>기술통계, 추측통계, 수입보험료, 지급보험금, 사업비, 보험가입금액 및 건수, 책임준비금, 업무보고서, 보험금 지급률, 신계약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200718</learnModulSeq>
+<learnModulName>최적가정 결정</learnModulName>
+<learnModulText>최적가정, 경험통계, 위험률, 해지율, 계리적 가정, 경제적 가정, 보정?보외?보간, 신뢰도기법, Ultimate Rate, Greville 보정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200719</learnModulSeq>
+<learnModulName>보험계약 부채평가</learnModulName>
+<learnModulText>책임준비금, 순보험료식, 보험료적립금, 수지상등, 기초율, 기초서류, 산출방법서, 미상각신계약비, LAT, 할인율, IBNR, 보증준비금, 변액보험, IFRS4</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200720</learnModulSeq>
+<learnModulName>손익분석</learnModulName>
+<learnModulText>활동기준원가, 3이원, 보험손익, 투자손익, 기타손익, 계약자배당준비금적립전잉여금, 계약자지분, 주주지분, 계약자이익배당준비금, 자본계정운용손익</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200721</learnModulSeq>
+<learnModulName>회사가치평가</learnModulName>
+<learnModulText>내재가치, Embedded Value, 계리 Software, 경험통계, 계리적 가정, 경제적 가정, 할인율, Movement Analysis, 민감도분석, Cost of Capital</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200722</learnModulSeq>
+<learnModulName>지급여력 적정성 관리</learnModulName>
+<learnModulText>지급여력비율(RBC비율), 가용자본, 요구자본, 보험리스크, 금리리스크, 신용리스크, 시장리스크, 운영리스크, 위험액(리스크량), 익스포져, 위험계수, 분산효과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200723</learnModulSeq>
+<learnModulName>리스크 관리</learnModulName>
+<learnModulText>보험리스크, 현금흐름, 듀레이션, ALM, 리스크 관리, 재보험, MVS, RBC, Efficient frontier, SAA, EV</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200724</learnModulSeq>
+<learnModulName>계약자배당 관리</learnModulName>
+<learnModulText>계약소멸률, 보장계약 순보험료, 위험률, 책임준비금, 선전립계약자배당준비금, 계약자배당준비금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200725</learnModulSeq>
+<learnModulName>계리 경영 관리</learnModulName>
+<learnModulText>사업계획, 예산수립, 핵심관리지표, 목표-실적 차이분석(gap analysis), 상품Portfolio, 시나리오 분석, Actuarial cashflow, 손익분석, 비차손익, 이연손익 및 예상 재무제표 작성 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200726</learnModulSeq>
+<learnModulName>퇴직연금 계리</learnModulName>
+<learnModulText>퇴직연금, 연금계리, 퇴직연금 기초율, 연금부채, 재정건전성 검증, 확정급여형 연금제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>보험상품개발</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계리</ncsSubdCdnm>
+<learnModulSeq>EDU20161200727</learnModulSeq>
+<learnModulName>재보험 기획 관리</learnModulName>
+<learnModulText>보유 분석(Retention Analysis), 비례 Pricing, 비비례 Pricing, Exposure Curve, Loss Modeling, Layer, 재보험 정 청산, 협의요율, 재보험 정?청산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200650</learnModulSeq>
+<learnModulName>판매전략 수립</learnModulName>
+<learnModulText>시장조사. 소비자의 욕구 발전단계, 구매의사 결정요인, 시장 세분화(Market Segmentation), 시장 타겟팅(Market Targeting), 시장 포지셔닝(Market Positioning), 판매촉진(Sales Promotion), 전략수립, 예산, 매출목표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200652</learnModulSeq>
+<learnModulName>영업지원 툴(Tool) 개발</learnModulName>
+<learnModulText>안내장, 전산매뉴얼, 정보수집, 활동지원방안, 판매성과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200653</learnModulSeq>
+<learnModulName>교육기획</learnModulName>
+<learnModulText>판매목표, 교육목표, 니즈분석, 상품타겟, 판매트렌드, 프리젠테이션, 교육진행스킬, 롤플레이</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200654</learnModulSeq>
+<learnModulName>판매기법 교육</learnModulName>
+<learnModulText>고객접근, 고객응대, 고객성향, 고객분석, 판매프로세스, 판매전략, 보장분석, 재정분석, 목표, 시장트렌드, 판매화법, 개인정보보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200655</learnModulSeq>
+<learnModulName>고객 상담 준비</learnModulName>
+<learnModulText>고객정의, 고객유형, 고객관리, 기초정보, 시장세분화, 개인정보보호법, 거절처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200656</learnModulSeq>
+<learnModulName>고객상담</learnModulName>
+<learnModulText>정보수집기법, 정보수집, 정보분석, 효과적인 질문, 고객의 재무 목표, 재무목표 우선순위 설정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200657</learnModulSeq>
+<learnModulName>청약업무 지원</learnModulName>
+<learnModulText>청약서 작성, 청약 업무, 상품별 기준, 청약 구비 서류, 회사 기준 및 규정, 언더라이팅 이해, 상품별 청약 심사 기준, 청약 사무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20151200658</learnModulSeq>
+<learnModulName>판매 후 사후관리</learnModulName>
+<learnModulText>전략분석, SWOT, 보고서 작성, 판매조직, 정확성과 객관성, 산출 데이터 분석, 내부요인, 외부요인, 동일 상품군, 데이터 검증, 경제지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>보험모집</ncsSubdCdnm>
+<learnModulSeq>EDU20181200019</learnModulSeq>
+<learnModulName>모집활동 지원</learnModulName>
+<learnModulText>모집활동, 업무 프로세스, 활동 업무 지원, 모집 업무 분석, 상품 가입 기준, 활동 관리, 활동 목표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200603</learnModulSeq>
+<learnModulName>인수기준 수립</learnModulName>
+<learnModulText>언더라이팅, 위험률차 손익, 가입한도, 심사 기준, 신체적 위험, 환경적 위험, 재정・도덕적 위험, 진단 기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200604</learnModulSeq>
+<learnModulName>신체적 인수위험평가</learnModulName>
+<learnModulText>신체적 위험, 의학적 언더라이팅, 표준체, 표준미달체, 할증법, 삭감법, 부담보법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200605</learnModulSeq>
+<learnModulName>환경적 인수위험평가</learnModulName>
+<learnModulText>환경적 위험, 직업, 운전, 취미, 해외체류, 위험등급, 보험료 할증, 보험가입한도, 이륜차운전 부담보, 재보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200607</learnModulSeq>
+<learnModulName>재정‧도덕적 인수위험평가</learnModulName>
+<learnModulText>언더라이팅, 재정적‧도덕적 언더라이팅, 인수, 표준체, 표준미달체, 거절체, 재보험, 피보험이익, 재정서류, 역선택, 표준약관, 계약인수기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200609</learnModulSeq>
+<learnModulName>손해보험 인수위험 평가</learnModulName>
+<learnModulText>보험계약조건, 보험가입금액, 위험그룹 , 예상최대손실(EML), 누적위험, 손해율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200612</learnModulSeq>
+<learnModulName>손해보험 인수조건결정</learnModulName>
+<learnModulText>언더라이팅, 업종, 위험실사, 빈도, 심도, 역선택, 손해율, 합산비, 보유, 재보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200614</learnModulSeq>
+<learnModulName>심사업무관리</learnModulName>
+<learnModulText>심사, 육성, 품질관리, 분배, 건강진단, 계약적부</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200615</learnModulSeq>
+<learnModulName>심사업무지원</learnModulName>
+<learnModulText>청약서, 보험증권, 청약 프로세스, 심사프로세스, 계약심사 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200617</learnModulSeq>
+<learnModulName>재보험 운영관리</learnModulName>
+<learnModulText>인수물건 포트폴리오, 리스크 프로파일, Net Retention, Gross Retention, 특약재보험, 임의재보험, 재보험 시장변동, 위험의 전가, 재보험 모범규준, 누적관리, 재보험 정․청산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>보험계약심사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200619</learnModulSeq>
+<learnModulName>역선택 방지</learnModulName>
+<learnModulText>역선택, 도덕적 해이, 알릴의무, 고지, 보험사기, 지급사례, 무효, 해지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200719</learnModulSeq>
+<learnModulName>계약보전 전략수립</learnModulName>
+<learnModulText>배서, 구비서류, 추징, 환급, 부활, 소멸, 갱신</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200720</learnModulSeq>
+<learnModulName>지급금 관리</learnModulName>
+<learnModulText>청구 및 수령권자, 해지환급금, 만기보험금, 보험계약대출, 책임준비금, 배당금, 본인 확인, 위임, 수익자, 지급사유별 구비서류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200721</learnModulSeq>
+<learnModulName>계속보험료 입금관리</learnModulName>
+<learnModulText>보험료입금, 자동이체, 카드수납, 가상계좌, 납입주기, 납입방법, 보험료 환급, 입금유형, 영수증</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200722</learnModulSeq>
+<learnModulName>계약내용 변경</learnModulName>
+<learnModulText>감액완납보험, 책임준비금 환.추징, 해지환급금, 이재소멸, 계약소멸, 계약후 알릴의무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200723</learnModulSeq>
+<learnModulName>계약유지 안내장 관리</learnModulName>
+<learnModulText>발송 기준, 법적의무 안내, 발송 프로세스 정의서, 레이아웃(Lay-out), 공통/고유 안내요소, 데이터 추출요건, 안내장 표시 요건, 안내장 검증, BI, 이력관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200724</learnModulSeq>
+<learnModulName>보유고객 정보관리</learnModulName>
+<learnModulText>보유고객, 개인정보, 내부통제기준, 고객 정보활용 동의, 개인정보 보호법, 신용정보의 이용 및 보호에 관한 법률, 개인정보 수립, 이용, 제3자제공, 위탁, 파기 관련 규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200725</learnModulSeq>
+<learnModulName>통계관리</learnModulName>
+<learnModulText>기술통계, 도수분포표, 유지율, 실효/해약, 위험률차, 초회보험료, 계속보험료, 순보험료, 저축보험료, 위험보험료, 책임준비금, 보험금, 손해율, 수입보험료, 경과보험료, 원수보험료, 수재보험료, 데이터베이스, DBMS, SQL</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200726</learnModulSeq>
+<learnModulName>세금관리</learnModulName>
+<learnModulText>보험차익, 원천징수, 이자소득세, 연금소득세, 기타소득, 지급명세, 소득공제, 세액공제, 특별세액공제, 보험차익</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>보험계약·보전</ncsSubdCdnm>
+<learnModulSeq>EDU20151200727</learnModulSeq>
+<learnModulName>보험계약 채권관리</learnModulName>
+<learnModulText>채권설정, 채권해지, 법원명령, 세무압류명령, 질권설정, 양도양수계약, 제3채무자, 압류금지 보험금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200728</learnModulSeq>
+<learnModulName>위험관리 전략 수립</learnModulName>
+<learnModulText>위험관리, 위험, 리스크, 전략, 경영전략, 경영목표, 자원, 자원배분, 불확실성, 위험통제, 위험 파이낸스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200729</learnModulSeq>
+<learnModulName>불완전판매 예방</learnModulName>
+<learnModulText>모집문서도화, 표준스크립트, 완전판매, 소비자불만처리, 보험업법, 보험상품, 보험약관, 신계약판매절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200730</learnModulSeq>
+<learnModulName>정보 보호</learnModulName>
+<learnModulText>정보보호 법규, 정보보호 정책, 정보보호 시스템, 현장 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200731</learnModulSeq>
+<learnModulName>위험분석</learnModulName>
+<learnModulText>Risk, Loss, Peril, Hazard, EML, PML, MFL, Property All Risk, Machinery Breakdown, Business Interruption, Comprehensive General Liability, Insurable Value</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200732</learnModulSeq>
+<learnModulName>위험처리</learnModulName>
+<learnModulText>위험관리, 위험통제, 위험분석, 위험처리, 위험전가, 보험기법, 위험관리자, 재무적위험, 위험도조사보고서, 개선권고사항</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200733</learnModulSeq>
+<learnModulName>금융사고관리</learnModulName>
+<learnModulText>자금세탁방지, 일상감시, 금융사고, 의심스러운 거래, 고액현금거래, 고객확인의무, 내부통제, 준법감시, 금융정보분석원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200734</learnModulSeq>
+<learnModulName>평가기준 개선</learnModulName>
+<learnModulText>위험, 평가, 데이터, 수집, 분류, 가공, 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>보험영업·계약</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>위험관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200735</learnModulSeq>
+<learnModulName>위험관리 교육</learnModulName>
+<learnModulText>경영목표, 위험관리교육목표, 교육환경, 과정설계모형, 교육실행, 교육결과분석, 교육결과평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200736</learnModulSeq>
+<learnModulName>사고접수</learnModulName>
+<learnModulText>보험사고, 보험약관, 보험금, 보험금 청구서류, 보험사기 유형, 진술서 작성, 보험금 지급업무에 대한 모범규준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200737</learnModulSeq>
+<learnModulName>계약내용 확인</learnModulName>
+<learnModulText>보험계약, 보험청약서, 보험증권, 보험약관, 상법, 보상조건, 면책, 부책, 보험금 지급범위</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200738</learnModulSeq>
+<learnModulName>현장조사</learnModulName>
+<learnModulText>도면작성, 손해명세표, 사고현장조사, 사고원인, 현장조사체크리스트, 사고경위서, 손해범위, 손해사정 선임안내장, 사고관련자 면담</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200739</learnModulSeq>
+<learnModulName>손해액 산정</learnModulName>
+<learnModulText>보험의 목적, 손해액, 보험가액, 재조달가액(신가액), 감가상각, 현재가액(시가액), 손해배상책임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200740</learnModulSeq>
+<learnModulName>보험금 사정</learnModulName>
+<learnModulText>보험금 산정, 보상한도, 지급기준, 현장조사보고서, 면·부책, 지급보험금, 보험종목별 약관, 손해사정서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200741</learnModulSeq>
+<learnModulName>민원처리</learnModulName>
+<learnModulText>클레임, 손해사정, 금융감독원, 한국소비자원, 분쟁조정, 쟁점사항, 심리상태, 의사결정, 조정절차, 보험감독정책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200742</learnModulSeq>
+<learnModulName>보험자대위</learnModulName>
+<learnModulText>잔존물매각, 목적물대위, 청구권대위, 구상채권법규, 불법행위책임, 피구상자의 배상능력, 손해사정서, 보험금지급내역, 채권보전절차, 가압류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200743</learnModulSeq>
+<learnModulName>재보험</learnModulName>
+<learnModulText>특약재보험(Treaty Reinsurance), 임의재보험(Facultative Reinsurance), 비례재보험(Proportional Reinsurance), 비비례재보험(Non-Propertional Reinsurance), 비례재보험특약(Quota Share), 초과액재보험특약(Surplus), 초과손해액재보험특약(Excess of Loss), 초과손해율재보험특약(Stop Loss), 매위험당담보특약(Per Risk Working Cover), 매사고당담보특약(Per Event, Catastrophe Cover)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200744</learnModulSeq>
+<learnModulName>소송처리</learnModulName>
+<learnModulText>민사소송, 소송실익, 채권파악, 민사조정규칙, 채권존부 분석, 기존 판례, 사내소송규칙, 소송의 진행, 소송의 사후관리, 회계지식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20151200745</learnModulSeq>
+<learnModulName>재물손해사정 기획관리</learnModulName>
+<learnModulText>보험시장, 보험상품, 리스크, 목표수립, 성과관리, KPI, 세부추진과제, 보험밀도, 보험침투도, 보험료, 손해율, 사업비율, 합산비율, 고객만족도, 처리기일, 미결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100031</learnModulSeq>
+<learnModulName>적하 항공보험 손해액 산정</learnModulName>
+<learnModulText>보험의 목적, 피보험 이익, 보험 가액, 재조달 가액, 감가상각, 잔존가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100032</learnModulSeq>
+<learnModulName>선박보험 손해액 산정</learnModulName>
+<learnModulText>합리적인 수리비(reasonable costs of repairs), 담보(warranty), 단독 해손(particular average), 공동 해손(general average), 충돌 배상 책임 약관(running down clause), 추정 전손(constructive total loss)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100033</learnModulSeq>
+<learnModulName>특종보험 손해액 산정</learnModulName>
+<learnModulText>보험의 목적, 보험 계약의 목적, 특종 보험, 손해액, 피보험 이익, 보험 가액, 배상 책임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>재물손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20190100034</learnModulSeq>
+<learnModulName>화재보험 손해액 산정</learnModulName>
+<learnModulText>화재 보험의 목적, 보험 목적물의 범위, 보험료 산출 기초, 보험 가액 평가, 손해액 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100001</learnModulSeq>
+<learnModulName>사고접수</learnModulName>
+<learnModulText>기명피보험자, 보험계약자, 피보험자의 가족(부모, 배우자, 자녀), 피보험자동차, 보험가입금액, 보험가액, 차량대체, 배서, 의무보험, 임의보험, 특별약관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100002</learnModulSeq>
+<learnModulName>계약내용 확인</learnModulName>
+<learnModulText>기명피보험자, 피보험자의 가족(부모, 배우자, 자녀), 피보험자동차, 보험가입금액, 보험가액, 차량대체, 배서, 의무보험, 임의보험, 대물배상, 자기차량손해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100003</learnModulSeq>
+<learnModulName>현장조사</learnModulName>
+<learnModulText>사고현장, 사고관련인, 현장조사기법, 보상여부, 보험약관, 면담, 과실비율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100004</learnModulSeq>
+<learnModulName>피해물 관리</learnModulName>
+<learnModulText>피해물, 손상확인, 원상복구, 견적서, 표준작업시간, 과실상계, 부품, 공임, 도장료, AOS(areccom on-line system)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100005</learnModulSeq>
+<learnModulName>고객안내 서비스</learnModulName>
+<learnModulText>고객안내, 대화기법, 원상복구방법, 간접손해, 공제금액, 보험약관, 할인 할증, 구상 소송</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100006</learnModulSeq>
+<learnModulName>민원처리</learnModulName>
+<learnModulText>대내민원, 대외민원, 차량손해사정 업무프로세스, 고객니즈, 보상서비스화법, 보험금, 피보험자, 유사분쟁사례, 소비자보호, 금융감독원 민원처리지침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100007</learnModulSeq>
+<learnModulName>손해액 산정</learnModulName>
+<learnModulText>사고와 손상과의 인과관계, 손상진단, 복원수리기법, 시가, 차량가액, 원상복구비용, 수리비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100008</learnModulSeq>
+<learnModulName>구상처리</learnModulName>
+<learnModulText>보험약관, 상품설명서, 분쟁조정 사례집, 구상소송, 민법, 과실</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100009</learnModulSeq>
+<learnModulName>차량손해사정 기획 관리</learnModulName>
+<learnModulText>기획관리, 직무교육, 공임율,교 육계획, 조직관리, 목표관리, 평가관리, 성과지표, 전략수립, 비전과 미션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200034</learnModulSeq>
+<learnModulName>현장조사</learnModulName>
+<learnModulText>자동차 보험, 교통사고, 현장 조사, 면담, 피해물, 보상 여부, 보험 약관, 과실 비율, 개인 신용 정보, 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200035</learnModulSeq>
+<learnModulName>차량 손해액 산정</learnModulName>
+<learnModulText>사고와 손상 부위의 인과 관계, 사고 해석, 손상 진단, 복원 수리 기법, 시가, 차량 가액, 수리비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200036</learnModulSeq>
+<learnModulName>특수차량 손해액 산정</learnModulName>
+<learnModulText>사고와 손상 부위와 인과 관계, 사고 해석, 손상 진단, 복원 수리 기법, 시가, 차량 가액, 수리비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>차량손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200037</learnModulSeq>
+<learnModulName>기타 피해물 손해액 산정</learnModulName>
+<learnModulText>사고와 손상 부위의 인과 관계, 사고 해석, 손상 진단, 복원 수리 기법, 건축물, 가재도구, 기계 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100010</learnModulSeq>
+<learnModulName>보험사고 접수</learnModulName>
+<learnModulText>보험계약 상태(정상, 유예, 실효), 보험약관, 보험 모집절차, 보험계약 체결과정, 보험금 청구서류, 진술서 작성, 보험금 지급업무에 대한 모범규준, 보험사기 유형</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100011</learnModulSeq>
+<learnModulName>현장조사</learnModulName>
+<learnModulText>인과관계, 면부책, 조사대상자, 조사대상기관, 초동조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100012</learnModulSeq>
+<learnModulName>메디칼심사</learnModulName>
+<learnModulText>의료심사(자문), 상해, 질병, 후유장해, 인과관계, 기왕증, 진단서, AMA 가이드, 맥브라이드 장해평가방법, 한국표준질병사인분류(KCD), 일상생활동작(ADL)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100013</learnModulSeq>
+<learnModulName>보험금 심사</learnModulName>
+<learnModulText>보험금 지급, 약관, 면책, 다수보험, 지급보험금, 보험금 지급안내, 안내공문, 면책·해지공문</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100014</learnModulSeq>
+<learnModulName>배상책임 보험금 심사</learnModulName>
+<learnModulText>피해자 과실, 소득자료, 맥브라이드식 장해평가, 보험금 지급기준, 예상판결액, 합의</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100015</learnModulSeq>
+<learnModulName>민원처리</learnModulName>
+<learnModulText>금융감독원, 소비자원, 분쟁조정, 판례, 법률자문, 보험약관, 보헙계약법, 보험업법, 고객만족도, VOC, 보험금 지급업무에 대한 모법규준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100016</learnModulSeq>
+<learnModulName>재보험</learnModulName>
+<learnModulText>원보험자, 재보험자, 전가, 보유, 임의, 특약, PLA, SOC, 청산서, 비례 및 비비례 재보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100017</learnModulSeq>
+<learnModulName>소송처리</learnModulName>
+<learnModulText>소제기, 민사조정, 소장, 반소, 채무부존재 소, 상소(항소, 상고), 보전소송(가처분, 가압류), 과실상계, 입증책임, 소멸시효, 가집행, 공탁</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100018</learnModulSeq>
+<learnModulName>구상처리</learnModulName>
+<learnModulText>구상권, 소멸시효, 과실비율, 재산파악, 재산보전, 가압류, 지급명령, 구상권 포기, 구상권 행사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20160100019</learnModulSeq>
+<learnModulName>신체손해사정 기획관리</learnModulName>
+<learnModulText>비전과 미션, 전략과 목표, 전산개발, 과정개발과 시행, 직무교육, 보험업법, 상법, 신체손해사정사제도, 핵심성과지표(KPI), 평가와 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200021</learnModulSeq>
+<learnModulName>인보험 현장 조사</learnModulName>
+<learnModulText>신체 손해 사정, 현장 조사, 조사항목, 조사대상자, 현장 조사 계획 수립, 피보험자, 위임장, 동 의서, 인과 관계, 면·부책 판단, 손해 사정서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200022</learnModulSeq>
+<learnModulName>배상책임 현장조사</learnModulName>
+<learnModulText>배상 책임, 배상책임보험, 불법 행위, 과실, 현장 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200023</learnModulSeq>
+<learnModulName>보험금 심사</learnModulName>
+<learnModulText>보험계약, 약관, 면·부책, 다수 보험계약, 지급 보험금, 보험금 지급 안내, 안내 공문, 면책·해 지 공문, 보험 사기, 의학 용어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200024</learnModulSeq>
+<learnModulName>합의금 산출요소 파악</learnModulName>
+<learnModulText>과실비율, 맥브라이드(Mcbride)식 장해평가, 통계소득, 의료자문, 노동능력상실률, 소득금액증명원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200025</learnModulSeq>
+<learnModulName>합의금 산출 후 지급</learnModulName>
+<learnModulText>지급 기준, 소송 기준, 보험금, 예상 판결액, 손해사정사, 손해 사정 보고서, 손해 사정서, 과실 상계, 손익 상계, 합의서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>03</ncsLclasCd>
+<ncsLclasCdnm>금융·보험</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>보험</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>손해사정</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>신체손해사정</ncsSubdCdnm>
+<learnModulSeq>EDU20181200026</learnModulSeq>
+<learnModulName>보험금 산출</learnModulName>
+<learnModulText>제3보험, 질병상해 보험, 생명보험, 사망 보험금, 상속, 후유 장해, 후유장해지급률, 한시 장해, 의료심사, 실손의료보험, 면책 사항</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>373</totCnt>
+</dataInfo>
+</root>
