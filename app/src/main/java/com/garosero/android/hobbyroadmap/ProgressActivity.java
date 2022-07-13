@@ -10,6 +10,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
@@ -47,12 +48,11 @@ public class ProgressActivity extends AppCompatActivity {
         // fetch api data
         if(helper.exists(db)){
             Log.d(TAG,"DB already exists");
-            db.close();
-            startActivity(new Intent(this, MainActivity.class));
-            finish();
-        }
+//            db.close();
+//            startActivity(new Intent(this, MainActivity.class));
+//            finish();
+//        }
 
-        else {
             helper.onUpgrade(db, 1, 1);
             Log.d(TAG, "create DB");
             new Thread(() -> {
@@ -206,6 +206,7 @@ public class ProgressActivity extends AppCompatActivity {
     }
 
     private ProgressBar progressBar;
+    private TextView tvProgress;
     private ProgressHandler progressHandler = new ProgressHandler();
     class ProgressHandler extends Handler {
         @Override
@@ -217,8 +218,13 @@ public class ProgressActivity extends AppCompatActivity {
                 progressBar.setMax(resourceList.size());
             }
 
+            if (tvProgress == null){
+                tvProgress = findViewById(R.id.tv_progress);
+            }
+
             int value = msg.getData().getInt("progress");
             progressBar.setProgress(value);
+            tvProgress.setText(value+"/"+resourceList.size());
         }
     }
 

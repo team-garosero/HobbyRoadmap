@@ -36,7 +36,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         style="@style/Widget.AppCompat.ProgressBar.Horizontal"
-        android:layout_margin="@dimen/margin_32"/>
+        android:progressDrawable="@drawable/progress_progressbar"
+        android:layout_marginLeft="@dimen/margin_24"
+        android:layout_marginRight="@dimen/margin_24"
+        android:layout_marginTop="@dimen/margin_24"/>
+
+    <TextView
+        android:id="@+id/tv_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="32/32"
+        android:gravity="center"
+        android:layout_margin="@dimen/margin_8"/>
 
 </LinearLayout>
 

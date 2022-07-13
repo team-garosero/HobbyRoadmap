@@ -29,11 +29,45 @@
             android:orientation="vertical"
             tools:listitem="@layout/recycler_mylist_parent"/>
 
-        <com.garosero.android.hobbyroadmap.view.EmptyView
-            android:id="@+id/emptyView"
+        <!-- empty view -->
+        <LinearLayout
+            android:id="@+id/ll_empty"
+            android:visibility="gone"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:clickable="true"
-            android:focusable="true"/>
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/common_bg_empty"
+                android:layout_marginBottom="@dimen/margin_32"
+                android:layout_marginTop="@dimen/margin_32"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="IZEL에서는 \n내가 관심있는 직무의\n로드맵을 찾을 수 있어요"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textColor="#3E3E3E"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/btn_find_roadmap"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/til_act_button"
+                android:backgroundTint="#3249BB"
+                android:layout_margin="@dimen/margin_32"
+                android:text="로드맵 찾아보기"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:clickable="true"
+                android:focusable="true"/>
+
+        </LinearLayout>
     </LinearLayout>
 </FrameLayout>

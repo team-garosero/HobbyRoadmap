@@ -36,6 +36,7 @@ class MylistFragment : Fragment() {
                 keys.add(it)
             }
             adapter.submitData(keys)
+            initView()
         }
         model.myClass.observe(viewLifecycleOwner, observer)
     }
@@ -48,22 +49,14 @@ class MylistFragment : Fragment() {
         } // end if
 
         if (adapter.dataset.isEmpty()){
-            binding!!.emptyView.visibility = View.GONE
+            binding!!.llEmpty.visibility = View.VISIBLE
         } else {
-            binding!!.emptyView.visibility = View.VISIBLE
+            binding!!.llEmpty.visibility = View.GONE
         } // end if
 
-        // fixme click event 가  인식되지 않아 추후 처리
-        /*binding!!.emptyView.setOnClickCallback(
-            object : EmptyView.OnClickCallback {
-                override fun onClick(v: View) {
-                    Log.e("EMPTY", "click")
-                    findNavController().navigate(R.id.item_home)
-                }
-            }
-        )*/
-        binding!!.emptyView.setOnClickListener {
+        binding!!.btnFindRoadmap.setOnClickListener {
             //Log.e("EMPTY", "click")
+            findNavController().popBackStack()
             findNavController().navigate(R.id.item_home)
         }
     }
