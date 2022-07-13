@@ -2,7 +2,6 @@ package com.garosero.android.hobbyroadmap.syllabus;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
@@ -12,10 +11,6 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.garosero.android.hobbyroadmap.R;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
-import com.garosero.android.hobbyroadmap.main.search.SearchFragment;
-import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
-
-import java.util.ArrayList;
 
 public class SyllabusActivity extends AppCompatActivity {
     TextView tv_roadmap_title;
@@ -28,12 +23,19 @@ public class SyllabusActivity extends AppCompatActivity {
         findViewById(R.id.bt_back_challenge).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(SyllabusActivity.this, MainActivity.class));
+                Intent intent = new Intent(SyllabusActivity.this, MainActivity.class);
+                intent.putExtra("syllabus","myList");
+                startActivity(intent);
                 finish();
             }
         });
 
-        replaceFragment(new RoadmapFragment(getIntent().getStringArrayListExtra("classCd")));
+        if (getIntent().hasExtra("classCd")) {
+            replaceFragment(new RoadmapFragment(getIntent().getStringArrayListExtra("classCd")));
+
+        } else {
+
+        } // end if
     }
 
     public void replaceFragment(Fragment fragment){

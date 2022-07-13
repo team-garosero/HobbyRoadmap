@@ -4,17 +4,29 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
 
 public class DBHelper extends SQLiteOpenHelper {
 
-    public DBHelper(Context context, String name, SQLiteDatabase.CursorFactory factory, int version){
-        super(context, name, factory, version);
+    public static String packageName = "newdb.db";
+    public static String dbName = "module_table";
+    public static Integer version = 1;
+
+    public DBHelper(Context context, SQLiteDatabase.CursorFactory factory, int version){
+        super(context, packageName, factory, version);
     }
 
     public boolean exists(SQLiteDatabase db){
         Cursor c = db.rawQuery("SELECT name FROM sqlite_master WHERE type='table' AND name='module_table'", null);
-        return c.getCount() == 1; // exists if 1
+        if(c.getCount() == 0) {
+            c.close();
+            return false;
+        }
+
+        c = db.rawQuery("select l_class_code from module_table", null);
+        boolean res = c.getCount() != 0;
+        c.close();
+
+        return res;
     }
 
     @Override

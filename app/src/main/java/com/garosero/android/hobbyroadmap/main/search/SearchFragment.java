@@ -2,44 +2,27 @@ package com.garosero.android.hobbyroadmap.main.search;
 
 import android.content.Intent;
 import android.os.Bundle;
-
-import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-import androidx.viewpager2.widget.ViewPager2;
-
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+import androidx.viewpager2.widget.ViewPager2;
+
 import com.garosero.android.hobbyroadmap.R;
-import com.garosero.android.hobbyroadmap.data.LClassItem;
 import com.garosero.android.hobbyroadmap.network.request.ApiRequest;
-import com.garosero.android.hobbyroadmap.syllabus.CommunityAdapter;
-import com.garosero.android.hobbyroadmap.syllabus.RoadmapFragment;
 import com.garosero.android.hobbyroadmap.syllabus.SyllabusActivity;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-
-import kotlinx.coroutines.Dispatchers;
 
 public class SearchFragment extends Fragment {
     View root;
@@ -54,6 +37,7 @@ public class SearchFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         root = inflater.inflate(R.layout.fragment_search, container, false);
         tabLayout = root.findViewById(R.id.tab_layout);
         tv_path = root.findViewById(R.id.tv_path);
@@ -62,8 +46,6 @@ public class SearchFragment extends Fragment {
         pager.setAdapter(adapter);
         pager.setUserInputEnabled(false); // disable swipe
         classCd = new ArrayList<>();
-
-//        Log.d("ClassCd",classCd.toString());
 
         Handler handler = new Handler(Looper.getMainLooper(), new Handler.Callback() {
             @Override
@@ -75,7 +57,7 @@ public class SearchFragment extends Fragment {
                 }
                 pager.setAdapter(adapter);
                 pager.setCurrentItem(message.getData().getInt("flag"));
-
+//                Log.d("tab",message.getData().getInt("flag")+"");
                 switch (classCd.size()){
                     case 0:
                         break;
@@ -95,10 +77,13 @@ public class SearchFragment extends Fragment {
                     // deep copy
                     ArrayList<String> classCd2 = new ArrayList<>(classCd);
                     intent.putExtra("classCd",classCd2);
+                    if(pager.getAdapter() != null){
+                        pager.setAdapter(null);
+                        text = "";
+                    }
                     startActivity(intent);
+                    getActivity().finish();
                 }
-//                Log.d("finnal class", classCd.toString());
-
                 return true;
             }
         });
@@ -126,6 +111,7 @@ public class SearchFragment extends Fragment {
                 tab.view.setClickable(false);
             }
         }).attach();
+//        pager.setCurrentItem(0);
 
         //todo 하위분류 선택 후 다시 상위분류 선택하는 것 처리
 //        tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
@@ -157,4 +143,5 @@ public class SearchFragment extends Fragment {
 
         return root;
     }
+
 }

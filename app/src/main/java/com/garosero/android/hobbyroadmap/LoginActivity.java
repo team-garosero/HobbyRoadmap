@@ -16,6 +16,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.garosero.android.hobbyroadmap.data.AsteriskPasswordTransformationMethod;
 import com.garosero.android.hobbyroadmap.main.MainActivity;
+import com.garosero.android.hobbyroadmap.network.NetworkFactory;
+import com.garosero.android.hobbyroadmap.network.request.ReadUserRequest;
+import com.garosero.android.hobbyroadmap.network.request.RequestListener;
+import com.garosero.android.hobbyroadmap.network.response.UserResponse;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
@@ -229,6 +233,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         // 두번 클릭시 종료
         if (System.currentTimeMillis() - lastTimeBackPressed < 2000) {
             Toast.makeText(this, "앱을 종료합니다.", Toast.LENGTH_SHORT).show();
+            finish();
             return;
         }
         Toast.makeText(this, "'뒤로' 버튼을 한번 더 누르시면 종료됩니다.", Toast.LENGTH_SHORT).show();

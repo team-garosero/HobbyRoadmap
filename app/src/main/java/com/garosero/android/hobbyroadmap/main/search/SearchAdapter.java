@@ -1,5 +1,6 @@
 package com.garosero.android.hobbyroadmap.main.search;
 
+import android.os.Bundle;
 import android.util.Log;
 
 import androidx.annotation.NonNull;
@@ -24,8 +25,10 @@ public class SearchAdapter extends FragmentStateAdapter {
     @Override
     public Fragment createFragment(int position) {
 //        Log.d("SA-Pos",position+" "+SearchFragment.classCd.size());
-
-        SearchListFragment fragment = new SearchListFragment(position);
+        SearchListFragment fragment = new SearchListFragment();
+        Bundle bundle = new Bundle();
+        bundle.putInt("position",position);
+        fragment.setArguments(bundle);
 
         // SearchListFrag->this->SearchFrag
         fragment.setOnDataChangeListener(new SearchListFragment.OnDataChange() {

@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter
 class DateHelper {
     companion object {
         fun changeDateToYYMMDD(date : LocalDate) : String{
-            return date.format(DateTimeFormatter.ofPattern("yyyy/MM/dd"))
+            return date.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
         }
 
         fun getTodayString() : String {

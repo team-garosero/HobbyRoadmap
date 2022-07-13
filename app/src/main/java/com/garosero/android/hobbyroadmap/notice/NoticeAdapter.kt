@@ -1,15 +1,20 @@
 package com.garosero.android.hobbyroadmap.notice
 
+import android.os.Build
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
 import com.garosero.android.hobbyroadmap.data.NoticeItem
 import com.garosero.android.hobbyroadmap.databinding.RecyclerNoticeBinding
+import java.time.LocalDate
+import java.time.Period
 
 /**
  * Adapter for the [RecyclerView] in [NoticeActivity].
  */
 
+@RequiresApi(Build.VERSION_CODES.O)
 class NoticeAdapter(
         var dataset : MutableList<NoticeItem> = mutableListOf())
     : RecyclerView.Adapter<NoticeAdapter.ViewHolder>(){
@@ -32,9 +37,13 @@ class NoticeAdapter(
         fun bind(item: NoticeItem){
             with (binding){
                 tvTitle.text = item.title
-                // todo-날짜 처리
-                tvDate.text = item.date.toString()
+                tvDate.text = dateString(item.date)
             }
+        }
+
+        private fun dateString(localDate: LocalDate) : String{
+            val today = LocalDate.now()
+            return "${Period.between(localDate, today).days}일 전"
         }
     }
 

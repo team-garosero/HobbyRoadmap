@@ -1,0 +1,4420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202406</learnModulSeq>
+<learnModulName>운행 계획 수립</learnModulName>
+<learnModulText>연간 사업 계획, 인력 채용계 획 수립 방법, 적정 인력 산정법, 수요 예측 기술, 예산 계획, 원가 관리, 예상 손익 산출 기술, 차량 배치 절차, 배치 능력, 수요 공급 산출 능력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202407</learnModulSeq>
+<learnModulName>운행 전후 차량 점검</learnModulName>
+<learnModulText>여객 운송업, 배차, 점검 계획, 점검표, 차량 설비, 운수 회사, 운전자, 이용 고객, 유실물, 습득자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202408</learnModulSeq>
+<learnModulName>승객 승ㆍ하차 지원</learnModulName>
+<learnModulText>승객 안전, 승차, 하차, 주·정차, 승객 편의, 교통 약자 배려, 안전벨트, 수하물 관리, 안전장치, 승객 응대, 차량 운행, 수하물 탑재, 수하물 불출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202409</learnModulSeq>
+<learnModulName>차량 운행</learnModulName>
+<learnModulText>준법 운행, 운행 규정, 운행 점검, 안전 표지(주의, 규제, 지시, 노면), 안전 수칙, 전용 도로, 교차로, 긴급 자동차, 신호기, 차선, 속도, 방어 운전, 승객 편의 시설, 광각실외 후사경 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202410</learnModulSeq>
+<learnModulName>비상 상황 대처</learnModulName>
+<learnModulText>비상 상황, 행동 지침, 상황 파악, 상황 보고, 응급조치, 안전 확보, 현장 보존, 후속 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202411</learnModulSeq>
+<learnModulName>운행 결과 보고</learnModulName>
+<learnModulText>운행 일지 작성 매뉴얼, 운송 수입금 정산, 운행 계획, 운행 계획 조정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202412</learnModulSeq>
+<learnModulName>운행 결과 평가</learnModulName>
+<learnModulText>안전사고, 운행 결과 보고서, 민원 불만, 고객 불만, 운송 실적, 운송 수익금, 운송 비용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>여객운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202413</learnModulSeq>
+<learnModulName>운행 개선 관리</learnModulName>
+<learnModulText>직무 교육, 교육 계획, 교육 방법, 교육 평가, 운행 개선, 교육훈련 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202017</learnModulSeq>
+<learnModulName>수·배송계획수립</learnModulName>
+<learnModulText>수·배송, 일정 계획, 경로 계획, 화물 운송 지시, 화물 자동차, 배차, 운행 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202018</learnModulSeq>
+<learnModulName>화주서비스관리</learnModulName>
+<learnModulText>CRM(customer relationship management), SLA(service level agreement)KPI(key performance indicators)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202019</learnModulSeq>
+<learnModulName>화물자동차운송운임산정</learnModulName>
+<learnModulText>운(송)임, 시장운임, 운송원가, 표준 운송원가, 고정비, 변동비, 신고운임, 게시운임, 운임표, 운송약관, 운임 단위, 할증료, 운송 견적, 운송 거래조건</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202020</learnModulSeq>
+<learnModulName>화물정보시스템활용</learnModulName>
+<learnModulText>화물 정보망, 프로그램 선택, 설치, 파악, 구성, 실행, 관제, 오류 수정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202021</learnModulSeq>
+<learnModulName>화물자동차운행관리</learnModulName>
+<learnModulText>화물 취급, 안전 운행, 관제 시스템, 모니터링, 안전 운행 관리자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202024</learnModulSeq>
+<learnModulName>화물자동차운전준비</learnModulName>
+<learnModulText>배차지시서, 도로정보, 교통정보, 적재화물, 화물자동차 운행 점검 매뉴얼, 화물자동차 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202025</learnModulSeq>
+<learnModulName>화물자동차운전</learnModulName>
+<learnModulText>화물운송, 화물자동차운전, 운행법규, 화물적재상태, 차량운전상태, 안전운행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202027</learnModulSeq>
+<learnModulName>사고·장애상황대처</learnModulName>
+<learnModulText>교통사고, 교통정보, 안전 확보, 응급조치, 상황 증거자료, 비상대응 매뉴얼, 화주, 사고현장, 사고신고, 후속사고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202030</learnModulSeq>
+<learnModulName>화물 상·하차</learnModulName>
+<learnModulText>상·하차 화물 분류, 상·하차 작업, 상·하차 안전 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>화물운송</ncsSubdCdnm>
+<learnModulSeq>EDU20161202031</learnModulSeq>
+<learnModulName>특수화물취급</learnModulName>
+<learnModulText>화물의 정의, 특수 화물의 분류 기준 및 종류, 특수 화물 운송 차종, 특수 화물 취급 장비, 안전 작업 수칙, 안전 작업 점검표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200087</learnModulSeq>
+<learnModulName>수송 포장 환경 분석</learnModulName>
+<learnModulText>수송 환경, 수송 효율, 보관 환경, 보관 효율, 하역 환경, 온습도 환경, 환경 위해 요인, 상품의 유통 기간, 진동 및 낙하 충격</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200088</learnModulSeq>
+<learnModulName>수송 포장 대상 제품 분석</learnModulName>
+<learnModulText>포장 정의, 수송 포장, 포장 규격, 제품 치수, 제품 중량, 제품 특성, 검사 측정, 포장 방법, 수송 환경</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200089</learnModulSeq>
+<learnModulName>수송 포장 방법 설정</learnModulName>
+<learnModulText>수송 포장 매뉴얼, 적정 포장 설계, 수송 포장 재료, 수송 포장 형태, 수송 포장 관련 규격</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200090</learnModulSeq>
+<learnModulName>수송 포장재 설계</learnModulName>
+<learnModulText>수송 포장재 강도, 수송 포장재 설계 기법, 수송 포장재 원가, 제품 하중 분포와 형태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200091</learnModulSeq>
+<learnModulName>수송 포장 품질 검증</learnModulName>
+<learnModulText>포장 및 수송 포장 정의와 용어, 포장 규격, 포장 치수, 포장 재료, 포장 방법, 안전성, 진동, 낙 하·충격, 완충 고정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200092</learnModulSeq>
+<learnModulName>수송 포장 치수 설정</learnModulName>
+<learnModulText>수송 포장, 계열 치수, 표준 치수, 포장 치수, 포장 치수 표준화, 적재 방법, 적재 효율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200093</learnModulSeq>
+<learnModulName>수송 포장 안전성 분석</learnModulName>
+<learnModulText>수송 포장, 완충 포장, 낙하 충격, 진동 충격, 압축 강도, 적재 강도, 내용물 고정, 포장 화물 고 박, 방습·방청 포장, 표시 마크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200094</learnModulSeq>
+<learnModulName>수송 포장 총비용 효율성 관리</learnModulName>
+<learnModulText>포장비, 수송비, 물류비, 환경비, 효율성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200095</learnModulSeq>
+<learnModulName>수송 포장 고객 요구 사항 처리</learnModulName>
+<learnModulText>수송 포장, 고객 요구 사항, 고객 요구 사항 체크리스트, 고객 응대, 고객 응대 매뉴얼, 소비자 기본법, 제조물 책임법, 품질 관리, 고객 서비스, 제조 공정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>자동차운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>자동차운전·운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>수송포장</ncsSubdCdnm>
+<learnModulSeq>EDU20171200096</learnModulSeq>
+<learnModulName>수송 포장 작업 수행</learnModulName>
+<learnModulText>포장 용어, 환경 안전, 포장 기기, 포장 작업 지시서, 포장 상태, 포장 화물 관리, 제품 외관, 제 품 형상, 포장 작업장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600221</learnModulSeq>
+<learnModulName>열차 운행 감시</learnModulName>
+<learnModulText>대형 표시반, 제어 모니터, 안전 설비, 견인정수, 유효장, 열차장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600222</learnModulSeq>
+<learnModulName>열차 운행 통제</learnModulName>
+<learnModulText>운전 정리, 열차 운행 통제, 관제 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600224</learnModulSeq>
+<learnModulName>열차 운행 제어</learnModulName>
+<learnModulText>열차 운행 제어, 폐색 방식, 제어 모드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600227</learnModulSeq>
+<learnModulName>열차 운행 스케줄 관리</learnModulName>
+<learnModulText>열차 관제, 열차 운행 스케줄, 열차 다이어그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600230</learnModulSeq>
+<learnModulName>사고 수습과 복구</learnModulName>
+<learnModulText>철도 사고, 운행 장애, 비상 대응, 관제 설비, 열차 통제, 운전 정리, 사고 복구‧수습, 2차 병발사고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600233</learnModulSeq>
+<learnModulName>열차 운행선 지장 작업 관리</learnModulName>
+<learnModulText>열차 운행선 지장 작업, 작업 계획서, 작업 승인, 현장 작업 책임자, 열차 감시인, 작업자 보호 조치, 현장 안전 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600238</learnModulSeq>
+<learnModulName>운전 정리와 운전 명령 관리</learnModulName>
+<learnModulText>운전 정리, 운전 명령, 운행 정보 시스템, 이상 기후 시 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600240</learnModulSeq>
+<learnModulName>교육 훈련</learnModulName>
+<learnModulText>대형 표시반, 제어 모니터, 콘솔 운용법, 열차 스케줄, 실무 수습 교육, 비상 대응 훈련, 중점 관리자, 철도 교통 예비 관제 시스템, 전철‧전력 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20140600241</learnModulSeq>
+<learnModulName>철도 관제 사후 관리</learnModulName>
+<learnModulText>대형 표시반, 제어 모니터, 안전 설비, 철도 사고 및 운행 장애</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도관제</ncsSubdCdnm>
+<learnModulSeq>EDU20150500001</learnModulSeq>
+<learnModulName>관제 시스템 운용</learnModulName>
+<learnModulText>관제 시스템, 관제 설비, 대형 표시반(DLP), L/S역 제어 모니터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600242</learnModulSeq>
+<learnModulName>수송계획 수립</learnModulName>
+<learnModulText>철도 시설, 선로, 전차선, 신호, 통신 설비, 철도 도면, 선로 일람 약도, 철도 운전 취급 종사자, 관제사, O-D(Origin-Destination)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600243</learnModulSeq>
+<learnModulName>견인정수 산정</learnModulName>
+<learnModulText>견인정수, 열차 저항, 선로유효장, 견인 중량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600245</learnModulSeq>
+<learnModulName>열차운영계획시스템 데이터 파악</learnModulName>
+<learnModulText>동력차종류, 영업설비, 신호시스템, 전차선설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600246</learnModulSeq>
+<learnModulName>선로용량 산정</learnModulName>
+<learnModulText>신호 설비, 신호 계열, 열차 종별, 선로 이용률, 선로용량, 시설 설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600248</learnModulSeq>
+<learnModulName>운전선도 작성</learnModulName>
+<learnModulText>지시견인력, 치차, 축수, 점착견인력, 공전, 동륜주견인력, 유효견인력, 주행 저항, 특성견인력</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600249</learnModulSeq>
+<learnModulName>표준운전시간 책정</learnModulName>
+<learnModulText>최소 운전시격, 운전 성능 시뮬레이션, 시험 운전, 표준 운전 시간, 시분 계수 처리, 열차운행 패턴 및 정차 패턴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600250</learnModulSeq>
+<learnModulName>열차DIA 생성</learnModulName>
+<learnModulText>NET DIA, 평행 DIA, 규격 DIA</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600251</learnModulSeq>
+<learnModulName>차량운용계획 수립</learnModulName>
+<learnModulText>전차대 설비, 차량 보유량, 차량 운용률, 차량 예비율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600252</learnModulSeq>
+<learnModulName>승무원 운용계획 수립</learnModulName>
+<learnModulText>승무사업소, 승무 사업표, 승무 행로, 차종별 운전면허, 인증 구간, 교번근무 제도, 동력차 승무원 근무 기준, 근로기준법, 취업 규칙, 숙박지, 승무 교대지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>열차운용DIA</ncsSubdCdnm>
+<learnModulSeq>EDU20140600253</learnModulSeq>
+<learnModulName>열차운행DIA 안정성 검증</learnModulName>
+<learnModulText>열차킬로, 주행 거리, 동력차킬로, 승무원 운용 계획, 정거장 구내 배선 정보, 차량 기지 배선도, 철도 운송 전산 시스템, 차종별 보유량 및 운용 현황, 열차 운행 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600254</learnModulSeq>
+<learnModulName>출무</learnModulName>
+<learnModulText>적합성 검사, 운전 시행 전달부, 행로표, 승무 준비 시간, 상황실 교육, 계획 교번, 실행 교번, 열차 운전 안내 장치, 승무 일지, 철도 운영 정보 시스템, 차단 작업, 열차 사이 작업, 상례 작업, 승계, 관제 승인, 편승, 운전 정보, 운전 작업 내규, 취약 구간, 표준 운전 선도, 지적 확인 환호 응답, 선로 변경, 운전 정리, 상례 작업, 이상 기후, 레일 온도 검지 장치, 지장물 검지 장치, 끌림물 검지 장치, 분기점, 절연 구간, 곡선 예고, 고속선, 일반선, 고정 편성, 열차 방호 장치, 운전 경계 장치, 운전 보안 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600255</learnModulSeq>
+<learnModulName>운행 준비</learnModulName>
+<learnModulText>차량 운전 상황표, 동력차 이력부, 운전 보안 장치, 유효장, 견인정수, 열차장, 최대 열차장, 수용 바퀴 구름막이, 관통 제동, 복선기, 완급차, 구내 운전, 중수선, 경수선, 무유도등, 연동 도표, 입환 신호기, 입환 표지, 열차 방호 장치, 제동 시험, 복선기, 단락용 동선, 중간 연결기, 마스콘 키, 목전, 제동 시험, 선로별 표시등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600256</learnModulSeq>
+<learnModulName>차량구조 확인</learnModulName>
+<learnModulText>운전 제어대, 제동 및 추진관련 부속장치, 운전 보안 장치, 차단기 및 스위치, 고장 표시등, 고장 조치, 기관사지원 시스템, 열차 무선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600257</learnModulSeq>
+<learnModulName>신호 확인</learnModulName>
+<learnModulText>폐색, 상용 폐색 방식, 대용 폐색 방식, 지령식, 폐색 준용법, 신호 연동 장치, 전호, 표지, 차상 신호 설비, 무폐색 운전, 감청 수신기, 운전 허가증, 지도표, 지도권, 궤도 회로, 차상 신호, 무폐색, 조작판, 적임자, 운전 장표, 연동 구간, 양방향 신호 설비, 사각 열쇠, 신호 도표, 운전 명령 서식, 격시법, 지도 격시법, 보조 신호기, 서행 발리스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600258</learnModulSeq>
+<learnModulName>선로 확인</learnModulName>
+<learnModulText>선로 배선, 선로 유효장, 선로 제한 속도, 퇴행 운전, 구원 운전, 운전 보안 장치, 절연 구간, 발리스, 승강장 비상 정지등, 차상 신호 장치, 스크린 도어, 하구배, 취약 구간</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600259</learnModulSeq>
+<learnModulName>전철ㆍ전력 시스템 확인</learnModulName>
+<learnModulText>전차 선로 설비, 급전 방식, 전차 선로 표지, 가선 방식 및 절연 구간의 제한 속도, 단전 시 기기 취급, 절연 구간의 운전 취급, 전원 방식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600260</learnModulSeq>
+<learnModulName>운전 취급</learnModulName>
+<learnModulText>운전 시각표, 신호, 진로, 표지, 무선 전화기, 운전실 표시등, 출입문, PSD, 지적 확인 환호 응답, 표준 운전 선도, 취약 구간, 운전실 기기, 기본 운전 취급법, 응급조치 매뉴얼, 열차 사고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600261</learnModulSeq>
+<learnModulName>교육</learnModulName>
+<learnModulText>선로 전환기, 관제 업무, 중점 관리자, 승무 적합성 검사, 선로 차단 공사, 운전 지시 전달표, 역전간, L 키, 팬토 그래프 선택 간, 주간 제어기, 주 회로 차단기, 운전 보안 장치, 운전 경계 장치, 운전용 통신 장치, 총괄 제어</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600262</learnModulSeq>
+<learnModulName>사고 비상조치</learnModulName>
+<learnModulText>구배율, 감속도, 상용 제동, 비상 제동, 역행 운전, 타행 운전, 운전 명령서, 전동 방지, 신호, 전호, 표지, 열차 방호, 폐색 방호, 궤도 회로, 투광기, 수광기, 구름막이, 수용 바퀴 구름막이, 차륜 답면, 구원 열차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>철도운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600263</learnModulSeq>
+<learnModulName>장애 발생 비상조치</learnModulName>
+<learnModulText>절연 구간, 폐색 구간, 상용 폐색식, 대용 폐색식, 폐색 준용법, 자동 폐색식, 연동 폐색식, 통표 폐색식, 통신식, 지도 통신식, 전령법, 통표, 지도표, 지도권, 퇴행, 구원 운전, 단행 열차, 단로기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600264</learnModulSeq>
+<learnModulName>출무</learnModulName>
+<learnModulText>열차 운행 정보 시스템, 운전 취급 규정, 철도 운행에 관한 안전 지침, 동력차 승무원 지도 운용 내규, 철도 시스템, 운전 작업 내규, 음주 측정, 출무 적합성 검사, 상황실 교육, 운용 담당 관리자, 휴양 시간, 날인, 사고 사례 교육, 운전 보안 장치 및 운전 장표 취급 지침, 열차 운전안내 장치 운용 관리 지침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600265</learnModulSeq>
+<learnModulName>작업 준비</learnModulName>
+<learnModulText>열차 운행 정보 시스템, 동력차 연료, 운전 취급 규정, 운전 자격, 입․출고, 열차 운전, 정비 차량 운전 취급, 철도 시스템, 구내 운전, 신호, 무선 전호, 제동 취급, 입환 작업 내규, 전차대, 정비 지정선, 디젤 차량, 전기 차량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600266</learnModulSeq>
+<learnModulName>선로 일반</learnModulName>
+<learnModulText>선로 전환기, 구내 선로, 제한 속도, 전차대, 철차 번호, 유효장, 구내 배선도, 단로기, 급전 선로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600267</learnModulSeq>
+<learnModulName>신호 일반</learnModulName>
+<learnModulText>입환 신호기, 입환 전호, 진로 표시등, 비상 통화, 입환 표지, 차막이 표지, 차량 접촉 한계 표지, 비가선 구간, 전차선 가선 종단 표지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600268</learnModulSeq>
+<learnModulName>정비차 입환</learnModulName>
+<learnModulText>전동차 입환·출고·입고·전선, 열차운행정보시스템, 동력차 운용, 선로 전환기, 신호, 자동 쇄정, 수동 쇄정, 차량 접촉 한계 표지, 이동 금지 전호, 기적 전호, 단독 운전, 중련 운전, 주의할 곳, 운전실 선택</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600269</learnModulSeq>
+<learnModulName>동력차 운전 취급</learnModulName>
+<learnModulText>이동 금지 전호기, 경종, 관제 기적, 기동, 제어대, 역전간, 공기 압력계, 전차대, 디젤 차량, 차단기, 단독 제동변, 자동 제동변, 삼방 차단 콕, 고속 차량, 단말기, 무선 전화기, 기기 배치, 차운전실 선택, 모니터, 디젤 차량, 회로 차단기, MU-2A 중련변, 자동 제동변, 단독 제동변, 역전간, 가감간, 고속 차량, 공기 압력계, 기능 검사, 견인 시험, 무전기, 제1종 전기 차량, MCB, 팬터그래프, 보조 주간 제어기, 주 제어기, 제2종 전기 차량, 구내 입환, 시동 전호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600270</learnModulSeq>
+<learnModulName>차량 유치</learnModulName>
+<learnModulText>차량 접촉 한계 표지, 차량 접촉 한계 표지 안쪽과 바깥쪽, 유효장, 구름 방지막이, 배기 연돌, 열차 자동 방호 장치(ATP), 주차 제동, 단독 제동, 각 차량별 운전실 기기 명칭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600271</learnModulSeq>
+<learnModulName>사고ㆍ장애 조치</learnModulName>
+<learnModulText>열차 운행 정보 시스템, 사상사고, 운전 취급 규정, 신호, 선로, 차량 사고, 정비차량운전 취급, 철도 시스템, 구내 운전, 무선 전호, 제동 취급, 입환 작업 내규, 전차대, 이상 기후, 동력차 구조 및 기능</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>철도운전운영</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>기지내차량운전</ncsSubdCdnm>
+<learnModulSeq>EDU20140600272</learnModulSeq>
+<learnModulName>교육 훈련</learnModulName>
+<learnModulText>교육 훈련, 운전 작업 내규, 운전 취급 규정, 운전 자격, 입·출고, 교육 시간, 정비차량 운전 취급, 철도 시스템, 적합성 검사, 안전 관리, 사고 사례</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200001</learnModulSeq>
+<learnModulName>선로 유지 보수 계획 수립</learnModulName>
+<learnModulText>궤도유지보수, 구조물유지보수, 보선장비 유지보수, 기타시설물 유지보수, 가용자원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200002</learnModulSeq>
+<learnModulName>안전 관리</learnModulName>
+<learnModulText>안전관리, 안전작업계획서, 철도안전관리시스템(SMS), 철도보호지구, 철도운행안전협의서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200003</learnModulSeq>
+<learnModulName>궤도점검</learnModulName>
+<learnModulText>궤도틀림, 일반철도, 고속철도, 선형검측기, 레일탐상기, 레일탐상차, 궤도재료점검, 선로 순회 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200004</learnModulSeq>
+<learnModulName>궤도보수</learnModulName>
+<learnModulText>궤도틀림, 면맞춤, 줄맞춤, 궤간정정, 체결장치, 분기기, 제작업, 재해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200005</learnModulSeq>
+<learnModulName>궤도재료 교환</learnModulName>
+<learnModulText>레일, 침목, 분기기, 도상자갈, 체결장치, 레일절단, 교환, 궤도검측</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200006</learnModulSeq>
+<learnModulName>구조물 점검</learnModulName>
+<learnModulText>토공, 사면, 교량, 터널, 구교, 옹벽, 하수, 점검, 보수･보강</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200007</learnModulSeq>
+<learnModulName>선로 구조물 유지보수</learnModulName>
+<learnModulText>선로구조물, 교량, 터널, 토공, 기타구조물, 유지보수, 보수･보강공법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200008</learnModulSeq>
+<learnModulName>보선장비 운용</learnModulName>
+<learnModulText>보선장비, 경보선장비, 중보선장비, 장대레일 재설정, 보선장비 정비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>철도선로시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161200009</learnModulSeq>
+<learnModulName>횡단시설물 유지관리</learnModulName>
+<learnModulText>철도건널목, 경보기, 차단기, 교통안전표지, 도로교통량, 입체교차, 지하매설물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202755</learnModulSeq>
+<learnModulName>기계설비 유지보수 계획수립ㆍ안전관리</learnModulName>
+<learnModulText>일상검수, 정기검수, 임시검수, 특별검수, 특별점검, 작업계획서, 작업안전수칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202758</learnModulSeq>
+<learnModulName>공작기계설비 유지관리</learnModulName>
+<learnModulText>차륜전삭반, 차륜선반, 차륜삭정, 직립선반, 차륜 내면 가공, 윤축프레스, 윤축 압입 및 분해</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202759</learnModulSeq>
+<learnModulName>환경기계설비 유지관리</learnModulName>
+<learnModulText>폐수, 오수, 정화, 집진, 폐기물</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202764</learnModulSeq>
+<learnModulName>차량이동ㆍ견인설비 유지관리</learnModulName>
+<learnModulText>전차대, 천차대, 견인차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202765</learnModulSeq>
+<learnModulName>차량인양설비 유지관리</learnModulName>
+<learnModulText>동시인양기, 드롭테이블, 천장크레인, 인양 잭, KTX, 대차, 유지보수, 정기검수, 고소작업, 인양설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202766</learnModulSeq>
+<learnModulName>도장ㆍ건조설비 유지관리</learnModulName>
+<learnModulText>전처리, 도장, 건조, 전처리, 차체 도장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202767</learnModulSeq>
+<learnModulName>청소세척설비 유지관리</learnModulName>
+<learnModulText>차체세척설비, 습식세척설비, 건식세척설비, 윤축세척기, 대차세척기, 대차틀블라스트설비, 차체세척기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202768</learnModulSeq>
+<learnModulName>시험설비 유지관리</learnModulName>
+<learnModulText>시험기, 시험설비, 시험장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202769</learnModulSeq>
+<learnModulName>비파괴검사설비 유지관리</learnModulName>
+<learnModulText>초음파, 초음파탐상, 펄스방식 초음파탐상장치, PA방식 초음파탐상장치, 자분, 자분탐상, 자분탐상장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>정비기지시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20161202770</learnModulSeq>
+<learnModulName>유틸리티설비 유지관리</learnModulName>
+<learnModulText>공정안전보고서(PSM), 기름탱크, 물질안전보건자료(MSDS), 공기압축기, 압력용기, 산업안전보건법, 오물수거설비, 급사설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200021</learnModulSeq>
+<learnModulName>일상점검</learnModulName>
+<learnModulText>시설 점검, 설비 점검, 긴급 대처, 2차 사고 예방</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200022</learnModulSeq>
+<learnModulName>역 시설물 안전관리</learnModulName>
+<learnModulText>산업 안전 보건법, 산업 안전 보건 교육, 무재해 운동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200023</learnModulSeq>
+<learnModulName>역무자동화설비 유지보수</learnModulName>
+<learnModulText>교통카드 발매, 교통카드 충전, 운영 프로그램, 교통카드 개집표기, 교통카드 단말기, 교통카드 유지 보수, 발매, 충전, 정산, 역 전산기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200024</learnModulSeq>
+<learnModulName>역무통신설비 유지보수</learnModulName>
+<learnModulText>여객 자동 안내 설비, 홍보 문안, 긴급 문안, 인터폰, 음성 유도기, 영상 설비, 무선 방송 설비, 유선 방송 설비, 자동 화재 탐지 설비 유지 보수 매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200025</learnModulSeq>
+<learnModulName>소방 방재설비 유지보수</learnModulName>
+<learnModulText>소방 설비, 방재 설비, 수계 소화 설비, 특수 소화 약제류 설비, 제연 설비, 국가 화재 안전 기준(NFSC)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200026</learnModulSeq>
+<learnModulName>위생설비 유지보수</learnModulName>
+<learnModulText>위생 기구 설비, 오수 처리 설비, 급·배수 설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200027</learnModulSeq>
+<learnModulName>공조설비 유지보수</learnModulName>
+<learnModulText>배기 팬 설비, 냉방 설비, 난방 설비, 급기 설비, 배기 설비, 공기질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200029</learnModulSeq>
+<learnModulName>건축물 유지보수</learnModulName>
+<learnModulText>건축 마감재, 방수, 미장재, 창호, 유리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200030</learnModulSeq>
+<learnModulName>승강설비 유지보수</learnModulName>
+<learnModulText>승강기, 에스컬레이터, 엘리베이터, 경사형 리프트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200031</learnModulSeq>
+<learnModulName>기계자동제어설비 유지보수</learnModulName>
+<learnModulText>MCC 제어반, PLC, 논리 회로, 시퀀스 회로, 현장 제어기, 중앙 제어 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200032</learnModulSeq>
+<learnModulName>열차운행 안전설비 유지보수</learnModulName>
+<learnModulText>PSD(승장강 안전문, 스크린도어), 집수정, 방수문</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>역시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170200033</learnModulSeq>
+<learnModulName>고장원인 분석ㆍ개선</learnModulName>
+<learnModulText>역 시설물, 승강 설비, 장애 사례, 장애 원인, 장애 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100046</learnModulSeq>
+<learnModulName>정보통신설비 유지보수 계획수립</learnModulName>
+<learnModulText>철도, 정보통신, 정보통신설비, 유지보수 계획, 점검주기, 예방유지보수, 개량유지보수, 기준 정보, KOVIS(또는 ERP)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100047</learnModulSeq>
+<learnModulName>정보통신 안전관리</learnModulName>
+<learnModulText>철도정보통신, 안전관리, 산업안전보건법, 철도사고예방, 안전작업계획서, 사고예방, 선로보수작업, 철도보호지구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100048</learnModulSeq>
+<learnModulName>통신선로설비 유지보수</learnModulName>
+<learnModulText>철도정보통신, 통신선로, 광케이블, 동케이블, 광케이블 감시장치, MDF, 케이블 계측기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100049</learnModulSeq>
+<learnModulName>광전송설비 유지보수</learnModulName>
+<learnModulText>전송망, MSPP, DOTS, STM, 프로비전, 손실, 분산, 루프백, 커넥터, OTDR</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100050</learnModulSeq>
+<learnModulName>다중화설비 유지보수</learnModulName>
+<learnModulText>절체, 경보, 배선반, 회선, 인터페이스, 광전송, 루프백, EMS, EoS, 대역폭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100051</learnModulSeq>
+<learnModulName>교환설비 유지보수</learnModulName>
+<learnModulText>Shelf, 노드, 중계대, DID/DOD, E1/T1, Slot, 내선, 관제전화, 이중화, 데이터 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100052</learnModulSeq>
+<learnModulName>정보통신망설비 유지보수</learnModulName>
+<learnModulText>CSU, 라우터, 스위치, 무정전전원장치(UPS), LoopBack 시험, 인터네트워킹, TCP/IP, 데이터통신, 네트워크, 전송선로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100053</learnModulSeq>
+<learnModulName>영상감시설비(CCTV) 유지보수</learnModulName>
+<learnModulText>회선, 데이터, 공간화상, 컨트롤러, 부호기, 복호기, 광통신, 광코어, 케이블, 매트릭스 스위처</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100054</learnModulSeq>
+<learnModulName>무선설비(VHF) 유지보수</learnModulName>
+<learnModulText>무선설비(VHF), 기지국설비, 터널무선중계장치, 이동국, 휴대용 무전기, 누설 동축케이블(LCX), 방사형 동축케이블(RCX), 안테나, 양방향 증폭기(BDA), 급전선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100055</learnModulSeq>
+<learnModulName>무선설비(TRS) 유지보수</learnModulName>
+<learnModulText>TRS, TETRA, RCX 케이블, 기지국, 무선단말기, 기지국 제어기, 무선 채널 카드, 유지보수매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>철도운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>철도시설유지보수</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>철도정보통신시설물유지보수</ncsSubdCdnm>
+<learnModulSeq>EDU20170100056</learnModulSeq>
+<learnModulName>통신용 전원설비 유지보수</learnModulName>
+<learnModulText>무정전전원장치(UPS), 정류기, 축전지, 수전, 내부저항 측정기, 클램프메터, 절연저항 측정기, 메인전원, 철도전원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200174</learnModulSeq>
+<learnModulName>항해계획수립</learnModulName>
+<learnModulText>항해, 항해계획, 해도, 전자해도, 전자해도표시정보시스템, 레이더, 수로서지, 해양안전정보, 해양기상, 추천항로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200176</learnModulSeq>
+<learnModulName>선위 결정</learnModulName>
+<learnModulText>선위, 편차, 자차, 위치선, 천측, 육분의, 전파, 쌍곡선항법, GNSS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200177</learnModulSeq>
+<learnModulName>항해당직</learnModulName>
+<learnModulText>선교자원 관리, 의사결정, 충돌의 위험, 조타 명령, 선박의 위치, 항해일지, 당직 인계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200178</learnModulSeq>
+<learnModulName>선박 조종</learnModulName>
+<learnModulText>선회권(turning circle), 선회 종거(advance), 선회 횡거(transfer), 타력, 복원력, 메타센터 높이(GM), 제한수로의 영향(restricted water effect), 천수 영향(shallow water effect), 측벽 영향(bank effect), 윌리암스 턴(Williamson’s turn)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200179</learnModulSeq>
+<learnModulName>조난 구급장비 운용</learnModulName>
+<learnModulText>비상대응, 조난신호, 선박충돌, 선박좌초, 선내화재, 소화설비, 구명설비, 퇴선, 선내의료, 응급조치, 통솔력, 팀워크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200181</learnModulSeq>
+<learnModulName>항해장비 운용</learnModulName>
+<learnModulText>자동레이더플로팅장치(ARPA), 레이더(RADAR), 전자해도표시장치(ECDIS), 전자해도(ENC), 자동식별 장치(AIS), 선속계(speed log), 음향측심기(echo sounder), 내브스타 GPS, 자동조타장치(auto pilot)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200182</learnModulSeq>
+<learnModulName>화물관리</learnModulName>
+<learnModulText>적양하 계획, 하역장비, 화물 적양하, 화물의 고박, 화물량 측정, 하역서류, 선적화물의 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200183</learnModulSeq>
+<learnModulName>검사수검</learnModulName>
+<learnModulText>화물창, 균열, Dent, 해치커버, 밸러스트탱크, PSC, 항만국통제, 결함 코드, 추가 검사, 강화 검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200185</learnModulSeq>
+<learnModulName>선박안전관리</learnModulName>
+<learnModulText>선박의 감항성, 해양오염방지, 법적 강제사항, 선내 보안관리, 개인안전, 사회적 책임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20151200186</learnModulSeq>
+<learnModulName>선박영어의사소통</learnModulName>
+<learnModulText>로그북, 항해일지, 표준해사통신, 해사안전정보, 기사란, 외부통신, 선내통신</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20190100035</learnModulSeq>
+<learnModulName>비상대응</learnModulName>
+<learnModulText>비상대응, 조난신호, 선박 충돌, 선박 좌초, 선내 화재, 소화설비, 퇴선, 응급조치, 통솔력, 팀 워크</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20190100036</learnModulSeq>
+<learnModulName>화물 적양하</learnModulName>
+<learnModulText>적양하 계획, 하역 장비, 화물 적양하, 화물 고박, 화물량 측정, 하역 서류, 선적 화물 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20190100037</learnModulSeq>
+<learnModulName>선체 점검</learnModulName>
+<learnModulText>화물창, 해치커버, 밸러스트 탱크, 육안 점검, 발청, 균열, 유압, 수밀 상태, 개인보호장구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20190100038</learnModulSeq>
+<learnModulName>안전법규준수</learnModulName>
+<learnModulText>해양 오염방지, 해양 오염방지협약, 국제해사협약, 선박 인명 안전, 작업 안전절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항해</ncsSubdCdnm>
+<learnModulSeq>EDU20190100039</learnModulSeq>
+<learnModulName>선박안전관리</learnModulName>
+<learnModulText>선박의 복원성, 선박의 감항성, 선박 보안, GM, ISPS CODE</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100654</learnModulSeq>
+<learnModulName>추진장치 운용</learnModulName>
+<learnModulText>유윤활식 선미관, Lip seal, 축계장치, Bow Thruster, 에어가드식 선미관, 중간축, 유압시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100655</learnModulSeq>
+<learnModulName>디젤 주기관 운전</learnModulName>
+<learnModulText>출입항, 난기, 압축공기, 배관도, 시운전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100656</learnModulSeq>
+<learnModulName>보수유지관리</learnModulName>
+<learnModulText>주기관, 정비, 측정 기기, 보수 관리, 유지 관리, 계획 정비, 크랭크 암 개폐량(crank arm deflection), 안전장치, 유류 관리, 절차서, 예비품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100657</learnModulSeq>
+<learnModulName>보일러 운용</learnModulName>
+<learnModulText>보일러 운전, 보일러 등기, 증기 송기, 점화 장치, 물 테스트, 청관제, 급수 제어, 자동 연소 제어, 수위 검출, Soot blow</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100658</learnModulSeq>
+<learnModulName>보조기기 운전</learnModulName>
+<learnModulText>공기압축기, 압축 공기, 청정기, 비중판, 냉동공조기기, 냉매, 냉매 누설 시험기, 조수기, 열교환기, 염도 측정 장치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100659</learnModulSeq>
+<learnModulName>전기장치 운용</learnModulName>
+<learnModulText>발전기, 배전반, 축전지, 전동기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100660</learnModulSeq>
+<learnModulName>제어감시장치 운용</learnModulName>
+<learnModulText>공압 제어, 유압 제어, 경보 감시 장치, PID 제어기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100661</learnModulSeq>
+<learnModulName>기관당직</learnModulName>
+<learnModulText>출입항, 당직, 인계인수, 기관일지, 보고서, 체크리스트, 감항성, STCW</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100662</learnModulSeq>
+<learnModulName>해양환경보호</learnModulName>
+<learnModulText>MARPOL, 해양환경관리법, 오수처리장치, 기름여과장치, 소각기, ODME , MGPS, ICCP</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100663</learnModulSeq>
+<learnModulName>검사 수검</learnModulName>
+<learnModulText>PSC 검사, 선급검사, 고객검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100664</learnModulSeq>
+<learnModulName>안전운항 통제</learnModulName>
+<learnModulText>복원성, 종경사, 응력, 수밀 보전성, 비손상 부력, 화재 등급, 화재 탐지, 소화 설비, 기관실 자원 배분 및 할당, 우선순위 조절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20160100665</learnModulSeq>
+<learnModulName>선박안전관리</learnModulName>
+<learnModulText>구명정, 진수장치, 작업안전회의(TBM), 안전보호장구(PPE), 구명설비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300074</learnModulSeq>
+<learnModulName>디젤 주기관 운전</learnModulName>
+<learnModulText>출항 준비, 난기, 압축공기, 배관도, 시운전, 터닝, 냉각수 분석, 인디케이터, 부하선도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300075</learnModulSeq>
+<learnModulName>디젤 주기관 관리</learnModulName>
+<learnModulText>주기관 정지, 정지 후 점검, 계획정비시스템, 정비시간, 비상운전, 비상역전, 감통운전, 과급기 차단 운전, 길들이기 운전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300076</learnModulSeq>
+<learnModulName>보일러 운전</learnModulName>
+<learnModulText>등기, 마운팅밸브, 서보모터, 점화장치, 물 테스트, 청관제, 캐리오버, 수저·수면방출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300077</learnModulSeq>
+<learnModulName>보일러 관리</learnModulName>
+<learnModulText>스위치(Switch), 트랜스미터(Transmitter), 켈리브레이터(Calibrator), 자동연소, 컨버터(Converter), 급수제어, 안전장치, 배기가스보일러</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300078</learnModulSeq>
+<learnModulName>일반 보조기기 운전</learnModulName>
+<learnModulText>공기압축기, 압축공기, 피스톤(Piston), 커넥팅로드(Connecting Rod), 토출밸브, 흡입밸브, 공기 저 장 탱크, 냉동공조기기 무부하 시스템, 에어컨, 냉동기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300079</learnModulSeq>
+<learnModulName>기관 보조기기 운전</learnModulName>
+<learnModulText>청정기, 비중판, 바울, 조수기, 이젝터, 열 교환기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300080</learnModulSeq>
+<learnModulName>전기공급장치 운용</learnModulName>
+<learnModulText>공칭전압, 방전종지전압, 정격용량, 완전충전상태, 과충전, 단전지, 전해액, 격리판, 내부저항, 암페어 아워(Ah), 정전압충전, 정전류충전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>선박기관운전</ncsSubdCdnm>
+<learnModulSeq>EDU20190300082</learnModulSeq>
+<learnModulName>전기장치 관리</learnModulName>
+<learnModulText>배전 계통도, 배전반, 기동반, 전동기, 진동, 온도, 절연저항, 발전기 병렬운전, 시퀀스회로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200405</learnModulSeq>
+<learnModulName>일반통신운용</learnModulName>
+<learnModulText>VHF, MF/HF, SSB, 무선 전화, NBDP, DSC, 조난 경보, 조난 호출, 조난 통보, 조난 중계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200410</learnModulSeq>
+<learnModulName>위성통신운용</learnModulName>
+<learnModulText>LES(CES), MES(SES), NCS, SCC, OCC, ISDN, MPDS, HSD, LAN, PIN</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200414</learnModulSeq>
+<learnModulName>안전통신운용</learnModulName>
+<learnModulText>자동 식별 장치(AIS: Automatic Identification System), 선박 장거리 식별 추적 장치(LRIT: Long-Range Identification and Tracking of Ships), 선박 보안 경보 장치(SSAS: Ship Security Alert System), 레이더(RADAR: Radio Detecting And Ranging), 위성 항법 장치(GNSS: Global Navigation Satellite System), 로란-C(LORAN-C: Long Range Navigation-C)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200417</learnModulSeq>
+<learnModulName>DSC통신운용</learnModulName>
+<learnModulText>VHF, MF/HF, SSB, 무선 전화, NBDP, DSC, 조난 경보, 조난 호출, 조난 통보, 조난 중계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200422</learnModulSeq>
+<learnModulName>조난통신운용</learnModulName>
+<learnModulText>선박 통신, 조난 통신, 조난 경보, 조난 호출, 조난 통보, 조난 통신 주파수, 조난 응답, 조난 중계, 조난 통신 절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200423</learnModulSeq>
+<learnModulName>어업통신운용</learnModulName>
+<learnModulText>27MHz SSB 무선 전화, 무선 방향 탐지기(RDF), 선박 감시 시스템(VMS), 중요 통신, 어업 통신, 통신 권역, 무선국 검사, 설정, 운용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200425</learnModulSeq>
+<learnModulName>무선항행장비 운용</learnModulName>
+<learnModulText>자동 식별 장치(AIS: Automatic Identification System), 선박 장거리 식별 추적 장치(LRIT: Long-Range Identification and Tracking of Ships), 선박 보안 경보 장치(SSAS: Ship Security Alert System), 레이더(RADAR: Radio Detecting And Ranging), 위성 항법 장치(GNSS: Global Navigation Satellite System), 로란-C(LORAN-C: Long Range Navigation-C)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200427</learnModulSeq>
+<learnModulName>통신설비 기능시험</learnModulName>
+<learnModulText>선박 통신, 기능 시험, VHF 기능 시험, MF/HF 기능 시험, EPIRB 기능 시험, SART 기능 시험, 2-way VHF 기능 시험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200429</learnModulSeq>
+<learnModulName>통신설비 유지보수</learnModulName>
+<learnModulText>전원 장치, 주전원, 예비 전원, 발진, 변조, 검파, 증폭, 공중선, 송신 장치, 수신 장치, 측정기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>선박통신</ncsSubdCdnm>
+<learnModulSeq>EDU20151200433</learnModulSeq>
+<learnModulName>무선국 운용관리</learnModulName>
+<learnModulText>국내 전파 관련 법, STCW 협약, 전파 규칙, SOLAS 협약, GMDSS 운용, 조난 통신 운용, 안전 통신 운용, 통신설비 기능시험, 무선업무 일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200141</learnModulSeq>
+<learnModulName>수면비행 운항계획</learnModulName>
+<learnModulText>수면비행선박, 배수량 모드, 수면효과 모드, 항해, 항법, 기상, 선박 점검, 선박 조종 성능, 안정성, 이수 중량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200142</learnModulSeq>
+<learnModulName>운항여부,구명소방,항해통신,조종계통 점검</learnModulName>
+<learnModulText>수면비행선박, 운항계획, 구명 설비, 소방 설비, 항해장비, 통신장비, 조종 계통</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200143</learnModulSeq>
+<learnModulName>보조장치,추진시스템,승선적화,전원시스템 점검</learnModulName>
+<learnModulText>수면비행선박, 보조 장치, 추진시스템, 승선, 적화, 전원시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200144</learnModulSeq>
+<learnModulName>입출항 조종</learnModulName>
+<learnModulText>입항, 출항, 이안, 접안, 배수량 모드, 해도, 보조수단, 계류삭, 승객교육, 안전교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200145</learnModulSeq>
+<learnModulName>항해장비 운용</learnModulName>
+<learnModulText>레이더, ARPA, 통신장비, 표준해사통신영어, 전자해도, 비행계기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200146</learnModulSeq>
+<learnModulName>이착수 조종</learnModulName>
+<learnModulText>이수 조종, 착수 조종, 추진시스템, 조종시스템, 이수 성능, 착수 성능, 경계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200147</learnModulSeq>
+<learnModulName>수면비행 운항</learnModulName>
+<learnModulText>수면효과 모드, 비행초과 모드, 선회, 상승 및 하강, 순항속도, 기상, 항해규칙, 항해·통신장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200148</learnModulSeq>
+<learnModulName>입항 후 점검</learnModulName>
+<learnModulText>하선, 양하, 항해시스템 종료, 항해문서, 항해일지, 선박점검, 선박보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200149</learnModulSeq>
+<learnModulName>비상상황 대응</learnModulName>
+<learnModulText>비상대응, 비상배치표, 퇴선, 기상악화, 응급조치, 의료장비, 구명설비, 조난자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>수면비행선박조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200150</learnModulSeq>
+<learnModulName>사고 시 비상조치</learnModulName>
+<learnModulText>충돌, 좌초, 구명설비, 퇴선, 선내화재, 소화 장비, 비상대응, 추진시스템 고장, 조종시스템 고장, 오염 방제, 비상조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100194</learnModulSeq>
+<learnModulName>출항 준비</learnModulName>
+<learnModulText>기상, 기후, 일기도, 해도, 항행, 입·출항 절차, 보트 매뉴얼, 안전 장비, 비상 대피, 기구 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100196</learnModulSeq>
+<learnModulName>입출항 조종</learnModulName>
+<learnModulText>출･입항, 이안, 접안, 항로 표지, IALA 해상 부표식, 로프, 매듭, 국제 신호서, 국제해상충돌예방규칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100199</learnModulSeq>
+<learnModulName>모터보트 조종</learnModulName>
+<learnModulText>보트 전진, 보트 후진, 보트 정지, 보트 변침, 보트 선회, 보트 침로 유지, 닻, 정박지, 정박, 닻줄 매는 법, 이박</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100202</learnModulSeq>
+<learnModulName>세일보트 조종</learnModulName>
+<learnModulText>출･입항, 이안, 접안, 세일, 황천, 메인 세일, 집 세일, 로프, 매듭, 국제 신호서, 국제해상충돌예방규칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100205</learnModulSeq>
+<learnModulName>연안 항해</learnModulName>
+<learnModulText>해도, 방위, 자차, 편차, 위치선, 교차 방위법, 피험선, 변침, 등화, 음향 신호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100207</learnModulSeq>
+<learnModulName>대양 항해</learnModulName>
+<learnModulText>점장도, 대권도, 선위, 방위, 자차, 항법, 항로, 항해 계획, 천문 항해, 육분의, 천측력, 천측 계산표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100211</learnModulSeq>
+<learnModulName>항해장비 운용</learnModulName>
+<learnModulText>레이더, 전파, 안테나, GPS, VHF, HF, SSB, 기상 팩스, EIPRB</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100212</learnModulSeq>
+<learnModulName>선체 관리</learnModulName>
+<learnModulText>복합 재료, 알루미늄, 목재, 도료, 겔코트, 빌지 워터, 희생 양극, 항해등, 실내등, 삼투압 수포</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100213</learnModulSeq>
+<learnModulName>기관 관리</learnModulName>
+<learnModulText>배터리, 제너레이터, 스파크 플러그, 연료 필터, 엔진오일, 기어오일, 해수 필터, 프로펠러, 클러치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20160100214</learnModulSeq>
+<learnModulName>비상상황 대처</learnModulName>
+<learnModulText>조난 통신, 조난 신호, 소방 장비, 소화기, 낙수자, 응급 처치, 심폐 소생법(CPR), 구명 장비, 구명 뗏목, 구명조끼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>수상레저기구조종</ncsSubdCdnm>
+<learnModulSeq>EDU20181200032</learnModulSeq>
+<learnModulName>보트선체 파손 대처</learnModulName>
+<learnModulText>선체 파손, 응급처치, 수리, 유지 보수, 퍼티(putty)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100159</learnModulSeq>
+<learnModulName>선박 교통상황 파악</learnModulName>
+<learnModulText>모니터링, 항행의도, 상황자각, 상황변화, 주의(attention), 탐색(search), 변화탐지(change detection), 지각(perception), 도착예정시간, 통과보고선, 최근접통과거리(CPA)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100160</learnModulSeq>
+<learnModulName>관제 정보 제공</learnModulName>
+<learnModulText>정보 수집, 정보 평가, 정보 전달, 정보 제공, 정박지, 관제 시스템, 선박 특성, 선박 항해 통신장비, 표준 해사 통신 용어, 항만정보관리시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100161</learnModulSeq>
+<learnModulName>해상교통관리</learnModulName>
+<learnModulText>선박 교통, 항법, 정박지, 항로, 정박지, 관제 시스템, 항행 지원, 선박 항해 통신 장비, 해상 기상, 항만정보관리시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100162</learnModulSeq>
+<learnModulName>항만운영 정보 제공</learnModulName>
+<learnModulText>항만 정보 관리 시스템, 관제 운영 시스템, VTS, Port-MIS, 도선, 예선, 항만 운영 정보, 정박지, 기상 특보, 항만 시설, 항만 통제, VDB</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100163</learnModulSeq>
+<learnModulName>보안업무관리</learnModulName>
+<learnModulText>의아 선박, ISPS 코드, 보안등급, 보안증서, 선박 보안, 항만보안, 선박보호조치, 국제항해선박 및 항만시설 보안에 관한 법률</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100164</learnModulSeq>
+<learnModulName>비상상황관리</learnModulName>
+<learnModulText>해양사고, 준사고, 비상통신, GMDSS, 수색구조, SAR, 수난구호, salvage, 해양기상, 기상특보, 태풍, 황천항해, 피항관리, oil spill, 해양오염, 오염 방제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100166</learnModulSeq>
+<learnModulName>관제행정관리</learnModulName>
+<learnModulText>해양사고, 준사고, 비상통신, GMDSS, 수색구조, SAR, 수난구호, salvage, 해양기상, 기상특보, 태풍, 황천항해, 피항관리, oil spill, 해양오염, 오염 방제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100167</learnModulSeq>
+<learnModulName>관제시스템 운영</learnModulName>
+<learnModulText>관제 시스템, 교신 선박, 통항 선박, 선박 항적, 위험 구역, 항로 표지 시설, 시스템 장애</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100168</learnModulSeq>
+<learnModulName>관제상황 커뮤니케이션</learnModulName>
+<learnModulText>VHF, 교신 시간, 발화순서교대, 항행의도, 정보의 구성, 정보의 전달, 상황설명, 설득, 이의제기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100170</learnModulSeq>
+<learnModulName>관제영어 구사</learnModulName>
+<learnModulText>표준 해사 통신 영어, 교신 정보 구성 및 제공, 상황 설명, 설득하기, 경고하기, 명령하기, 허가하기, 비상 통신, 국제전기협약부속전파규칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>해상관제</ncsSubdCdnm>
+<learnModulSeq>EDU20160100171</learnModulSeq>
+<learnModulName>항해기술 적용</learnModulName>
+<learnModulText>국제해상충돌예방규칙, 「개항질서법」, 「도선법」, 「해사안전법」, 국제 협약, 선박 조종술, 선박 구조 특성, 선체 의장, 해도 해독, 수로서지 해독, 항로 표지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200448</learnModulSeq>
+<learnModulName>갑판 정비계획</learnModulName>
+<learnModulText>예방정비(PMS) 항목, 정비 항목별 관련 법규, 선급 규칙, 연간ㆍ반기별ㆍ분기별 갑판 정비 계획서, 기기 매뉴얼, 선박 정비 매뉴얼, 점검 보고서, 정비 보고서, 검사 보고서 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200451</learnModulSeq>
+<learnModulName>갑판 안전관리</learnModulName>
+<learnModulText>위험 예지 훈련, 툴 박스 미팅, 위험성 관리, 위험성 평가, 위험성 대책 등록부, 안전 관리 절차서, 위험 작업 점검표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200458</learnModulSeq>
+<learnModulName>일반정비작업</learnModulName>
+<learnModulText>도장, 도료, 청락, 도장 장비, 그리싱, 그리싱 장비, 예비품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200471</learnModulSeq>
+<learnModulName>선체 관리</learnModulName>
+<learnModulText>cargo hold, bulkhead, australian ladder, vertical ladder, ballast tank, access hatch, water tight door, crack, hole, buckle</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200485</learnModulSeq>
+<learnModulName>계선장비 관리</learnModulName>
+<learnModulText>chock, bollard, fairlead, stand roller capstan, windlass, mooring winch</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200488</learnModulSeq>
+<learnModulName>하역장비 관리</learnModulName>
+<learnModulText>해치 커버, 해치 커버 부속 설비, 하역 기기의 용어, 하역 기기의 종류, crane, davit, derrick(기중기), 평형수 설비, ballast(평형수), wire</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200490</learnModulSeq>
+<learnModulName>구명설비 관리</learnModulName>
+<learnModulText>life saving appliance plan, LSA code, life boat, life buoy, life raft, immersion suit, life jacket, life saving equipment, safety plan, IMO symbol, PSC inspection, 선급 검사 및 본선 점검</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200498</learnModulSeq>
+<learnModulName>소화설비 관리</learnModulName>
+<learnModulText>화재 제어도(fire control plan), 휴대용 소화 장비(portable fire extinguisher), 고정식 소화 설비(fixed fire extinguisher), 탄산가스 소화기(CO2 extinguisher), 수소화 장치(water based fire extinguishing system), 화재 탐지 장치(fire detector), 방화문, 방화 구역, IMO 심벌, 입거 수리 신청서(docking indent)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>선박운항</ncsSclasCdnm>
+<ncsSubdCd>07</ncsSubdCd>
+<ncsSubdCdnm>선박갑판관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200507</learnModulSeq>
+<learnModulName>갑판 자재관리</learnModulName>
+<learnModulText>자재, 보유 자재 목록, 선용품, 기부속, 자재 청구서, 검수 보고서, 부적합 자재, 반품, 불용 자재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102283</learnModulSeq>
+<learnModulName>검수검정작업 계획 수립</learnModulName>
+<learnModulText>검수 절차, 검수 도구, 선박 출입 절차, 항만 출입 절차, 보안규정, 검량 절차, 계량기기, 예상 수수료, 감정 절차, 샘플링 및 분석기기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102289</learnModulSeq>
+<learnModulName>검수검정작업 안전관리</learnModulName>
+<learnModulText>물질안전보건자료, 밀폐 공간, 개인 보호구, 안전 설비, 작업 안전 계획, 응급 대책, 법정 안전 교육, 안전 절차, 항만 시설 출입규정, 시료 반출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102292</learnModulSeq>
+<learnModulName>화물 검수작업</learnModulName>
+<learnModulText>컨테이너 검수, 컨테이너의 선박 내 적재 위치, 컨테이너 번호, 봉인 번호, 자동차 검수, 잡화 검수, 특수 화물 검수, 화물 적부도, 검수표, 손상 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102295</learnModulSeq>
+<learnModulName>화물 검량작업</learnModulName>
+<learnModulText>화물 탱크, 화물의 비중, water finding paste, free water, 선박의 기울기(trim &amp; list), 화물 탱크의 OBQ, 화물 탱크의 ROB, 선박의 경험 계수(VEF), 백업기기, 선박의 배수량</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102297</learnModulSeq>
+<learnModulName>화물 감정작업</learnModulName>
+<learnModulText>배관, 화물 탱크 코팅, WWT(wall wash test), 시료 채취, 채취기기, 해치 커버, 통풍장치, 화물의 손상 원인, 고박 장비, 잔존 가치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102298</learnModulSeq>
+<learnModulName>해상손해 감정작업</learnModulName>
+<learnModulText>선체(hull), 선체의 손해액, 수리 내역서, 선체보험, 항만 시설물, 해양오염 물질, 방제 작업, 방제 비용, 유류 오염 사고, 유류오염손해배상 보장법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102299</learnModulSeq>
+<learnModulName>검수검정보고서 작성</learnModulName>
+<learnModulText>검수표(tally sheet), 화물 검수 보고서, 얼리지 보고서(ullage report), OBQ/ROB 보고서, 흘수 감정 보고서(draft survey report), 계근 검량 보고서, 화물 시험 성적서, 선체 감정 보고서, 항만 시설물 감정 보고서, 해양오염 사고 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>선박운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>검수·검량</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>검수·검정</ncsSubdCdnm>
+<learnModulSeq>EDU20160102301</learnModulSeq>
+<learnModulName>검수검정결과 보고</learnModulName>
+<learnModulText>선사, 화주, 관세법, 전자 문서 교환(EDI), 검량 최초 보고, 검량 중간보고, 검량 최종 보고, 감정 최초 보고, 감정 중간보고, 감정 최종 보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200566</learnModulSeq>
+<learnModulName>경량항공기 비행전준비</learnModulName>
+<learnModulText>경량항공기, 탑재서류, 항공정보, 기상, 성능, 비행계획서, 항공정보간행물(AIP), 항공고시보(NOTAM)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200571</learnModulSeq>
+<learnModulName>경량항공기 이륙전지상운용</learnModulName>
+<learnModulText>운용 매뉴얼(POH), 정비 매뉴얼(Maintenance Manual), 엔진시동절차, 지상활주, 무선통신절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200573</learnModulSeq>
+<learnModulName>경량항공기 이륙</learnModulName>
+<learnModulText>운용 매뉴얼(POH), 정비 매뉴얼(Maintenance Manual), 엔진시동절차, 지상 활주, 무선통신절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200576</learnModulSeq>
+<learnModulName>경량항공기 공중조작</learnModulName>
+<learnModulText>운용 매뉴얼(POH), 고도, 속도, 수평, 상승, 하강, 선회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200578</learnModulSeq>
+<learnModulName>경량항공기 기동조작</learnModulName>
+<learnModulText>MCA, STALL, POWER ON STALL, POWER OFF STALL, STEEP TURN, S-TURN, TURNS AROUND POINT</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200582</learnModulSeq>
+<learnModulName>경량항공기 항법</learnModulName>
+<learnModulText>거리(Distance), 방향(Direction), 항공도(Sectional Chart), 점검지점(Check Point), 편차(Variation), 등편차선(Isogonic Line), 대지속도(Ground Speed), 도착 예정시간(Estimated Time of Arrival), 지문항법(Pilotage), 추측항법(Dead Reckoning)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200583</learnModulSeq>
+<learnModulName>경량항공기 착륙접근</learnModulName>
+<learnModulText>착륙허가, 비행장, 관제허가, 주파수, 무선통신, 점검 절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200587</learnModulSeq>
+<learnModulName>경량항공기 착륙</learnModulName>
+<learnModulText>착륙, 정풍, 측풍, 지면효과, 착륙 거리, 단거리, 비포장, 활주로, 비정상상황</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200590</learnModulSeq>
+<learnModulName>경량항공기 착륙 후 지상운용</learnModulName>
+<learnModulText>착륙, 점검표, 매뉴얼, 엔진, 정비, 기체 확인, 주기, 지상 활주, 수신호, 항공일지, 풍향 대응</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경량항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200593</learnModulSeq>
+<learnModulName>경량항공기 항공안전보안 관리</learnModulName>
+<learnModulText>안전성인증검사, 정비 매뉴얼, 운용 매뉴얼, 기술기준, 신체검사증명, 항공의학, 항공종사자 자격증명</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200952</learnModulSeq>
+<learnModulName>자가용항공기 비행 전 준비</learnModulName>
+<learnModulText>자격증명, 탑재서류, 정시관측보고(METAR), 공항예보(TAF), 무게와 균형(WEIGHT &amp; BALANCE), 항행장비, 항공고시보(NOTAM), 항법계획서, 비행계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200953</learnModulSeq>
+<learnModulName>자가용항공기 이륙 전 지상운용</learnModulName>
+<learnModulText>비행 교범(POH: Pilot&apos;s Operating Handbook), 정상 운영 절차(Normal Procedures), 점검표(Check List), 항공 전자 장비(Avionics), 항공무선 통신 절차(Radio Communications Procedures), 비행 계기(Flight Instruments), 임무 기장(PIC: Pilot in Command), 국제음성기호(Phonetic Alphabet), 활주로 침범(Runway Incursion)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200954</learnModulSeq>
+<learnModulName>자가용항공기 이륙</learnModulName>
+<learnModulText>표준무선통화절차, 이륙, 출항, 이륙허가, 출항절차, 후류, 단거리 이륙, 장애물 회피</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200955</learnModulSeq>
+<learnModulName>자가용항공기 공중조작</learnModulName>
+<learnModulText>가상 수평선, 외부 참조 점, Adverse Yaw, 저속비행, 급선회, Over-Banking Tendency, 실속, 편류, S-선회, 기준점을 이용한 선회</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200956</learnModulSeq>
+<learnModulName>자가용항공기 비상절차</learnModulName>
+<learnModulText>항공기 비상절차, 항공기 엔진고장, 항공기 계통고장, 항공기 장비고장, 항공기 비정상자세, 회전익, 동력고착, 비상강하</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200957</learnModulSeq>
+<learnModulName>자가용항공기 항법</learnModulName>
+<learnModulText>거리(Distance), 속도(Speed), 방향(Direction), 시간(Time), 항공도(Sectional Chart), 점검지점(Check Point), 편차(Variation), 등 편차선(Isogonic Line), 대지속도(Ground Speed), 도착예정시간(Estimated Time of Arrival), 지문항법(Pilotage), 항행 안전무선시설(NAVAIDS), 교체비행장(Alternate Airport)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200958</learnModulSeq>
+<learnModulName>자가용항공기 비행장 내 운용</learnModulName>
+<learnModulText>관제탑(Control Tower), 빛총 신호(Light Gun Signal), 장주(Traffic Pattern), 활주로(Runway), 유도로(Taxiway), 최초 교신(Initial Contact), 국제음성기호(Phonetic Alphabet), 호출 부호(Call Signs)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200959</learnModulSeq>
+<learnModulName>자가용항공기 착륙</learnModulName>
+<learnModulText>착륙, 입항, 착륙허가, 착륙 절차, 단거리 착륙, 정상착륙, 얕은 각 착륙, 깊은 각 착륙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200961</learnModulSeq>
+<learnModulName>자가용항공기 착륙 후 지상운용</learnModulName>
+<learnModulText>항공기 착륙, 활주로 개방, 지상 활주, 항공무선통신, 활주로 표지시설, 주기 수신호, 주기장, 항공등화, 활주로 표지판, 활주로 표지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자가용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200963</learnModulSeq>
+<learnModulName>자가용항공기 항공안전 보안관리</learnModulName>
+<learnModulText>위험요인, 위험, PAVE 점검표, IMSAFE 점검표, 3P 모델, DECIDE 모델, 항공의사결정(ADM), 1인 조종사자원관리(SRM), 5P 점검표, 조종상태 지상충돌(CFIT), 위협 및 실수관리(TEM)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200768</learnModulSeq>
+<learnModulName>사업용항공기 비행 전 준비</learnModulName>
+<learnModulText>자격증명, 탑재서류, 기상정보/항공고시보(NOTAM), 항공기 성능/제한사항, 항행장비 성능/제한사항, 비행계획서, 항공기 운용매뉴얼, 항공기 점검표(Checklist)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200771</learnModulSeq>
+<learnModulName>사업용항공기 이륙 전 지상운용</learnModulName>
+<learnModulText>항공기 운용매뉴얼. Airplane Flight Manual. Pilot Operating Handbook. 비행점검표. 항공기 탑재서류. 항공기 내부점검. 항공기 외부점검. 엔진시동. 교통관제. 조종 장치. 지상 활주. 이륙성능.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200773</learnModulSeq>
+<learnModulName>사업용항공기 이륙</learnModulName>
+<learnModulText>이륙활주, 활주로 중심선, 로테이션, 표준계기출항절차, VOR, HSI, CDI, 플랩, 최적활공속도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200776</learnModulSeq>
+<learnModulName>사업용항공기 공중조작</learnModulName>
+<learnModulText>대기속도, 호라이즌, 피치, 경사(bank), 기수방향(heading), 방향타(rudder), 승강타(elevator), 엔진출력, 자세비행, 받음각, 표준선회율, 최적 활공속도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200777</learnModulSeq>
+<learnModulName>사업용항공기 항법</learnModulName>
+<learnModulText>소구역항공도(Sectional chart), 체크포인트(Checkpoint), 비행기 컴퓨터(Flight computer), 작도기(Plotter), 회항(Divert), 항공고시보(NOTAM; Notice To Airmen), 빛총신호(Lightgun signal), 바람수정각(WCA; Wind Correction Angle), 전세계 위치측정시스템(GPS; Global Positioning System)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200781</learnModulSeq>
+<learnModulName>사업용항공기 착륙</learnModulName>
+<learnModulText>크랩(Crab method), 윙-로우(Winglow), 당김(Roundout or Flare), 접지(Touchdown), 점검표(Checklist), 목측(Height), 허가(Clearance), 복창(Readback), 복행(Go-around), 전방향 무선표지시설(VOR; Very high frequency Omni-directional Radio range)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200783</learnModulSeq>
+<learnModulName>사업용항공기 착륙 후 지상운용</learnModulName>
+<learnModulText>항공정보간행물(AIP). 공항표지시설. 비행장 등화시설. 항법 무선시설</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200793</learnModulSeq>
+<learnModulName>사용사업 업무비행</learnModulName>
+<learnModulText>견인운반, 관측비행, 산불진화, 항공방제, 연결선 설치, 송전선 애자 세정, 인명구조, 긴급의무후송, 조종교육, 안전조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200794</learnModulSeq>
+<learnModulName>사업용항공기 항공안전 보안관리</learnModulName>
+<learnModulText>항공안전 (Aviation Safety), 항공보안 (Aviation Security), 인적요소 (Human Factors), 승무원자원관리(CRM, Crew Resource Management), 국제민간항공기구 (ICAO), 항공안전 요구사항(GASP:Global Aviation Safety Plan), 안전관리시스템(Safety Management System), 국제민간항공기구 부속서17 (ICAO Annex17), 보안-불법방해 행위에 대한 국제민간항공의 보호(Security-Safeguarding International Civil Aviation against Acts of Unlawful Interference)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>사업용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200796</learnModulSeq>
+<learnModulName>사업용항공기 승무원자원관리</learnModulName>
+<learnModulText>승무원자원관리 (Crew Resource Management), 인적 요소 (Human Factors), 인적 오류 (Human Errors), 의사소통 (Communication), 의사결정 (Decision Making), 업무량 기획·관리 (Workload Planning·Management), 승무원 협동하기 (Crew Coordination), 상황인식 (Situational Awareness)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200622</learnModulSeq>
+<learnModulName>운송용항공기 비행 전 준비</learnModulName>
+<learnModulText>운송용항공기 비행전 준비, 항공기상, 항공고시보, 비행계획서, 항공기 성능 산출, 항공정보간행물, 항공기 이륙 전 점검, 항행장비 준비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200623</learnModulSeq>
+<learnModulName>운송용항공기 이륙 전 지상운용</learnModulName>
+<learnModulText>운송용항공기 이륙 전 지상운용, 교통관제 허가획득, 항공기 시동, 지상활주</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200625</learnModulSeq>
+<learnModulName>운송용항공기 이륙</learnModulName>
+<learnModulText>이륙을 위한 항공기조작, 이륙단념, 악기상, 저시정, 측풍</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200627</learnModulSeq>
+<learnModulName>운송용항공기 출항 상승</learnModulName>
+<learnModulText>운송용 항공기 출항 상승, 항법장비운용, 무선통신장비운용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200629</learnModulSeq>
+<learnModulName>운송용항공기 공중조작</learnModulName>
+<learnModulText>공중조작, 항공기 선회, 급선회(Steep turn), 실속(Stalls), 받음각(AOA), 엔진고장, 비정상상황</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200634</learnModulSeq>
+<learnModulName>운송용항공기 항행</learnModulName>
+<learnModulText>운송용항공기 항행, 무선항행, 성능기반항행, 항공교통관제기관 교신, 통신 두절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200639</learnModulSeq>
+<learnModulName>운송용항공기 강하접근</learnModulName>
+<learnModulText>운송용항공기 강하접근, 항공기강하, 강하계획, 강하조작, 체공대기 장주, 강하허가, 지상충돌사고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200643</learnModulSeq>
+<learnModulName>운송용항공기 착륙</learnModulName>
+<learnModulText>운송용항공기 착륙, 자동착륙, 수동착륙, 비정상착륙 악기상시 착륙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200646</learnModulSeq>
+<learnModulName>운송용항공기 착륙 후 지상운용</learnModulName>
+<learnModulText>운송용항공기 착륙 후 지상운용, 지상활주 시 통신절차, 지상활주, 항공기 주기</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>운송용항공기조종</ncsSubdCdnm>
+<learnModulSeq>EDU20161200649</learnModulSeq>
+<learnModulName>운송용항공기 항공 안전보안 관리</learnModulName>
+<learnModulText>운송용항공기 항공안전보안관리, 승무원 자원관리, 항공안전, 보안점검, 불법행위 대응대책</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200015</learnModulSeq>
+<learnModulName>소형무인기 지상 운용</learnModulName>
+<learnModulText>신고, 비행계획, 항공촬영, 전용공역, 금지 및 제한구역, 준수사항,날개이론 멀티콥터, 풍향풍속</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200016</learnModulSeq>
+<learnModulName>소형무인기 비행 전 준비</learnModulName>
+<learnModulText>Drone Photogrammetry, Fixed wing UAV, Hybrid UAV, Rotary wing UAV, Drone Remote Sensing, DEM(Digital Elevation Model), 기압고도, 해면고도, 절대고도, GSD(Ground Sample Distance), Radio wave, Frequency, LOS(Line of Sight)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200017</learnModulSeq>
+<learnModulName>소형무인기 비행 전후 점검</learnModulName>
+<learnModulText>비행절차서, 운용자 매뉴얼, 육안 점검, 조종면, 조종장치, 임무장비, 조종 특성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200018</learnModulSeq>
+<learnModulName>회전익 소형무인기 비행</learnModulName>
+<learnModulText>무인기, 이착륙 조종, 기동비행, 선회비행, 비정상 상황 대처, 패턴비행, 제자리 비행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200019</learnModulSeq>
+<learnModulName>고정익 소형무인기 비행</learnModulName>
+<learnModulText>무인기, 이착륙 조종, 기동비행, 선회비행, 비정상 상황 대처, 패턴비행, 제자리 비행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200020</learnModulSeq>
+<learnModulName>소형무인기 내부 조종</learnModulName>
+<learnModulText>소형무인기, 소형무인기, 무인비행장치, 무인멀티콥터, 원격통제장비, GCS, 내부조종, 원격조종, RPS(Remote Pilot Station)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200021</learnModulSeq>
+<learnModulName>소형무인기 비정상 상황 대처</learnModulName>
+<learnModulText>이륙중단(abort), 복행(go around), NOTAM, FAA, UAS, 짐벌, VFR</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200022</learnModulSeq>
+<learnModulName>회전익 소형무인기 팀 운용</learnModulName>
+<learnModulText>회전익 소형무인기, 조종자, 관측자, 통제자, 팀 운용, 작업 절차서, 팀원 역할, 통신 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200023</learnModulSeq>
+<learnModulName>고정익 소형무인기 팀 운용</learnModulName>
+<learnModulText>고정익, 조종자, 관측자, 통제자, C2 링크, 임무장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200024</learnModulSeq>
+<learnModulName>소형무인기 촬영 운용</learnModulName>
+<learnModulText>짐벌, 앵글, 촬영계획, 촬영장치 점검, 백업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200025</learnModulSeq>
+<learnModulName>소형무인기 살포 운용</learnModulName>
+<learnModulText>방제장비, 방제복, 방제면적, 살포장비, 병충해, 약제, 약제살포, 장비세척, 안전조치, 응급조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200026</learnModulSeq>
+<learnModulName>소형무인기 감지 운용</learnModulName>
+<learnModulText>감지측정, 작업절차서, 감지측정 장치 가동, 비행환경 기상, 사전 비행허가, 소형무인기 운용, 감지측정 정보 관리, 상호 송수신 장치 (Telemetry System) 안전한 이착륙장 파악, 비행지역 특이사항 파악, 현장의 특이사항 파악 1인칭 시점 First person view (F.P.V), Flir사 Vue Pro 사용 자 매뉴얼, 3DR사 ArduPilot 사용자 매뉴얼, 무게중심(cg). FC(Flight Controller)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200027</learnModulSeq>
+<learnModulName>소형무인기 이송 운용</learnModulName>
+<learnModulText>소형무인기, 조종기, 통신, 이송, 장비, 물품, 운반, 하역, 점검, 적재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200028</learnModulSeq>
+<learnModulName>소형무인기 콘텐츠 운용</learnModulName>
+<learnModulText>소형무인기, 조종기, 콘텐츠, 촬영</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200029</learnModulSeq>
+<learnModulName>소형무인기 공간정보 운용</learnModulName>
+<learnModulText>무인기 공간정보 운용, 무인기 공간정보 촬영, 무인기 공간정보 촬영장치, 무인기 공간정보 촬 영 계획, 무인기 공간정보 촬영 비행, 공간정보 관리, 무인기 항공 측량, 정사영상 작성, 무인기 영상지도 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>항공기조종운송</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>소형무인기운용·조종</ncsSubdCdnm>
+<learnModulSeq>EDU20171200030</learnModulSeq>
+<learnModulName>소형무인기 운용 관리</learnModulName>
+<learnModulText>소형무인기, 소형무인기 운용, 소형무인기 임무, 운용팀, 운용서비스, 항공안전관리시스템(SMS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203143</learnModulSeq>
+<learnModulName>비행정보 제공</learnModulName>
+<learnModulText>항공기상, 기상, 기상 전문, 항공고시보, METAR, SPECI, 비행정보, 항공정보간행물, 성능기반 항행, 등화시설, 저시정 운영</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203144</learnModulSeq>
+<learnModulName>항공정보 제공</learnModulName>
+<learnModulText>항공정보, 항공정보 간행물(AIP), 항공 고시보(NOTAM), 종합 항공정보집, 항공지도, 비행 전 정보, AIS, PIB, 항공정보 관리 절차(AIRAC), 항공정보 간행물 수정판(AIP Amendments), 항공정보 간행물 보충판(AIP Supplements), Trigger 항공고시보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203145</learnModulSeq>
+<learnModulName>비행장 관제</learnModulName>
+<learnModulText>비행장 관제, 비행정보, 항공정보, 항공기상, 조종사기상보고(PIREP), 비행진행기록지(STRIP), 표준계기출발 절차(SID), 수직 분리 축소(RVSM), 공항정보자동방송(ATIS), 고도계수정치, 항공기 후류, 지상감시레이더(ASDE), 항공등화, 관제탑 레이더전시기(BRITE), 기동지역, 정밀 접근 보호구역</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203146</learnModulSeq>
+<learnModulName>접근 관제</learnModulName>
+<learnModulText>접근관제, 비행정보, 항공정보, 항공기상, 조종사 기상보고(PIREP), 비행진행기록지(STRIP), 표준계기 출발절차(SID), 수직분리축소(RVSM) 계기비행(IFR), 항공안전시설, 레이더 식별, 항공기 후류, 실패 접근(Missed Approach), 접근 허가(Approach Clearance), 선회 접근(Circling Approach), 시각접근(Visual Approach)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203147</learnModulSeq>
+<learnModulName>지역 관제</learnModulName>
+<learnModulText>지역관제 업무, 항공로 관제, 비행자료 단말기(FDT, Flight Data Terminal) 운용, 계기비행 허가, 항로 허가, 항공로</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203148</learnModulSeq>
+<learnModulName>비정상 상황관제</learnModulName>
+<learnModulText>비정상 상황, 조난, 긴급, 통신두절, 피랍 및 불법간섭, 항공기 엔진 고장, 유압계통 고장, 착륙장치 고장, 항행 안전장치 고장, 관제기관 우발 상황</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203149</learnModulSeq>
+<learnModulName>경보대응</learnModulName>
+<learnModulText>비정상 상황, 불확실 상황, 경보 상황, 조난 상황, 수색구조업무, 경보소, 구조조정본부, IAMSAR, INMARSAT, Overdue</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203150</learnModulSeq>
+<learnModulName>항공교통 안전관리</learnModulName>
+<learnModulText>항공교통 안전관리, 위험요소, 위험 추정, 위험도 평가, 위험관리, 위험도, 위험 완화 방안, SMS(Safety Management System)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203151</learnModulSeq>
+<learnModulName>공역관리</learnModulName>
+<learnModulText>항공기, 항공로, 관제공역, 비관제공역, 비행정보구역, 공역 등급, 공역위원회, 공역실무위원회, 특수사용공역, 국가공역관리시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항공교통관제</ncsSubdCdnm>
+<learnModulSeq>EDU20161203152</learnModulSeq>
+<learnModulName>항공교통 흐름 관리</learnModulName>
+<learnModulText>공항 수용량, 항공로 수용량, 항공교통 흐름 관리, 기본 용량, 슬럿, DORATASK, 항공교통 흐름관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203167</learnModulSeq>
+<learnModulName>비행계획수립</learnModulName>
+<learnModulText>비행계획, 항공운항, 항공정보, 항공고시보, 노선 지침서, 항로 선정, 항공기상, 교체 공항, 항행안전시설, 항법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203168</learnModulSeq>
+<learnModulName>비행계획서작성</learnModulName>
+<learnModulText>비행계획, 순항고도, 비행시간, 탑재연료, 항공고시보, 노선지침서, 항공기 성능, 항공기상, 항법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203169</learnModulSeq>
+<learnModulName>운항허가확인</learnModulName>
+<learnModulText>운항허가, 항로, 허가 절차, 운항계획, 항공정보 간행물, 항공 고시보, 항공협정, 노선 분석, 비행계획서, 제한사항, 운항일정표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203170</learnModulSeq>
+<learnModulName>항공정보활용</learnModulName>
+<learnModulText>항공고시보(NOTAM), 항공정보 간행물(AIP), 비행계획서(FPL), 항공고정통신망(AFTN), 항공로 지도(Enroute Chart),국제민간항공기구(ICAO), 설빙고시보(SNOWTAM), 화산재고시보(ASHTAM)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203171</learnModulSeq>
+<learnModulName>운항브리핑</learnModulName>
+<learnModulText>일기도, 정시관측(METAR), 특별관측(SPECI), 공항예보(TAF), 공항경보(Warning), 중요기상예보(SIGWX), 세계공역예보시스템(WAFS), 비행계획서, AIP, AIRAC, AIC, 항공고시보(NOTAM)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203172</learnModulSeq>
+<learnModulName>비행감시</learnModulName>
+<learnModulText>비행감시, 항공기상, 항공고시보(NOTAM), 항공고정통신망(AFTN), 중량 및 평형(Weight &amp;amp;amp;amp; Balance), VHF/HF 무선통신망, ACARS, 위성통신(SATCOM), 국제항공통신협회(SITA), 에어링크(ARINC)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203173</learnModulSeq>
+<learnModulName>비정상 상황관리</learnModulName>
+<learnModulText>회항, 항공기 사고, 결항, 지연, 공수비행, 정비 이월, 운항 통제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203174</learnModulSeq>
+<learnModulName>항공기 운항스케줄관리</learnModulName>
+<learnModulText>가용 항공기, MEL/CDL, 가용 승무원, 승무원 편조, 승무원 근무 시간, CRS, 지상 조업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203175</learnModulSeq>
+<learnModulName>운항결정</learnModulName>
+<learnModulText>일기도, METAR, SPECI, 공항예보(TAF), 공항경보(Warning), 중요 기상예보(SIGWX), 항공 고시보(NOTAM), 항공정보 간행물(AIP), 항공유무선통신망(AFTN, HF 등)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>운항관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161203176</learnModulSeq>
+<learnModulName>운항통제관리</learnModulName>
+<learnModulText>품질관리, 운항통제, 운항관리사, 점검 목록, 교육 훈련, 운항통제시스템, 안전관리시스템, 항공위험요소</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203154</learnModulSeq>
+<learnModulName>항공안전계획 수립 및 항공안전 보고</learnModulName>
+<learnModulText>안전, 안전목표, 안전지표, 안전성과 목표, 안전성과지표, 적정 안전성과목표, 안전요건, 안전관리시스템, 위해요인, 항공기사고, 항공기준사고, 항공안전장애, 경미한 항공안전장애, 의무보고, 자율보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203156</learnModulSeq>
+<learnModulName>항공위험 및 비상대응 관리</learnModulName>
+<learnModulText>위험요소(HAZARD), 위험(RISK), 매니지먼트(MANAGEMENT), Probability, Severity, RISK ASSESS, RISK SEVERITY, HFACS, 안전관리, 재난 및 안전관리 기본법, 비상대응훈련, 구조소방대, 유가족지원 지침서, 항공기사고수색구조매뉴얼, 화재예방, 소방시설 설치ㆍ유지 및 안전관리에 관한 법률/시행령/시행규칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203158</learnModulSeq>
+<learnModulName>비행안전 관리</learnModulName>
+<learnModulText>FOQA, 운항 Event, 운영한계, 비행자료 분석, 기장보고서, 조사, 안전권고, 안전지시, 안전교육, 위험분석, 운영절차, 비행매뉴얼</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203159</learnModulSeq>
+<learnModulName>항공사건·사고 조사</learnModulName>
+<learnModulText>사고, 준사고, 사고조사단장, 사고조사, 예비조사, 비행기록장치, 사고원인, 기여요인, 안전권고, 국제민간항공기구(ICAO)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203161</learnModulSeq>
+<learnModulName>에어사이드 운영절차 수립</learnModulName>
+<learnModulText>활주로, 유도로, 계류장, 공항인증, 공항운영규정, 공항안전운영기준, ICAO, 항공학적 검토, 이동지역</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203162</learnModulSeq>
+<learnModulName>지상안전 관리</learnModulName>
+<learnModulText>지상 조업 절차, 장비 작동 방법, 지상 장비, 작업대, 이동지역, 특수 장비, 안전 교육, 안전 규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203163</learnModulSeq>
+<learnModulName>공항이동지역 안전관리</learnModulName>
+<learnModulText>야생동물 위험관리, 운전자 관리, 차량등록, 마찰측정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203164</learnModulSeq>
+<learnModulName>공항안전관리시스템 운영 및 항공 안전문화 증진</learnModulName>
+<learnModulText>안전성과목표, 안전성과지표, 안전요건, 위해요소, 위해요소 식별, 위험평가, 위험경감, 안전보고제도, 비처벌 보고문화, 안전정보, 의무보고, 자율보고, 항공안전장애, 안전문화, 안전증진 활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203165</learnModulSeq>
+<learnModulName>항공인적요인 관리</learnModulName>
+<learnModulText>안전, 안전목표, 안전지표, 안전성과 목표, 안전성과지표, 적정 안전성과목표, 안전요건, 안전관리시스템, 위해요인, 항공기사고, 항공기준사고, 항공안전장애, 경미한 항공안전장애, 의무보고, 자율보고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>항공안전</ncsSubdCdnm>
+<learnModulSeq>EDU20161203166</learnModulSeq>
+<learnModulName>안전품질 평가</learnModulName>
+<learnModulText>품질 심사, 부적합, 시정조치, 원인 분석결과, 개선대책, 안전 품질심사 기준, 제반 규정 절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203177</learnModulSeq>
+<learnModulName>항공보안 기획</learnModulName>
+<learnModulText>항공보안, 항공보안법규, 보안정책, 자체보안계획, 보호구역, 출입증, 협력사관리, 보안대책, 보안관리감독</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203178</learnModulSeq>
+<learnModulName>항공 보안검색 및 화물 보안검색</learnModulName>
+<learnModulText>항공보안(Security), 보안검색(Screening), 보안통제(Security control), 항공기내보안요원, 항공보안 검색요원, 항공경비요원, 항공보안검색감독자 또는 항공경비감독자, 보호구역 출입증(Identification permit), 신원조사(Background check), 반입금지물품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203179</learnModulSeq>
+<learnModulName>항공기 보안</learnModulName>
+<learnModulText>항공기 보안, 항공사 보안, 의심물품 신고, 위해물품, 기내식 보안, 항공기 보호, 기내 출 입통제, 보호구역, 보안제한구역</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203180</learnModulSeq>
+<learnModulName>보호구역 경비 및 출입통제</learnModulName>
+<learnModulText>항공보안, 공항보안, 공항경비, 보호구역, 출입증, 신원조사, 사진촬영, 출입 인원 확인, 출입 차량 확인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203181</learnModulSeq>
+<learnModulName>항공보안 장비 관리</learnModulName>
+<learnModulText>‘항공보안장비 종류, 성능 및 운영기준’(국토교통부 고시), 보안장비, 기내보안장비, 유지보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203182</learnModulSeq>
+<learnModulName>항공보안 현장 감독</learnModulName>
+<learnModulText>항공보안, 보안검색감독, 보안경비감독, 항공기 경비감독, 화물보안감독, 항공화물, 상용화주, 보안통제, 통제화물, 보안시설, 검색장비, 엑스선 검색장비, 금속탐지장비, 폭발물탐지장비, 폭발물 흔적탐지장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203183</learnModulSeq>
+<learnModulName>항공보안 교육 및 수준 관리</learnModulName>
+<learnModulText>항공보안(aviation security), 국제민간항공기구(International Civil Aviation Organization), 보안검색(Security Screening), 보호구역(Airside), 불법 방해 행위(Act of unlawful Interference), 인증(Certification), 보안점검(Security Inspection), 보안평가(Security Audit), 현장조사(Security Survey)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>항공보안</ncsSubdCdnm>
+<learnModulSeq>EDU20161203184</learnModulSeq>
+<learnModulName>항공보안 비상상황 관리 및 위기 관리</learnModulName>
+<learnModulText>불법 방해 행위, 취약지점, 공항/항공보안, 위기관리, 보안대책, 위험수준, 수준관리지침, 중요지역, 취약성, 테러리스트, 탑승금지자(No-Fly), 탑승가능자(Selectee), 공항발권, 의심승객, 휴대수하물, 항공기 납치, 폭발물처리반, 폭발물 처리요원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200070</learnModulSeq>
+<learnModulName>항공여객예약기록 작성</learnModulName>
+<learnModulText>CRS(Computerized Reservation System), 도시코드, 항공스케줄, PNR(Passenger Name Record), 예약등급(Booking Class), 예약코드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200071</learnModulSeq>
+<learnModulName>항공여객예약 관리</learnModulName>
+<learnModulText>병약승객, 스트레처(Stretcher), 비동반소아, 반려동물동반승객, 단체예약, 큐(Queue), 예약코드, 항공편 스케줄 변경</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200072</learnModulSeq>
+<learnModulName>항공여객부대서비스 관리</learnModulName>
+<learnModulText>호텔 예약, 렌트카 예약, STPC, 상용고객프로그램, 마일리지, 기내식, 사전좌석배정, 항공사별 특 별서비스, 출입국 규정, 사전입국심사제도(APIS, EBS), 수하물 규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200073</learnModulSeq>
+<learnModulName>항공운임 산출</learnModulName>
+<learnModulText>항공운임 기반지식, 방향지표, 공시운임과 판매가, 항공운임체계, 거리제도(Mileage System)와 여정제도(Routing System), 할인운임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200074</learnModulSeq>
+<learnModulName>항공운임보완규정 적용</learnModulName>
+<learnModulText>거리제도 규정, 운임계산 규정, 복합여정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200075</learnModulSeq>
+<learnModulName>항공권 발행</learnModulName>
+<learnModulText>항공운송증표류, 전자항공권, 전자항공권 확인증, 항공권 재고(stock), 정산협약(agreement), 발권 구성요소, 항공권재승인(revalidation), BSP, BSP LINK, 국제항공운송협회(IATA)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200076</learnModulSeq>
+<learnModulName>항공권 재발행</learnModulName>
+<learnModulText>여정변경, 재계산, 재발행(Reissue), 비정상운항, Involuntary, 환불, EMD (Electronic Miscellaneous Document), 환불금 계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200137</learnModulSeq>
+<learnModulName>탑승수속</learnModulName>
+<learnModulText>Check-in Counter, DCS(Departure Control System), Special Tag, TWOV(Transit WithOut Visa), VISA, Passport, Boarding Pass, TIMATIC(Travel Information Manual), PNR(Passenger Name Record)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200139</learnModulSeq>
+<learnModulName>탑승수속 관리</learnModulName>
+<learnModulText>플라이트 에디팅, 특수승객, 초과예약, 탑승거절 보상금(DBC), FMO(Final Meal Order)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200141</learnModulSeq>
+<learnModulName>수하물사고 처리</learnModulName>
+<learnModulText>World Tracer(수하물추적시스템), P.I.R(수하물사고신고서), BHS(수하물처리시스템), BRS(수하물일 치시스템)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200143</learnModulSeq>
+<learnModulName>수하물 탑재 · 하기 점검</learnModulName>
+<learnModulText>Weight and Balance(탑재관리, Load Control), ULD(탭재용기), Loadsheet(로드시트)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200145</learnModulSeq>
+<learnModulName>비정상운항 관리</learnModulName>
+<learnModulText>비정상 운항, 지연, 결항, 회항, 경로 변경, 시스템 장애, 승객 안내 및 정보 제공, 비정상 운항 유형별 조치, 승객 비정상의 유형, 탑승 거절 보상 제도.</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200149</learnModulSeq>
+<learnModulName>항공여객서비스 고객 응대</learnModulName>
+<learnModulText>고객서비스 마인드, 고객서비스 매너</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20180100012</learnModulSeq>
+<learnModulName>출발과 도착 업무</learnModulName>
+<learnModulText>탑승절차, 비정상운항, 하기절차, CIQ (Customs, Immigration  Quarantine), INAD(Inadmissible), DEPO(Deportee), 환승, BPR(Boarding Pass Reader), 여행서류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>05</ncsSubdCd>
+<ncsSubdCdnm>항공여객운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20180100024</learnModulSeq>
+<learnModulName>항공여객서비스 개요 분석</learnModulName>
+<learnModulText>하늘의 자유, GDS/CRS(컴퓨터예약시스템), BSP(비에스피), ATR(에이티알), RM(수익성 관리)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200151</learnModulSeq>
+<learnModulName>화물의 흐름관리</learnModulName>
+<learnModulText>항공화물 수출업무 절차, 항공화물운송장, 항공화물운송 관련서류(인보이스: Invoice, 포장명세서: Packing List 등)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200153</learnModulSeq>
+<learnModulName>항공화물운임 결정</learnModulName>
+<learnModulText>항공화물 운임요율, 운임결정의 일반원칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200155</learnModulSeq>
+<learnModulName>항공화물 예약</learnModulName>
+<learnModulText>플래닝, No Show, Go Show, 운송데이터(트래킹)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200160</learnModulSeq>
+<learnModulName>터미널 운영</learnModulName>
+<learnModulText>공항시설, 위험품, IATA Airport Handling Manual, 적하목록 사전제출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200161</learnModulSeq>
+<learnModulName>Ramp 조업</learnModulName>
+<learnModulText>항공보안(Security), 보안검색(Screening), 램프조업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200162</learnModulSeq>
+<learnModulName>장비운영</learnModulName>
+<learnModulText>RAMP, 터미널, 보안검색장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200163</learnModulSeq>
+<learnModulName>단위탑재용기(ULD) 운영</learnModulName>
+<learnModulText>단위탑재용기(ULD), 컨테이너, 팔레트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200164</learnModulSeq>
+<learnModulName>항공기 탑재관리</learnModulName>
+<learnModulText>Center of Load Control, Weight and Balance, Load Controller, Load Controller 자격증 (Load Controller Certificate), Weight and Balance System, FM (Altea Departure Control – Flight Management), PCWB (PC base Weight  Balance System)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200165</learnModulSeq>
+<learnModulName>CIQ 관리</learnModulName>
+<learnModulText>검역관련 법규(식품위생법, 식물방역법), 현품(정밀) 검사 견본물품의 반출 절차</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200166</learnModulSeq>
+<learnModulName>항공화물 클레임처리</learnModulName>
+<learnModulText>항공화물 클레임, 항공화물 운송약관, 적하목록(Manifest), 항공화물운송장(AWB)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200168</learnModulSeq>
+<learnModulName>위험품 취급</learnModulName>
+<learnModulText>위험물, 위험물 용기, 탑재규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200169</learnModulSeq>
+<learnModulName>생동물 취급</learnModulName>
+<learnModulText>생동물, 운송서류, 생동물 용기, 탑재규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>항공운항</ncsSclasCdnm>
+<ncsSubdCd>06</ncsSubdCd>
+<ncsSubdCdnm>항공화물운송서비스</ncsSubdCdnm>
+<learnModulSeq>EDU20171200170</learnModulSeq>
+<learnModulName>기타 특수화물 취급</learnModulName>
+<learnModulText>유해(HUM)항공운송, 중량/대형화물, 귀중품, 부패성화물, 외교행랑, 항공우편물, 운송관련 서류 (운송장, 사망진단서, 방부증명서, 영사확인서 등)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200038</learnModulSeq>
+<learnModulName>계기착륙시설 운영</learnModulName>
+<learnModulText>국제민간항공기구(ICAO), 미연방항공청(FAA), 계기착륙시설(ILS), 방위각시설(LOC), 활공각시설(GP), 거리위치표지시설(MKR), 비행검사(Flight Inspection)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200039</learnModulSeq>
+<learnModulName>전방향표지시설 운영</learnModulName>
+<learnModulText>국제민간항공기구(ICAO), 미연방항공청(FAA), 전방향표지시설(VOR), 비행검사(Flight Inspection), 방위각 (AZ)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200040</learnModulSeq>
+<learnModulName>전술항행표지시설 운영</learnModulName>
+<learnModulText>전술항행, ICAO, FAA, 예방정비지침서, 유지보수절차서, 비행검사, 항행안전시설</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200041</learnModulSeq>
+<learnModulName>거리측정시설 운영</learnModulName>
+<learnModulText>국제민간항공기구(ICAO), 미연방항공청(FAA), 전방향표지시설(VOR), 비행검사(Flight Inspection), 거리측 정시설(DME), 전방향표지시설(VOR)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200042</learnModulSeq>
+<learnModulName>무지향표지시설 운영</learnModulName>
+<learnModulText>무지향, ICAO, FAA, 예방정비, 유지보수, 비행검사, 무선유도, 예방정비지침서, 유지보수 절차서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200043</learnModulSeq>
+<learnModulName>공항감시레이더시설 운영</learnModulName>
+<learnModulText>국제민간항공기구(ICAO), 미연방항공청(FAA), 공항감시레이더(ASR), 1차 감시레이더(PSR), 2차 감시레이더(SSR), 공항레이더 자료처리장치(ARTS/RDPS), 공중충돌경고장치(ACAS), 최저안전고도경보장치(MSAW: Minimum Safe Altitude Warning System), 항공기 주소(Aircraft Address), 충돌 회피 논리(Collision avoidance logic)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200044</learnModulSeq>
+<learnModulName>항로감시레이더시설 운영</learnModulName>
+<learnModulText>레이더, 1차 항로감시 레이더, 2차 항로감시 레이더, 항로감시레이더 자료 자동처리시설, 공항감시레이더, 지상감시레이더, 비행검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200045</learnModulSeq>
+<learnModulName>지상감시레이더시설 운영</learnModulName>
+<learnModulText>지상감시레이더, 지상감시레이더 자료 자동처리시설, 다변측정감시시설, 자동종속감시시설, 레이더 자료 자 동처리시설, 국제민간항공기구(ICAO), 미연방항공청(FAA)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200046</learnModulSeq>
+<learnModulName>정밀진입감시레이더시설 운영</learnModulName>
+<learnModulText>정밀진입감시레이더, ICAO, FAA, 예방정비, 유지보수, 비행검사, 자동처리시설, 비행검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200047</learnModulSeq>
+<learnModulName>자동종속감시방송시설 운영</learnModulName>
+<learnModulText>자동종속감시시설(ADS), 모드S. 위성항행시스템. 다변측정감시시설. 아스트릭스포멧, 원격모니터링시스템 (RCMS), 지역모니터링시스템(LCMS), 안테나증폭유니트(AAU), 자동종속감시시설 계약(ADS contract)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200048</learnModulSeq>
+<learnModulName>다변측정감시시설 운영</learnModulName>
+<learnModulText>다변측정감시시설, 지상국, 중앙데이터처리시설, 장비기술도서, 예방정비지침서, 유지보수 절차서, 비행검사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200049</learnModulSeq>
+<learnModulName>지상기반정보보정시설 운영</learnModulName>
+<learnModulText>항공기기반 보정시스템(ABAS) 경계경보(alert), 경계경보제한(alert limit), 표준 정확도 채널(CSA), 핵심위성군(Core satellite constellation), 글로벌항법위성시스템(GNSS), 위성항법시스템(GLONASS), 위성항법시스템(GPS), 지상기반정보보정시스템(GBAS), 지상기반지역보정시스템(GRAS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200050</learnModulSeq>
+<learnModulName>위성기반정보보정시설 운영</learnModulName>
+<learnModulText>위성기반정보보정시설(SBAS), 기준국, 통합운영국, 위성통신국, 예방정비지침서, 유지보수절차서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>09</ncsLclasCd>
+<ncsLclasCdnm>운전·운송</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>항공운전·운송</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>항행안전시설</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>항행안전무선시설운영관리</ncsSubdCdnm>
+<learnModulSeq>EDU20201200051</learnModulSeq>
+<learnModulName>항행안전시설 기술동향 분석</learnModulName>
+<learnModulText>공중충돌경고장치(ACAS), 글로벌항행위성시스템(GNSS), 글로벌위치결정 시스템(GPS), 무인비행장치(UAV), 미래항행시스템(FANS), 첨단지상이동통제시스템(A-SMGCS), 항공고정통신망(AFTN)</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>339</totCnt>
+</dataInfo>
+</root>

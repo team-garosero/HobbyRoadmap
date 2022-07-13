@@ -46,13 +46,12 @@ public class SearchListFragment extends Fragment {
         void onDataChange(int position);
     }
 
-    public SearchListFragment(int position){
-        this.position = position;
-    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+        this.position = getArguments().getInt("position",0);
+
         root = inflater.inflate(R.layout.fragment_search_list, container, false);
         recycler = root.findViewById(R.id.recycler);
 

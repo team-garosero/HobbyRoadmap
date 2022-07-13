@@ -1,0 +1,3666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700448</learnModulSeq>
+<learnModulName>사업 환경 분석</learnModulName>
+<learnModulText>SWOT(strengths, weaknesses, opportunities,threats) 분석, 거시적 환경 분석, 자사 분석, 고객 분석, 경쟁사 분석, 마이클 포터의 산업 구조 분석, 자사 내부 역량 분석, 사업 구조 분석 BCG 성장-점유율 매트릭스, GE 시장 매력도-경쟁 위치(사업 강점) 매트릭스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700449</learnModulSeq>
+<learnModulName>경영 방침 수립</learnModulName>
+<learnModulText>경영 철학, 경영 목표, 경영 전략, 경영 방향, 기업 비전, 사명(미션), 핵심 가치, 기업 문화, 경영 기반, 경영 흐름 로드맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700451</learnModulSeq>
+<learnModulName>경영 계획 수립</learnModulName>
+<learnModulText>시장 환경 동향, 경영 환경 분석 기법, 사업별 포트폴리오 분석 기법, 핵심 성과 지표에 대한 개념, 자사 사업 포트폴리오 현황, 경영 목표 설정 방법론, 성과관리 기법, 핵심 성과 지표 설정 기법, 사업 포트폴리오 분석 기법, 사업별 로드맵 작성 기법, 사업별 핵심 성과 지표에 대한 개념</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700454</learnModulSeq>
+<learnModulName>신규 사업 기획</learnModulName>
+<learnModulText>신규 사업 모델링 프로세스, 손익 계산서, 현금 흐름표, 회계 원가 분석, 타당성, 투자 리스크, 핵심성과 지표, 마케팅 조사 방법, SWOT, 가치 사슬 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700456</learnModulSeq>
+<learnModulName>사업별 투자 관리</learnModulName>
+<learnModulText>경영 전략, 환경 분석, 가치 사슬, BCG 매트릭스, 사업 전략, 매출액 추정, 순 현재 가치, 경영 계획, 균형 성과표, 재무 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700459</learnModulSeq>
+<learnModulName>예산관리</learnModulName>
+<learnModulText>예산, 예산 계획, 예산 편성, 예산 주기, 예산 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700461</learnModulSeq>
+<learnModulName>경영 실적 분석</learnModulName>
+<learnModulText>경영 프로세스, 성과 측정, 지표 운영 정의서, 기업 가치 평가 지표, 핵심 성과 지표, 회의체 구성, 경영 정보 시스템, 기업 가치, 목표-실적 차이 분석(gap analysis)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700464</learnModulSeq>
+<learnModulName>경영 리스크 관리</learnModulName>
+<learnModulText>경영 리스크, 리스크 관리, 위험 수준 구간, 회의체 구성, 전사적 리스크 관리(enterprise risk management) 시스템, 기업 가치, 환경 분석 방법론, 가치 사슬 분석, 산업 구조 요인 분석, 핵심 리스크 지표(key risk indicator), 비상 계획(contingency plan)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>경영기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700467</learnModulSeq>
+<learnModulName>이해관계자 관리</learnModulName>
+<learnModulText>투자자, 투자 정보, 투자자 의사소통, 투자자 관리 활동, 협력사, 협력사 관리 프로파일, 협력사 관리 활동, 협력사 협의체, 위기 관리 계획, 지배구조, 유관 단체, 유관 단체 관리 프로파일, 유관 단체 전략적 관리 방안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700669</learnModulSeq>
+<learnModulName>경영평가계획수립</learnModulName>
+<learnModulText>경영 평가, 평가 목표, 경영 목표, 평가계획, 일정 계획 수립, 예산 수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700670</learnModulSeq>
+<learnModulName>경영평가정보수집</learnModulName>
+<learnModulText>경영 평가 정보, 재무제표, 재무적 정보 분석, 비재무적 정보 분석, 정보 보안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700671</learnModulSeq>
+<learnModulName>경영평가범위설정</learnModulName>
+<learnModulText>경영 평가 모델, 경영의 순환 과정, 평가 목적, 평가 계획, 평가 요소, 평가 영역, 평가 대상, 평가 범위, 공통 영역. 개별 영역, 재무적 기준, 비재무적 기준, 신뢰성, 타당성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700672</learnModulSeq>
+<learnModulName>경영평가방법설정</learnModulName>
+<learnModulText>PDCA 사이클, 의사 결정 전략, 맬컴 볼드리지 모델, 경영 평가 지표, 적절성·타당성 분석, 통계패키지 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700673</learnModulSeq>
+<learnModulName>경영평가도구개발</learnModulName>
+<learnModulText>평가 도구, 평가 지표, 평가 기준, 정량적 평가, 정성적 평가, 핵심 요인, 타당성, 신뢰성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700674</learnModulSeq>
+<learnModulName>경영평가활동수행</learnModulName>
+<learnModulText>평가 활동, 평가 목적, 평가 팀, 자격 요건, 인력 풀, 정량적 평가, 정성적 평가, 평가 결과, 의견 수렴</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700675</learnModulSeq>
+<learnModulName>경영평가결과보고서작성</learnModulName>
+<learnModulText>기초 통계, 경영 평가 분석, 문서OA작성 능력, 기획 보고서 작성 능력, 평가 시트지, 성과 측정, 지표 운영 정의서, 핵심 성과 지표, 경영 정보 시스템, 기업 가치, 성과 통제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700676</learnModulSeq>
+<learnModulName>경영평가모니터링</learnModulName>
+<learnModulText>경영 평가 모니터링, 경영의 순환 과정, 평가 목적, 평가 계획, 평가 요소, 평가 영역, 평가 대상, 평가 범위, 공통 영역. 개별 영역, 재무적 기준, 비재무적 기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>경영기획</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>경영평가</ncsSubdCdnm>
+<learnModulSeq>EDU20150700677</learnModulSeq>
+<learnModulName>경영평가사후관리</learnModulName>
+<learnModulText>정보 수집 기술(인터뷰, 설문 조사), 신뢰성 분석, 특성 요인도, 6시그마 기법, 파레토 그림</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700679</learnModulSeq>
+<learnModulName>홍보전략수립</learnModulName>
+<learnModulText>환경 분석 기법, 모니터링 분석, 기업 홍보 방향, 목표의 요건, 홍보 컨셉트, 핵심 메시지, 홍보 전략, 전략 과제, 운용 계획, 홍보 전략 기획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700680</learnModulSeq>
+<learnModulName>온라인홍보</learnModulName>
+<learnModulText>온라인 채널, 트래픽, 컨텐츠 제작, 바이럴, 검색 엔진, 저작권, 개인정보보호정책, 분석 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700681</learnModulSeq>
+<learnModulName>출판홍보</learnModulName>
+<learnModulText>출판 홍보, 출판 기획, 출판 계획, 기사 작성 및 편집, 원고청탁, 카피 작성법, 독자 관리, 출판홍보 활동 평가서, 출판물 유통관리, 출판 제작</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700682</learnModulSeq>
+<learnModulName>언론홍보</learnModulName>
+<learnModulText>메시지, 언론 매체, 홍보 계획 광고 환산표, 지상파, 종합 편성 채널, 소셜 미디어, 포털 뉴스, 인터넷 매체, 전문지, 온·오프라인 매체, 핵심 성과 지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700683</learnModulSeq>
+<learnModulName>기업문화전파</learnModulName>
+<learnModulText>기업 문화, 전파 현황 조사, 메시지 개발, 커뮤니케이션 방법, 예산 편성, 일정 수립, 성과 지표, 전파 계획서, 전파 캠페인, 전파 활동 평가서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700685</learnModulSeq>
+<learnModulName>사회공헌활동</learnModulName>
+<learnModulText>사회공헌활동(CSR), 성과 지표, 프로그램 기획, 계획서, 평가서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700686</learnModulSeq>
+<learnModulName>위기대응커뮤니케이션</learnModulName>
+<learnModulText>위기 파악, 상황별 위기 대응, 전략 시나리오, 위기 커뮤니케이션, 실행 체계, 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20150700687</learnModulSeq>
+<learnModulName>홍보활동종합평가</learnModulName>
+<learnModulText>보 활동, 홍보 효과, 홍보 전략, 평가 계획, 종합 평가 지표, 종합 평가 지표 가중치, 평가 도구, 종합 평가 도구, 종합 평가 계획, 평가 조직, 종합 평가서, 평가 결과 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>PR</ncsSubdCdnm>
+<learnModulSeq>EDU20160800022</learnModulSeq>
+<learnModulName>기업홍보 모니터링</learnModulName>
+<learnModulText>홍보, 모니터링, 언론, 온라인, 오프라인</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101678</learnModulSeq>
+<learnModulName>PR 전략 수립</learnModulName>
+<learnModulText>모니터링 분석, 환경 분석 기법, 목표의 요건, PR 매체, PR 전략, 운용 계획, PR 전략 기획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101679</learnModulSeq>
+<learnModulName>PR 메시지 개발</learnModulName>
+<learnModulText>메시지 분석, 커뮤니케이션, PR 콘셉트, 브랜드 아이덴티티, 핵심 메시지, PR 타이밍, 타깃 공중, 매체 선택, 메시지 집짓기, EOB 법칙</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101680</learnModulSeq>
+<learnModulName>PR 프로그램 실행</learnModulName>
+<learnModulText>PR 콘텐츠, 보도자료 작성, 보도자료 배포, PR 동영상 제작, 온라인 포스팅, SNS　포스팅, PR 콘텐츠 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101681</learnModulSeq>
+<learnModulName>PR 활동 평가</learnModulName>
+<learnModulText>PR 활동 평가, PR 활동 측정, 아웃풋, 아웃컴, 모니터링, 자료 조사, 표본 집단, 보고서, 분석 기준, 원인 분석, 통계 분석, 효과 분석 측정, SNS</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101682</learnModulSeq>
+<learnModulName>광고 전략 수립</learnModulName>
+<learnModulText>환경 분석 기법(PEST, SWOT 분석), 시사점 및 전략 과제, 광고 목표, 표적 청중(Target Audience), 광고 콘셉트, 소구 전략, 광고 매체, 매체 목표, 광고 예산 편성, 광고 전략 기획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101684</learnModulSeq>
+<learnModulName>광고 메시지 개발</learnModulName>
+<learnModulText>광고 크리에이티브, 광고화, 광고 콘셉트, 표현 콘셉트, 광고 콘텐츠, 광고 메시지, 카피라이팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101685</learnModulSeq>
+<learnModulName>광고 효과 평가</learnModulName>
+<learnModulText>광고 효과 평가 기준, 광고 효과 조사 기법, 광고 효과 분석 보고서, 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101686</learnModulSeq>
+<learnModulName>브랜드 평가</learnModulName>
+<learnModulText>브랜드 자산, 브랜드 자산 측정 시스템, 브랜드 진단, 브랜드 트래킹 조사, 브랜드 관리 매뉴얼, 브랜드 인지도, 브랜드 충성도, 브랜드 연상, 브랜드 자산 성과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101952</learnModulSeq>
+<learnModulName>광고 집행 관리</learnModulName>
+<learnModulText>광고 목표, 광고 매체, 광고 예산, 매체 목표, 매체 예산 편성, 매체 집행, 표적 청중(Target Audience), 광고량, 매체 스케줄, 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101953</learnModulSeq>
+<learnModulName>브랜드 기획</learnModulName>
+<learnModulText>브랜드 네임, 브랜드 디자인, 브랜드 플랫폼, 브랜드 체계, 브랜드 구조, 브랜드 매트릭스, 브랜드 아아덴티티, 브랜드 포지셔닝, 브랜드 인지도, 브랜드 이미지, 상표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>홍보·광고</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>광고</ncsSubdCdnm>
+<learnModulSeq>EDU20160101954</learnModulSeq>
+<learnModulName>브랜드 관리</learnModulName>
+<learnModulText>브랜드 인지도, 브랜드 재인, 브랜드 회상, 최초 상기, 브랜드 수명 주기, 브랜드 자산, 브랜드 확장, 브랜드 포트폴리오, 제품·브랜드 매트릭스, 글로벌 브랜딩</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100767</learnModulSeq>
+<learnModulName>마케팅전략 계획 수립</learnModulName>
+<learnModulText>마케팅 전략, 경영 전략, 마케팅 환경, SWOT 분석, 매출액 분석, 마케팅 커뮤니케이션, 손익분기점, 시장 환경 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100768</learnModulSeq>
+<learnModulName>신상품 기획</learnModulName>
+<learnModulText>신규 아이템, 아이디어 수집, 아이디어 분류, 아이디어 평가, 사업 타당성 분석, 신상품 출시 전략, 콘셉트 설정 전략, 기술 타당성 분석, 수익성 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100769</learnModulSeq>
+<learnModulName>STP전략 수립</learnModulName>
+<learnModulText>SWOT 분석, STP전략, 시장세분화, 세분화 변수, 세분시장, 동질성, 목표시장, 비차별화 전략, 차별화 전략, 집중화 전략, 수익률, 포지셔닝(positioning), 포지셔닝맵(positioning map), 재포지셔닝</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100770</learnModulSeq>
+<learnModulName>마케팅 믹스 전략 수립</learnModulName>
+<learnModulText>마케팅 믹스, 제품 믹스, 서비스 믹스, 제품 지원 서비스, 제품 포트폴리오, 브랜드 자산, 가격 전략, 유통 경로(마케팅 경로) 전략, 촉진 전략, 통합 마케팅 커뮤니케이션(IMC)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100771</learnModulSeq>
+<learnModulName>신 유통경로 마케팅</learnModulName>
+<learnModulText>신 유통 경로, 디지털 경로, 디지털 환경, 디지털 마케팅, 마케팅 전략, 마케팅 목표, 실행 방안, 실행 매뉴얼, 성과 측정, 성과 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100772</learnModulSeq>
+<learnModulName>전략적 제휴</learnModulName>
+<learnModulText>전략, 제휴, 경영 전략, 마케팅 전략, 핵심 역량, 시장 환경 분석, 성과 분석, 협상, 계약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20160100773</learnModulSeq>
+<learnModulName>성과관리</learnModulName>
+<learnModulText>성과 관리 평가, 정보 수집 기술(인터뷰, 설문 조사), 마케팅 활동 개선, 마케팅 전략 실행과 환류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100457</learnModulSeq>
+<learnModulName>마케팅전략 계획수립</learnModulName>
+<learnModulText>마케팅 전략, 경영 전략, 마케팅 환경, SWOT 분석, 매출액 분석, 마케팅 커뮤니케이션, 손익 분기점, 시장 환경 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100458</learnModulSeq>
+<learnModulName>마케팅시장 환경분석</learnModulName>
+<learnModulText>마케팅 전략, 경영 전략, 마케팅 환경, SWOT 분석, 매출액 분석, 마케팅 커뮤니케이션, 손익 분기점, 시장 환경 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100459</learnModulSeq>
+<learnModulName>STP전략 수립</learnModulName>
+<learnModulText>SWOT 분석, STP전략, 시장세분화, 세분화 변수, 세분시장, 동질성, 목표시장, 비차별화 전략, 차별화 전략, 집중화 전략, 수익률, 포지셔닝(positioning), 포지셔닝맵(positioning map), 재포지셔닝</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100460</learnModulSeq>
+<learnModulName>STP전략 타당성 분석</learnModulName>
+<learnModulText>시장 세분화(segmentation), 목표[표적] 시장의 선정(targeting), 포지셔닝(positioning), 시장 분석, 시장 세분화 분석 보고서, 목표 시장 분석 보고서, 포지셔닝 분석 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100461</learnModulSeq>
+<learnModulName>마케팅믹스전략 수립</learnModulName>
+<learnModulText>마케팅 믹스, 제품 믹스, 서비스 믹스, 제품 지원 서비스, 제품 포트폴리오, 브랜드 자산, 가격 전략, 유통 경로(마케팅 경로) 전략, 촉진 전략, 통합 마케팅 커뮤니케이션(IMC)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100462</learnModulSeq>
+<learnModulName>마케팅믹스전략 실행계획 수립</learnModulName>
+<learnModulText>제품 믹스, 제품 수명 주기, 특수한 제품 수명 주기, 제품 포트폴리오, 가격 조정, 심리적 가격, 결합 제품 가격, 유통 경로 커버리지, 마케팅 메시지, 촉진 믹스, 촉진 예산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100463</learnModulSeq>
+<learnModulName>마케팅 성과관리</learnModulName>
+<learnModulText>성과 관리 평가, 정보 수집 기술(인터뷰, 설문 조사), 마케팅 활동 개선, 마케팅 전략 실행과 환류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>마케팅전략기획</ncsSubdCdnm>
+<learnModulSeq>EDU20200100464</learnModulSeq>
+<learnModulName>마케팅 성과파악</learnModulName>
+<learnModulText>성과관리, 성과 지표, BSC(균형 성과 지표), KPI(핵심 성과 지표), 마케팅 자료 수집, 마케팅 성과 파악</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200062</learnModulSeq>
+<learnModulName>고객관리 계획수립</learnModulName>
+<learnModulText>고객관리, 전략목표, 기획수립, 자료수집, 실행방안, 예산편성, 환경분석, 우선순위, 실행예산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200063</learnModulSeq>
+<learnModulName>고객 데이터 관리</learnModulName>
+<learnModulText>고객 데이터, 고객관리, 데이터 수집, 데이터 관리, 데이터 유지, 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200064</learnModulSeq>
+<learnModulName>고객 분석</learnModulName>
+<learnModulText>고객가치, 고객니즈, 고객충성도, 고객세분화, VOC, 고객유지, 고객이탈, 데이터 마이닝</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200065</learnModulSeq>
+<learnModulName>고객관리 실행</learnModulName>
+<learnModulText>고객, 소비자, 고객 응대, 고객관계 유지, 고객관계 강화, 고객 응대 매뉴얼, 고객 유형, 고객 불만 응대 매뉴얼, 소통(커뮤니케이션) 전략, 수익성 예측</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200066</learnModulSeq>
+<learnModulName>고객지원</learnModulName>
+<learnModulText>고객, 고객요구사항, 고객응대, 요구사항 대응, 고객응대 매뉴얼, 담당자 교육, 이력관리, 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200067</learnModulSeq>
+<learnModulName>고객 필요 정보 제공</learnModulName>
+<learnModulText>STP분석, 통합마케팅커뮤니케이션, 마케팅믹스, 고객접점, 고객관계관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200068</learnModulSeq>
+<learnModulName>성과평가</learnModulName>
+<learnModulText>성과평가, 계획수립, 성과기준, 평가방법, 결과분석, 고객관리, 성과평가보고서, 운영방안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200069</learnModulSeq>
+<learnModulName>비정형 데이터 관리</learnModulName>
+<learnModulText>빅데이터, 데이터베이스, 비정형 데이터, 정형 데이터, 고객관리, 자료수집, 자료분석, 수집도구, 시스템구축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20181200030</learnModulSeq>
+<learnModulName>고객분석과 데이터 관리</learnModulName>
+<learnModulText>고객 분류 기준, 고객 정보 분석, 고객 범위, 고객 데이터 유형, 고객 데이터 수집, 데이터 제거, 데이터 추출, 데이터 보완, 데이터 관리 지침, 데이터 접근 권한</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>고객관리</ncsSubdCdnm>
+<learnModulSeq>EDU20181200031</learnModulSeq>
+<learnModulName>고객지원과 고객관리 실행</learnModulName>
+<learnModulText>고객 만족, 고객 지원, 이력 관리, 데이터베이스 관리, 고객 응대 매뉴얼, 고객 분쟁 처리, 고객 세분화, 커뮤니케이션 전략, 고객 관계 유지, 수익성 예측</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200223</learnModulSeq>
+<learnModulName>통계조사계획</learnModulName>
+<learnModulText>마케팅전략, 목표시장전략, 포지셔닝전략, 4P 믹스전략, 마케팅문제, 마케팅조사문제, 조사자료, 조사방법, 2차자료조사, 면접조사, FGI조사, 관찰조사, 서베이조사, AU 조사, 미디어조사, 상권조사, 고객만족조사, 조사계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200233</learnModulSeq>
+<learnModulName>표본설계</learnModulName>
+<learnModulText>모집단, 표본추출틀, 조사단위, 추출단위, 표본조사, 표본오차, 비표본오차, 확률표본추출방법, 랜덤, 계통, 층화, 집락, 표본크기, 표본배분</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200238</learnModulSeq>
+<learnModulName>설문설계</learnModulName>
+<learnModulText>설문설계, 조사목적, 척도, 변수, 분석모형, 조사항목, 설문지 구조화, 설문항목, 질문항목, 응답항목, 문항유형, 확률오차, 측정오차, 신뢰도, 타당도, 지문, 시안, 사전조사, 조사지침서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200241</learnModulSeq>
+<learnModulName>실사관리</learnModulName>
+<learnModulText>마케팅리서치, 조사원 선발, 실사 진행, 품질관리, 정합성 점검, 검증, 에디팅(editing), 코딩(coding), 펀칭(punching), 클리닝(cleaning)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200242</learnModulSeq>
+<learnModulName>자료처리</learnModulName>
+<learnModulText>부호화, 무응답 처리, 이상치 진단, 개방형 응답, 자료입력, 자료 정합성, 원시자료, 빈도표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200245</learnModulSeq>
+<learnModulName>자료분석</learnModulName>
+<learnModulText>마케팅전략, 자료의 신뢰성, 자료의 대표성, 가중치 부여하기, 기초통계, 가설검정, 고급통계, 분산분석, 카이자승분석, 상관분석, 회귀분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200251</learnModulSeq>
+<learnModulName>정성조사</learnModulName>
+<learnModulText>표적집단면접법(Focus Group Interview: FGI) 심층면접법(In-depth Interview: IDI) 토의실(Group Discussion Room: GD Room) 관찰실(Observation Room) 일면경(One-way mirror) 진행자(Moderator) 진행지침(Guideline) 선정질문(Screening Question) 캐묻기(Probing) 투사기법(Projective Technique)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20151200256</learnModulSeq>
+<learnModulName>보고서 작성</learnModulName>
+<learnModulText>보고서 형식, 보고서 디자인 서식, 목차, 보고서 스토리라인, 보고서 작성원칙, 보고서 작성기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100001</learnModulSeq>
+<learnModulName>기술통계분석</learnModulName>
+<learnModulText>기술통계, 추론통계, 빈도분석, 데이터 대표값, 추정, 가설 검정, 교차분석, 평균차이 검정, t검정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100002</learnModulSeq>
+<learnModulName>회귀분석</learnModulName>
+<learnModulText>신뢰도, 자료수집, 크롬바흐 알파, 회귀분석, 상관분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100003</learnModulSeq>
+<learnModulName>응용 통계분석</learnModulName>
+<learnModulText>다변량 분석, 요인분석, 컨조인트 분석, 비모수통계 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100004</learnModulSeq>
+<learnModulName>FGI 정성조사</learnModulName>
+<learnModulText>FGI(focus group interview), 표적집단면접법, 초점집단면접법, 개별 심층인터뷰(면접), FGI 설계, FGI 자 료 분석, FGI 결과 보고서, 정성조사, 설문지, 인터뷰</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100005</learnModulSeq>
+<learnModulName>심층인터뷰 정성조사</learnModulName>
+<learnModulText>FGI(focus group interview), 표적 집단면접법, 초점집단면접법, (개별)심층인터뷰 설계, (개별)심층인터뷰 실시, (개별)심층인터뷰 자료 분석, (개별)심층인터뷰 결과 보고서, 정성조사, 설문지, 질문지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100006</learnModulSeq>
+<learnModulName>2차자료 분석</learnModulName>
+<learnModulText>2차 자료, 2차 자료 선정, 2차 자료 수집, 2차 자료 분석, 자료 선정, 자료 수집, 자료 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>통계조사</ncsSubdCdnm>
+<learnModulSeq>EDU20210100007</learnModulSeq>
+<learnModulName>비즈니스 인텔리전스 지원</learnModulName>
+<learnModulText>비즈니스 인텔리전스, 경영 이슈 분석, 데이터 분석, 데이터 판별, 데이터 수집, 데이터 분석 방법, 데이터 가공, 데이터 해석, 데이터 분석 결과 보고, 정보보호</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100112</learnModulSeq>
+<learnModulName>상품매입</learnModulName>
+<learnModulText>산업구조, 제품수명주기, 매입 시스템, 경제적 주문량, 매입계획서, 가격, 매입계약서, 관계관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100113</learnModulSeq>
+<learnModulName>매장관리</learnModulName>
+<learnModulText>상품진열, 고객 구매심리, MD 관리, VMD 관리, 상품계획, 접객행동, 안전환경 관리, 고객안전 관리, 보안 및 고객정보 관리, POS․정산 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100114</learnModulSeq>
+<learnModulName>판매촉진 관리</learnModulName>
+<learnModulText>판매촉진 계획수립, 판매촉진 대상 고객선정, 판매촉진 도구, 판매촉진 수단, 가격관리, 고객 참여도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100115</learnModulSeq>
+<learnModulName>판매인력관리</learnModulName>
+<learnModulText>판매인력 계획, 판매인력 운용, 판매인력 교육, 인력수요예측, 적재적소 배치, 교육 프로그램, 직무능력 평가, 인당생산성, 직무 분석, 교육 만족도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100116</learnModulSeq>
+<learnModulName>고객관리</learnModulName>
+<learnModulText>고객 서비스 기준, 고객 파악, 상품 제시, 결제와 포장 및 배송, 고객불평 처리, 고객 응대, 고객관계관리(CRM: customer relationship management), 정보관리, 불량고객</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100117</learnModulSeq>
+<learnModulName>유통채널관리</learnModulName>
+<learnModulText>유통채널(channel), 유통경로, 구매고객(shopper), 소매업태(format), 옴니채널(omni channel), O2O마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100118</learnModulSeq>
+<learnModulName>상품기획</learnModulName>
+<learnModulText>상품분류(소분류, 중분류, 대분류), 산업재, 소비재, 제품계열, 제품믹스, 상품시장, SWOT 분석, 준거집단, 가격대(price zone), STP 분석, 상품구색, 상품구성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100119</learnModulSeq>
+<learnModulName>상권관리</learnModulName>
+<learnModulText>상권의 정의, 상권의 유형, 상권분석 자료, 상권정보, 상권분석, 상권지도, 경쟁점포, 경쟁전략, 포지셔닝 맵</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100120</learnModulSeq>
+<learnModulName>유통물류관리</learnModulName>
+<learnModulText>유통물류센터, 입출고, 재고, 동선, 제품 특성, 보관기기, 재고조사, 보안</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100121</learnModulSeq>
+<learnModulName>유통정보운영관리</learnModulName>
+<learnModulText>자료, 정보, 정보화, 정보화 단계, 업무 프로세스, 개선사항, 시험가동, 피드백, 유통정보 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100122</learnModulSeq>
+<learnModulName>성과관리</learnModulName>
+<learnModulText>재무적 성과, 비재무적 성과, 성과 측정, 판매인력평가, 성과 피드백, 균형성과지표, 역량개발</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>기획사무</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>마케팅</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>유통관리</ncsSubdCdnm>
+<learnModulSeq>EDU20220100123</learnModulSeq>
+<learnModulName>유통정보분석</learnModulName>
+<learnModulText>유통 고객정보, 유통 프로모션, 상품정보, 상품발주와 회전율, 점포별 상품분석, 매장정보, 성과지표 관리, 유통 신기술 데이터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700437</learnModulSeq>
+<learnModulName>사업 계획 수립</learnModulName>
+<learnModulText>비전, 중･장기 사업 전략, 환경 분석, 총무 기능, 환경 분석 도구, 전략 과제, 실행 계획, 예산 산출, 예산 배분</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700438</learnModulSeq>
+<learnModulName>행사 지원 관리</learnModulName>
+<learnModulText>연간 행사 운영 계획서, 행사 세부 운영 계획서, 체크리스트, 행사 시나리오, 결과 보고서, 의전, 체육 대회, 시무식, 종무식, 창립 기념식</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700439</learnModulSeq>
+<learnModulName>부동산 관리</learnModulName>
+<learnModulText>업무용 부동산 관리, 제세공과금, 재물 조사, 부동산 관리 규정, 부동산 관리 대장, 부동산 종합 보험, 부동산 유지 보수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700440</learnModulSeq>
+<learnModulName>비품 관리</learnModulName>
+<learnModulText>업체 정보 분석 방법, 비품 구매 절차 규정, 비품 관리 규정, MRO 관련 지식, 협력업체 선정 및 운영, 폐기물 관리법, 회계 규정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700441</learnModulSeq>
+<learnModulName>차량 운영 관리</learnModulName>
+<learnModulText>차량 운영 계획, 차량 현황, 매각․폐기 처분, 배차 관리, 차량 조달, 수요 조사, 문서 작성 기술, 회계처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700442</learnModulSeq>
+<learnModulName>용역 관리</learnModulName>
+<learnModulText>용역 파견, (하)도급, 사내 하청, 비용 효과 분석, 하도급 거래 공정화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700443</learnModulSeq>
+<learnModulName>업무 지원</learnModulName>
+<learnModulText>인장 관리, 인장 관리 규정, 인장 업무, 출장 관리, 출장 관리 규정, 출장 비용 분석, 출장 서류, 비자 발급, 제 증명, 증명서 발급, 사무 공간 배치도, 시공 계약서, 시공업체 관리·감독</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700444</learnModulSeq>
+<learnModulName>총무 문서 관리</learnModulName>
+<learnModulText>문서 관리, 문서 관리 규정, 우편물 취급 규정, 우편물 수․발신, 인쇄물 관리, 인쇄물 제작 방침, 인쇄물 재고 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700445</learnModulSeq>
+<learnModulName>복지후생 지원</learnModulName>
+<learnModulText>복리후생, 임의 복리 , 복리후생 규정, 선택적 복리후생, 복리후생 시설 위탁</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>총무</ncsSubdCdnm>
+<learnModulSeq>EDU20150700446</learnModulSeq>
+<learnModulName>총무 보안 관리</learnModulName>
+<learnModulText>정보 자산, 보안 관리, 보안 정책, 영업 비밀, 지적 자산 등</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700455</learnModulSeq>
+<learnModulName>자산 관리 목표 수립</learnModulName>
+<learnModulText>자산, 자산 관리, 대내외 경영 환경, 시장 분석, 보유 자산, 재무 상태, 목표 설정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700457</learnModulSeq>
+<learnModulName>자산 관리 계획 수립</learnModulName>
+<learnModulText>자산 관리, 부동산 자산 포트폴리오, 부동산 자산의 현금 흐름표, 기업 부동산 관리, 기업　회계　기준, 재무 회계, 재무 비율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700458</learnModulSeq>
+<learnModulName>자산 취득</learnModulName>
+<learnModulText>입지, 용도 지역, 용도 지구, 용도 구역, 소유권, 제한 물권, 부동산 등기, 공시 지가, 취․등록세, 토지 거래 허가 구역, 지구 단위 계획, 감정 평가, 수의 계약, 경매, 공매</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700460</learnModulSeq>
+<learnModulName>업무용 부동산 관리</learnModulName>
+<learnModulText>도면, 시설물, 운영 관리, 면적 산출, 구획, 임대차 계약, 임대차 관리, 임대 마케팅, 사무 환경 컨설팅, 설비 관리, 운송 설비, 환경 관리, 유지 관리, 법적 점검 대상, 건축물대장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700462</learnModulSeq>
+<learnModulName>업무용 동산 관리</learnModulName>
+<learnModulText>업무용 동산 관리, 재물 조사, 동산 관리 규정, 동산 관리 대장, 동산 등록, 불용 동산, 손·망실, 동산 종합 보험, 동산 분류, MRO, 동산 유지 보수, 성과 평가, 성과 지표 BSC, 재물 조사 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700463</learnModulSeq>
+<learnModulName>비업무용 자산 관리</learnModulName>
+<learnModulText>부동산 자산 관리, 비업무용 부동산, 수익용 부동산, 빌딩 관리, 빌딩 자산 관리, 임대차 관리, 시설물 유지 관리, 부동산 유지 관리, 부동산 마케팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700465</learnModulSeq>
+<learnModulName>자산 처분</learnModulName>
+<learnModulText>유형 자산, 무형 자산, 감정 평가, 공개 입찰, 수의 계약, 공고, 계약 체결, 소유권 이전</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700466</learnModulSeq>
+<learnModulName>위탁 관리</learnModulName>
+<learnModulText>자산 관리 규정, 위탁 관리 업무의 분류, 입찰, 전자 입찰, 위탁 관리 계약</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700468</learnModulSeq>
+<learnModulName>자산 위험 관리</learnModulName>
+<learnModulText>위험의 측정, 평가, 직접 손해, 간접 손해, 법적 의무 수행, 손실 전 위험, 손실 후 위험, 위험 처리 방법, 위험 보유, 위험 회피, 위험 축소, 위험 재무, 위험 이전, 위험 통제, 심각한 위험, 중요한 위험, 일반적 위험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자산관리</ncsSubdCdnm>
+<learnModulSeq>EDU20150700469</learnModulSeq>
+<learnModulName>자산 평가 보고</learnModulName>
+<learnModulText>자산, 자산 관리, 보유 자산, 재물 조사, 기업 회계 기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>비상기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700470</learnModulSeq>
+<learnModulName>사업 계획 수립</learnModulName>
+<learnModulText>사업 계획, 사업 목표, 비상 대비, 계획 지침, 시행 계획, 국내외 정세 변화, 대내외 환경 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>비상기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700471</learnModulSeq>
+<learnModulName>동원 자원 관리</learnModulName>
+<learnModulText>비상 대비 업무, 동원 자원 관리, 임무 고지, 비축 물자, 자원 조사, 중점 관리 지정 업체</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>비상기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700472</learnModulSeq>
+<learnModulName>민방위 관리</learnModulName>
+<learnModulText>민방위, 민방위 훈련, 민방위 교육, 민방위대, 민방위 대원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>총무</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>비상기획</ncsSubdCdnm>
+<learnModulSeq>EDU20150700473</learnModulSeq>
+<learnModulName>보안 관리</learnModulName>
+<learnModulText>국가안전보장, 보안 관리, 보안 의식, 보안실태, 보안사고, 보안감사, 보안업무, 보안목표, 보안담당관, 보관책임자</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600161</learnModulSeq>
+<learnModulName>인사기획</learnModulName>
+<learnModulText>경영 환경, 경영 전략, 인사 환경, 인사 전략, SWOT 분석, 직무 분석, 정원 산정, 인력 수급, 적정 임금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600162</learnModulSeq>
+<learnModulName>직무관리</learnModulName>
+<learnModulText>직무 중심 인사 관리, 직무 분류 체계, 직무 분석, 직무 조사, 직무 기술서, 직무 명세서, 직무 가치, 직무 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600163</learnModulSeq>
+<learnModulName>인력채용</learnModulName>
+<learnModulText>인력 소요 계획, 승계 분석, 공석 분석, 수요 예측, 공급 예측, 노동 시장의 분절, 채용 관리, 채용 전략, 직무 현황의 사전 공개, 선발, 모집, 면접 도구, 선발 비율, 선발 결정, 조직 사회화, 핵심 가치, 조직 문화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600164</learnModulSeq>
+<learnModulName>인력이동관리</learnModulName>
+<learnModulText>인력 운영 계획, 인건비 생산성, 인력 수요 산정, 인력 수요 조정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600165</learnModulSeq>
+<learnModulName>인사평가</learnModulName>
+<learnModulText>인사 평가, 조직 비전 체계, 역량 모델링, 경력 개발 방법론, 주요 성과 지표, 평가 센터, 개발 센터</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600166</learnModulSeq>
+<learnModulName>핵심인재관리</learnModulName>
+<learnModulText>핵심 인재 관리, 경력 개발, 핵심 인재 평가, 조직 개발 방법, 퍼실리테이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600167</learnModulSeq>
+<learnModulName>교육훈련</learnModulName>
+<learnModulText>인력 육성 체계, 교육 계획, 교육과정, 교육 시행안, 교육 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600168</learnModulSeq>
+<learnModulName>임금관리</learnModulName>
+<learnModulText>임금, 임금 관리, 시장 임금, 임금 인상률, 임금 계약, 연봉 계약, 임금 조정안, 직급별 임금표, 성과급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600169</learnModulSeq>
+<learnModulName>급여지급</learnModulName>
+<learnModulText>임금, 급여, 급여 지급, 급여 대장, 급여 계산, 4대 보험, 연말 정산, ｢소득세법｣</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600170</learnModulSeq>
+<learnModulName>복리후생</learnModulName>
+<learnModulText>복리 후생, 법정 복리 후생, 법정 외 복리 후생, 복리 후생의 니즈 조사, 선택적 복리 후생, 복리 후생 프로그램, 복리 후생 실행, 복리 후생 실행 이후 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600171</learnModulSeq>
+<learnModulName>조직문화관리</learnModulName>
+<learnModulText>조직 문화 진단, 핵심 가치 전파, 업무 혁신 활동, 커뮤니케이션 활성화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600172</learnModulSeq>
+<learnModulName>퇴직관리</learnModulName>
+<learnModulText>퇴직, 퇴직 사유, 퇴직금, 퇴직 연금, 퇴직 상담, 정보 보호 서약서, 퇴직자 관리, 전직 지원 제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20140600173</learnModulSeq>
+<learnModulName>인사아웃소싱</learnModulName>
+<learnModulText>아웃소싱, 파견, (하)도급, 사내 하청, 비용 효과 분석, 하도급 거래 공정화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20181200027</learnModulSeq>
+<learnModulName>퇴직업무지원</learnModulName>
+<learnModulText>퇴직, 퇴직 사유, 퇴직금, 퇴직 상담, 퇴직 연금, 정보 보호 서약서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>인사</ncsSubdCdnm>
+<learnModulSeq>EDU20181200028</learnModulSeq>
+<learnModulName>전직지원</learnModulName>
+<learnModulText>전직, 전직 지원, 역량 검사, 전직 희망 분야, 직무 분야, 전직 활동 계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600174</learnModulSeq>
+<learnModulName>노사관계계획</learnModulName>
+<learnModulText>노사관계 계획, 노사관계 목표, 노사관계 전략, 노사관계 실행계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600175</learnModulSeq>
+<learnModulName>노사관계 교육훈련</learnModulName>
+<learnModulText>노사관계 선진화. 교육 요구 분석, 4단계 평가 모델, 교육계획 수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600176</learnModulSeq>
+<learnModulName>교섭준비</learnModulName>
+<learnModulText>단체교섭, 교섭 위원, 임금 인상률, 임금 구성 항목, 교섭 사항, 기업 복지, 노동조합, 협상, 재무제표, 인건비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600177</learnModulSeq>
+<learnModulName>단체교섭</learnModulName>
+<learnModulText>단체교섭, 교섭 위원, 임금 인상률, 임금 구성 항목, 교섭 사항, 단체협약, 임금 협정, 노동조합</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600178</learnModulSeq>
+<learnModulName>단체협약이행</learnModulName>
+<learnModulText>근로기준, 단체협약, 취업규칙, 인사 제도, 문서 작성 기술</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600179</learnModulSeq>
+<learnModulName>노동쟁의 대응</learnModulName>
+<learnModulText>노동쟁의, 쟁의행위, 단체행동권, 단체협약, 조정, 중재</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600180</learnModulSeq>
+<learnModulName>노사협의회 운영</learnModulName>
+<learnModulText>노사협의회 운영 규정, 취업규칙, 근로자 참여 및 협력 증진에 관한 법률</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600181</learnModulSeq>
+<learnModulName>위원회 운영</learnModulName>
+<learnModulText>위원회 운영 관련 법령, 위원회 운영 계획, 상정 안건, 품의, 공지문</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600182</learnModulSeq>
+<learnModulName>노사관계 개선</learnModulName>
+<learnModulText>노사관계 계획, 노동법, 노동법의 법원, 부당노동행위, 노사협의회, 고충 처리, 단체협약, 취업규칙, 근로 계약, 노사관계 개선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>인사·조직</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>노무관리</ncsSubdCdnm>
+<learnModulSeq>EDU20140600183</learnModulSeq>
+<learnModulName>노사관계 평가</learnModulName>
+<learnModulText>노사관계 계획, 노사관계 평가, 평가 요소, 성과 지표, 조사방법론</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800050</learnModulSeq>
+<learnModulName>경영진지원업무</learnModulName>
+<learnModulText>비서 업무 일지, 상사 신상 카드, 사무실 환경 점검표, 사무 비품 대장, 간행물 목록표, 경조사 규정, 경조사 단자 양식, 명함 정리, 명함 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800051</learnModulSeq>
+<learnModulName>경영환경동향분석</learnModulName>
+<learnModulText>조직 경영 환경, 조직도, 부서 간 업무 체계, 비서 윤리, 비서 수칙, 유관 기관 동향, 조직 규정, 기업 윤리 강령, 조직 문화, 기업 윤리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800052</learnModulSeq>
+<learnModulName>경영진일정관리</learnModulName>
+<learnModulText>일정 계획, 일정 정보 수집, 일정 조율, 일정표, 일정 공유, 일정 보고, 예약 업무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800053</learnModulSeq>
+<learnModulName>출장관리</learnModulName>
+<learnModulText>출장 계획, 교통편 예약, 숙소 예약, 출장 신청, 출장 일정표, 여권, 비자, 출장 결과 보고, 출장 경비 정산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800054</learnModulSeq>
+<learnModulName>응대업무</learnModulName>
+<learnModulText>전화 응대, 내방객 응대, 전화 걸기, 전화 받기, 전화 메모, 전화 기록부, 내방객 안내, 내방객 선별, 내방객 카드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800055</learnModulSeq>
+<learnModulName>보고업무</learnModulName>
+<learnModulText>커뮤니케이션, 육하원칙, 대면 보고, 서면 보고, 조직도, 화법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800056</learnModulSeq>
+<learnModulName>경영진문서작성관리</learnModulName>
+<learnModulText>문서 기획, 문서 작성, 문서 관리, 전자 문서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800057</learnModulSeq>
+<learnModulName>회의의전관리</learnModulName>
+<learnModulText>회의, 회의 절차, 회의 종류, 의사 진행 절차, 회의록, 의전, 의전 원칙, 의전 예절</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800058</learnModulSeq>
+<learnModulName>비서사무정보관리</learnModulName>
+<learnModulText>인터넷, 정보, 스크랩, 소셜 미디어, 스마트 디바이스, 클라우드 서비스, 스마트 애플리케이션, 홈페이지, 블로그, SNS, 사무 정보 기기, 정보 보안, 기밀 문서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800059</learnModulSeq>
+<learnModulName>영문서지원업무</learnModulName>
+<learnModulText>영문서 작성, 사무 영어 회화, 국제 행사 지원, 해외 출장 수행</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20150800060</learnModulSeq>
+<learnModulName>경영진예결산관리</learnModulName>
+<learnModulText>예산, 경비, 일반 관리비, 전자 세금 계산서, 소득세, 과세 표준, 연말 정산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>비서</ncsSubdCdnm>
+<learnModulSeq>EDU20181200002</learnModulSeq>
+<learnModulName>비서영어회화업무</learnModulName>
+<learnModulText>전화 영어회화, 내방객 응대 영어회화, 예약 영어회화, 업무보고 영어회화, 비서 영어회화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800230</learnModulSeq>
+<learnModulName>문서작성</learnModulName>
+<learnModulText>문서 작성, 작성 절차, 문서 작성, 표본 추출, 보고서 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800231</learnModulSeq>
+<learnModulName>문서관리</learnModulName>
+<learnModulText>문서 정보, 문서 관리 규정, 업무 처리 규정, 문서 대장, 조직도, 문서 접수, 문서 등록, 문서 전달, 문서 접수 대장, 문서 발송 대장</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800252</learnModulSeq>
+<learnModulName>자료 관리</learnModulName>
+<learnModulText>자료 수집, 자료 분석, 기술 통계 분석, 자료 가공, 자료 활용, 빅데이터, 자료 관리, 자료 보안, 개인 정보 보호, 비즈니스 문서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800255</learnModulSeq>
+<learnModulName>사무 자동화 관리 운용</learnModulName>
+<learnModulText>워드프로세서, 스프레드시트, 프레젠테이션, 데이터베이스, 네트워크 시스템, 인터넷, 인트라넷, 그룹 웨어, 전자 정보 시스템, 전자 정보, 네트워크 시스템 장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800256</learnModulSeq>
+<learnModulName>사무 행정 회계 처리</learnModulName>
+<learnModulText>경비, 지출 결의서, 예산, 예산 관리, 예산 통제, 예산 관리 대장, 경비 지급 통제부, 증빙 서류, 예산 차이 분석, 경비 보고서, 예산 보고서, 통제 관리 가능비, 통제 관리 불능비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800257</learnModulSeq>
+<learnModulName>회의 운영·지원</learnModulName>
+<learnModulText>회의 운영 계획, 회의 물품, 장비, 회의 운영 규정, 회의 장소, 원격 통신 회의, 원격 통신 프로그램, 문서 관리 규정, 회의실 배치도, 회의록, 회의 결과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800258</learnModulSeq>
+<learnModulName>사무행정 업무관리</learnModulName>
+<learnModulText>업무 접수, 업무 지원, 업무 처리, 업무 회신, 업무 공지, 일정 관리, 예산 관리, 예산 통제, 경비 지급 통 제부, 통제 관리 가능비, 통제 관리 불능비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20150800259</learnModulSeq>
+<learnModulName>사무환경조성</learnModulName>
+<learnModulText>물품 관리 규정, 비품, 사무 관리 규정, 사무기기 특성, 사무기기 운용 매뉴얼, 네트워크 시스템, 인터넷, 인트라넷, 그룹웨어, 네트워크 시스템 장비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20200100304</learnModulSeq>
+<learnModulName>사무자동화 프로그램 활용</learnModulName>
+<learnModulText>사무자동화, 문서 작성 프로그램, 워드프로세서, 스프레드시트, 데이터베이스, 프레젠테이션, 사무 프로그램 활용, 문서 보안 프로그램</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>02</ncsMclasCd>
+<ncsMclasCdnm>총무·인사</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>일반사무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>사무행정</ncsSubdCdnm>
+<learnModulSeq>EDU20211200001</learnModulSeq>
+<learnModulName>그룹웨어 활용</learnModulName>
+<learnModulText>그룹웨어, 전자결재, 위임전결, 기안문, 의사소통, 자원관리, 근태관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101006</learnModulSeq>
+<learnModulName>예산편성 지침 수립</learnModulName>
+<learnModulText>예산, 예산 수립, 예산 기준, 예산편성, 예산 지표, 예산관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101007</learnModulSeq>
+<learnModulName>부문예산 수립</learnModulName>
+<learnModulText>종합예산, 판매예산, 생산 예산, 간접부문 예산, 예산편성 지침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101008</learnModulSeq>
+<learnModulName>연간 종합예산 수립</learnModulName>
+<learnModulText>종합예산, 예산 수립, 예산 조정, 확정예산, 예산 차이 분석, 예산 수립, 예산 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101009</learnModulSeq>
+<learnModulName>추정 재무제표 작성</learnModulName>
+<learnModulText>손익계산서, 재무상태표, 현금흐름표, 감사보고서, 재무비율, 계정 정의서, 기업회계기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101010</learnModulSeq>
+<learnModulName>확정예산 운영</learnModulName>
+<learnModulText>예산 운영 지침, 예산관리 규정, 위임전결 규정, 교육, 배포, 예산전용, 예산 차월, 예산이월</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101011</learnModulSeq>
+<learnModulName>예산 실적 관리</learnModulName>
+<learnModulText>예산 관리, 예산 조정, 실적 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>예산</ncsSubdCdnm>
+<learnModulSeq>EDU20160101012</learnModulSeq>
+<learnModulName>예산 위험 관리</learnModulName>
+<learnModulText>기업내․외부 환경요인, CVP분석, 손익분기점 분석, 레버리지 분석, 추가경정예산, 예산의 이용 및 전용, 예산의 이월 및 이체, 예산통제 시스템, 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100774</learnModulSeq>
+<learnModulName>자금계획 수립</learnModulName>
+<learnModulText>연간종합예산, 추정재무제표, 자금계획서, 영업활동, 투자활동, 재무활동, 투자경제성, 현금흐름, 현금과부족, 현재가치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100775</learnModulSeq>
+<learnModulName>자금조달 준비</learnModulName>
+<learnModulText>금융시장, 자금조달상품, 자본비용, 사업계획서, 자금조달방법 우선순위, 최적 자금조달방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100776</learnModulSeq>
+<learnModulName>자금조달</learnModulName>
+<learnModulText>재무상태표, 손익계산서, 현금흐름표, 이익잉여금처분계산서, 금융기관의 성격 및 주요업무</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100777</learnModulSeq>
+<learnModulName>자금운용</learnModulName>
+<learnModulText>가용자금, 초과여유자금, 기간별여유자금, 자금지불스케줄표, 자금조달스케줄표, 자금운용일정표, 금융투자상품</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100778</learnModulSeq>
+<learnModulName>자금정보 제공</learnModulName>
+<learnModulText>재무정보, 재무제표, 공시규정, 공시정보, 공시서식, 정정공시, 투자정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100779</learnModulSeq>
+<learnModulName>재무위험관리</learnModulName>
+<learnModulText>재무위험, 금리위험, 유동성위험, 시장위험, 신용위험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>재무</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자금</ncsSubdCdnm>
+<learnModulSeq>EDU20160100780</learnModulSeq>
+<learnModulName>성과 분석</learnModulName>
+<learnModulText>평가기준 설립, 실적 분석, 원인 분석, 대응 방안 도출, 실적 보고서 작성, 차기 계획 반영, 차기 계획 교육, 자금 운용 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102032</learnModulSeq>
+<learnModulName>전표관리</learnModulName>
+<learnModulText>회계상 거래, 회계등식, 자산, 부채, 자본, 거래의 이중성, 분개, 전표, 증빙서류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102033</learnModulSeq>
+<learnModulName>자금관리</learnModulName>
+<learnModulText>현금, 소액현금, 예금, 적금, 법인카드, 어음, 수표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102034</learnModulSeq>
+<learnModulName>원가계산</learnModulName>
+<learnModulText>재료원가, 노무원가, 제조간접원가, 재공품, 제품, 단위당 원가, 원가배분, 개별원가계산, 종합원 가계산</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102035</learnModulSeq>
+<learnModulName>결산처리</learnModulName>
+<learnModulText>분개, 총계정원장, 시산표, 재고조사표, 정산표, 결산, 장부 마감, 오류수정, 자본거래, 손익거래</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102036</learnModulSeq>
+<learnModulName>회계정보시스템 운용</learnModulName>
+<learnModulText>회계 프로그램, DB 마스터, 계정 과목 관리, 거래처등록, 회계 정보 활용, 장부 검색과 재무제표 검색</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102037</learnModulSeq>
+<learnModulName>재무비율분석</learnModulName>
+<learnModulText>비율 분석, 수익성, 재무적 위험, 성장성, CVP, 손익 분기점, 레버리지 효과, 재무적 분석정보, 경영 의사 결정 보고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102038</learnModulSeq>
+<learnModulName>회계감사</learnModulName>
+<learnModulText>내부감사, 내부통제제도, 내부회계관리제도, 외부감사, 재고실사, 현금실사, 수정 재무제표, 요약 재무 정보, 재무정보 공시, 공시자료 관리･보관</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102039</learnModulSeq>
+<learnModulName>사업결합회계</learnModulName>
+<learnModulText>연결재무제표, 사업결합회계, 외화표시 재무정보 환산, 연결정산표, 연결조정분개, 내부거래제거, 투자･자본상계, 합병재무제표, 분할 회계처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20160102040</learnModulSeq>
+<learnModulName>비영리회계</learnModulName>
+<learnModulText>비영리 조직, 비영리 법인, 비영리 활동, 복식 부기, 재무 상태표, 운영 성과표, 현금 흐름표, 주석, 필수 보충 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20200100019</learnModulSeq>
+<learnModulName>원가관리</learnModulName>
+<learnModulText>원가행태, 원가추정, CVP, 손익분기점(BEP), 목표이익, 영업레버리지효과, 자본예산, 특수 단기의 사결정, 표준원가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>회계·감사</ncsSubdCdnm>
+<learnModulSeq>EDU20200100020</learnModulSeq>
+<learnModulName>재무제표 작성</learnModulName>
+<learnModulText>결산수정분개, 장부마감, 오류수정, 재무제표 작성, 재무상태표, 손익계산서, 포괄손익계산서, 자 본변동표, 현금흐름표, 주석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200194</learnModulSeq>
+<learnModulName>전표처리</learnModulName>
+<learnModulText>차변, 대변, 거래, 전표, 세금계산서, 신용카드매출전표, 현금영수증, 지출증빙서류 합계표, 영수증수취명세서, 업무용승용차 운행일지</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200195</learnModulSeq>
+<learnModulName>결산관리</learnModulName>
+<learnModulText>결산관리, 결산분개, 장부마감, 오류 수정, 재무상태표, 손익계산서, 자본변동표, 이익잉여금처분계산서, 주석, 재무제표 작성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200196</learnModulSeq>
+<learnModulName>세무정보시스템 운용</learnModulName>
+<learnModulText>일반전표, 매입매출전표, 세무정보시스템, 전자신고, 데이터 백업, 프로그램 업데이트</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200198</learnModulSeq>
+<learnModulName>부가가치세 신고</learnModulName>
+<learnModulText>세금계산서, 부가가치세 부속서류, 일반과세자 및 간이과세자, 재화 및 용역의 공급, 부가가치세 신고서, 부가가치세 신고 및 납부</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200199</learnModulSeq>
+<learnModulName>종합소득세 신고</learnModulName>
+<learnModulText>사업소득 세무조정, 총수입금액 및 필요경비, 중소기업기준검토표, 종합소득세 부속서류, 소득공제신고서, 종합소득세 과세표준확정신고서, 종합소득세 신고 및 납부, 전자신고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200200</learnModulSeq>
+<learnModulName>법인세 신고</learnModulName>
+<learnModulText>세무조정, 익금산입 및 익금불산입, 손금산입 및 손금불산입, 소득처분, 손금범위 한도초과, 조정명세서, 소득금액조정합계표, 과세표준 및 세액조정계산서, 세액감면·세액공제, 중간예납 및 확정신고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200201</learnModulSeq>
+<learnModulName>지방세 신고</learnModulName>
+<learnModulText>지방세, 지방소득세, 취득세, 주민세, 개인지방소득세, 법인지방소득세, 과세대상, 재산분주민세, 종업원분주민세, 주민세신고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200202</learnModulSeq>
+<learnModulName>기타세무 신고</learnModulName>
+<learnModulText>양도소득, 상속, 증여, 양도소득세, 상속세, 증여세, 수정신고, 경정청구</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200203</learnModulSeq>
+<learnModulName>세무조사 대응</learnModulName>
+<learnModulText>세무조사, 주요 쟁점, 쟁점 분석, 중점 조사, 세무조사 대응, 세무조사 사후관리, 세무조사 사전 준비</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200204</learnModulSeq>
+<learnModulName>조세불복청구</learnModulName>
+<learnModulText>과세전적부심사청구, 이의신청, 심사청구, 심판청구, 불복이유서, 항변서, 의견진술, 행정소송, 심급제도</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200205</learnModulSeq>
+<learnModulName>절세방안 수립</learnModulName>
+<learnModulText>과세정책 동향, 세법개정, 조세부담, 절세정책, 사업환경, 절세요소, 법정 증빙, 가산세, 회계오류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20160200208</learnModulSeq>
+<learnModulName>원천징수</learnModulName>
+<learnModulText>원천징수, 근로소득, 퇴직소득, 금융소득, 사업소득, 기타소득, 과세소득, 비과세소득, 연말정산, 수정신고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>03</ncsMclasCd>
+<ncsMclasCdnm>재무·회계</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>회계</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>세무</ncsSubdCdnm>
+<learnModulSeq>EDU20190300024</learnModulSeq>
+<learnModulName>법인세신고 준비</learnModulName>
+<learnModulText>결산·신고조정, 익금산입, 익금불산입, 손금산입, 손금불산입, 소득처분, 중소기업 검토표, 표준재무제표, 수입금액 조정명세서, 조정후 수입금액명세서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100392</learnModulSeq>
+<learnModulName>구매 전략 수립</learnModulName>
+<learnModulText>조달 방법 의사 결정, 자체 제조 또는 외주, 핵심 역량, 아웃소싱, 기술력, 품질 수준, 생산 능력, 비용 분석, 노사 관계, 손익 분기 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100393</learnModulSeq>
+<learnModulName>신규 구매 협력사</learnModulName>
+<learnModulText>협력사 중요성, 협력사 유형 및 특징, 신규 협력사 선정 절차, 신규 협력사 활용 시점, 신규 협력사 평가 항목, 신규 협력사 선정 기준</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100394</learnModulSeq>
+<learnModulName>구매 협력사 육성</learnModulName>
+<learnModulText>경영평가, 기술평가, 현장평가, 4M 5S, 균형 성과 지표(BSC), 3현주의, 협력사 진단 및 분석, 협력사 육성 활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100395</learnModulSeq>
+<learnModulName>발주 관리</learnModulName>
+<learnModulText>구매 환경, 시장 조사, 조달 계획, 조달 환경, 공급자 선정, 발주 계획, 발주서, 진척 관리, ABC 분석, 발주 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100396</learnModulSeq>
+<learnModulName>구매품 품질 관리</learnModulName>
+<learnModulText>구매품, 자재 명세표, 구매품 품질 요구 사항, 검사, 시험, 검사 기준, 전수 검사, 샘플링 검사, 무검사, 품질 보증 활동, 구매 부적합품, 시정, 시정 조치</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100397</learnModulSeq>
+<learnModulName>개발 구매</learnModulName>
+<learnModulText>도면 해석, 고객 요구 사항, 시장 조사, 규격 파악, 개발 프로세스, 개발 일정, 일정 관리, 목표 원가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100398</learnModulSeq>
+<learnModulName>구매 원가 관리</learnModulName>
+<learnModulText>구매 원가, 원가 분석, 원가표, 재료비, 노무비, 경비, 판매 및 일반 관리비, 이윤, 작업 시간, 여유율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100399</learnModulSeq>
+<learnModulName>구매 원가 절감 실행</learnModulName>
+<learnModulText>원가 절감, 구매 원가, 원가 분석, 구매품, 가격 경쟁력, 구매 유형, 원가 절감 계획, 원가표, 공정 개선, 재료비 절감</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100400</learnModulSeq>
+<learnModulName>구매 계약</learnModulName>
+<learnModulText>견적서, 제안서, 구매 계획, 구매 전략, 구매 계약, 협상 전략, 구매 계약서, 구매 원가, 구매 품질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>구매조달</ncsSubdCdnm>
+<learnModulSeq>EDU20160100401</learnModulSeq>
+<learnModulName>구매 성과 관리</learnModulName>
+<learnModulText>구매 성과, 성과 관리, 지표 관리, 핵심 성과 지표(KPI), 핵심 성공 요인(KSF), 균형 성과표(BSC)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200265</learnModulSeq>
+<learnModulName>자재관리전략수립</learnModulName>
+<learnModulText>자재 관리 전략, 자재 운영, 자재 소요 계획, 자재 관리 방침, 경영 계획, 구매 협력사 자재 관련 자원, 자재 재고 수준, 자재 품목별 리드 타임, MRP, ERP</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200269</learnModulSeq>
+<learnModulName>자재조달계획수립</learnModulName>
+<learnModulText>수요 예측, 소요량, 자재 소요량 계획, 자재 명세서, 주일정 생산 계획, ABC 자재 관리, 피킹, 조달 리드 타임, 유닛 로드 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200272</learnModulSeq>
+<learnModulName>자재입고관리</learnModulName>
+<learnModulText>품질, 검사, 시험, 시방서, 적합성 평가, 부적합, 교정, 보관의 원칙, 3정 5S, 로케이션</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200276</learnModulSeq>
+<learnModulName>자재보관창고관리</learnModulName>
+<learnModulText>환경 조건, 자재 특성, 경제적 동선, 설비 이력, 안전 관리, 소모품 재고량, 보관 창고 기기, 레이아웃</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200280</learnModulSeq>
+<learnModulName>재고관리</learnModulName>
+<learnModulText>재고 기준, 자재 소요량, 리드 타임, 안전 재고, 재고 조사, 불용 재고, 재고 관련 비용, 재고 관리 기법, 재고 관리 핵심 지표(KPI)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200282</learnModulSeq>
+<learnModulName>자재출고관리</learnModulName>
+<learnModulText>출고 계획, 품질 특성, 자재 정보, 자재 입출고 시스템, 출고 검사, 물질 안전 보건 자료(MSDS), 부적합 자재, 이상 발생 처리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>자재관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200284</learnModulSeq>
+<learnModulName>사내물류관리</learnModulName>
+<learnModulText>사내 물류, 안전 재고, 공정 재고, 반입 물류, 선행 물류, 적기 공급 평가, 자재 운반 설비, 자재 공급 회수 방법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100313</learnModulSeq>
+<learnModulName>생산 계획 수립</learnModulName>
+<learnModulText>재고 계획, 생산 능력, 일정 계획, 수요 예측, 총괄 생산 계획, 리드 타임(Lead Time), 공정 여력, 독립 수요(Independent demand), 종속 수요(Dependent Demand), 경제적 생산량(EPQ: Economic Production Quantity) 및 경제적 발주량(EOQ: Economic Order Quantity), 안전 재고(Safety Stock, Buffer Stock, Fluctuation Stock), 일정 계획표 ‧ 작업 지시서, 간트 도표(Gantt Chart), 퍼트(PERT)‧씨피엠(CPM), 생산 우선 순위, 기준 생산 계획, 생산 일정 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100314</learnModulSeq>
+<learnModulName>공정 설계</learnModulName>
+<learnModulText>주문 생산, 계획 생산, 제품 분석, Job Shop, Batch Shop, 설비 배치, 공정 흐름 분석, 피치 타임(Pitch Time), 사이클 타임(Cycle Time), 공정도, 공정별 관리 항목, 관리 계획서(Control Plan), 생산 자재 명세표(M-BOM, Manufacturing-Bill of Material)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100316</learnModulSeq>
+<learnModulName>공정 편성</learnModulName>
+<learnModulText>공정 편성, 리드 타임(Lead Time), 공정 편성 효율(LoB: Line of Balance), 동작 경제의 원칙, 다기능공화, 퍼트(PERT: Program Evaluation Review Technique) ‧ 씨피엠(CPM: Critical Path Method)), 경로도, 흐름 선도, 유동수 분석, 레이팅(Rating)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100320</learnModulSeq>
+<learnModulName>작업 계획 수립</learnModulName>
+<learnModulText>간트 차트(Gantt Chart), 막대 도표(bar chart), 퍼트(PERT, Program Evaluation Review Technique) ․ 씨피엠(CPM, Critical Path Method), 자재 명세표(BOM, Bill of Material), 생산 투입 계획, 공수 산정 기준, 공정표 및 공정 현품표, 작업 지시서, 설비 점검표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100322</learnModulSeq>
+<learnModulName>표준 작업 관리</learnModulName>
+<learnModulText>정미 시간, 여유 시간, 표준 시간, 관리점, 표준 재공, 작업 순서, 택트 타임(Takt Time), ILO 여유율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100326</learnModulSeq>
+<learnModulName>공정 품질 관리</learnModulName>
+<learnModulText>공정 품질 관리 항목. 자주검사. 검사 결과 활용</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100329</learnModulSeq>
+<learnModulName>설비 일상 관리</learnModulName>
+<learnModulText>설비 관리, 일상 점검, 자주 보전, 계획 보전, 개선, 불합리, 작업 표준, 체크 시트, 매뉴얼, 문제 해결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100333</learnModulSeq>
+<learnModulName>설비 보전 관리</learnModulName>
+<learnModulText>계획 보전, 정기 점검, 예지 보전, 개량 보전, 초기 유동 관리, 초기 고장, 경제성, 신뢰성, 이상 징후</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100334</learnModulSeq>
+<learnModulName>공정 지표 관리</learnModulName>
+<learnModulText>생산성, 작업 효율, 작업 능률, 가동률, 표준 공수, 표준 원가, 직접비, 간접비, 인건비, 경비, 매출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20160100335</learnModulSeq>
+<learnModulName>공정 개선</learnModulName>
+<learnModulText>공정 관리, 공정 개선, 설비 생산성, 노동 생산성, 작업 분석, 공정 분석, 공정 7대 낭비, 설비 6대 로스, 표준 시간, 원가 절감</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>공정관리</ncsSubdCdnm>
+<learnModulSeq>EDU20190100122</learnModulSeq>
+<learnModulName>설비자산관리</learnModulName>
+<learnModulText>설비자산관리(EAM), 신뢰성 중심 보전(RCM), 설비 위험도 관리, 생애 비용 관리, 자산 평가, 투 자 수익률(ROI), 자산 관리 시스템(ISO 55001:2014), 설비 진단 전문가(ISO 18436)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161200990</learnModulSeq>
+<learnModulName>공급망조달운영</learnModulName>
+<learnModulText>자재명세서, 경제적 발주량(EOQ), 구매 발주 기법, 자재소요계획, 공급자관리재고, ABC분석, 생 산 능력, 발주 진척 관리, 구매품 품질 관리, 납기 준수율</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161200991</learnModulSeq>
+<learnModulName>공급망재고운영</learnModulName>
+<learnModulText>재고 관리, 자재수불 관리, 입출고 관리, 검사, 창고 운영, 재고 배치 로케이션 관리, 재고 조사, 장기 재고 처리, 안전재고, 재고 합리화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161200995</learnModulSeq>
+<learnModulName>공급망성과관리</learnModulName>
+<learnModulText>공급망관리, 핵심 성공 요인(CSF), 핵심성과지표(KPI), 공급망 성과 지표, 이상값 데이터 관리, 개 선 과제 도출, 공급망 성과 지표 재설정, 벤치마킹, 고객 만족도, 설문 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161202974</learnModulSeq>
+<learnModulName>공급망진단분석</learnModulName>
+<learnModulText>공급망관리, 물류 산업 동향, 공급망 인프라, 공급망 성과 지표, 미래 성장 동력, PEST 분석, 4차 산업 혁명, 공급망관리 프로세스, 공급망관리 정보 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161202975</learnModulSeq>
+<learnModulName>공급망 전략 수립</learnModulName>
+<learnModulText>공급망 전략, 거점 재설계, 재고 최적화, 운송 최적화, 공급망 환경 분석, 공급망 운영 전략, 거점 최적화, 재고 계획, 운송 경로 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161202976</learnModulSeq>
+<learnModulName>공급망수요계획</learnModulName>
+<learnModulText>안전재고·서비스 수준, 경영 전략, 허용 결품률, 재고 정책, 네트워크, 배송, 리드타임, 판매운영계획, 생산 총괄 계획</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161202977</learnModulSeq>
+<learnModulName>공급망공급계획</learnModulName>
+<learnModulText>주생산계획, 공급망 능력 부하, 개략 능력, 능력소요계획, 판매운영계획, 자재 순 소요 계획, 구 매 소요량, 구매 계획, 재발주점 발주</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161202978</learnModulSeq>
+<learnModulName>공급망생산운영</learnModulName>
+<learnModulText>자재소요계획, 적시생산 시스템, 작업 진행 계획, 작업 진도 관리, 외주 생산, 긴급 주문, 확정 구간, 예시 구간, 약속가능재고(ATP)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>생산관리</ncsSclasCdnm>
+<ncsSubdCd>04</ncsSubdCd>
+<ncsSubdCdnm>SCM</ncsSubdCdnm>
+<learnModulSeq>EDU20161202979</learnModulSeq>
+<learnModulName>공급망운송관리</learnModulName>
+<learnModulText>물동량, 운송 계획, 운송 경로, 매뉴얼, 운송 정보, 운반 도구, 하역 기계, 운반 용기, 운송 수단, 화물 운송 신고서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200250</learnModulSeq>
+<learnModulName>품질전략수립</learnModulName>
+<learnModulText>품질 경영, 품질 방침, 품질 보증, 품질 관리, 설계 품질, 제조 품질, 사용 품질</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200252</learnModulSeq>
+<learnModulName>품질정보관리</learnModulName>
+<learnModulText>품질 정보 시스템, 모집단, 샘플, 모수, 통계량, 평균, 분산, 표준 편차, 확률 분포, 공정 능력 지수, 추정, 검정, 상관 분석, 회귀 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200253</learnModulSeq>
+<learnModulName>서비스 품질관리</learnModulName>
+<learnModulText>CR(customer relationship management) 고객 관계 관리, MOT(moment of truth) 진실의 순간, VOC(voice of customer) 고객의 소리, 서비스 청사진(service blueprint), Why-Why도(why-why diagram), How-How도(how-how diagram), 추적 차트(tracking chart)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200259</learnModulSeq>
+<learnModulName>사내표준화</learnModulName>
+<learnModulText>품질 경영, 품질 관리, 표준, 표준화, 사내 표준화, 규정, 규격, 절차, 지침</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200260</learnModulSeq>
+<learnModulName>품질코스트관리</learnModulName>
+<learnModulText>품질 코스트, 예방 코스트, 평가 코스트, 실패 코스트, 표준화, COPQ, 개선 활동</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200261</learnModulSeq>
+<learnModulName>설계품질관리</learnModulName>
+<learnModulText>DOE(design of experiments : 실험 계획법) 인자(factor), 수준(level), 특성값(characteristic value), 주효과(main effect), 교호 작용(interaction), 분산 분석(ANOVA: analysis of variance), 요인 배치법(factorial design), 일원 배치법(one-way factorial design), 이원 배치법(two-way factorial design), 형 요인 배치법( factorial design)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200262</learnModulSeq>
+<learnModulName>공정품질관리</learnModulName>
+<learnModulText>중점 관리 항목, 산포, 표준 편차, 통계적 공정 관리(SPC), 확률 분포, 정규 분포, 관리도, 이상 원인, 우연 원인, 공정 능력 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200264</learnModulSeq>
+<learnModulName>품질검사관리</learnModulName>
+<learnModulText>검사 계획, 검사 기준, OC 곡선, 검사 이력, 측정기, 교정 계획, 측정 시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200267</learnModulSeq>
+<learnModulName>협력사품질관리</learnModulName>
+<learnModulText>거래 후보, 협력사, 등록, 정기 평가, 상시 평가, 재평가, 공장 실사, 지원 육성, 사후 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200268</learnModulSeq>
+<learnModulName>품질보증체계확립</learnModulName>
+<learnModulText>품질 보증, 사내 표준, 유효성 평가, 개선 활동, 내부 심사 업무, 교육</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200271</learnModulSeq>
+<learnModulName>신뢰성관리</learnModulName>
+<learnModulText>신뢰도, 불신뢰도, 평균 수명, 고장률, MTBF(mean time between failure: 평균 고장 간격), MTTF(mean time to failure: 평균 고장 수명), 신뢰성 경영 시스템, 신뢰성 시험, 가속 수명 시험, 가용도, 보전도, 고장 분석</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200273</learnModulSeq>
+<learnModulName>제품안전관리</learnModulName>
+<learnModulText>안전, 제품 안전, 위해, 위험원, 위험한 상황, 위험한 사건, 리스크, 확률, 기능 안전성</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200275</learnModulSeq>
+<learnModulName>품질경영혁신활동</learnModulName>
+<learnModulText>품질 혁신, 현수준 평가, 공정 능력 분석, 특성 요인도, 아이디어 도출, 아이디어 평가, 표준화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200278</learnModulSeq>
+<learnModulName>지속적개선활동</learnModulName>
+<learnModulText>고객 불만, 고객 조사, 파레토 그림, 특성 요인도, 멀티보팅</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200279</learnModulSeq>
+<learnModulName>현장품질관리</learnModulName>
+<learnModulText>눈으로 보는 관리, 설비 종합 효율, 가동률, 양품률, 성능 가동률, MTBF(mean time between failure: 평균 고장 시간 간격), MTTR(mean time to repair, mean repair time: 평균 수리 시간)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>품질관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>QM/QC관리</ncsSubdCdnm>
+<learnModulSeq>EDU20181200006</learnModulSeq>
+<learnModulName>품질경영시스템인증관리</learnModulName>
+<learnModulText>품질 경영, 표준화, 프로세스, 리스크, 평균, 표준편차, 품질 성과 지표, 관리 항목, 공정 능력 지수</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200454</learnModulSeq>
+<learnModulName>물류서비스 및 거점운영 계획</learnModulName>
+<learnModulText>물류환경, 자사물류, 물류서비스, 물류현황, 요구사항, 공급망 계획, 물류 거점, 거점 운영 시나리오, 물류입지, 거점규모 및 형태</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200457</learnModulSeq>
+<learnModulName>보관하역관리</learnModulName>
+<learnModulText>입출고 관리, 하역 관리, 사전 입고 예정 정보(ASN), 유통 가공, 하역 장비, 유닛로드</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200461</learnModulSeq>
+<learnModulName>육상운송관리</learnModulName>
+<learnModulText>배차 계획, 차량 관제, 운송비 계산, 고객 평가, 운영 개선, 운송 효율화, 운송 합리화, 운송 최적화, 역물류 연계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200465</learnModulSeq>
+<learnModulName>해상운송관리</learnModulName>
+<learnModulText>해송운송절차, 해상운송방법, 해상운임, 정기선, 부정기선, FCL, LCL, B/L, D/O, Freight Invoice</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200470</learnModulSeq>
+<learnModulName>항공운송관리</learnModulName>
+<learnModulText>항공화물 운송절차, 항공화물운송장, 단위탑재용기, 항공운임 및 부대요금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200476</learnModulSeq>
+<learnModulName>복합운송관리</learnModulName>
+<learnModulText>복합운송, 복합운송인, 프레이트 포워더, 복합운송인의 유형, 운임, 복합운송경로, 복합운송절차, 국제복합운송주선업자, 복합운송수단, 운임견적</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200477</learnModulSeq>
+<learnModulName>특송화물관리</learnModulName>
+<learnModulText>문전 배송, 화물 인도, 환적, 정산 통관, 간이 통관, 관세, 보세운송, 검역</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200478</learnModulSeq>
+<learnModulName>물류성과관리</learnModulName>
+<learnModulText>물류비, 물류표준화, 포장표준화, 팔레트표준화, 일관 팔레트화, 유닛로드 시스템, 물류프로세스, 물류보안, AEO</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200480</learnModulSeq>
+<learnModulName>물류정보시스템 활용</learnModulName>
+<learnModulText>물류정보시스템, 운송관리시스템, 창고관리시스템, 포워더 관리시스템, 특송관리시스템, 주문처리시스템, 기준정보 관리, 거래처정보, 파트너정보, 제품정보, 보세운송, 수출입 운송관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>물류관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200481</learnModulSeq>
+<learnModulName>물류고객관리</learnModulName>
+<learnModulText>물류컨설팅, 물류서비스, 고객관계관리(CRM), 물류 표준계약서, 고객만족, 상충관계(Trade-Off), 물류마케팅 전략, 물류서비스 품질, 기업물류비 산정지침, 물류고객만족 경영전략</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200519</learnModulSeq>
+<learnModulName>수출입개요</learnModulName>
+<learnModulText>무역규범, 통합공고, 수출입공고, 품목분류번호(HS)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200520</learnModulSeq>
+<learnModulName>수출입위험관리</learnModulName>
+<learnModulText>수출입위험, 환율, 환, 수출입 보험, 수출입 보증서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200536</learnModulSeq>
+<learnModulName>수출마케팅</learnModulName>
+<learnModulText>수출 환경, 해외 바이어, 해외 바이어 발굴, 거래선, 수출원가, 협상</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200539</learnModulSeq>
+<learnModulName>수입마케팅</learnModulName>
+<learnModulText>수입환경, 해외 공급자, 수입원가, 수입조건, 수출회계, 수입회계</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200541</learnModulSeq>
+<learnModulName>수출입계약</learnModulName>
+<learnModulText>국제계약규범, 수출입 계약, Incoterms 2010, 수출입 계약서 독소 조항, 수출입 클레임</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200543</learnModulSeq>
+<learnModulName>수출입운송보험</learnModulName>
+<learnModulText>해상운송, 선화증권, 항공화물운송장, 복합운송선화증권, 적하보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200548</learnModulSeq>
+<learnModulName>수출통관</learnModulName>
+<learnModulText>관세법, 품목분류번호(HS), 수출신고필증, 수출신고, 원산지결정기준, 원산지증명서, 환급특례법, FTA, 관세환급</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200552</learnModulSeq>
+<learnModulName>수입통관</learnModulName>
+<learnModulText>선화증권, Sea Waybill, 수입화물선취보증서, 항공화물운송장, HS 코드, FTA 양허관세, 수입신고필증, 정정 신고, 보정, FTA 사후 검증</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200557</learnModulSeq>
+<learnModulName>수출대금결제</learnModulName>
+<learnModulText>매입, 하자, 지급인(Drawee), 추심, 신용장통일규칙(UCP600), 국제표준은행관행(ISBP745), 상환은행, 개설은행, Delay Charge, Less Charge</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>수출입관리</ncsSubdCdnm>
+<learnModulSeq>EDU20151200559</learnModulSeq>
+<learnModulName>수입대금결제</learnModulName>
+<learnModulText>송금결제방식, 추심결제방식, 일람불, 기한부어음</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201563</learnModulSeq>
+<learnModulName>FTA 원산지 활용 분석</learnModulName>
+<learnModulText>FTA, 지역경제통합, 수출, 수입, 관세율, 원산지, 품목분류(HS코드), 관세</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201564</learnModulSeq>
+<learnModulName>FTA 원산지 판정요소 관리</learnModulName>
+<learnModulText>FTA, 원산지, 품목분류(HS코드), 원산지 기준, 구매원장, FTA BOM, 원재료 수불부, 원산지 증명서, 원산지(포괄)확인서, 국내제조(포괄)확인서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201565</learnModulSeq>
+<learnModulName>FTA 원산지 판정</learnModulName>
+<learnModulText>원산지 판정(결정), 일반 원산지결정기준, 품목별 원산지결정기준, 일반기준의 기본 원칙, 기본 원칙의 분야별 특례, HS 품목분류</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201566</learnModulSeq>
+<learnModulName>FTA 원산지 증빙 서류 발급</learnModulName>
+<learnModulText>FTA 원산지 입증 서류, 원산지소명서, 원산지증명서, 원산지(포괄)확인서, 국내제조(포괄)확인서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201567</learnModulSeq>
+<learnModulName>FTA 원산지 인증수출자 인증</learnModulName>
+<learnModulText>원산지 인증수출자, 인증수출자 유형, 인증요건, 원산지 판정, 원산지증명서, 원산지(포괄)확인서, 자율점검표, 인증 유효기간, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201568</learnModulSeq>
+<learnModulName>FTA 원산지 수입 활용</learnModulName>
+<learnModulText>HS코드, 품목분류, 품목분류 사전심사, 원산지 기준, 원산지 증명서, FTA 협정 세율, 사후관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201571</learnModulSeq>
+<learnModulName>FTA 원산지 검증 대응</learnModulName>
+<learnModulText>원산지증명서(C/O), 거래 당사자, HS 품목분류, 협정 세율 해당 품목, 직접운송, 원산지결정기준, 인증수출자 번호, 서류 보관 의무, 증명 서류 발급 기관, 검증 회신 기한</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201574</learnModulSeq>
+<learnModulName>FTA 원산지 활용전략수립</learnModulName>
+<learnModulText>FTA 비즈니스 모델, FTA 활용 사례, 비즈니스 모델 분석, 비즈니스 모델 선별, FTA 활용, FTA 활용 전략 수립, FTA 상대국 조사, FTA 수출, 바이어 협상, FTA 체결 현황</learnModulText>
+</row>
+<row>
+<ncsLclasCd>02</ncsLclasCd>
+<ncsLclasCdnm>경영·회계·사무</ncsLclasCdnm>
+<ncsMclasCd>04</ncsMclasCd>
+<ncsMclasCdnm>생산·품질관리</ncsMclasCdnm>
+<ncsSclasCd>03</ncsSclasCd>
+<ncsSclasCdnm>물류무역관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>원산지관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201578</learnModulSeq>
+<learnModulName>FTA 원산지관리시스템 활용</learnModulName>
+<learnModulText>원산지관리시스템, 자재명세서, 구매원장, 매출원장, 세번변경기준, 부가가치기준, 원산지소명서, 원산지확인서, 원산지증명서</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>281</totCnt>
+</dataInfo>
+</root>

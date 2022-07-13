@@ -72,12 +72,10 @@ class TiBoxAdapter(val model : TilViewModel) :
 
     // bgColor
     fun getBgColorSrc(date: LocalDate) : Int{
-        return when (model.getDailyData(date).size) {
-            0 -> R.color.tilBox_g0
-            1 -> R.color.tilBox_g1
-            2 -> R.color.tilBox_g2
-            3 -> R.color.tilBox_g3
-            else -> R.color.tilBox_g4
-        }
+        val count = model.getDailyData(date).size
+        if (count == 0) return R.color.tilBox_g0
+        if (count <= 2) return R.color.tilBox_g1
+        if (count <= 4) return R.color.tilBox_g3
+        else return R.color.tilBox_g4
     }
 }

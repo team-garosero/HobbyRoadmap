@@ -5,8 +5,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.Observer
+import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.databinding.FragmentAdventureBinding
 import com.garosero.android.hobbyroadmap.main.viewmodels.AdventureViewModel
+import com.garosero.android.hobbyroadmap.network.response.UserResponse
 
 class AdventureFragment : Fragment() {
     private val model = AdventureViewModel()
@@ -18,8 +21,19 @@ class AdventureFragment : Fragment() {
     ): View {
         binding = FragmentAdventureBinding.inflate(inflater, container, false)
 
+        registerObserver()
         initView()
         return binding.root
+    }
+
+    private fun registerObserver(){
+        AppApplication.requestSubscribeUser()
+        val observer = Observer<UserResponse>{
+            model.initData(it)
+            initView()
+        }
+
+        AppApplication.userData.observe(viewLifecycleOwner, observer)
     }
 
     private fun initView(){
@@ -33,6 +47,7 @@ class AdventureFragment : Fragment() {
             tvCharacterName.text = model.characterName
             tvCharacterXp.text = "${model.xp}/${model.maxXp}"
             tvLevel.text = "Lv.${model.level}"
+            tvExplain.text = model.pageDescription
 
             pgXp.progress = model.progress
 

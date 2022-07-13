@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201818</learnModulSeq>
+<learnModulName>공적개발원조사업 개발 전략 수립</learnModulName>
+<learnModulText>협력대상국 개발 환경, 개발 전략, SWOT 분석, 지원 현황, 협력 전략, 이행 전략, 성과 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201820</learnModulSeq>
+<learnModulName>공적개발원조사업 사업 기획</learnModulName>
+<learnModulText>협력대상국, 개발 전략, 개발 수요, 사업 심사 평가표, 타당성 조사, 실시 협의, 예산 요구서, 기본 약정, ROD, TOR, 구상서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201821</learnModulSeq>
+<learnModulName>공적개발원조사업 PDM 수립</learnModulName>
+<learnModulText>논리모형접근(LFA, Logical Framework Approach), PDM(Project Design Matrix), 목표, 목적, 산출, 활동, 투입, 가정, 위험, 지표, 객관적 검증 지표</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201823</learnModulSeq>
+<learnModulName>공적개발원조사업 총괄 운영 관리</learnModulName>
+<learnModulText>PDM, 사업 집행 계획, 제안 요청서, 입찰 및 계약, 성과 관리, 모니터링 및 평가, 사업 수행 실적 평가, 사업계획 변경, 사업 종료, 교훈 도출</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201830</learnModulSeq>
+<learnModulName>공적개발원조사업 프로젝트 집행</learnModulName>
+<learnModulText>국별 협력 전략(CPS: Country Partners Strategy), RoD, PDM, PMC, 초청 기관, 연수 기관, 지원 기관, 건축 기획, 건축 설계, 시공, 하자 보수, 건설 사업 관리(CM: Construction Management), 입찰, 계약, 개발도상국, 해외 건설, 기자재, 기자재 사양서, 협의 의사록(Record of Discussion), 선적, 통관, 입고 처리, 기술 협력, DEEP, KSP, 작업반(Working Group), 착수 보고회, 중간 보고회, 최종 보고회, 리스크 관리</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201834</learnModulSeq>
+<learnModulName>공적개발원조사업 성과 관리</learnModulName>
+<learnModulText>PDM, 성과기반관리(Results-based Management), 성과 지표, 기준값(기초선), 목푯값, 기초선 조사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>공적개발원조사업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201836</learnModulSeq>
+<learnModulName>공적개발원조사업 평가 관리</learnModulName>
+<learnModulText>DAC 5대 평가 기준, 평가 매트릭스, 지표, 양적 조사 방법, 질적 조사 방법, 평가 결과 피드백</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201839</learnModulSeq>
+<learnModulName>프로젝트 전략기획</learnModulName>
+<learnModulText>프로젝트 환경 요인, 프로젝트 계약 검토, 프로젝트 성공 기준, 프로젝트 거시 환경 분석, SWOT 분석, 경제론적 평가 모형, 선별적 평가 모형, 집합적 평가 모형, 핵심 성과 지표(KPI: key performance indicator), 프로젝트 성과 평가, 비즈니스 케이스(business case)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201842</learnModulSeq>
+<learnModulName>프로젝트 통합관리</learnModulName>
+<learnModulText>프로젝트 헌장, 비즈니스 케이스, 프로젝트 작업 명세서, 프로젝트관리계획서, 프로젝트 통합관리, 프로젝트 작업 실행, 프로젝트 작업 통제, 단계 종료, 프로젝트 종료, 경험 사례 수집</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201847</learnModulSeq>
+<learnModulName>프로젝트 이해관계자 및 의사소통 관리</learnModulName>
+<learnModulText>이해관계자, 이해관계자 관리대장, 이해관계자 요구사항, 이해관계자 관리 계획, 이슈 기록부, 프로젝트관리계획서, 의사소통 요구사항, 의사소통 계획, 보고서, 정보 배포</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201849</learnModulSeq>
+<learnModulName>프로젝트 범위관리</learnModulName>
+<learnModulText>범위기술서, 작업분류체계(WBS), WBS 사전, 식별 코드, 통제단위, 활동, 범위기준선</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201853</learnModulSeq>
+<learnModulName>프로젝트 자원관리</learnModulName>
+<learnModulText>프로젝트 인적자원관리, 프로젝트관리계획서, 프로젝트 과거실적 정보, 프로젝트 범위기술서, 프로젝트 자원 풀(pool) 기술서, 자원분류체계(RBS), 작업분류체계(WBS), 프로젝트 일정관리(PERT/ CPM), 핵심성과지표(KPI)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201857</learnModulSeq>
+<learnModulName>프로젝트 시간관리</learnModulName>
+<learnModulText>작업분류체계(WBS), 활동(activity), 네트워크도(network diagram), 활동 기간(activity duration), 주 일정경로(critical path), 여유(float, slack), 자원분류체계, 일정 분석(schedule analysis), 가중치(weight value), 획득가치(earned value)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201859</learnModulSeq>
+<learnModulName>프로젝트 원가관리</learnModulName>
+<learnModulText>프로젝트 원가관리, 원가 관리 절차서, 원가산정, 예산결정, 원가 통제, 원가 기준선, 자금 한도 조정, 획득가치관리, 원가 계정</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201861</learnModulSeq>
+<learnModulName>프로젝트 리스크관리</learnModulName>
+<learnModulText>리스크(risk), 리스크관리 대장(risk register), 비상사태(contingencies), 예방 조치(preventive action), 예비(reserve), 위협(threat), 유발 요인(triggers), 리스크 대응 전략(risk response strategy), 비상조치(계획)(contingency plan)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201862</learnModulSeq>
+<learnModulName>프로젝트 품질관리</learnModulName>
+<learnModulText>품질관리 계획서, 고객만족, 품질통제 도구, 인과 관계도, 품질 감사, 품질 책임, 적합 원가, 부적합 원가, 품질원가, 품질보증, 품질통제</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>프로젝트관리</ncsSubdCdnm>
+<learnModulSeq>EDU20161201863</learnModulSeq>
+<learnModulName>프로젝트 조달관리</learnModulName>
+<learnModulText>프로젝트관리, 프로젝트 조달관리, 조달 계획, 공급자 선정, 제안서, 우선 협상 대상자, 조달 통제, 조달 공급 계약, 공급자 평가, 계약 변경, 계약 종료</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500001</learnModulSeq>
+<learnModulName>산학협력 사업기획</learnModulName>
+<learnModulText>산학 협력 사업, 학문 특성, 기술 특성, 산업 기술 동향, 국가 연구 개발 사업, 사업 수주 전략, 내․외부 핵심 역량, 사업 계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500002</learnModulSeq>
+<learnModulName>대학 기술 이전 관리</learnModulName>
+<learnModulText>기술 이전, 기술 이전 전략, 기술 마케팅, 기술 이전 계약, 기술 실시권, 기술료, 발명자, 등록허, 출원 기술, SMK(Sales Material Kit, 기술소개자료)</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500003</learnModulSeq>
+<learnModulName>대학기술사업화</learnModulName>
+<learnModulText>기술사업화, 사업 아이템, 사업 타당성 분석, 사업화 파트너, 기술사업화 기업, 기술지주회사, 자회사</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500004</learnModulSeq>
+<learnModulName>산학협력 연구비관리</learnModulName>
+<learnModulText>산학 협력 사업, 국가 연구 개발 사업, 연구비 관리 표준 매뉴얼, 연구 개발 사업 관리 규정, 연구비 증빙 서류, 연구비 정산 서류, 연구비 관리 시스템, 회계 서류, 소득세법, 부가 가치세법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500005</learnModulSeq>
+<learnModulName>산학협력 과제관리</learnModulName>
+<learnModulText>과학 기술 기본법, 국가 연구 개발 사업의 관리 등에 관한 규정, 국가를 당사자로 하는 계약에 관한 법률, 지방 자치 단체를 당사자로 하는 계약에 관한 법률, 국가 과학 기술 종합 정보 시스템(NTIS), 부가가치세법, 나라장터 국가 종합 전자 조달</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500006</learnModulSeq>
+<learnModulName>대학 창업 지원관리</learnModulName>
+<learnModulText>창업 교육 프로그램, 창업 강좌, 기업가 정신, 창업 교육 센터, 창업 멘토링, 창업 동아리, 창업 경진 대회, 창업 보육 센터, 창업 보육 매니저, 입주 기업 지원</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500007</learnModulSeq>
+<learnModulName>산학 협력 지식재산권 관리</learnModulName>
+<learnModulText>연구개발, 논문, 권리화, 지식재산권, 특허, 출원, 등록, 기술마케팅, 기술이전, 기술 사업화</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500008</learnModulSeq>
+<learnModulName>산학협력 학술연구진흥</learnModulName>
+<learnModulText>학문 분야, 정보 공시, 논문, 국가 연구 개발 사업, 산학 협력 사업, 연구 인프라, 학술 연구 진흥</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>01</ncsSclasCd>
+<ncsSclasCdnm>프로젝트관리</ncsSclasCdnm>
+<ncsSubdCd>03</ncsSubdCd>
+<ncsSubdCdnm>산학협력관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170500009</learnModulSeq>
+<learnModulName>산학협력 회계관리</learnModulName>
+<learnModulText>산학 협력단, 산학 협력단 예산, 산학 협력단 결산, 산학 협력단 세무, 산학 협력단 부가 가치세, 산학 협력단 회계 처리 규칙, 비영리 법인, 대가성, 구분 경리, 고유 목적 사업 준비금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200130</learnModulSeq>
+<learnModulName>해외법인 설립목적 파악</learnModulName>
+<learnModulText>기업의 국제화, 세계화, 시장내부화, 다국적기업, 핵심역량, 경쟁력 우위, 해외직접투자보험</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200131</learnModulSeq>
+<learnModulName>해외법인 설립내부역량 분석</learnModulName>
+<learnModulText>재무제표, 대차대조표, 손익계산서, 자본변동표, 현금흐름표, 인력관리, 내부협업</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200132</learnModulSeq>
+<learnModulName>해외법인 설립대상국 분석</learnModulName>
+<learnModulText>해외시장 조사, 공개자료 조사 및 분석, 경제성장률, 무역동향, 인프라, 상관습, 소비동향</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200133</learnModulSeq>
+<learnModulName>해외법인 설립타당성 검토</learnModulName>
+<learnModulText>해외법인설립, 타당성 검토, 수익성 분석, 시나리오 작성, 현장방문, 환경분석, 역량분석, 손익계산서, 기대효과</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200134</learnModulSeq>
+<learnModulName>해외법인 설립계획 수립</learnModulName>
+<learnModulText>해외법인 설립유형, 해외 시장 분석, 법인설립 로드맵, 인력수급 계획, 예산계획, 법인설립 절차, 법인설립 요건, 업무분장, 기본계획서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200135</learnModulSeq>
+<learnModulName>해외법인 운영계획 수립</learnModulName>
+<learnModulText>해외법인 운영계획, 직무정의, 업무분장, 자금계획, 회계결산, 업무표준 프로세스, 운영시스템</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200136</learnModulSeq>
+<learnModulName>국내 해외법인 설립절차 진행</learnModulName>
+<learnModulText>해외직접투자 신고절차, 외국환거래법, 금융기관 해외직접투자 신고, 해외건설업 신고, 사업계획서, 제재조치, 해외투자 지원제도, 해외진출정보시스템, 해외직접투자 자금</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200137</learnModulSeq>
+<learnModulName>현지 해외법인 설립 절차 진행</learnModulName>
+<learnModulText>협력 파트너, 업체 선정, 평가기준, 해외 사업장, 법인 등록, 인허가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200138</learnModulSeq>
+<learnModulName>해외법인설립 위험 관리</learnModulName>
+<learnModulText>해외법인 설립 위험, 해외법인 설립 위험 관리, 해외법인 설립 위험 식별, 해외법인 설립 위험 분석, 해외법인 설립 위험 대응, 해외법인 설립 위험 모니터링</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>01</ncsSubdCd>
+<ncsSubdCdnm>해외법인설립관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200139</learnModulSeq>
+<learnModulName>해외법인 설립 이해 관계자 관리</learnModulName>
+<learnModulText>이해관계자, 커뮤니케이션, 전략적 관리, 지속가능경영, 계약, 협상, 데이터베이스</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200140</learnModulSeq>
+<learnModulName>해외취업 정보수집</learnModulName>
+<learnModulText>정보수집 계획서, 정보수집 채널, 정보분석, 데이터베이스 구축</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200141</learnModulSeq>
+<learnModulName>해외취업 사업기획</learnModulName>
+<learnModulText>해외취업 사업전략, 법제도, 전략수립</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200142</learnModulSeq>
+<learnModulName>해외구인처 발굴</learnModulName>
+<learnModulText>해외취업, 해외구인, 취업비자, 국가별 직업조사, 구인처 발굴전략, 해외구인신청서</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200143</learnModulSeq>
+<learnModulName>해외취업 구직자 발굴</learnModulName>
+<learnModulText>해외취업 구직자, 해외취업 지원 대상, 해외취업 모집전략, 해외취업 데이터베이스, 해외취업 모집공고</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200144</learnModulSeq>
+<learnModulName>해외취업 구직자 컨설팅</learnModulName>
+<learnModulText>해외취업, 경력개발, 국가별 외국인력 정책, 국가별 비자 관련 법률, 국가별 고용 정보, 개인정보 보호법, 국가기술자격법, 직업안정법, 근로자 직업능력개발법</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200145</learnModulSeq>
+<learnModulName>해외취업 구직자 교육 훈련</learnModulName>
+<learnModulText>해외취업, 구직자 교육훈련, 교육목표 수립, 교육과정 설계, 해외취업 시장 환경 분석, 교육훈련 평가, 교육훈련 운영, 교육훈련 운영 기관 선정, 교육훈련 운영 기관 평가</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200146</learnModulSeq>
+<learnModulName>해외취업 알선</learnModulName>
+<learnModulText>해외취업 알선, 구인구직 매칭, 구직자 면접관리, 구직자 채용 확인, 구직자 근로계약 체결</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200147</learnModulSeq>
+<learnModulName>해외취업 정착지원</learnModulName>
+<learnModulText>해외취업, 사전교육 자료 개발, 출국 전 사전교육, 출국 전 체크리스트, 현지 연락체계 구축, 출입국 관련 정보, 현지 국가 정보, 현지 조직 문화, 현지 생활관련 정보</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200148</learnModulSeq>
+<learnModulName>해외취업자 모니터링</learnModulName>
+<learnModulText>모니터링, 고용계약, 노동법, 인사관리, 의사소통(불만사항 대처법) 해외시장, 만족도, 사례수집, 커리어코칭</learnModulText>
+</row>
+<row>
+<ncsLclasCd>01</ncsLclasCd>
+<ncsLclasCdnm>사업관리</ncsLclasCdnm>
+<ncsMclasCd>01</ncsMclasCd>
+<ncsMclasCdnm>사업관리</ncsMclasCdnm>
+<ncsSclasCd>02</ncsSclasCd>
+<ncsSclasCdnm>해외관리</ncsSclasCdnm>
+<ncsSubdCd>02</ncsSubdCd>
+<ncsSubdCdnm>해외취업관리</ncsSubdCdnm>
+<learnModulSeq>EDU20170200149</learnModulSeq>
+<learnModulName>해외취업 일반관리</learnModulName>
+<learnModulText>해외취업 정부사업, 사업 재무관리, 해외취업사업 홍보</learnModulText>
+</row>
+</data>
+<dataInfo>
+<code>000</code>
+<message>정상</message>
+<totalPage>1</totalPage>
+<pageNo>1</pageNo>
+<numOfRows>1000</numOfRows>
+<totCnt>46</totCnt>
+</dataInfo>
+</root>

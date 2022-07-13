@@ -2,8 +2,7 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main_navigation"
-    app:startDestination="@id/item_home">
+    android:id="@+id/main_navigation">
     <fragment
         android:id="@+id/item_adventure"
         android:name="com.garosero.android.hobbyroadmap.main.adventure.AdventureFragment"
@@ -11,9 +10,9 @@
         tools:layout="@layout/fragment_adventure" />
     <fragment
         android:id="@+id/item_home"
-        android:name="com.garosero.android.hobbyroadmap.main.search.SearchFragment"
+        android:name="com.garosero.android.hobbyroadmap.main.searchVer2.SearchVer2Fragment"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_search" />
+        tools:layout="@layout/fragment_search_ver2" />
     <fragment
         android:id="@+id/item_til"
         android:name="com.garosero.android.hobbyroadmap.main.til.TilParentFragment"

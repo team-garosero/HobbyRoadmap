@@ -7,8 +7,10 @@ import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.garosero.android.hobbyroadmap.AppApplication
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.databinding.ActivitySettingsBinding
+import com.garosero.android.hobbyroadmap.main.MainActivity
 
 class SettingsActivity : AppCompatActivity() {
     lateinit var binding: ActivitySettingsBinding
@@ -42,6 +44,20 @@ class SettingsActivity : AppCompatActivity() {
                 }
             }
         })
+
+        var intent = Intent(this, MainActivity::class.java)
+        binding.customLogout.setOnItemClickListener(object : CustomSettingView.OnItemClickListener {
+            override fun onItemClick(view: View) {
+                // todo logout
+                /*finishAffinity() // 모든 백스택 비우기
+                startActivity(intent)
+                finish()*/
+            }
+        })
+
+        // user name
+        AppApplication.requestSubscribeUser()
+        binding.layoutProfile.tvUserName.text = AppApplication.userData.value?.nickname ?: "tree"
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {

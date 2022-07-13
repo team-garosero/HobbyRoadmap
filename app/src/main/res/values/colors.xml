@@ -23,6 +23,8 @@
 
     <!-- text color -->
     <color name="text_color">#FF000000</color>
+    <color name="text_color1">#FFFFFF</color>
+    <color name="text_color2">#2E45B9</color>
 
     <!-- icon color -->
     <color name="icon_color">#000000</color>

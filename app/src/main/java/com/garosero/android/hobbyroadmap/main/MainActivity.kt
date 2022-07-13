@@ -24,7 +24,15 @@ class MainActivity : AppCompatActivity() {
         // navigation
         val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_main)
         val navController = navHostFragment!!.findNavController()
+
+        val navGraph = navController.navInflater.inflate(R.navigation.main_navigation)
+        if(intent.hasExtra("roadmapFrag")) navGraph.setStartDestination(R.id.item_mylist)
+        else navGraph.setStartDestination(R.id.item_home)
+
+        navController.graph = navGraph
+
         binding.navView.setupWithNavController(navController)
+
     }
 
     // set toolbar
@@ -42,6 +50,7 @@ class MainActivity : AppCompatActivity() {
             }
             R.id.item_setting -> {
                 val intent = Intent(this, SettingsActivity::class.java)
+
                 startActivity(intent)
             }
         }
