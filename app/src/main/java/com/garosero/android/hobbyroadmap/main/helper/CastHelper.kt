@@ -82,8 +82,8 @@ class CastHelper {
                 // sqlite helper를 여러번 생성하지 않도록 하기 위해 아래처럼 선언해둠
                 // 추후에 dagger 등으로 프로젝트 내에서 중복 생성을 막도록 처리해야 함.
                 if (sqliteSearchHelper == null) sqliteSearchHelper = SQLiteSearchHelper(mContext)
-                subClassName = sqliteSearchHelper!!.getSubClassName(LClassId, MClassId, SClassId, subClassId) ?: ""
-
+                MClassName = sqliteSearchHelper!!.getMClassName(LClassId, MClassId)
+                subClassName = sqliteSearchHelper!!.getSubClassName(LClassId, MClassId, SClassId, subClassId)
             }
 
             return myClass

@@ -10,12 +10,13 @@ import androidx.navigation.fragment.findNavController
 import com.garosero.android.hobbyroadmap.R
 import com.garosero.android.hobbyroadmap.data.MyClass
 import com.garosero.android.hobbyroadmap.databinding.FragmentMylistBinding
+import com.garosero.android.hobbyroadmap.main.helper.SQLiteSearchHelper
 import com.garosero.android.hobbyroadmap.main.viewmodels.MylistViewModel
 
 class MylistFragment : Fragment() {
     var model : MylistViewModel = MylistViewModel()
     var binding : FragmentMylistBinding? = null
-    var adapter = MylistParentAdapter(model)
+    var adapter : MylistAdapter? = null
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -23,6 +24,8 @@ class MylistFragment : Fragment() {
     ): View {
         binding = FragmentMylistBinding.inflate(inflater, container, false)
         model.subscribeUserData(requireContext())
+        adapter = MylistAdapter(SQLiteSearchHelper(requireContext()))
+
         initView()
         registerObserver()
 
@@ -30,15 +33,15 @@ class MylistFragment : Fragment() {
     }
 
     private fun registerObserver(){
-        val observer = Observer<MutableMap<String, ArrayList<MyClass>>>{
-            val keys = ArrayList<String>()
-            it.keys.forEach {
-                keys.add(it)
-            }
-            adapter.submitData(keys)
+        // data observer for adapter ver2
+        val observerVer2 = Observer<ArrayList<MyClass>>{
+            // oder by LClassID, MClassID, SClassID
+            var data = it
+            data.sortBy { "${it.LClassId} ${it.MClassId} ${it.SClassId}" }
+            adapter?.submitData(it)
             initView()
         }
-        model.myClass.observe(viewLifecycleOwner, observer)
+        model.classList.observe(viewLifecycleOwner, observerVer2)
     }
 
     private fun initView(){
@@ -48,7 +51,11 @@ class MylistFragment : Fragment() {
             return
         } // end if
 
-        if (adapter.dataset.isEmpty()){
+        if (adapter == null){
+            return
+        } // end if
+
+        if (adapter!!.dataset.isEmpty()){
             binding!!.llEmpty.visibility = View.VISIBLE
         } else {
             binding!!.llEmpty.visibility = View.GONE
